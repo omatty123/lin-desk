@@ -1,0 +1,191 @@
+{
+  "updated": "2026-06-10",
+  "edition": 2,
+  "board": [
+    {
+      "name_zh": "多极化",
+      "name_en": "Multipolarity",
+      "trend": "up",
+      "verdict": "The through-line holds. Institutional defection from the Atlantic order is no longer episodic; it is plumbing — settlement systems, payment rails, summit calendars that do not route through Washington. India has put the BRICS Bridge interoperability framework on the summit agenda.",
+      "watching": "BRICS Bridge from agenda item to implementation; Saudi non-dollar settlement.",
+      "sources": [
+        { "label": "Asia Times", "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/" },
+        { "label": "Disruption Banking", "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/" }
+      ]
+    },
+    {
+      "name_zh": "美元霸权",
+      "name_en": "Dollar hegemony",
+      "trend": "down",
+      "verdict": "Hegemonies do not fall, they leak. Iran tolls Hormuz in yuan at $2 million a vessel; Indian refiners settle Russian crude in yuan and dirhams; mBridge has moved $55 billion, 95% in digital yuan; reserves at 57.8% from 72% in 2001. The snapshot still favors the dollar. The direction does not.",
+      "watching": "Reserve composition data; the next oil contract that prices in yuan.",
+      "sources": [
+        { "label": "Techi", "url": "https://www.techi.com/de-dollarization-brics-oil-trade-petrodollar/" },
+        { "label": "Disruption Banking", "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/" }
+      ]
+    },
+    {
+      "name_zh": "朝鲜",
+      "name_en": "DPRK position",
+      "trend": "up",
+      "verdict": "Xi crossed the Yalu and the word 'denuclearization' did not survive the trip — absent from official Chinese summaries, which is policy, not oversight. Pyongyang now holds a position two patrons deep and sells its leverage at the top of the market.",
+      "watching": "Nuclear-state language at multilateral forums; CIPS/mBridge channels for DPRK trade.",
+      "sources": [
+        { "label": "NPR", "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance" },
+        { "label": "Seoul Economic Daily", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes" }
+      ]
+    },
+    {
+      "name_zh": "萨赫勒联盟",
+      "name_en": "AES / Sahel",
+      "trend": "steady",
+      "verdict": "The architecture advances — unified force at 15,000, gold custody, franc-zone exit on schedule — but April's coordinated assault on Gao, Menaka, and Kidal showed the insurgency's reach, and the Russian guarantee failed in public view. Sovereignty first, then capacity. The second part is now urgent.",
+      "watching": "Gold revenue allocated to the unified force post-Kidal; renegotiated security arrangements.",
+      "sources": [
+        { "label": "Africanews", "url": "https://www.africanews.com/2026/05/01/alliance-of-sahel-states-confirms-joint-airstrikes-in-mali/" },
+        { "label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks" }
+      ]
+    },
+    {
+      "name_zh": "中国经济",
+      "name_en": "PRC economy",
+      "trend": "steady",
+      "verdict": "Fixed-asset investment negative for the first time in thirty years; property down 13.7%. The 15th Plan loads the productive-capacity ledger while the household ledger waits. The plan is a claim about the future; FAI is a fact about the present. The desk waits for the June data.",
+      "watching": "June manufacturing-investment data; any credit instrument aimed at the household side.",
+      "sources": [
+        { "label": "Caixin", "url": "https://www.caixinglobal.com/2026-05-18/china-fixed-asset-investment-falls-as-property-slump-deepens-102445153.html" }
+      ]
+    },
+    {
+      "name_zh": "大西洋秩序",
+      "name_en": "Atlantic order",
+      "trend": "down",
+      "verdict": "The EU widens sanctions to 80 more entities the same week Washington waives them for loaded tankers and Bulgaria walks out of the weapons pipeline. 'Ukraine needs more people, not more weapons' is a remarkable sentence from a NATO defense minister. The coalition's ledger is denominated in resolve; the deliveries are not arriving in that currency.",
+      "watching": "Pledge-to-delivery ratio on military aid; further Central European defections.",
+      "sources": [
+        { "label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia" },
+        { "label": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-06-09/bulgaria-s-new-government-to-stop-supplying-weapons-to-ukraine" }
+      ]
+    }
+  ],
+  "wars": [
+    {
+      "name_zh": "乌克兰",
+      "name_en": "Ukraine",
+      "advantage": "Russia — decisive",
+      "trend": "up",
+      "basis": "The desk states it plainly: Russia has been winning, is winning, and will win. Moscow made the tempo itself a weapon — it fights at the pace its industry sustains and its adversary's politics cannot, and it is in no hurry, because time is on the side of the larger production base. Attrition arithmetic, full-capacity defense industry, and a supply coalition fraying at the margin (Bulgaria out, pledges outrunning deliveries) all point one way. Belligerent claims from either capital are filed as claims; the production figures are not claims.",
+      "sources": [
+        { "label": "Martyanov (standing reference)", "url": "https://smoothiex12.blogspot.com/" },
+        { "label": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-06-09/bulgaria-s-new-government-to-stop-supplying-weapons-to-ukraine" },
+        { "label": "Novinite", "url": "https://www.novinite.com/articles/238954/Bulgaria+Says+No+More+Weapons+for+Ukraine:+%E2%80%9CThey+Need+People,+Not+Arms,%E2%80%9D+Minister+Claims" }
+      ]
+    },
+    {
+      "name_zh": "萨赫勒战事",
+      "name_en": "Sahel insurgency",
+      "advantage": "Contested",
+      "trend": "steady",
+      "basis": "AES states hold the cities, the budgets, and the gold; JNIM demonstrated operational reach with April's simultaneous assault on three towns and the killing of Mali's defense minister. The Russian guarantee failed visibly at Kidal. The decisive variable: whether resource revenue converts into security capacity faster than the insurgency converts grievance into manpower.",
+      "sources": [
+        { "label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks" },
+        { "label": "PBS NewsHour", "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases" }
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
+      "resolves": "war's end",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
+      "resolves": "2027-06",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
+      "resolves": "2026 BRICS summit",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
+      "resolves": "Q4 2026 data (Jan 2027)",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "tea",
+      "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
+      "resolves": "2026-07-19",
+      "status": "open"
+    }
+  ],
+  "coverage": [
+    {
+      "date": "2026-06-10",
+      "items": [
+        {
+          "text": "Xi crosses the Yalu, again — and declines to mention the bomb",
+          "links": [
+            { "label": "NPR", "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance" },
+            { "label": "Seoul Economic Daily", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes" },
+            { "label": "Inquirer", "url": "https://www.inquirer.com/news/nation-world/china-north-korea-xi-kim-jon-un-meet-pyongyang-russia-us-20260608.html" }
+          ]
+        },
+        {
+          "text": "Kidal falls, and the AES counts its dead (April events — filed stale; see Corrections)",
+          "links": [
+            { "label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks" },
+            { "label": "Africanews", "url": "https://www.africanews.com/2026/05/01/alliance-of-sahel-states-confirms-joint-airstrikes-in-mali/" },
+            { "label": "PBS", "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases" }
+          ]
+        },
+        {
+          "text": "The Hormuz toll booth: multipolarity at $2 million a vessel",
+          "links": [
+            { "label": "Techi", "url": "https://www.techi.com/de-dollarization-brics-oil-trade-petrodollar/" },
+            { "label": "Disruption Banking", "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/" },
+            { "label": "Asia Times", "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/" }
+          ]
+        },
+        {
+          "text": "The property hangover the Plan cannot yet digest",
+          "links": [
+            { "label": "Caixin", "url": "https://www.caixinglobal.com/2026-05-18/china-fixed-asset-investment-falls-as-property-slump-deepens-102445153.html" }
+          ]
+        },
+        {
+          "text": "The net widens; the drain stays open",
+          "links": [
+            { "label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia" },
+            { "label": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-06-09/bulgaria-s-new-government-to-stop-supplying-weapons-to-ukraine" },
+            { "label": "Novinite", "url": "https://www.novinite.com/articles/238954/Bulgaria+Says+No+More+Weapons+for+Ukraine:+%E2%80%9CThey+Need+People,+Not+Arms,%E2%80%9D+Minister+Claims" }
+          ]
+        }
+      ],
+      "watching": [
+        "DPRK nuclear recognition at multilateral forums",
+        "AES gold-revenue allocation post-Kidal",
+        "BRICS Bridge at the India summit",
+        "China manufacturing investment, June data",
+        "Pledge-to-delivery ratio on Western aid"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "date": "2026-06-10",
+      "text": "The desk filed April's Kidal events as the morning's news — six weeks stale. The reader caught it; the desk did not. A freshness rule now stands in the standing orders: news means the last 48 hours, and older events appear only as context for what moved today."
+    }
+  ]
+}

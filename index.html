@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>林卫红的案头 — Lin's Desk</title>
+<meta name="description" content="The morning desk's standing scorecard: who's up, who's down, who is winning which war. Compiled daily. The desk audits itself.">
+<meta property="og:title" content="林卫红的案头 — Lin's Desk">
+<meta property="og:description" content="The morning desk's standing scorecard: who's up, who's down, who is winning which war. Red rises, green falls.">
+<meta property="og:image" content="https://omatty123.github.io/lin-desk/assets/og.png">
+<meta property="og:url" content="https://omatty123.github.io/lin-desk/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://omatty123.github.io/lin-desk/assets/og.png">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@600;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #f3eee2;
+  --paper-dark: #eae3d2;
+  --ink: #221d16;
+  --ink-soft: #57503f;
+  --rule: #b8ad94;
+  --seal: #b32d1f;
+  --rise: #b32d1f;
+  --fall: #1c6b4a;
+  --hold: #847a64;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { background: var(--paper); }
+body {
+  font-family: 'Spectral', Georgia, serif;
+  color: var(--ink);
+  line-height: 1.45;
+  position: relative;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: .35;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.45 0 0 0 0 0.40 0 0 0 0 0.30 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
+  z-index: 2;
+}
+.sheet { max-width: 1080px; margin: 0 auto; padding: 22px 28px 40px; position: relative; z-index: 1; }
+
+/* ---------- masthead ---------- */
+header {
+  border-top: 3px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  position: relative;
+  padding: 14px 0 12px;
+  margin-bottom: 4px;
+}
+header::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0;
+  top: 6px;
+  border-top: 1px solid var(--ink);
+}
+.mast { display: flex; align-items: flex-end; gap: 18px; flex-wrap: wrap; }
+.seal {
+  width: 58px; height: 58px;
+  background: var(--seal);
+  color: #f6f0e1;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.1;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  transform: rotate(-2.5deg);
+  box-shadow: 1px 1px 0 rgba(34,29,22,.35);
+  flex: 0 0 auto;
+  letter-spacing: 2px;
+}
+.mast h1 {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 900;
+  font-size: clamp(30px, 4.6vw, 46px);
+  letter-spacing: 1px;
+  line-height: 1.05;
+}
+.mast .latin {
+  font-family: 'Spectral', serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  display: block;
+  margin-top: 5px;
+}
+.mast-meta {
+  margin-left: auto;
+  text-align: right;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+.mast-meta b { color: var(--ink); font-weight: 500; }
+.motto {
+  border-bottom: 3px double var(--ink);
+  padding: 5px 0 7px;
+  margin-bottom: 26px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 13.5px;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+.motto .conv { font-style: normal; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; }
+.motto .conv .r { color: var(--rise); font-weight: 500; }
+.motto .conv .g { color: var(--fall); font-weight: 500; }
+
+/* ---------- sections ---------- */
+section { margin-bottom: 30px; }
+.sec-head {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 4px;
+  margin-bottom: 14px;
+}
+.sec-head .zh {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 900;
+  font-size: 21px;
+}
+.sec-head .en {
+  font-family: 'Spectral', serif;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.sec-head .note {
+  margin-left: auto;
+  font-size: 11.5px;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--ink-soft);
+}
+
+/* board */
+.board {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+.card { background: var(--paper); padding: 13px 15px 12px; position: relative; }
+.card-top { display: flex; align-items: baseline; gap: 9px; margin-bottom: 6px; }
+.card-top .en { font-weight: 600; font-size: 16.5px; letter-spacing: .01em; }
+.card-top .zh {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 600;
+  font-size: 12.5px;
+  color: var(--ink-soft);
+}
+.trend {
+  margin-left: auto;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.trend.up { color: var(--rise); }
+.trend.down { color: var(--fall); }
+.trend.steady { color: var(--hold); }
+.card .verdict { font-size: 13.8px; margin-bottom: 8px; }
+.card .watch {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-soft);
+  border-top: 1px dotted var(--rule);
+  padding-top: 6px;
+}
+.card .watch::before { content: '看 watch · '; color: var(--seal); }
+.srcs { margin-top: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; }
+.srcs a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--rule); margin-right: 9px; }
+.srcs a:hover { color: var(--seal); border-bottom-color: var(--seal); }
+td .srcs { margin-top: 7px; }
+.day li a.art { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--rule); font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; margin-left: 7px; }
+.day li a.art:hover { color: var(--seal); border-bottom-color: var(--seal); }
+td.claim { font-size: 13.8px; }
+td.claim .tea-tag { font-family: 'Noto Serif SC', serif; font-weight: 600; font-size: 11px; color: var(--seal); border: 1px solid var(--seal); padding: 1px 5px; margin-right: 7px; white-space: nowrap; }
+.status { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500; white-space: nowrap; }
+.status.open { color: var(--hold); }
+.status.hit { color: var(--rise); }
+.status.miss { color: var(--fall); }
+
+/* wars ledger */
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+thead th {
+  font-family: 'Spectral', serif;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  text-align: left;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--ink);
+  padding: 0 14px 5px 0;
+}
+tbody td {
+  vertical-align: top;
+  padding: 10px 14px 10px 0;
+  border-bottom: 1px solid var(--rule);
+}
+td.front { white-space: nowrap; font-weight: 600; font-size: 15px; }
+td.front .zh {
+  display: block;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+td.adv { white-space: nowrap; font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; font-weight: 500; }
+td.adv.contested { color: var(--hold); }
+td.basis { color: var(--ink); }
+
+/* coverage */
+.day { display: grid; grid-template-columns: 118px 1fr; gap: 0 18px; padding: 10px 0; border-bottom: 1px solid var(--rule); }
+.day:last-child { border-bottom: none; }
+.day .date { font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; color: var(--ink); padding-top: 2px; }
+.day ul { list-style: none; }
+.day li { font-size: 13.8px; padding-left: 14px; position: relative; }
+.day li::before { content: '·'; position: absolute; left: 2px; color: var(--seal); font-weight: 700; }
+.day .threads {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-soft);
+  margin-top: 6px;
+  padding-left: 14px;
+}
+.day .threads::before { content: '线 threads · '; color: var(--seal); }
+
+/* corrections */
+.corrections { font-size: 13.8px; }
+.corrections .none { font-style: italic; color: var(--ink-soft); }
+.corr { padding: 8px 0; border-bottom: 1px solid var(--rule); display: grid; grid-template-columns: 118px 1fr; gap: 0 18px; }
+.corr .date { font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; }
+
+footer {
+  border-top: 3px solid var(--ink);
+  margin-top: 8px;
+  padding-top: 8px;
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+footer a { color: var(--seal); text-decoration: none; border-bottom: 1px dotted var(--seal); }
+.err { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--seal); padding: 20px 0; }
+
+@media (max-width: 640px) {
+  .sheet { padding: 16px 16px 32px; }
+  .mast-meta { margin-left: 0; text-align: left; }
+  .day, .corr { grid-template-columns: 1fr; }
+  .day .date { margin-bottom: 4px; }
+}
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header>
+    <div class="mast">
+      <div class="seal">林<br>印</div>
+      <div>
+        <h1>林卫红的案头</h1>
+        <span class="latin">Lin's Desk — The Standing Scorecard</span>
+      </div>
+      <div class="mast-meta">
+        updated <b id="m-updated">—</b><br>
+        edition <b id="m-edition">—</b> · compiled by the morning desk
+      </div>
+    </div>
+  </header>
+  <div class="motto">
+    <span>The desk audits itself. That is what distinguishes it from the New York Times.</span>
+    <span class="conv">红涨绿跌 · Shanghai convention: <span class="r">red rises</span>, <span class="g">green falls</span></span>
+  </div>
+
+  <section id="sec-board">
+    <div class="sec-head">
+      <span class="zh">形势板</span>
+      <span class="en">The Board — who's up, who's down</span>
+    </div>
+    <div class="board" id="board"></div>
+  </section>
+
+  <section id="sec-wars">
+    <div class="sec-head">
+      <span class="zh">战况账簿</span>
+      <span class="en">The Wars Ledger</span>
+      <span class="note">material evidence only · belligerent claims filed as claims</span>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Front</th><th>Material advantage</th><th>Trend</th><th>Basis</th></tr>
+      </thead>
+      <tbody id="wars"></tbody>
+    </table>
+  </section>
+
+  <section id="sec-predictions">
+    <div class="sec-head">
+      <span class="zh">预测簿</span>
+      <span class="en">Predictions — on the record, scored in public</span>
+      <span class="note">待 open · 中 hit · 误 miss</span>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Filed</th><th>Claim</th><th>Resolves</th><th>Status</th></tr>
+      </thead>
+      <tbody id="predictions"></tbody>
+    </table>
+  </section>
+
+  <section id="sec-coverage">
+    <div class="sec-head">
+      <span class="zh">报道日志</span>
+      <span class="en">Coverage — what the desk has filed</span>
+    </div>
+    <div id="coverage"></div>
+  </section>
+
+  <section id="sec-corrections">
+    <div class="sec-head">
+      <span class="zh">自我审计</span>
+      <span class="en">Corrections — the desk audits itself</span>
+    </div>
+    <div class="corrections" id="corrections"></div>
+  </section>
+
+  <footer>
+    <span>晨报 morning briefings arrive by email at 04:00 Central. This board is the desk's running memory.</span>
+    <span><a href="https://omatty123.github.io/life-dashboard/">← Life Dashboard</a></span>
+  </footer>
+
+</div>
+
+<script>
+const TREND = {
+  up:     { cls: 'up',     label: '▲ 涨 RISING'  },
+  down:   { cls: 'down',   label: '▼ 跌 FALLING' },
+  steady: { cls: 'steady', label: '━ 平 HOLDING' }
+};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const srcRow = srcs => (srcs && srcs.length)
+  ? `<div class="srcs">${srcs.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>`
+  : '';
+const STATUS = {
+  open: { cls: 'open', label: '待 OPEN' },
+  hit:  { cls: 'hit',  label: '中 HIT' },
+  miss: { cls: 'miss', label: '误 MISS' }
+};
+
+fetch('data/scorecard.json')
+  .then(r => r.json())
+  .then(d => {
+    document.getElementById('m-updated').textContent = d.updated;
+    document.getElementById('m-edition').textContent = 'No. ' + d.edition;
+
+    document.getElementById('board').innerHTML = d.board.map(b => {
+      const t = TREND[b.trend] || TREND.steady;
+      return `<div class="card">
+        <div class="card-top">
+          <span class="en">${esc(b.name_en)}</span>
+          <span class="zh">${esc(b.name_zh)}</span>
+          <span class="trend ${t.cls}">${t.label}</span>
+        </div>
+        <div class="verdict">${esc(b.verdict)}</div>
+        <div class="watch">${esc(b.watching)}</div>
+        ${srcRow(b.sources)}
+      </div>`;
+    }).join('');
+
+    document.getElementById('wars').innerHTML = d.wars.map(w => {
+      const t = TREND[w.trend] || TREND.steady;
+      const contested = /contested/i.test(w.advantage) ? ' contested' : '';
+      return `<tr>
+        <td class="front">${esc(w.name_en)}<span class="zh">${esc(w.name_zh)}</span></td>
+        <td class="adv${contested}">${esc(w.advantage)}</td>
+        <td class="adv"><span class="trend ${t.cls}">${t.label}</span></td>
+        <td class="basis">${esc(w.basis)}${srcRow(w.sources)}</td>
+      </tr>`;
+    }).join('');
+
+    document.getElementById('predictions').innerHTML = (d.predictions || []).map(p => {
+      const s = STATUS[p.status] || STATUS.open;
+      const tea = p.kind === 'tea' ? '<span class="tea-tag">茶余</span>' : '';
+      return `<tr>
+        <td class="adv">${esc(p.filed)}</td>
+        <td class="claim">${tea}${esc(p.claim)}</td>
+        <td class="adv">${esc(p.resolves)}</td>
+        <td><span class="status ${s.cls}">${s.label}</span></td>
+      </tr>`;
+    }).join('');
+
+    document.getElementById('coverage').innerHTML = d.coverage.slice(0, 14).map(c => `
+      <div class="day">
+        <div class="date">${esc(c.date)}</div>
+        <div>
+          <ul>${c.items.map(i => {
+            if (typeof i === 'string') return `<li>${esc(i)}</li>`;
+            const links = (i.links || []).map(l => `<a class="art" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');
+            return `<li>${esc(i.text)}${links}</li>`;
+          }).join('')}</ul>
+          <div class="threads">${c.watching.map(esc).join(' · ')}</div>
+        </div>
+      </div>`).join('');
+
+    const corr = document.getElementById('corrections');
+    if (!d.corrections.length) {
+      corr.innerHTML = '<p class="none">No corrections on file. This is a fact about the record, not a claim about infallibility.</p>';
+    } else {
+      corr.innerHTML = d.corrections.map(c => `
+        <div class="corr">
+          <div class="date">${esc(c.date)}</div>
+          <div>${esc(c.text)}</div>
+        </div>`).join('');
+    }
+  })
+  .catch(() => {
+    document.getElementById('board').innerHTML =
+      '<div class="err">scorecard.json failed to load — if previewing locally, serve with: python3 -m http.server</div>';
+  });
+</script>
+</body>
+</html>
