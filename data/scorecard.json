@@ -1,2 +1,467 @@
-ewogICJ1cGRhdGVkIjogIjIwMjYtMDYtMTMiLAogICJlZGl0aW9uIjogNSwKICAiYm9hcmQiOiBbCiAgICB7CiAgICAgICJuYW1lX3poIjogIuWkp+akreWMliIsCiAgICAgICJuYW1lX2VuIjogIk11bHRpcG9sYXJpdHkiLAogICAgICAidHJlbmQiOiAidXAiLAogICAgICAidmVyZGljdCI6ICJUaGUgdGhyb3VnaC1saW5lIGFkdmFuY2VzIGV2ZW4gYXMgb25lIG9mIHRoZSBzcHJpbmcncyBtb3JlIGxlZ2libGUgaW5zdHJ1bWVudHMgXHUyMDE0IHRoZSBIb3JtdXogeXVhbiB0b2xsIFx1MjAxNCByZWFjaGVzIGl0cyBuYXR1cmFsIGVuZCB3aXRoIHRoZSBJcmFuIGRlYWwgdGV4dC4gSXJhbidzIEZNIGNvbmZpcm1lZCBvbiBKdW5lIDEzIHRoYXQgdGhlIElzbGFtYWJhZCBNT1UgY2FsbHMgZm9yIEhvcm11eiB0byByZW9wZW4gd2l0aG91dCB0b2xsczsgdGhlIGRlc2sgYWNrbm93bGVkZ2VkIGZyb20gdGhlIHN0YXJ0IHRoYXQgYSBjZWFzZWZpcmUtZGVwZW5kZW50IHRvbGwgaGFzIGEgbGlmZWN5Y2xlLiBXaGF0IGRvZXMgbm90IGRpc3NvbHZlIHdpdGggaXQ6IGRvbGxhciByZXNlcnZlcyBhdCA1OCUgZnJvbSA3MiUgaW4gMjAwMTsgbUJyaWRnZSBhdCAkNTUgYmlsbGlvbiBtb3ZlZCwgOTUlIGluIGRpZ2l0YWwgeXVhbjsgQ2hpbmEgc2V0dGxpbmcgcm91Z2hseSBoYWxmIGl0cyBmb3JlaWduIHRyYWRlIGluIHl1YW47IHRoZSBCUklDUyBVbml0IG9wZXJhdGlvbmFsLiBUaGUgc3RydWN0dXJhbCBhcmNoaXRlY3R1cmUgaXMgbm90IHRoZSB0b2xsLiBUaGUgdG9sbCB3YXMgYSBzeW1wdG9tLiIsCiAgICAgICJ3YXRjaGluZyI6ICJVU
--SXJhbiBudWNsZWFyIGNoYXB0ZXIgZ2FwIChlbnJpY2htZW50IHJpZ2h0cyB2cy4gZnJlZXplKTsgQlJJQ1MgQnJpZGdlIGZyb20gYWdlbmRhIGl0ZW0gdG8gaW1wbGVtZW50YXRpb24gYXQgdGhlIEluZGlhIHN1bW1pdDsgQ2hpbmEgSnVuZSBGQUkgZGF0YS4iLAogICAgICAic291cmNlcyI6IFsKICAgICAgICB7CiAgICAgICAgICAibGFiZWwiOiAiRXhwcmVzcyBUcmlidW5lLCBKdW5lIDEzIiwKICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly90cmlidW5lLmNvbS5way9zdG9yeS8yNjEyOTQ2L2lyYW4tcGVhY2UtZGVhbC1sb29tcy13aGlsZS1uZXctbWlsaXRhcnktYWN0aW9uLWZsYXJlcy1uZWFyLXN0cmFpdC1vZi1ob3JtdXoiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAibGFiZWwiOiAiRXVyb25ld3MsIEp1bmUgMTIiLAogICAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5ldXJvbmV3cy5jb20vMjAyNi8wNi8xMi9pcmFuLXNheXMtZGVhbC13aXRoLXVzLWNsb3Nlci10aGFuLWV2ZXItYXMtdHJ1bXAtd2FybnMtdGVocmFuLXRvLWdldC1hY3QtdG9nZXRoZXIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAibGFiZWwiOiAiQXNpYSBUaW1lcyIsCiAgICAgICAgICAidXJsIjogImh0dHBzOi8vYXNpYXRpbWVzLmNvbS8yMDI2LzAyL2Etc3RhYmxlLWFuZC1zbWFydC1icmljcy1yb3V0ZS10by1kZS1kb2xsYXJpemF0aW9uLyIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJuYW1lX3poIjogIue+juWJsui2headsCIsCiAgICAgICJuYW1lX2VuIjogIkRvbGxhciBoZWdlbW9ueSIsCiAgICAgICJ0cmVuZCI6ICJkb3duIiwKICAgICAgInZlcmRpY3QiOiAiVGhlIEhvcm11eiB5dWFuIHRvbGwgZW5kcyBpZiB0aGUgSXJhbiBkZWFsIGlzIHNpZ25lZCBcdTIwMTQgdGhhdCBzcGVjaWZpYyBpbnN0cnVtZW50IG9mIGRlZG9sbGFyaXphdGlvbiBoYXMgYSBuYXR1cmFsIGxpZmVjeWNsZSwgYW5kIHRoZSBkZXNrIHNhaWQgc28gZnJvbSB0aGUgc3RhcnQuIFRoZSBzdHJ1Y3R1cmFsIGluZGljYXRvcnMgaG9sZDogZG9sbGFyIHJlc2VydmVzIGF0IDU4JSBmcm9tIDcyJSBpbiAyMDAxOyBtQnJpZGdlIGF0ICQ1NSBiaWxsaW9uLCA5NSUgZGlnaXRhbCB5dWFuOyBDaGluYSBzZXR0bGluZyByb3VnaGx5IGhhbGYgaXRzIGZvcmVpZ24gdHJhZGUgaW4geXVhbjsgQlJJQ1MgVW5pdCBvcGVyYXRpb25hbC4gSGVnZW1vbmllcyBkbyBub3QgZmFsbCwgdGhleSBsZWFrLiBUaGUgZGlyZWN0aW9uIHJlbWFpbnMgdW5jaGFuZ2VkLiIsCiAgICAgICJ3YXRjaGluZyI6ICJSZXNlcnZlIGNvbXBvc2l0aW9uIGRhdGE7IHRoZSBuZXh0IG9pbCBjb250cmFjdCB0aGF0IHByaWNlcyBpbiB5dWFuOyB3aGV0aGVyIEhvcm11eiB5dWFuIHRvbGxzIHJlc3VtZSBpZiB0aGUgZGVhbCBicmVha3MgZG93bi4iLAogICAgICAic291cmNlcyI6IFsKICAgICAgICB7CiAgICAgICAgICAibGFiZWwiOiAiRGlzcnVwdGlvbiBCYW5raW5nIFx1MjAxNCBtQnJpZGdlIiwKICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZGlzcnVwdGlvbmJhbmtpbmcuY29tLzIwMjYvMDQvMTQvY2hpbmFzLXN3aWZ0LWNoYWxsZW5nZXItYnJlYWtzLXJlY29yZHMtYXMtcGV0cm9kb2xsYXItbG9vbXMvIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImxhYmVsIjogIlRlY2hpIFx1MjAxNCBkZWRvbGxhcml6YXRpb24gaW5kaWNhdG9ycyIsCiAgICAgICAgICAidXJsIjogImh0dHBzOi8vd3d3LnRlY2hpLmNvbS9kZS1kb2xsYXJpemF0aW9uLWJyaWNzLW9pbC10cmFkZS1wZXRyb2RvbGxhci8iCiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgewogICAgICAibmFtZV96aCI6ICLmnLDpoZ4iLAogICAgICAibmFtZV9lbiI6ICJEUFJLIHBvc2l0aW9uIiwKICAgICAgInRyZW5kIjogInVwIiwKICAgICAgInZlcmRpY3QiOiAiWGkgY3Jvc3NlZCB0aGUgWWFsdSBhbmQgJ2RlbnVjbGVhcml6YXRpb24nIGRpZCBub3Qgc3Vydml2ZSB0aGUgdHJpcCBcdTIwMTQgYWJzZW50IGZyb20gb2ZmaWNpYWwgQ2hpbmVzZSBzdW1tYXJpZXMsIHdoaWNoIGlzIHBvbGljeSwgbm90IG92ZXJzaWdodC4gUHlvbmd5YW5nIG5vdyBob2xkcyBhIHBvc2l0aW9uIHR3byBwYXRyb25zIGRlZXAgYW5kIHNlbGxzIGl0cyBsZXZlcmFnZSBhdCB0aGUgdG9wIG9mIHRoZSBtYXJrZXQuIFRoZSBmaXJzdCByb2FkIGJyaWRnZSBhY3Jvc3MgdGhlIFR1bWVuIFJpdmVyIG9wZW5zIEp1bmUgMTkgXHUyMDE0IFJ1c3NpYSBvcGVyYXRpb25hbGl6ZXMgdGhlIHNlY29uZCBwYXRyb24gcmVsYXRpb25zaGlwIGxvZ2lzdGljYWxseS4gQmVpamluZyBubyBsb25nZXIgaG9sZHMgYSBtb25vcG9seSBvbiBsYW5kIGFjY2VzcyB0byB0aGUgTm9ydGguIiwKICAgICAgIndhdGNoaW5nIjogIlRyYWZmaWMgdm9sdW1lcyBvbiB0aGUgVHVtZW4gYnJpZGdlIGFmdGVyIEp1bmUgMTk7IENoaW5lc2UgY3VzdG9tcyByZXNwb25zZSBvbiB0aGUgMTk1OSByYWlsIGJyaWRnZTsgbnVjbGVhci1zdGF0ZSBsYW5ndWFnZSBhdCBtdWx0aWxhdGVyYWwgZm9ydW1zLiIsCiAgICAgICJzb3VyY2VzIjogWwogICAgICAgIHsKICAgICAgICAgICJsYWJlbCI6ICJOUFIiLAogICAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5ucHIub3JnLzIwMjYvMDYvMDkvbngtczEtNTg0NzkyNS9jaGluYS1yZS1jZW50ZXJzLW5vcnRoLWtvcmVhLXRpZXMtYXMtbnVjbGVhci1zaWxlbmNlLXJlc2hhcGVzLWJhbGFuY2UiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAibGFiZWwiOiAiV2lraXBlZGlhIC0tIEtoYXNhbi1UdW1hbmdhbmcgQnJpZGdlIiwKICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2hhc2FuJUUyJTgwJTkzVHVtYW5nYW5nX0JyaWRnZSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJsYWJlbCI6ICJJbmRpYSBEZWZlbmNlIFJldmlldyIsCiAgICAgICAgICAidXJsIjogImh0dHBzOi8vaW5kaWFuZGVmZW5jZXJldmlldy5jb20vcnVzc2lhLW5vcnRoLWtvcmVhLXJvYWQtYnJpZGdlLXR1bWVuLXJpdmVyLTIwMjYvIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImxhYmVsIjogIlJhZGlvIEZyZWUgQXNpYSwgTWF5IDIxIDIwMjYiLAogICAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5yZmEub3JnL2VuZ2xpc2gva29yZWEvMjAyNi8wNS8yMS90dW1lbi1yaXZlci1icmlkZ2UtcnVzc2lhLW5vcnRoLWtvcmVhLXB1dGluLyIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJuYW1lX3poIjogIuiSguW9k+eyvuebmCIsCiAgICAgICJuYW1lX2VuIjogIkFFUyAvIFNhaGVsIiwKICAgICAgInRyZW5kIjogInN0ZWFkeSIsCiAgICAgICJ2ZXJkaWN0IjogIlRoZSBhcmNoaXRlY3R1cmUgYWR2YW5jZXMgXHUyMDE0IHVuaWZpZWQgZm9yY2UgYXQgMTUsMDAwLCBnb2xkIGN1c3RvZHksIGZyYW5jLXpvbmUgZXhpdCBvbiBzY2hlZHVsZSBcdTIwMTQgYnV0IEFwcmlsJ3MgY29vcmRpbmF0ZWQgYXNzYXVsdCBvbiBHYW8sIE1lbmFrYSwgYW5kIEtpZGFsIHNob3dlZCB0aGUgaW5zdXJnZW5jeQ==
+{
+  "updated": "2026-06-13",
+  "edition": 5,
+  "board": [
+    {
+      "name_zh": "多极化",
+      "name_en": "Multipolarity",
+      "trend": "up",
+      "verdict": "The through-line advances even as one of the spring's more legible instruments — the Hormuz yuan toll — reaches its natural end with the Iran deal text. Iran's FM confirmed on June 13 that the Islamabad MOU calls for Hormuz to reopen without tolls; the desk acknowledged from the start that a ceasefire-dependent toll has a lifecycle. What does not dissolve with it: dollar reserves at 58% from 72% in 2001; mBridge at $55 billion moved, 95% in digital yuan; China settling roughly half its foreign trade in yuan; the BRICS Unit operational. The structural architecture is not the toll. The toll was a symptom.",
+      "watching": "US-Iran nuclear chapter gap (enrichment rights vs. freeze); BRICS Bridge from agenda item to implementation at the India summit; China June FAI data.",
+      "sources": [
+        {
+          "label": "Express Tribune, June 13",
+          "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+        },
+        {
+          "label": "Euronews, June 12",
+          "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+        },
+        {
+          "label": "Asia Times",
+          "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/"
+        }
+      ]
+    },
+    {
+      "name_zh": "美元霸权",
+      "name_en": "Dollar hegemony",
+      "trend": "down",
+      "verdict": "The Hormuz yuan toll ends if the Iran deal is signed — that specific instrument of dedollarization has a natural lifecycle, and the desk said so from the start. The structural indicators hold: dollar reserves at 58% from 72% in 2001; mBridge at $55 billion, 95% digital yuan; China settling roughly half its foreign trade in yuan; BRICS Unit operational. Hegemonies do not fall, they leak. The direction remains unchanged.",
+      "watching": "Reserve composition data; the next oil contract that prices in yuan; whether Hormuz yuan tolls resume if the deal breaks down.",
+      "sources": [
+        {
+          "label": "Disruption Banking — mBridge",
+          "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/"
+        },
+        {
+          "label": "Techi — dedollarization indicators",
+          "url": "https://www.techi.com/de-dollarization-brics-oil-trade-petrodollar/"
+        }
+      ]
+    },
+    {
+      "name_zh": "朝鲜",
+      "name_en": "DPRK position",
+      "trend": "up",
+      "verdict": "Xi crossed the Yalu and 'denuclearization' did not survive the trip — absent from official Chinese summaries, which is policy, not oversight. Pyongyang now holds a position two patrons deep and sells its leverage at the top of the market. The first road bridge across the Tumen River opens June 19 — Russia operationalizes the second patron relationship logistically. Beijing no longer holds a monopoly on land access to the North.",
+      "watching": "Traffic volumes on the Tumen bridge after June 19; Chinese customs response on the 1959 rail bridge; nuclear-state language at multilateral forums.",
+      "sources": [
+        {
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance"
+        },
+        {
+          "label": "Wikipedia -- Khasan-Tumangang Bridge",
+          "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"
+        },
+        {
+          "label": "India Defence Review",
+          "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/"
+        },
+        {
+          "label": "Radio Free Asia, May 21 2026",
+          "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/"
+        }
+      ]
+    },
+    {
+      "name_zh": "萨赫勒联盟",
+      "name_en": "AES / Sahel",
+      "trend": "steady",
+      "verdict": "The architecture advances — unified force at 15,000, gold custody, franc-zone exit on schedule — but April's coordinated assault on Gao, Menaka, and Kidal showed the insurgency's reach, and the Russian guarantee failed in public view. Sovereignty first, then capacity. The second part is now urgent.",
+      "watching": "Gold revenue allocated to the unified force post-Kidal; renegotiated security arrangements.",
+      "sources": [
+        {
+          "label": "Africanews",
+          "url": "https://www.africanews.com/2026/05/01/alliance-of-sahel-states-confirms-joint-airstrikes-in-mali/"
+        },
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"
+        }
+      ]
+    },
+    {
+      "name_zh": "中国经济",
+      "name_en": "PRC economy",
+      "trend": "steady",
+      "verdict": "Oil fell more than 3% on the Iran deal announcement — Beijing's wartime oil stockpiling posture (May imports +24.5%) can now normalize, and the supply chain disruption premium unwinds. The desk notes this against four months of Western framing that read China's Iranian oil purchases as vulnerability; they were accumulation. Fixed-asset investment ran negative cumulative through April, the first contraction in three decades; retail sales grew only 0.2% YoY in April, the lowest since the COVID exit. But May exports hit a record $376.78 billion and semiconductor exports surged 66.5%. The productive-capacity bet in the 15th Plan does not require household consumption to vindicate itself. June FAI data and the July Politburo meeting are the next decision points.",
+      "watching": "June FAI and manufacturing investment data; whether July Politburo signals demand-side intervention; semiconductor export growth compression.",
+      "sources": [
+        {
+          "label": "CNBC — China trade, June 9",
+          "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
+        },
+        {
+          "label": "USCC China Bulletin, June 9",
+          "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-june-9-2026"
+        },
+        {
+          "label": "Caixin",
+          "url": "https://www.caixinglobal.com/2026-05-18/china-fixed-asset-investment-falls-as-property-slump-deepens-102445153.html"
+        }
+      ]
+    },
+    {
+      "name_zh": "大西洋秩序",
+      "name_en": "Atlantic order",
+      "trend": "down",
+      "verdict": "Pakistan's PM declared the final text agreed on June 13; a senior US official confirmed signing expected 'in the coming days.' The United States exits a direct war against Iran on terms that include paying $24 billion in frozen assets, accepting continued Iranian sovereignty over Hormuz, and settling for a nuclear freeze rather than dismantlement — while Iran's FM told reporters on the same day 'our sword will always hang over the Strait of Hormuz.' CENTCOM shot down Iranian drones near Hormuz on the very day the deal was announced. The United States demonstrated it can initiate a direct war against Iran; it demonstrated it cannot sustain one politically. The capacity and the will are not the same thing.",
+      "watching": "Whether the nuclear chapter (US claims dismantlement; Iran insists on enrichment rights) resolves or collapses the deal; further naval blockade incidents; pledge-to-delivery ratio on military aid to Ukraine.",
+      "sources": [
+        {
+          "label": "Express Tribune, June 13",
+          "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+        },
+        {
+          "label": "Euronews, June 12",
+          "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+        },
+        {
+          "label": "RFERL, June 13",
+          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        }
+      ]
+    }
+  ],
+  "wars": [
+    {
+      "name_zh": "乌克兰",
+      "name_en": "Ukraine",
+      "advantage": "Russia — decisive",
+      "trend": "up",
+      "basis": "The desk states it plainly: Russia has been winning, is winning, and will win. Ukraine marked Russia's June 12 national day with a coordinated drone package against Russian energy infrastructure — Taneko and Taif-NK refineries in Nizhnekamsk, Tatarstan, and the Tolyatti synthetic rubber plant in Samara Oblast — with Kuibyshev CDU-1 and CDU-2 still offline from June 10. Samara and Tatarstan are now a campaign pattern, not individual incidents. Ukrainian sources claim Russian crude output fell to a one-year low; the desk cites this as a belligerent's claim; the fires are independently confirmed. Martyanov's June 11 post records something more durable: Moscow has dropped 'brotherly people' language from official discourse — Ukraine is now framed as a foreign state with distinct values. The reconciliation ceiling is gone from the Russian strategic frame. Meanwhile, Russian forces hold over half of Kostyantynivka — the stated Spring-Summer main effort — as of June 12. The tempo is unchanged: Moscow fights at the pace its industry sustains; Kyiv fights at the pace Washington and Brussels allow.",
+      "sources": [
+        {
+          "label": "Martyanov (standing reference)",
+          "url": "https://smoothiex12.blogspot.com/"
+        },
+        {
+          "label": "Kyiv Post — Russia Day strikes, June 12 (Ukrainian source)",
+          "url": "https://www.kyivpost.com/post/78014"
+        },
+        {
+          "label": "Al Jazeera — refinery campaign",
+          "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"
+        }
+      ]
+    },
+    {
+      "name_zh": "伊朗战争",
+      "name_en": "Iran War (US-Israel vs. Iran)",
+      "advantage": "Contested — deal text agreed, nuclear chapter unresolved",
+      "trend": "de-escalating",
+      "basis": "US and Israel initiated strikes on Iran on February 28, 2026. Pakistan's PM Sharif declared on June 13 that 'a final, agreed upon text' of a peace deal has been reached; a senior US official confirmed signing expected 'in the coming days,' with VP Vance reportedly designated. Reported terms: 60-day ceasefire extension; Hormuz reopened without tolls within 30 days; 15-20 year nuclear freeze with enrichment site dismantlement; $24 billion in frozen Iranian assets released. Against that: Iran's FM Araghchi said on the same day that Tehran had 'not reached a final conclusion' on the agreement and that 'our sword will always hang over the Strait of Hormuz'; IRNA reported Iran insisting on enrichment rights. US CENTCOM shot down multiple Iranian one-way attack drones near Hormuz on June 13 even as deal momentum built. The gap between what the US official described (nuclear dismantlement) and what Iran's state media described (enrichment rights retained) is not a detail — it is the deal's unresolved spine. Ceasefire extended indefinitely per Defense Secretary Hegseth's congressional testimony.",
+      "sources": [
+        {
+          "label": "Express Tribune, June 13",
+          "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+        },
+        {
+          "label": "Euronews, June 12",
+          "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+        },
+        {
+          "label": "RFERL, June 13",
+          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        }
+      ]
+    },
+    {
+      "name_zh": "萨赫勒战事",
+      "name_en": "Sahel insurgency",
+      "advantage": "Contested",
+      "trend": "steady",
+      "basis": "AES states hold the cities, the budgets, and the gold; JNIM demonstrated operational reach with April's simultaneous assault and the killing of Mali's defense minister. The Russian guarantee failed visibly at Kidal. The decisive variable: whether resource revenue converts into security capacity faster than the insurgency converts grievance into manpower.",
+      "sources": [
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"
+        },
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases"
+        }
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
+      "resolves": "war's end",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
+      "resolves": "2027-06",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
+      "resolves": "2026 BRICS summit",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "desk",
+      "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
+      "resolves": "Q4 2026 data (Jan 2027)",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-10",
+      "kind": "tea",
+      "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
+      "resolves": "2026-07-19",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-11",
+      "kind": "desk",
+      "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
+      "resolves": "2026-09-01",
+      "status": "open"
+    },
+    {
+      "filed": "2026-06-12",
+      "kind": "desk",
+      "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.",
+      "resolves": "2026-06-25",
+      "status": "hit"
+    }
+  ],
+  "coverage": [
+    {
+      "date": "2026-06-13",
+      "items": [
+        {
+          "text": "The Islamabad MOU: Iran deal text agreed, Hormuz drones fly anyway, nuclear chapter deferred",
+          "links": [
+            {
+              "label": "Express Tribune, June 13",
+              "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+            },
+            {
+              "label": "Euronews, June 12",
+              "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+            },
+            {
+              "label": "RFERL",
+              "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+            }
+          ]
+        },
+        {
+          "text": "Russia Day on the refineries: Tatarstan and Samara struck, 'brotherly people' language dropped from Russian discourse",
+          "links": [
+            {
+              "label": "Martyanov, June 11",
+              "url": "https://smoothiex12.blogspot.com/"
+            },
+            {
+              "label": "Kyiv Post, June 12 (Ukrainian source)",
+              "url": "https://www.kyivpost.com/post/78014"
+            },
+            {
+              "label": "Al Jazeera — refinery campaign",
+              "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"
+            }
+          ]
+        },
+        {
+          "text": "Beijing reads the oil signal: Iran deal drops price 3%, wartime stockpiling unwinds, yuan toll ends — structure holds",
+          "links": [
+            {
+              "label": "CNBC, June 9",
+              "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
+            },
+            {
+              "label": "USCC China Bulletin, June 9",
+              "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-june-9-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "US-Iran nuclear chapter gap (enrichment vs. freeze — the deal's unresolved spine)",
+        "Tumen bridge traffic after June 19 opening",
+        "Samara-Tatarstan refinery campaign impact on Russian export revenue",
+        "China June FAI and manufacturing data (before July Politburo)"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "items": [
+        {
+          "text": "Trump names the island: Kharg seizure threat, ceasefire 'meaningless,' negotiations elevated",
+          "links": [
+            {
+              "label": "Euronews, June 11",
+              "url": "https://www.euronews.com/2026/06/11/us-will-seize-and-control-irans-kharg-island-and-other-key-oil-facilities-trump-says"
+            },
+            {
+              "label": "Fox News live blog, June 11",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-june-11"
+            }
+          ]
+        },
+        {
+          "text": "The Tumen road: Russia-DPRK first road bridge opens June 19, second land corridor for Pyongyang",
+          "links": [
+            {
+              "label": "Wikipedia -- Khasan-Tumangang Bridge",
+              "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"
+            },
+            {
+              "label": "India Defence Review",
+              "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/"
+            },
+            {
+              "label": "Radio Free Asia",
+              "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/"
+            }
+          ]
+        },
+        {
+          "text": "Ukraine — the pace that wins: Zubr serial production, NATO doctrine gap acknowledged, Geneva talks frozen",
+          "links": [
+            {
+              "label": "Martyanov, Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran ceasefire extension or collapse (before June 25)",
+        "DPRK-Russia bridge traffic and Beijing customs response",
+        "Samara CDU restart timeline",
+        "China June manufacturing/FAI data",
+        "AES gold-revenue allocation to unified force"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "items": [
+        {
+          "text": "Two blows to the logistics chain: Davydov car bomb, Kuibyshev refinery offline",
+          "links": [
+            {
+              "label": "Meduza",
+              "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing"
+            },
+            {
+              "label": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"
+            },
+            {
+              "label": "Ukrinform/Reuters",
+              "url": "https://www.ukrinform.net/rubric-ato/4132597-kuibyshev-oil-refinery-halts-processing-after-drone-attack-reuters.html"
+            }
+          ]
+        },
+        {
+          "text": "Kharg Island, spared for now: US strikes military targets, threatens oil infrastructure",
+          "links": [
+            {
+              "label": "NBC News",
+              "url": "https://www.nbcnews.com/world/iran/iran-threatens-strike-oil-facilities-us-hits-military-targets-kharg-is-rcna263453"
+            },
+            {
+              "label": "NBC (ceasefire)",
+              "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039"
+            },
+            {
+              "label": "CNBC (oil)",
+              "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"
+            }
+          ]
+        },
+        {
+          "text": "Beijing's May numbers: exports +19.4%, semiconductors +66.5%, narrative loses again",
+          "links": [
+            {
+              "label": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
+            },
+            {
+              "label": "China Global South",
+              "url": "https://chinaglobalsouth.com/2026/06/09/china-exports-may-2026-trade-surplus-global-demand/"
+            },
+            {
+              "label": "AIMS FX",
+              "url": "https://aimsfx.com/2026/06/09/china-reports-substantial-growth-in-exports-and-imports-in-may-2026-surpassing-market-expectations/"
+            }
+          ]
+        },
+        {
+          "text": "The standing reference reads the air defense ledger: Hodges confirms 9/9 Kyiv unintercepted",
+          "links": [
+            {
+              "label": "Martyanov, Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran war ceasefire and Kharg Island oil infrastructure",
+        "China June trade and FAI data",
+        "Samara CDU restart timeline",
+        "DPRK nuclear-state language at multilateral forums",
+        "AES gold-revenue allocation to unified force"
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "items": [
+        {
+          "text": "Xi crosses the Yalu, again — and declines to mention the bomb",
+          "links": [
+            {
+              "label": "NPR",
+              "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance"
+            },
+            {
+              "label": "Seoul Economic Daily",
+              "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes"
+            },
+            {
+              "label": "Inquirer",
+              "url": "https://www.inquirer.com/news/nation-world/china-north-korea-xi-kim-jon-un-meet-pyongyang-russia-us-20260608.html"
+            }
+          ]
+        },
+        {
+          "text": "Kidal falls, and the AES counts its dead (April events — filed stale; see Corrections)",
+          "links": [
+            {
+              "label": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "DPRK nuclear recognition at multilateral forums",
+        "AES gold-revenue allocation post-Kidal",
+        "BRICS Bridge at the India summit",
+        "China manufacturing investment, June data",
+        "Pledge-to-delivery ratio on Western aid"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "date": "2026-06-10",
+      "text": "The desk filed April's Kidal events as the morning's news — six weeks stale. The reader caught it; the desk did not. A freshness rule now stands in the standing orders: news means the last 48 hours, older events appear only as context."
+    }
+  ]
+}
