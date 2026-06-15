@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14",
-  "edition": 6,
+  "updated": "2026-06-15",
+  "edition": 7,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,8 +40,8 @@
       "name_zh": "朝鲜",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Xi crossed the Yalu and 'denuclearization' did not survive the trip. The Tumen road bridge opens June 19 — five days from the desk's writing. No delays reported. Pyongyang will have road access to Russia that bypasses Beijing's customs infrastructure. The desk is watching cargo type and volumes after opening, not the ceremony. Kim's June 9 naval expansion announcement — a second guided missile destroyer, a stated 10,000-ton warship, explicit framing of sea-based nuclear deterrent — represents the next stage: from deterrence in place to projection capability. This was not in prior briefings and is now on the watch list.",
-      "watching": "Cargo volumes and types on the Tumen bridge after June 19; Beijing customs response at the 1959 rail bridge; whether naval expansion (destroyer class, 10,000-ton) moves to keel-laying.",
+      "verdict": "Xi crossed the Yalu and 'denuclearization' did not survive the trip. The Tumen road bridge opens June 19 — four days from writing. No delays reported. Pyongyang will have road access to Russia that bypasses Beijing's customs infrastructure. The desk is watching cargo type and volumes after opening, not the ceremony. Kim's June 9 naval expansion announcement — a second guided missile destroyer, a stated 10,000-ton warship, explicit framing of sea-based nuclear deterrent — represents the next stage: from deterrence in place to projection capability.",
+      "watching": "Cargo volumes and types on the Tumen bridge after June 19 opening; Beijing customs response at the 1959 rail bridge; whether naval expansion (destroyer class, 10,000-ton) moves to keel-laying.",
       "sources": [
         {
           "label": "Wikipedia — Khasan-Tumangang Bridge",
@@ -61,8 +61,8 @@
       "name_zh": "萨赫勒联盟",
       "name_en": "AES / Sahel",
       "trend": "steady",
-      "verdict": "The architecture advances — unified force at 15,000, gold custody, franc-zone exit on schedule — but April's coordinated assault on Gao, Menaka, and Kidal showed the insurgency's reach, and the Russian guarantee failed in public view. Traoré's acquisition of Boungou and Wahgnion mines (SOPAMIB portfolio, announced early June) brings six of fifteen industrial mines under majority Burkinabè ownership. Sovereignty first, then capacity. The second part is now urgent.",
-      "watching": "Gold revenue allocated to the unified force post-Kidal; renegotiated security arrangements; Faso Mêbo infrastructure delivery timelines.",
+      "verdict": "The architecture advances — unified force at 15,000, gold custody, franc-zone exit on schedule — but April's coordinated assault on Gao, Menaka, and Kidal showed the insurgency's reach, and the Russian guarantee failed in public view. Traoré's acquisition of Boungou and Wahgnion mines (SOPAMIB portfolio, announced early June) brings six of fifteen industrial mines under majority Burkinabè ownership. The UCT-AES — Union of Territorial Communities — was established June 11 in Niamey: local integration from below, communes of all three AES states linked at the regional level. Sovereignty first, then capacity; the architecture is now being built at every level.",
+      "watching": "UCT-AES implementation from below; gold revenue allocation to the unified force post-Kidal; Faso Mêbo infrastructure delivery timelines; renegotiated security arrangements.",
       "sources": [
         {
           "label": "Africa Briefing — Burkina gold nationalization",
@@ -71,6 +71,10 @@
         {
           "label": "Africanews — AES joint airstrikes, May 1",
           "url": "https://www.africanews.com/2026/05/01/alliance-of-sahel-states-confirms-joint-airstrikes-in-mali/"
+        },
+        {
+          "label": "Pravda Niger — UCT-AES established, June 14",
+          "url": "https://niger.news-pravda.com/en/world/2026/06/14/4476.html"
         }
       ]
     },
@@ -78,16 +82,20 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "steady",
-      "verdict": "China's May NBS data — industrial output, retail sales, and fixed-asset investment — releases imminently (expected June 15). The desk's prediction (FAI exits contraction by Q4) depends on whether the sequential trend from April's -1.6% cumulative is reversing. The Caixin May manufacturing PMI (51.8) marks six straight months above 50, suggesting the productive-capacity side of the economy is holding. Retail sales at +0.2% YoY in April remain the weak signal; if May confirms the trend, the demand-side gap widens going into the July Politburo. The semiconductor bet continues to pay: exports +66.5% in May, record trade surplus.",
-      "watching": "May NBS data (June 15): FAI, retail sales, industrial output; whether July Politburo signals demand-side intervention; semiconductor export growth compression as tariff response builds.",
+      "verdict": "China's May NBS data lands June 15 — industrial output, retail sales, fixed-asset investment. April stunned: retail sales 0.2% YoY (40-month low), FAI -1.6% cumulative (first contraction on record). The May PMI context (official manufacturing: 50.0, steady; Caixin: 51.8, sixth month above expansion line) suggests the production side is holding. Whether demand (retail) and investment (FAI) have reversed is today's question. One tailwind April lacked: the Iran deal removes the Iran-war energy premium from May's calculations. Semiconductor exports continued to outperform (+66.5% YoY in May, record trade surplus). The desk's prediction — FAI exits contraction by Q4 — depends on whether the sequential trend establishes itself in this release.",
+      "watching": "May NBS figures as they publish (June 15): FAI trend, retail sales vs. April's 0.2%, industrial output; whether July Politburo signals demand-side stimulus; semiconductor export growth trajectory.",
       "sources": [
         {
-          "label": "CNBC — China trade, June 9",
-          "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
+          "label": "CNBC — April NBS data, May 18",
+          "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
         },
         {
-          "label": "Caixin — FAI contraction",
-          "url": "https://www.caixinglobal.com/2026-05-18/china-fixed-asset-investment-falls-as-property-slump-deepens-102445153.html"
+          "label": "NBS — Jan-Apr 2026 summary",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"
+        },
+        {
+          "label": "CNBC — May Caixin PMI, June 1",
+          "url": "https://www.cnbc.com/2026/06/01/chinas-factory-activity-beats-forecasts-in-may-private-survey-shows-despite-softer-official-data.html"
         }
       ]
     },
@@ -95,16 +103,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "The United States entered a direct war against Iran and is now exiting on terms that include $24 billion in frozen asset releases, no nuclear dismantlement, and Iran's FM on record that 'our sword will always hang over the Strait of Hormuz.' The deal text is agreed as of June 13; formal signing is pending — the nuclear chapter (US claims dismantlement; Iran insists on enrichment rights) remains the unresolved spine. CENTCOM shot down Iranian drones near Hormuz on the same day the deal was announced. The capacity to initiate and the will to sustain are not the same thing; the United States demonstrated the first and failed the second.",
-      "watching": "Whether the nuclear chapter resolves or collapses the deal before June 30; formal signing ceremony; pledge-to-delivery ratio on military aid to Ukraine.",
+      "verdict": "The United States entered a direct war against Iran and is exiting on terms that include $24 billion in frozen asset releases, no nuclear dismantlement locked in, and a signing ceremony set for June 19 in Switzerland. Trump declared the deal 'complete' on June 15; G7 leaders in France welcomed it; UK, France, Germany, and Italy declared readiness to lift sanctions contingent on verifiable nuclear steps. The desk reads the nuclear chapter as the deal's unresolved core: Iran's FM has stated nuclear rights are not in the current text; what follows June 19 is sixty days of talks, not a verified freeze. Netanyahu has already said Israel is not bound by the Lebanon provisions. The Atlantic order's claim: it ended the war. The desk's read: it bought a ceremony and deferred the hardest question.",
+      "watching": "Whether the 60-day post-signing nuclear talks produce a verified freeze or collapse; whether Netanyahu's Lebanon carve-out destabilizes the ceasefire before implementation begins; EU sanctions relief timeline.",
       "sources": [
         {
-          "label": "Express Tribune, June 13",
-          "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+          "label": "CBS News live updates — Iran deal, June 15",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
         },
         {
-          "label": "RFERL, June 13",
-          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+          "label": "Business Standard — signing set June 19",
+          "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"
+        },
+        {
+          "label": "Pravda Italy — UK/France/Germany/Italy sanctions statement, June 15",
+          "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"
         }
       ]
     }
@@ -115,40 +127,44 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "The desk holds the Russia-decisive call while acknowledging what the material record for January through May 2026 requires. Russian territorial advances across those five months ran at approximately 40 square kilometers, against 516 square kilometers in the same period of 2025 — a ninety-percent decline in the pace of advance. The desk does not cite ISW as authoritative; it notes that independent Western counters with different methodologies converge on the order of magnitude of slowdown, and convergence at that scale is itself a material fact. What this does not mean: Russia is not losing. Russia fights at the pace its industry sustains; sustaining attrition and drone tempo rather than territorial acquisition is a coherent military posture calibrated to exhausting Ukrainian political will over time. The drone tempo is unchanged: 118 drones overnight on June 13. Martyanov's June 12 post — 'You Cannot Be Ready' — is the desk's clearest signal: he is writing about German military unreadiness for Russian action by 2029, not about Ukrainian collapse in the coming months. The desk's standing reference has already extended his own horizon past the current front. The desk revises the timeline expectation: Russia-decisive means the war ends on Russia's terms — not necessarily on Russia's original schedule. This is going longer. Russian missile production is running 'just in time' with low stockpile buffers; the Ukrainian deep-strike campaign targeting supply-chain nodes (Cheboksary navigation-module plant, June 10) introduces a new question about sustainment. The desk watches this without moving the call.",
+      "basis": "The desk holds the Russia-decisive call. The front has hardened; the fire tempo has not. In June, Russia launched 5,438 drones at Ukraine — a new monthly record, beating the March figure of 4,198. Martyanov's June 13 post 'When Even 404 Admits It' reads Ukrainian maps against themselves: near Konstantinovka, Russian advances are visible in the adversary's own reporting; 87% of Russian battlefield effectiveness comes from artillery (55%) and air (32%). The Ukrainian response has reached into qualitatively different target categories: overnight June 13-14, Ukrainian strike drones hit the Temp Combine oil depot in Rybinsk, Yaroslavl — Russia's federal strategic fuel reserve, more than 700 kilometers from the Ukrainian border, second strike on this facility (first: December 31, 2025). Hitting the strategic reserve is not the same as hitting refinery capacity; it is the wartime buffer, the untouchable stockpile. The desk watches this development while holding the call: Russia's posture is to exhaust, not to sprint, and the buffer target changes the strategic picture at the margin — not the direction.",
       "sources": [
         {
           "label": "Martyanov (standing reference)",
           "url": "https://smoothiex12.blogspot.com/"
         },
         {
-          "label": "Euronews — Cheboksary navigation plant, June 10",
-          "url": "https://www.euronews.com/my-europe/2026/06/10/kyiv-hit-russian-military-plant-using-ukrainian-made-flamingo-missile-zelenskyy-says"
+          "label": "Militarnyi — Rybinsk strategic reserve strike, June 14",
+          "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"
         },
         {
-          "label": "Malcontent News — sanctions-busting, Jan 2026",
-          "url": "https://malcontentnews.substack.com/p/sanction-busting-keeps-russian-missile"
+          "label": "PBS NewsHour — record June Russian drone attacks",
+          "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Contested — deal text agreed, nuclear chapter unresolved, awaiting signing",
+      "advantage": "Settlement — signing ceremony June 19 in Switzerland; nuclear chapter deferred to 60-day talks",
       "trend": "de-escalating",
-      "basis": "US and Israel initiated strikes on Iran on February 28, 2026. Pakistan's PM Sharif declared on June 13 that 'a final, agreed upon text' of a peace deal has been reached; a senior US official confirmed signing expected 'in the coming days.' Reported terms: 60-day ceasefire extension; Hormuz reopened without tolls within 30 days; 15-20 year nuclear freeze with enrichment site dismantlement; $24 billion in frozen Iranian assets released. Against that: Iran's FM Araghchi said on the same day that Tehran had 'not reached a final conclusion' and that 'our sword will always hang over the Strait of Hormuz'; IRNA reported Iran insisting on enrichment rights. CENTCOM shot down multiple Iranian drones near Hormuz on June 13. No new developments June 14. The gap between what the US official described (nuclear dismantlement) and what Iran's state media described (enrichment rights retained) is not a detail — it is the deal's unresolved spine. The desk filed a prediction June 14 that formal signing occurs before June 30.",
+      "basis": "On June 15, 2026, Trump declared the deal 'complete' and Pakistan's Foreign Ministry confirmed a signing ceremony for June 19 in Switzerland. The terms: US naval blockade lifted immediately; Strait of Hormuz reopens; 60-day nuclear talks to follow signing. UK, France, Germany, and Italy declared readiness to lift sanctions conditioned on verifiable nuclear steps. The nuclear chapter remains unresolved: Iran's FM Araghchi stated nuclear rights were not in the current text; the 60-day talks will determine whether a real freeze is negotiated. Netanyahu said Israel is not bound by the Lebanon provisions — the first complication in implementation. The desk's June 14 prediction — formally signed before June 30 — is on track to resolve as a hit on June 19.",
       "sources": [
         {
-          "label": "Express Tribune, June 13",
-          "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
+          "label": "CBS News — Iran deal live updates, June 15",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
         },
         {
-          "label": "Euronews, June 12",
-          "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+          "label": "Business Standard — signing set June 19",
+          "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"
         },
         {
-          "label": "RFERL, June 13",
+          "label": "RFERL — Trump: deal complete, Hormuz to open",
           "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        },
+        {
+          "label": "Pravda Italy — EU sanctions statement, June 15",
+          "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"
         }
       ]
     },
@@ -226,9 +242,52 @@
       "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk will record it here.",
       "resolves": "2026-06-30",
       "status": "open"
+    },
+    {
+      "filed": "2026-06-15",
+      "kind": "desk",
+      "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
+      "resolves": "2026-09-19",
+      "status": "open"
     }
   ],
   "coverage": [
+    {
+      "date": "2026-06-15",
+      "items": [
+        {
+          "text": "The ceremony is set for June 19: Trump declares Iran deal complete; signing in Switzerland; G7 welcomes it; UK/France/Germany/Italy ready to lift sanctions; nuclear chapter deferred to 60-day talks; Netanyahu not bound by Lebanon provisions",
+          "links": [
+            {"label": "CBS News — Iran deal live updates, June 15", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"},
+            {"label": "Business Standard — signing set June 19", "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"},
+            {"label": "Pravda Italy — EU sanctions statement", "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"}
+          ]
+        },
+        {
+          "text": "Rybinsk — Ukraine hits Russia's federal strategic fuel reserve (Temp Combine, Yaroslavl), 700km+ inside Russia, second strike; Russia June drone record: 5,438 UAVs; Martyanov June 13: 87% effectiveness from artillery + air",
+          "links": [
+            {"label": "Militarnyi — Rybinsk strike, June 14", "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"},
+            {"label": "PBS NewsHour — record June drones", "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"},
+            {"label": "Martyanov, June 13", "url": "https://smoothiex12.blogspot.com/"}
+          ]
+        },
+        {
+          "text": "China May NBS data drops today; April context: FAI -1.6% cumulative, retail sales 0.2% YoY (40-month low); Caixin May PMI 51.8; Iran deal removes oil-war premium from May calculations",
+          "links": [
+            {"label": "CNBC — April data, May 18", "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"},
+            {"label": "NBS — Jan-Apr 2026", "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"},
+            {"label": "CNBC — May Caixin PMI", "url": "https://www.cnbc.com/2026/06/01/chinas-factory-activity-beats-forecasts-in-may-private-survey-shows-despite-softer-official-data.html"}
+          ]
+        }
+      ],
+      "watching": [
+        "Whether 60-day post-signing nuclear talks produce a verified freeze or collapse",
+        "Netanyahu Lebanon carve-out: whether it destabilizes ceasefire implementation",
+        "May NBS figures (FAI, retail, industrial output) as they publish today",
+        "Tumen bridge cargo volumes and types after June 19 opening",
+        "July Politburo response to May demand-side data"
+      ]
+    },
     {
       "date": "2026-06-14",
       "items": [
