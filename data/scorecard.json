@@ -1,22 +1,16 @@
 {
-  "updated": "2026-06-15",
-  "edition": 7,
+  "updated": "2026-06-16",
+  "edition": 8,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The through-line advances structurally while the adversary marshals a statistical counter: the BIS 2025 Triennial Survey puts the dollar on one side of 89.2 percent of all FX transactions, up from 88.4 percent in 2022. The desk reads that number against the grain. FX transactions are dominated by speculative flows and interbank repo — inertia instruments, not choices renewed. The indicators that track structural shift read differently: dollar reserve share at 58 percent from 72 percent in 2001; China settling roughly half its foreign trade in yuan; mBridge at $55 billion cumulative, 95 percent in digital yuan. The Hormuz yuan toll ended with the Iran deal. The architecture it was a symptom of did not.",
-      "watching": "BRICS Bridge from agenda to adopted framework at the India summit; China May NBS data (June 15); whether BRICS Pay technical coordination advances at the September summit.",
+      "verdict": "The through-line advances structurally while the adversary marshals a statistical counter: the BIS 2025 Triennial Survey puts the dollar on one side of 89.2 percent of all FX transactions, up from 88.4 percent in 2022. The desk reads that number against the grain. FX transactions are dominated by speculative flows and interbank repo — inertia instruments, not choices renewed. The indicators that track structural shift read differently: dollar reserve share at 58 percent from 72 percent in 2001; China settling roughly half its foreign trade in yuan; mBridge at $55 billion cumulative, 95 percent in digital yuan. The Hormuz yuan toll ended with the Iran deal. The architecture it was a symptom of did not. The AES is now in its third phase — from sovereignty and institutional architecture to economic commons — which is where structural multipolarity becomes material.",
+      "watching": "BRICS Bridge from agenda to adopted framework at the India summit; whether AES mandatory trade roadmap (June 15 ministers' meeting) produces published figures by Q3; whether BRICS Pay has meaningfully reduced USD usage in intra-bloc trade.",
       "sources": [
-        {
-          "label": "The Block — mBridge $55B milestone",
-          "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"
-        },
-        {
-          "label": "Asia Times — BRICS dedollarization route",
-          "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/"
-        }
+        {"label": "The Block — mBridge $55B milestone", "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"},
+        {"label": "Asia Times — BRICS dedollarization route", "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/"}
       ]
     },
     {
@@ -26,98 +20,56 @@
       "verdict": "The BIS 2025 Triennial Survey — dollar on 89.2 percent of FX transactions, up from 88.4 percent in 2022 — is the adversary's strongest current argument that dedollarization has stalled. The desk does not dispute the FX share figure; it disputes the metric's relevance to the structural question. Currency transaction share is dominated by speculative and hedging flows, not by the reserve accumulation and trade-invoicing trends that determine long-run hegemony. Reserve share has fallen from 72 percent to 58 percent. The direction of travel is unchanged.",
       "watching": "Whether the next oil contract cycle produces new yuan-denominated settlements; reserve composition data from IMF COFER.",
       "sources": [
-        {
-          "label": "The Block — mBridge, BIS context",
-          "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"
-        },
-        {
-          "label": "Disruption Banking — mBridge",
-          "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/"
-        }
+        {"label": "The Block — mBridge, BIS context", "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"},
+        {"label": "Disruption Banking — mBridge", "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/"}
       ]
     },
     {
       "name_zh": "朝鲜",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Xi crossed the Yalu and 'denuclearization' did not survive the trip. The Tumen road bridge opens June 19 — four days from writing. No delays reported. Pyongyang will have road access to Russia that bypasses Beijing's customs infrastructure. The desk is watching cargo type and volumes after opening, not the ceremony. Kim's June 9 naval expansion announcement — a second guided missile destroyer, a stated 10,000-ton warship, explicit framing of sea-based nuclear deterrent — represents the next stage: from deterrence in place to projection capability.",
+      "verdict": "Xi crossed the Yalu and 'denuclearization' did not survive the trip. The Tumen road bridge opens June 19 — two days from writing. No delays reported. Pyongyang will have road access to Russia that bypasses Beijing's customs infrastructure. The desk is watching cargo type and volumes after opening, not the ceremony. Kim's June 9 naval expansion announcement — a second guided missile destroyer, a stated 10,000-ton warship, explicit framing of sea-based nuclear deterrent — represents the next stage: from deterrence in place to projection capability.",
       "watching": "Cargo volumes and types on the Tumen bridge after June 19 opening; Beijing customs response at the 1959 rail bridge; whether naval expansion (destroyer class, 10,000-ton) moves to keel-laying.",
       "sources": [
-        {
-          "label": "Wikipedia — Khasan-Tumangang Bridge",
-          "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"
-        },
-        {
-          "label": "IP Defense Forum — road bridge leverage",
-          "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"
-        },
-        {
-          "label": "AEI Korean Peninsula Update, June 9",
-          "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/"
-        }
+        {"label": "Wikipedia — Khasan-Tumangang Bridge", "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"},
+        {"label": "IP Defense Forum — road bridge leverage", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"},
+        {"label": "AEI Korean Peninsula Update, June 9", "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/"}
       ]
     },
     {
       "name_zh": "萨赫勒联盟",
       "name_en": "AES / Sahel",
-      "trend": "steady",
-      "verdict": "The architecture advances — unified force at 15,000, gold custody, franc-zone exit on schedule — but April's coordinated assault on Gao, Menaka, and Kidal showed the insurgency's reach, and the Russian guarantee failed in public view. Traoré's acquisition of Boungou and Wahgnion mines (SOPAMIB portfolio, announced early June) brings six of fifteen industrial mines under majority Burkinabè ownership. The UCT-AES — Union of Territorial Communities — was established June 11 in Niamey: local integration from below, communes of all three AES states linked at the regional level. Sovereignty first, then capacity; the architecture is now being built at every level.",
-      "watching": "UCT-AES implementation from below; gold revenue allocation to the unified force post-Kidal; Faso Mêbo infrastructure delivery timelines; renegotiated security arrangements.",
+      "trend": "up",
+      "verdict": "The AES is moving through its phases on schedule: sovereignty first, then security architecture, now economic commons. The Alliance's Ministers of Industry and Trade met in Burkina Faso on June 15 and produced a mandate the desk takes seriously: double intraregional trade by 2028, backed by a mandatory roadmap with strict monitoring; domestic processing of gold, uranium, oil, cotton, and livestock rather than export of unrefined goods; a unified internal market. Prime Minister Ouedraogo's language — enough declarations — signals that the political class has noticed the gap between rhetoric and implementation and is closing it. Traoré's gold nationalization (SOPAMIB portfolio, six of fifteen industrial mines) and the UCT-AES territorial commons (established June 11 in Niamey) set the structural conditions; now comes the revenue capture. The desk's watch item: whether the roadmap, when published, carries concrete figures that align with Faso Mêbo construction timelines — that is where the commitment becomes real.",
+      "watching": "Publication of the AES trade roadmap with concrete figures; whether 2028 trade target aligns with Faso Mêbo timelines; gold revenue allocation to the unified force; renegotiated security arrangements.",
       "sources": [
-        {
-          "label": "Africa Briefing — Burkina gold nationalization",
-          "url": "https://africabriefing.com/burkina-faso-reclaims-gold-mines-in-80m-nationalisation/"
-        },
-        {
-          "label": "Africanews — AES joint airstrikes, May 1",
-          "url": "https://www.africanews.com/2026/05/01/alliance-of-sahel-states-confirms-joint-airstrikes-in-mali/"
-        },
-        {
-          "label": "Pravda Niger — UCT-AES established, June 14",
-          "url": "https://niger.news-pravda.com/en/world/2026/06/14/4476.html"
-        }
+        {"label": "Pravda Burkina Faso — AES trade ministers meeting, June 15", "url": "https://burkina-faso.news-pravda.com/en/world/2026/06/15/6908.html"},
+        {"label": "Africa Briefing — Burkina gold nationalization", "url": "https://africabriefing.com/burkina-faso-reclaims-gold-mines-in-80m-nationalisation/"},
+        {"label": "Pravda Niger — UCT-AES established, June 14", "url": "https://niger.news-pravda.com/en/world/2026/06/14/4476.html"}
       ]
     },
     {
       "name_zh": "中国经济",
       "name_en": "PRC economy",
-      "trend": "steady",
-      "verdict": "China's May NBS data lands June 15 — industrial output, retail sales, fixed-asset investment. April stunned: retail sales 0.2% YoY (40-month low), FAI -1.6% cumulative (first contraction on record). The May PMI context (official manufacturing: 50.0, steady; Caixin: 51.8, sixth month above expansion line) suggests the production side is holding. Whether demand (retail) and investment (FAI) have reversed is today's question. One tailwind April lacked: the Iran deal removes the Iran-war energy premium from May's calculations. Semiconductor exports continued to outperform (+66.5% YoY in May, record trade surplus). The desk's prediction — FAI exits contraction by Q4 — depends on whether the sequential trend establishes itself in this release.",
-      "watching": "May NBS figures as they publish (June 15): FAI trend, retail sales vs. April's 0.2%, industrial output; whether July Politburo signals demand-side stimulus; semiconductor export growth trajectory.",
+      "trend": "down",
+      "verdict": "China's May NBS data, released June 16, confirmed the demand-side deterioration the desk was watching. Retail sales fell 0.6% year-on-year — the first decline since December 2022, reversing April's 0.2% gain and missing the Reuters consensus of flat. Fixed-asset investment came in at -4.1% cumulative through January-May, against -1.6% through January-April — the contraction nearly tripling in pace in a single month, against a Reuters consensus of -2.0%. Industrial output held at 4.5% year-on-year, above the 4.3% estimate. The picture is a two-speed economy: production intact, demand deteriorating. The NBS attributed the investment decline to 'high temperatures and heavy rain' and 'the transition from old to new growth drivers.' The desk records this explanation without adopting it. The desk's standing prediction — FAI exits contraction by Q4 2026 — is not falsified (it resolves on January 2027 data), but the May figure requires honest accounting: the contraction is deepening, not stabilizing, and the remaining quarters give it less room.",
+      "watching": "July Politburo response to May NBS data; whether demand-side stimulus materializes; June retail sales (released mid-July) — see new prediction; semiconductor export growth trajectory.",
       "sources": [
-        {
-          "label": "CNBC — April NBS data, May 18",
-          "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
-        },
-        {
-          "label": "NBS — Jan-Apr 2026 summary",
-          "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"
-        },
-        {
-          "label": "CNBC — May Caixin PMI, June 1",
-          "url": "https://www.cnbc.com/2026/06/01/chinas-factory-activity-beats-forecasts-in-may-private-survey-shows-despite-softer-official-data.html"
-        }
+        {"label": "CNBC — China May NBS data, June 16", "url": "https://www.cnbc.com/amp/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html"},
+        {"label": "Reuters/Investing.com — retail sales first decline in three years", "url": "https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743"},
+        {"label": "CNBC — April NBS data, May 18", "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"}
       ]
     },
     {
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "The United States entered a direct war against Iran and is exiting on terms that include $24 billion in frozen asset releases, no nuclear dismantlement locked in, and a signing ceremony set for June 19 in Switzerland. Trump declared the deal 'complete' on June 15; G7 leaders in France welcomed it; UK, France, Germany, and Italy declared readiness to lift sanctions contingent on verifiable nuclear steps. The desk reads the nuclear chapter as the deal's unresolved core: Iran's FM has stated nuclear rights are not in the current text; what follows June 19 is sixty days of talks, not a verified freeze. Netanyahu has already said Israel is not bound by the Lebanon provisions. The Atlantic order's claim: it ended the war. The desk's read: it bought a ceremony and deferred the hardest question.",
-      "watching": "Whether the 60-day post-signing nuclear talks produce a verified freeze or collapse; whether Netanyahu's Lebanon carve-out destabilizes the ceasefire before implementation begins; EU sanctions relief timeline.",
+      "verdict": "The G7 in France on June 16 produced the Atlantic order's first internal public disagreement on the Iran deal: European leaders warned Trump that the framework risks 'entrenching Tehran's nuclear and ballistic missile programs' — an accurate read of the deal's structure, which defers the nuclear chapter to 60-day talks with no enforcement architecture and leaves Iran's 440 kilograms of 60%-enriched uranium without agreed disposition. Netanyahu declared on June 16 that Iran 'will not have nuclear weapons, with or without an agreement' — this is not a diplomatic statement but a declaration of Israeli operational authority independent of Washington's deal. The Atlantic order's claim is that it ended a war. The desk's read: it produced a signing ceremony for Friday and deferred the hardest question, while fracturing along the Iran-nuclear fault line in public, for the first time, at its own summit.",
+      "watching": "G7 communiqué on Ukraine: whether it contains binding aid pledges and delivery timelines or serves as ceremony; whether Netanyahu's Lebanon carve-out destabilizes ceasefire implementation; 60-day nuclear talks architecture.",
       "sources": [
-        {
-          "label": "CBS News live updates — Iran deal, June 15",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
-        },
-        {
-          "label": "Business Standard — signing set June 19",
-          "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"
-        },
-        {
-          "label": "Pravda Italy — UK/France/Germany/Italy sanctions statement, June 15",
-          "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"
-        }
+        {"label": "US News — Europeans warn Trump at G7, June 16", "url": "https://www.usnews.com/news/world/articles/2026-06-16/europeans-to-test-trump-on-iran-deal-risks-urge-ukraine-rethink-at-g7"},
+        {"label": "Al Jazeera — Iran deal explained, June 15", "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered"},
+        {"label": "JNS — Netanyahu: Iran will not have nukes", "url": "https://www.jns.org/news/israel-news/netanyahu-iran-will-not-have-nukes-with-or-without-an-agreement"}
       ]
     }
   ],
@@ -127,20 +79,12 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "The desk holds the Russia-decisive call. The front has hardened; the fire tempo has not. In June, Russia launched 5,438 drones at Ukraine — a new monthly record, beating the March figure of 4,198. Martyanov's June 13 post 'When Even 404 Admits It' reads Ukrainian maps against themselves: near Konstantinovka, Russian advances are visible in the adversary's own reporting; 87% of Russian battlefield effectiveness comes from artillery (55%) and air (32%). The Ukrainian response has reached into qualitatively different target categories: overnight June 13-14, Ukrainian strike drones hit the Temp Combine oil depot in Rybinsk, Yaroslavl — Russia's federal strategic fuel reserve, more than 700 kilometers from the Ukrainian border, second strike on this facility (first: December 31, 2025). Hitting the strategic reserve is not the same as hitting refinery capacity; it is the wartime buffer, the untouchable stockpile. The desk watches this development while holding the call: Russia's posture is to exhaust, not to sprint, and the buffer target changes the strategic picture at the margin — not the direction.",
+      "basis": "The desk holds the Russia-decisive call. Overnight June 14-15, Russia launched 70 missiles and 611 drones at Ukraine, with over 60 missiles targeted at Kyiv — 30 casualties, 4 fatalities; the Dormition Cathedral of the Kyiv Pechersk Lavra sustained a roof fire, the Mystetskyi Arsenal was struck. Ukrainian Air Force spokesperson Yurii Ihnat reported 50 missiles and 582 drones neutralized; the desk marks this as a belligerent's account. June 15 saw 192 recorded combat engagements, highest concentration in Pokrovsk. Martyanov's 87% figure (artillery 55%, air 32%) grounds the read: this is fire dominance delivered through modern platforms. The Russia-decisive call holds, with tempo escalating. The desk continues to watch Pokrovsk for confirmed territorial movement.",
       "sources": [
-        {
-          "label": "Martyanov (standing reference)",
-          "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Militarnyi — Rybinsk strategic reserve strike, June 14",
-          "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"
-        },
-        {
-          "label": "PBS NewsHour — record June Russian drone attacks",
-          "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"
-        }
+        {"label": "Martyanov (standing reference)", "url": "https://smoothiex12.blogspot.com/"},
+        {"label": "Ukrinform war section — June 15 (Ukrainian source — belligerent's account)", "url": "https://www.ukrinform.net/rubric-ato"},
+        {"label": "Militarnyi — Rybinsk strategic reserve strike, June 14", "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"},
+        {"label": "PBS NewsHour — record June Russian drone attacks", "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"}
       ]
     },
     {
@@ -148,24 +92,12 @@
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Settlement — signing ceremony June 19 in Switzerland; nuclear chapter deferred to 60-day talks",
       "trend": "de-escalating",
-      "basis": "On June 15, 2026, Trump declared the deal 'complete' and Pakistan's Foreign Ministry confirmed a signing ceremony for June 19 in Switzerland. The terms: US naval blockade lifted immediately; Strait of Hormuz reopens; 60-day nuclear talks to follow signing. UK, France, Germany, and Italy declared readiness to lift sanctions conditioned on verifiable nuclear steps. The nuclear chapter remains unresolved: Iran's FM Araghchi stated nuclear rights were not in the current text; the 60-day talks will determine whether a real freeze is negotiated. Netanyahu said Israel is not bound by the Lebanon provisions — the first complication in implementation. The desk's June 14 prediction — formally signed before June 30 — is on track to resolve as a hit on June 19.",
+      "basis": "Signing ceremony confirmed for June 19 in Switzerland; Trump declared the deal complete June 15; G7 opened June 16 in France with Zelenskyy present. European G7 leaders publicly warned that the framework risks entrenching Tehran's nuclear and ballistic missile programs — the nuclear chapter remains the unresolved spine: Iran's 440 kilograms of 60%-enriched uranium has no agreed disposition, the full 14-point memorandum has not been published, the 60-day follow-on talks carry no enforcement architecture. Netanyahu declared June 16 that Iran will not have nuclear weapons 'with or without an agreement' — Israeli operational authority declared independent of Washington's framework. The June 14 prediction — formally signed before June 30 — is on track to resolve as a hit in two days. The June 15 prediction — that 60-day talks do not produce a verified enrichment freeze before September 2026 — stands as the desk's live call.",
       "sources": [
-        {
-          "label": "CBS News — Iran deal live updates, June 15",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
-        },
-        {
-          "label": "Business Standard — signing set June 19",
-          "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"
-        },
-        {
-          "label": "RFERL — Trump: deal complete, Hormuz to open",
-          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-        },
-        {
-          "label": "Pravda Italy — EU sanctions statement, June 15",
-          "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"
-        }
+        {"label": "US News — Europeans warn Trump at G7, June 16", "url": "https://www.usnews.com/news/world/articles/2026-06-16/europeans-to-test-trump-on-iran-deal-risks-urge-ukraine-rethink-at-g7"},
+        {"label": "Al Jazeera — Iran deal questions answered, June 15", "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered"},
+        {"label": "JNS — Netanyahu: Iran will not have nukes", "url": "https://www.jns.org/news/israel-news/netanyahu-iran-will-not-have-nukes-with-or-without-an-agreement"},
+        {"label": "CBS News — Iran deal complete, June 15", "url": "https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/"}
       ]
     },
     {
@@ -175,110 +107,71 @@
       "trend": "steady",
       "basis": "AES states hold the cities, the budgets, and the gold; JNIM demonstrated operational reach with April's simultaneous assault and the killing of Mali's defense minister. The Russian guarantee failed visibly at Kidal. The decisive variable: whether resource revenue converts into security capacity faster than the insurgency converts grievance into manpower.",
       "sources": [
-        {
-          "label": "Al Jazeera — Camara killed",
-          "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"
-        },
-        {
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases"
-        }
+        {"label": "Al Jazeera — Camara killed", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"},
+        {"label": "PBS NewsHour", "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases"}
       ]
     }
   ],
   "predictions": [
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
-      "resolves": "war's end",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
-      "resolves": "2027-06",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
-      "resolves": "2026 BRICS summit",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
-      "resolves": "Q4 2026 data (Jan 2027)",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "tea",
-      "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
-      "resolves": "2026-07-19",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-11",
-      "kind": "desk",
-      "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
-      "resolves": "2026-09-01",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-12",
-      "kind": "desk",
-      "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.",
-      "resolves": "2026-06-25",
-      "status": "hit"
-    },
-    {
-      "filed": "2026-06-14",
-      "kind": "desk",
-      "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk will record it here.",
-      "resolves": "2026-06-30",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-15",
-      "kind": "desk",
-      "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
-      "resolves": "2026-09-19",
-      "status": "open"
-    }
+    {"filed": "2026-06-10", "kind": "desk", "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.", "resolves": "war's end", "status": "open"},
+    {"filed": "2026-06-10", "kind": "desk", "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.", "resolves": "2027-06", "status": "open"},
+    {"filed": "2026-06-10", "kind": "desk", "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.", "resolves": "2026 BRICS summit", "status": "open"},
+    {"filed": "2026-06-10", "kind": "desk", "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.", "resolves": "Q4 2026 data (Jan 2027)", "status": "open"},
+    {"filed": "2026-06-10", "kind": "tea", "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.", "resolves": "2026-07-19", "status": "open"},
+    {"filed": "2026-06-11", "kind": "desk", "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.", "resolves": "2026-09-01", "status": "open"},
+    {"filed": "2026-06-12", "kind": "desk", "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.", "resolves": "2026-06-25", "status": "hit"},
+    {"filed": "2026-06-14", "kind": "desk", "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk will record it here.", "resolves": "2026-06-30", "status": "open"},
+    {"filed": "2026-06-15", "kind": "desk", "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.", "resolves": "2026-09-19", "status": "open"},
+    {"filed": "2026-06-16", "kind": "desk", "claim": "China's retail sales, having fallen 0.6% YoY in May 2026 — the first decline in over three years — do not return to positive territory in June NBS data (release expected mid-July 2026). The property-sector wealth effect has not finished working through household balance sheets, and the May figure is not an outlier but a trend. If June retail sales return to positive, the desk records the error.", "resolves": "2026-07", "status": "open"}
   ],
   "coverage": [
     {
+      "date": "2026-06-16",
+      "items": [
+        {"text": "The demand side does not turn: China May NBS — retail sales -0.6% (first decline since Dec 2022), FAI -4.1% Jan-May (vs -1.6% Jan-April, contraction nearly tripling), industrial output +4.5%; two-speed economy", "links": [
+          {"label": "CNBC — China May NBS data, June 16", "url": "https://www.cnbc.com/amp/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html"},
+          {"label": "Reuters/Investing.com — retail sales first decline in three years", "url": "https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743"}
+        ]},
+        {"text": "G7 in France — Atlantic order's internal account: Europeans warn Trump Iran deal risks entrenching nuclear/missile programs; Netanyahu declares Iranian nukes off the table 'with or without an agreement'; Trump eyes Ukraine peace next", "links": [
+          {"label": "US News — Europeans warn Trump at G7, June 16", "url": "https://www.usnews.com/news/world/articles/2026-06-16/europeans-to-test-trump-on-iran-deal-risks-urge-ukraine-rethink-at-g7"},
+          {"label": "Al Jazeera — Iran deal explained, June 15", "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered"},
+          {"label": "JNS — Netanyahu on Iran nukes", "url": "https://www.jns.org/news/israel-news/netanyahu-iran-will-not-have-nukes-with-or-without-an-agreement"}
+        ]},
+        {"text": "Kyiv — 70 missiles, 611 drones overnight June 14-15: 30 casualties, 4 dead in Kyiv; Dormition Cathedral roof fire; Mystetskyi Arsenal struck; 192 combat engagements June 15 (highest Pokrovsk); Russia-decisive holds, tempo escalating", "links": [
+          {"label": "Martyanov — Reminiscence of the Future", "url": "https://smoothiex12.blogspot.com/"},
+          {"label": "Ukrinform war section (Ukrainian source)", "url": "https://www.ukrinform.net/rubric-ato"}
+        ]},
+        {"text": "AES from declarations to roadmaps: Ministers of Industry and Trade meet Burkina Faso June 15; PM Ouedraogo: 'enough declarations — tangible results'; target double intraregional trade by 2028; mandatory roadmap with monitoring mechanism", "links": [
+          {"label": "Pravda Burkina Faso — AES trade ministers, June 15", "url": "https://burkina-faso.news-pravda.com/en/world/2026/06/15/6908.html"}
+        ]}
+      ],
+      "watching": [
+        "July Politburo response to May NBS demand-side deterioration; whether stimulus materializes",
+        "June NBS retail sales (mid-July): does the -0.6% reverse or deepen?",
+        "G7 communiqué on Ukraine: binding aid pledges or ceremony",
+        "Iran nuclear chapter: 60-day talks structure and enforcement mechanism",
+        "Tumen bridge cargo volumes and types after June 19 opening",
+        "Pokrovsk sector: confirmed territorial movement in next 7-10 days"
+      ]
+    },
+    {
       "date": "2026-06-15",
       "items": [
-        {
-          "text": "The ceremony is set for June 19: Trump declares Iran deal complete; signing in Switzerland; G7 welcomes it; UK/France/Germany/Italy ready to lift sanctions; nuclear chapter deferred to 60-day talks; Netanyahu not bound by Lebanon provisions",
-          "links": [
-            {"label": "CBS News — Iran deal live updates, June 15", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"},
-            {"label": "Business Standard — signing set June 19", "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"},
-            {"label": "Pravda Italy — EU sanctions statement", "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"}
-          ]
-        },
-        {
-          "text": "Rybinsk — Ukraine hits Russia's federal strategic fuel reserve (Temp Combine, Yaroslavl), 700km+ inside Russia, second strike; Russia June drone record: 5,438 UAVs; Martyanov June 13: 87% effectiveness from artillery + air",
-          "links": [
-            {"label": "Militarnyi — Rybinsk strike, June 14", "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"},
-            {"label": "PBS NewsHour — record June drones", "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"},
-            {"label": "Martyanov, June 13", "url": "https://smoothiex12.blogspot.com/"}
-          ]
-        },
-        {
-          "text": "China May NBS data drops today; April context: FAI -1.6% cumulative, retail sales 0.2% YoY (40-month low); Caixin May PMI 51.8; Iran deal removes oil-war premium from May calculations",
-          "links": [
-            {"label": "CNBC — April data, May 18", "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"},
-            {"label": "NBS — Jan-Apr 2026", "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"},
-            {"label": "CNBC — May Caixin PMI", "url": "https://www.cnbc.com/2026/06/01/chinas-factory-activity-beats-forecasts-in-may-private-survey-shows-despite-softer-official-data.html"}
-          ]
-        }
+        {"text": "The ceremony is set for June 19: Trump declares Iran deal complete; signing in Switzerland; G7 welcomes it; UK/France/Germany/Italy ready to lift sanctions; nuclear chapter deferred to 60-day talks; Netanyahu not bound by Lebanon provisions", "links": [
+          {"label": "CBS News — Iran deal live updates, June 15", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"},
+          {"label": "Business Standard — signing set June 19", "url": "https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html"},
+          {"label": "Pravda Italy — EU sanctions statement", "url": "https://italy.news-pravda.com/en/world/2026/06/15/40833.html"}
+        ]},
+        {"text": "Rybinsk — Ukraine hits Russia's federal strategic fuel reserve (Temp Combine, Yaroslavl), 700km+ inside Russia, second strike; Russia June drone record: 5,438 UAVs; Martyanov June 13: 87% effectiveness from artillery + air", "links": [
+          {"label": "Militarnyi — Rybinsk strike, June 14", "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-oil-depot-of-russia-s-federal-agency-for-state-reserves-in-yaroslavl-region/"},
+          {"label": "PBS NewsHour — record June drones", "url": "https://www.pbs.org/newshour/amp/world/after-record-russian-drone-attacks-in-june-ukrainian-drone-hits-industrial-plant-deep-inside-russia"},
+          {"label": "Martyanov, June 13", "url": "https://smoothiex12.blogspot.com/"}
+        ]},
+        {"text": "China May NBS data drops today; April context: FAI -1.6% cumulative, retail sales 0.2% YoY (40-month low); Caixin May PMI 51.8; Iran deal removes oil-war premium from May calculations", "links": [
+          {"label": "CNBC — April data, May 18", "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"},
+          {"label": "NBS — Jan-Apr 2026", "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"},
+          {"label": "CNBC — May Caixin PMI", "url": "https://www.cnbc.com/2026/06/01/chinas-factory-activity-beats-forecasts-in-may-private-survey-shows-despite-softer-official-data.html"}
+        ]}
       ],
       "watching": [
         "Whether 60-day post-signing nuclear talks produce a verified freeze or collapse",
@@ -291,28 +184,19 @@
     {
       "date": "2026-06-14",
       "items": [
-        {
-          "text": "The front has hardened: Russia-decisive call holds with timeline revision; Jan-May 2026 advance pace 92% below 2025; Martyanov extends horizon to 2029; attrition tempo maintained (118 drones June 13)",
-          "links": [
-            {"label": "Martyanov, June 12", "url": "https://smoothiex12.blogspot.com/"},
-            {"label": "Euronews — Cheboksary, June 10", "url": "https://www.euronews.com/my-europe/2026/06/10/kyiv-hit-russian-military-plant-using-ukrainian-made-flamingo-missile-zelenskyy-says"}
-          ]
-        },
-        {
-          "text": "DPRK: Tumen bridge June 19 countdown — no delays reported; Kim naval expansion (destroyer, 10,000-ton warship) now on watch list",
-          "links": [
-            {"label": "Wikipedia — Khasan-Tumangang Bridge", "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"},
-            {"label": "IP Defense Forum — bridge leverage", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"},
-            {"label": "AEI Korean Peninsula Update, June 9", "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/"}
-          ]
-        },
-        {
-          "text": "The BIS number and what it does not settle: dollar FX share 89.2% is the adversary's argument; reserve share and trade settlement tell the structural story",
-          "links": [
-            {"label": "The Block — mBridge $55B", "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"},
-            {"label": "Asia Times — BRICS dedollarization route", "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/"}
-          ]
-        }
+        {"text": "The front has hardened: Russia-decisive call holds with timeline revision; Jan-May 2026 advance pace 92% below 2025; Martyanov extends horizon to 2029; attrition tempo maintained", "links": [
+          {"label": "Martyanov, June 12", "url": "https://smoothiex12.blogspot.com/"},
+          {"label": "Euronews — Cheboksary, June 10", "url": "https://www.euronews.com/my-europe/2026/06/10/kyiv-hit-russian-military-plant-using-ukrainian-made-flamingo-missile-zelenskyy-says"}
+        ]},
+        {"text": "DPRK: Tumen bridge June 19 countdown — no delays reported; Kim naval expansion (destroyer, 10,000-ton warship) now on watch list", "links": [
+          {"label": "Wikipedia — Khasan-Tumangang Bridge", "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"},
+          {"label": "IP Defense Forum — bridge leverage", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"},
+          {"label": "AEI Korean Peninsula Update, June 9", "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/"}
+        ]},
+        {"text": "The BIS number and what it does not settle: dollar FX share 89.2% is the adversary's argument; reserve share and trade settlement tell the structural story", "links": [
+          {"label": "The Block — mBridge $55B", "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"},
+          {"label": "Asia Times — BRICS dedollarization route", "url": "https://asiatimes.com/2026/02/a-stable-and-smart-brics-route-to-de-dollarization/"}
+        ]}
       ],
       "watching": [
         "Tumen bridge cargo volumes and Beijing customs response (June 19 opening)",
@@ -324,29 +208,20 @@
     {
       "date": "2026-06-13",
       "items": [
-        {
-          "text": "The Islamabad MOU: Iran deal text agreed, Hormuz drones fly anyway, nuclear chapter deferred",
-          "links": [
-            {"label": "Express Tribune, June 13", "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"},
-            {"label": "Euronews, June 12", "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-at-together"},
-            {"label": "RFERL", "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"}
-          ]
-        },
-        {
-          "text": "Russia Day on the refineries: Tatarstan and Samara struck, 'brotherly people' language dropped from Russian discourse",
-          "links": [
-            {"label": "Martyanov, June 11", "url": "https://smoothiex12.blogspot.com/"},
-            {"label": "Kyiv Post, June 12 (Ukrainian source)", "url": "https://www.kyivpost.com/post/78014"},
-            {"label": "Al Jazeera — refinery campaign", "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"}
-          ]
-        },
-        {
-          "text": "Beijing reads the oil signal: Iran deal drops price 3%, wartime stockpiling unwinds, yuan toll ends — structure holds",
-          "links": [
-            {"label": "CNBC, June 9", "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"},
-            {"label": "USCC China Bulletin, June 9", "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-june-9-2026"}
-          ]
-        }
+        {"text": "The Islamabad MOU: Iran deal text agreed, Hormuz drones fly anyway, nuclear chapter deferred", "links": [
+          {"label": "Express Tribune, June 13", "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"},
+          {"label": "Euronews, June 12", "url": "https://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-at-together"},
+          {"label": "RFERL", "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"}
+        ]},
+        {"text": "Russia Day on the refineries: Tatarstan and Samara struck, 'brotherly people' language dropped from Russian discourse", "links": [
+          {"label": "Martyanov, June 11", "url": "https://smoothiex12.blogspot.com/"},
+          {"label": "Kyiv Post, June 12 (Ukrainian source)", "url": "https://www.kyivpost.com/post/78014"},
+          {"label": "Al Jazeera — refinery campaign", "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"}
+        ]},
+        {"text": "Beijing reads the oil signal: Iran deal drops price 3%, wartime stockpiling unwinds, yuan toll ends — structure holds", "links": [
+          {"label": "CNBC, June 9", "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"},
+          {"label": "USCC China Bulletin, June 9", "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-june-9-2026"}
+        ]}
       ],
       "watching": [
         "US-Iran nuclear chapter gap (enrichment vs. freeze — the deal's unresolved spine)",
@@ -358,27 +233,18 @@
     {
       "date": "2026-06-12",
       "items": [
-        {
-          "text": "Trump names the island: Kharg seizure threat, ceasefire 'meaningless,' negotiations elevated",
-          "links": [
-            {"label": "Euronews, June 11", "url": "https://www.euronews.com/2026/06/11/us-will-seize-and-control-irans-kharg-island-and-other-key-oil-facilities-trump-says"},
-            {"label": "Fox News live blog, June 11", "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-june-11"}
-          ]
-        },
-        {
-          "text": "The Tumen road: Russia-DPRK first road bridge opens June 19, second land corridor for Pyongyang",
-          "links": [
-            {"label": "Wikipedia -- Khasan-Tumangang Bridge", "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"},
-            {"label": "India Defence Review", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/"},
-            {"label": "Radio Free Asia", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/"}
-          ]
-        },
-        {
-          "text": "Ukraine — the pace that wins: Zubr serial production, NATO doctrine gap acknowledged, Geneva talks frozen",
-          "links": [
-            {"label": "Martyanov, Reminiscence of the Future", "url": "https://smoothiex12.blogspot.com/"}
-          ]
-        }
+        {"text": "Trump names the island: Kharg seizure threat, ceasefire 'meaningless,' negotiations elevated", "links": [
+          {"label": "Euronews, June 11", "url": "https://www.euronews.com/2026/06/11/us-will-seize-and-control-irans-kharg-island-and-other-key-oil-facilities-trump-says"},
+          {"label": "Fox News live blog, June 11", "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-june-11"}
+        ]},
+        {"text": "The Tumen road: Russia-DPRK first road bridge opens June 19, second land corridor for Pyongyang", "links": [
+          {"label": "Wikipedia -- Khasan-Tumangang Bridge", "url": "https://en.wikipedia.org/wiki/Khasan%E2%80%93Tumangang_Bridge"},
+          {"label": "India Defence Review", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/"},
+          {"label": "Radio Free Asia", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/"}
+        ]},
+        {"text": "Ukraine — the pace that wins: Zubr serial production, NATO doctrine gap acknowledged, Geneva talks frozen", "links": [
+          {"label": "Martyanov, Reminiscence of the Future", "url": "https://smoothiex12.blogspot.com/"}
+        ]}
       ],
       "watching": [
         "Iran ceasefire extension or collapse (before June 25)",
@@ -391,36 +257,24 @@
     {
       "date": "2026-06-11",
       "items": [
-        {
-          "text": "Two blows to the logistics chain: Davydov car bomb, Kuibyshev refinery offline",
-          "links": [
-            {"label": "Meduza", "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing"},
-            {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"},
-            {"label": "Ukrinform/Reuters", "url": "https://www.ukrinform.net/rubric-ato/4132597-kuibyshev-oil-refinery-halts-processing-after-drone-attack-reuters.html"}
-          ]
-        },
-        {
-          "text": "Kharg Island, spared for now: US strikes military targets, threatens oil infrastructure",
-          "links": [
-            {"label": "NBC News", "url": "https://www.nbcnews.com/world/iran/iran-threatens-strike-oil-facilities-us-hits-military-targets-kharg-is-rcna263453"},
-            {"label": "NBC (ceasefire)", "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039"},
-            {"label": "CNBC (oil)", "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"}
-          ]
-        },
-        {
-          "text": "Beijing's May numbers: exports +19.4%, semiconductors +66.5%, narrative loses again",
-          "links": [
-            {"label": "CNBC", "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"},
-            {"label": "China Global South", "url": "https://chinaglobalsouth.com/2026/06/09/china-exports-may-2026-trade-surplus-global-demand/"},
-            {"label": "AIMS FX", "url": "https://aimsfx.com/2026/06/09/china-reports-substantial-growth-in-exports-and-imports-in-may-2026-surpassing-market-expectations/"}
-          ]
-        },
-        {
-          "text": "The standing reference reads the air defense ledger: Hodges confirms 9/9 Kyiv unintercepted",
-          "links": [
-            {"label": "Martyanov, Reminiscence of the Future", "url": "https://smoothiex12.blogspot.com/"}
-          ]
-        }
+        {"text": "Two blows to the logistics chain: Davydov car bomb, Kuibyshev refinery offline", "links": [
+          {"label": "Meduza", "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing"},
+          {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries"},
+          {"label": "Ukrinform/Reuters", "url": "https://www.ukrinform.net/rubric-ato/4132597-kuibyshev-oil-refinery-halts-processing-after-drone-attack-reuters.html"}
+        ]},
+        {"text": "Kharg Island, spared for now: US strikes military targets, threatens oil infrastructure", "links": [
+          {"label": "NBC News", "url": "https://www.nbcnews.com/world/iran/iran-threatens-strike-oil-facilities-us-hits-military-targets-kharg-is-rcna263453"},
+          {"label": "NBC (ceasefire)", "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039"},
+          {"label": "CNBC (oil)", "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"}
+        ]},
+        {"text": "Beijing's May numbers: exports +19.4%, semiconductors +66.5%, narrative loses again", "links": [
+          {"label": "CNBC", "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"},
+          {"label": "China Global South", "url": "https://chinaglobalsouth.com/2026/06/09/china-exports-may-2026-trade-surplus-global-demand/"},
+          {"label": "AIMS FX", "url": "https://aimsfx.com/2026/06/09/china-reports-substantial-growth-in-exports-and-imports-in-may-2026-surpassing-market-expectations/"}
+        ]},
+        {"text": "The standing reference reads the air defense ledger: Hodges confirms 9/9 Kyiv unintercepted", "links": [
+          {"label": "Martyanov, Reminiscence of the Future", "url": "https://smoothiex12.blogspot.com/"}
+        ]}
       ],
       "watching": [
         "Iran war ceasefire and Kharg Island oil infrastructure",
@@ -433,20 +287,14 @@
     {
       "date": "2026-06-10",
       "items": [
-        {
-          "text": "Xi crosses the Yalu, again — and declines to mention the bomb",
-          "links": [
-            {"label": "NPR", "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance"},
-            {"label": "Seoul Economic Daily", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes"},
-            {"label": "Inquirer", "url": "https://www.inquirer.com/news/nation-world/china-north-korea-xi-kim-jon-un-meet-pyongyang-russia-us-20260608.html"}
-          ]
-        },
-        {
-          "text": "Kidal falls, and the AES counts its dead (April events — filed stale; see Corrections)",
-          "links": [
-            {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"}
-          ]
-        }
+        {"text": "Xi crosses the Yalu, again — and declines to mention the bomb", "links": [
+          {"label": "NPR", "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance"},
+          {"label": "Seoul Economic Daily", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes"},
+          {"label": "Inquirer", "url": "https://www.inquirer.com/news/nation-world/china-north-korea-xi-kim-jon-un-meet-pyongyang-russia-us-20260608.html"}
+        ]},
+        {"text": "Kidal falls, and the AES counts its dead (April events — filed stale; see Corrections)", "links": [
+          {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"}
+        ]}
       ],
       "watching": [
         "DPRK nuclear recognition at multilateral forums",
