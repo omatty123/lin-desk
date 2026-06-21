@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-20",
-  "edition": 12,
+  "updated": "2026-06-21",
+  "edition": 13,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The Lujiazui Forum on June 17-18 produced two moves that belong together: the PBOC FIMA RMB repo facility and He Lifeng's anti-sanctions blocking legislation — plumbing and armor, announced from the same podium. The SSE rose 0.44 percent. The desk reads the pair: the adversary's financial enforcement model rests on two assumptions, dollar liquidity uniquely accessible and US extraterritorial sanctions the ultimate tool; in two days from the same platform, Beijing addressed both. Today the Khasan-Tumangang road bridge opened — the first direct road connection between Russia and the DPRK — adding a second land corridor to the bloc that is building infrastructure while the Atlantic order is signing memoranda. Structural multipolarity is now a construction project on three continents simultaneously.",
-      "watching": "First cargo types and volumes on the Tumen bridge; whether foreign central bank drawdowns on the FIMA RMB facility appear in quarterly disclosure data; whether He Lifeng's anti-sanctions legislation when enacted carries extraterritorial reach; BRICS Bridge framework at the India summit.",
+      "verdict": "The Lujiazui Forum on June 17-18 produced two moves that belong together: the PBOC FIMA RMB repo facility and He Lifeng's anti-sanctions blocking legislation — plumbing and armor, announced from the same podium. The SSE rose 0.44 percent. Then the Khasan-Tumangang road bridge opened June 19 — the first direct road connection between Russia and the DPRK — adding a second land corridor to the bloc that is building infrastructure while the Atlantic order is signing memoranda. And on June 21 the mediation architecture at Burgenstock provided the clearest daily data point yet: Pakistan's prime minister and military chief, Qatar's delegation, Switzerland as host — and no European power in the room in any mediating capacity for the most consequential US-Iran negotiations in a decade. This is what the multipolar transition looks like in practice: not a BRICS declaration, but a seating chart. The institutions that were supposed to organize these things organized nothing here.",
+      "watching": "Whether the Burgenstock mediation coalition (Pakistan, Qatar, Switzerland) becomes the standing architecture for the nuclear chapter; first cargo types and volumes on the Tumen bridge; whether foreign central bank drawdowns on the FIMA RMB facility appear in quarterly disclosure data; whether He Lifeng's anti-sanctions legislation carries extraterritorial reach when enacted; BRICS Bridge framework at the India summit.",
       "sources": [
         {
           "label": "Crypto Briefing — China FIMA RMB repo facility, June 17",
@@ -32,6 +32,14 @@
         {
           "label": "IP Defense Forum — Tumen bridge leverage over China",
           "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"
+        },
+        {
+          "label": "Al Jazeera — Iran war day 114: US, Iranian delegations in Switzerland, June 21",
+          "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
+        },
+        {
+          "label": "PBS NewsHour — US-Iran talks begin Sunday in Switzerland",
+          "url": "https://www.pbs.org/newshour/world/u-s-iran-talks-to-begin-sunday-in-switzerland-as-tehran-closes-the-strait-over-lebanon-fighting"
         }
       ]
     },
@@ -135,8 +143,8 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Trump signed the US-Iran Memorandum of Understanding on June 18 at a G7 dinner in Versailles — Pezeshkian signing remotely — and by the following morning the planned nuclear talks at Bürgenstock were canceled before they began. The sixty-day window's second day produced a sharper test: Israeli strikes on southern Lebanon killed at least twenty-one people, including a lieutenant colonel among four Israeli soldiers killed by a Hezbollah explosive. Iran refused to send its delegation while Israeli operations continued under a framework meant to stop them. The parties settled on a renewed ceasefire by evening — brokered by Qatar, the US, and Iran — but Israel's military declined to withdraw from the 'security zone' the MOU requires it to vacate, and no new date was set for the nuclear talks. Two days into the sixty-day window: zero sessions held. The desk notes what the episode reveals about structure: Washington signed a framework requiring Israeli restraint and cannot deliver it. The adversary — Tehran — has drawn the obvious conclusion and is behaving accordingly. The desk's June 15 prediction — no verified enrichment freeze before September 2026 — is unchanged and easier to hold with each day that passes.",
-      "watching": "Whether Lebanon ceasefire holds; whether Iran sends its delegation to any rescheduled nuclear session; whether the first nuclear session occurs before July 4 (June 19 desk prediction); whether the fourteen-point MOU framework survives a second Israeli operation in Lebanon.",
+      "verdict": "Trump signed the US-Iran Memorandum of Understanding on June 18. The sixty-day window's third day (June 21) produced the first substantive session at Burgenstock — the desk's June 19 prediction (no first session before July 4) was falsified in 48 hours, and the desk records the miss. What moved Iran's calculus: Tehran declared the Strait of Hormuz closed on June 20, citing Israeli Lebanon strikes that killed at least sixteen people including two children; CENTCOM disputed the closure (55 ships transited); and Tehran sent its full delegation to Switzerland anyway. The Hormuz declaration was leverage management — grievance on the record before walking in the door, then walking in. The structural contradiction sharpened again: on June 20, Israeli forces struck southern Lebanon killing sixteen-plus; the IDF refused to vacate the 'security zone' the MOU requires it to leave; Washington brokered a third ceasefire renewal in under a week and the IDF stayed. The parties now most responsible for maintaining the conditions under which Iran can negotiate are the two parties Washington cannot simultaneously satisfy: Tehran requires Israeli restraint; Israel exercises independent operational authority. The desk's June 15 prediction — no verified enrichment freeze before September 2026 — is unchanged. A session is not an agreement.",
+      "watching": "Whether Lebanon ceasefire holds through the first week of talks — a third Israeli operation triggers Iran walkout; whether the talks produce a procedure for the nuclear chapter or substantive commitments; whether the Burgenstock mediation architecture (Pakistan, Qatar, Switzerland) becomes the permanent framework; whether the June 15 prediction (no verified enrichment freeze before September) holds.",
       "sources": [
         {
           "label": "RTÉ — Switzerland says US-Iran talks postponed, June 19",
@@ -165,6 +173,22 @@
         {
           "label": "CNN — June 19 live news: ceasefire renewed, Iran war",
           "url": "https://www.cnn.com/2026/06/19/world/live-news/iran-war-trump-israel-lebanon"
+        },
+        {
+          "label": "PBS NewsHour — US-Iran talks begin Sunday in Switzerland",
+          "url": "https://www.pbs.org/newshour/world/u-s-iran-talks-to-begin-sunday-in-switzerland-as-tehran-closes-the-strait-over-lebanon-fighting"
+        },
+        {
+          "label": "Al Jazeera — Iran war day 114: US, Iranian delegations in Switzerland, June 21",
+          "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
+        },
+        {
+          "label": "CNBC — Iran reportedly closes Strait of Hormuz again, June 20",
+          "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
+        },
+        {
+          "label": "The Hill — Vance arrives in Switzerland for Iran talks, June 21",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-us-vice-president-jd-vance-arrives-in-switzerland-to-launch-talks-with-iran-on-its-nuclear-program/"
         }
       ]
     }
@@ -202,9 +226,9 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Settlement — MOU signed June 18; ceasefire renewed June 19 after IDF-Hezbollah flare-up; nuclear talks at Bürgenstock cancelled; 60-day window running with zero sessions held",
+      "advantage": "Settlement — MOU signed June 18; first substantive nuclear session opened June 21 at Burgenstock; Lebanon IDF still in 'security zone' despite MOU requirement; Iran IRGC declared Hormuz closed June 20 (disputed by US CENTCOM — 55 ships transited); Tehran sent full delegation to talks anyway",
       "trend": "de-escalating",
-      "basis": "The MOU was signed June 18. On June 19, the ceasefire nearly collapsed: Israeli strikes on southern and eastern Lebanon killed at least twenty-one people; four Israeli soldiers died, including a lieutenant colonel killed when a Hezbollah explosive struck a tank. Iran refused to send its nuclear talks delegation to Bürgenstock while Israeli operations continued. Qatar, the United States, and Iran brokered a renewed ceasefire by evening — but the IDF stays in the 'security zone' the MOU requires it to vacate; no new date for nuclear talks was set. Hormuz remains open (confirmed by Tanker Trackers June 17, first Iranian crude exports cleared the strait). As of June 20: sixty-day window running two days, zero sessions held. The structural obstacle is now visible: Washington cannot compel Israeli restraint, and Tehran will not negotiate under active Israeli military operations. The desk's June 15 prediction — no verified enrichment freeze before September 2026 — is unchanged. The desk's June 19 prediction — no first substantive nuclear session before July 4 — is on track.",
+      "basis": "The MOU was signed June 18. The sixty-day window's third day produced the first substantive session: Vance, Witkoff, Kushner for Washington; Qalibaf and Araghchi with central bank and energy officials for Tehran; Pakistan's PM and military chief and Qatar's delegation as mediators. On June 20, Iran's IRGC declared the Strait of Hormuz closed — claiming Israeli Lebanon strikes (which killed at least sixteen people, including two children) violated the MOU's ceasefire requirement. CENTCOM denied the closure: 55 merchant ships transited that day. Tehran came to Burgenstock anyway. The Hormuz declaration was leverage management — establishing grievance before entering negotiations. The IDF remains in southern Lebanon's 'security zone' the MOU requires it to vacate; Washington has now brokered three ceasefire renewals in under a week without securing Israeli compliance. The desk's June 19 prediction (no first session before July 4) is a miss — recorded in corrections. The June 15 prediction (no verified enrichment freeze before September 2026) is unchanged: a session is not an agreement, and the 440 kilograms of 60%-enriched uranium have not moved.",
       "sources": [
         {
           "label": "RTÉ — Switzerland says US-Iran talks postponed, June 19",
@@ -216,7 +240,7 @@
         },
         {
           "label": "PBS NewsHour — Israel and Hezbollah renew ceasefire, US-Iran talks off, June 19",
-          "url": "https://www.pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-fighting-in-lebanon"
+          "url": "https://www.pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-remaining-fighting-in-lebanon"
         },
         {
           "label": "CNN — June 19 live news: ceasefire renewed, Iran war",
@@ -225,6 +249,18 @@
         {
           "label": "RFERL — Iran first oil exports leave Hormuz, June 17",
           "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        },
+        {
+          "label": "PBS NewsHour — US-Iran talks begin Sunday in Switzerland, June 21",
+          "url": "https://www.pbs.org/newshour/world/u-s-iran-talks-to-begin-sunday-in-switzerland-as-tehran-closes-the-strait-over-lebanon-fighting"
+        },
+        {
+          "label": "Al Jazeera — Iran war day 114: US, Iranian delegations in Switzerland, June 21",
+          "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
+        },
+        {
+          "label": "CNBC — Iran reportedly closes Strait of Hormuz again, June 20",
+          "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
         }
       ]
     },
@@ -329,10 +365,70 @@
       "kind": "desk",
       "claim": "Iran nuclear talks do not hold their first substantive session before July 4, 2026. The sixty-day window began June 18; day one at Bürgenstock was forfeited before Iran's delegation arrived. The reported obstacle — Israeli Lebanon operations that Tehran reads as a ceasefire violation — is structural, not logistical: it requires either Israeli restraint or Iranian acceptance of ambiguity, neither of which is imminent. If a first session occurs before July 4, the desk records the miss.",
       "resolves": "2026-07-04",
-      "status": "open"
+      "status": "miss"
     }
   ],
   "coverage": [
+    {
+      "date": "2026-06-21",
+      "items": [
+        {
+          "text": "THE DESK RECORDS A MISS — BURGENSTOCK, JUNE 21: Desk June 19 prediction (no first session before July 4) falsified in 48 hours. Vance + Witkoff + Kushner (US); Qalibaf + Araghchi + central bank/oil officials (Iran); Pakistan PM Sharif + Field Marshal Munir; Qatar — all in Burgenstock. June 20: Iran declared Hormuz closed (IRGC), CENTCOM denied (55 ships transited); Israeli Lebanon strikes killed 16+ including 2 children; Tehran came to table anyway. Hormuz declaration = leverage management, not operational intent. June 15 prediction unchanged: a session is not an enrichment freeze.",
+          "links": [
+            {
+              "label": "PBS NewsHour — US-Iran talks begin Sunday in Switzerland",
+              "url": "https://www.pbs.org/newshour/world/u-s-iran-talks-to-begin-sunday-in-switzerland-as-tehran-closes-the-strait-over-lebanon-fighting"
+            },
+            {
+              "label": "Al Jazeera — Iran war day 114: US, Iranian delegations in Switzerland",
+              "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
+            },
+            {
+              "label": "CNBC — Iran reportedly closes Strait of Hormuz again, June 20",
+              "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
+            },
+            {
+              "label": "The Hill — Vance arrives in Switzerland, June 21",
+              "url": "https://thehill.com/homenews/ap/ap-international/ap-us-vice-president-jd-vance-arrives-in-switzerland-to-launch-talks-with-iran-on-its-nuclear-program/"
+            }
+          ]
+        },
+        {
+          "text": "THE SEATING CHART IS THE STORY — MULTIPOLARITY AT BURGENSTOCK: Pakistan PM + military chief, Qatar, Switzerland — no European power as mediator. G7 France communique (nuclear chapter concerns) reached no one who matters. Actual event-movers: Pakistan (China's ally, nuclear state, access to both parties), Qatar (holds Iranian frozen funds, talks to Hamas/Houthis/White House), Switzerland (neutral, trusted). The multipolar transition in practice: not a BRICS declaration, a seating chart.",
+          "links": [
+            {
+              "label": "Al Jazeera — Iran war day 114: US, Iranian delegations in Switzerland",
+              "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
+            }
+          ]
+        },
+        {
+          "text": "UKRAINE MATERIAL LEDGER — ISW JUNE 20: Ukrainian forces striking bridges and transport infrastructure on Russian GLOCs connecting Crimea to supply network. Russia launched 99 drones against Ukraine overnight June 19-20. Russian command adapting drone campaign post-Starlink targeting disruption. Ukraine also struck Crimea oil/energy infrastructure overnight June 19-20. Konstantinovka: consolidation phase continuing — no dramatic update, which is consistent with how Russian urban operations have run since Bakhmut. July 4 desk prediction on track.",
+          "links": [
+            {
+              "label": "Martyanov — Reminiscence of the Future (standing reference)",
+              "url": "https://smoothiex12.blogspot.com/"
+            },
+            {
+              "label": "ISW/Critical Threats via Kyiv Post — June 20 assessment",
+              "url": "https://www.kyivpost.com/post/78621"
+            }
+          ]
+        },
+        {
+          "text": "DPRK thin day: Tumen bridge date (June 19 = 2nd anniversary Russia-DPRK Strategic Partnership Treaty) was deliberate signaling. Cargo data: watching. SAHEL thin day: IMF Executive Board Burkina Faso $104.89M vote expected before end of June.",
+          "links": []
+        }
+      ],
+      "watching": [
+        "Iran nuclear talks week one — does session 2 happen, or does a new Lebanese flare-up trigger Iran walkout",
+        "Lebanon ceasefire — IDF still in 'security zone'; third Israeli operation = Iran walkout + Hormuz escalation",
+        "June 15 prediction live: no verified enrichment freeze before September 2026",
+        "Konstantinovka: July 4 prediction (80% Russian operational control) on track",
+        "IMF Burkina Faso $104.89M Board vote — before end of June",
+        "Spain World Cup — Saudi Arabia 1-0 win June 21 leaves Spain with 1 point from 2 group games; tea prediction (Spain lifts cup July 19) under pressure but not falsified"
+      ]
+    },
     {
       "date": "2026-06-20",
       "items": [
@@ -833,6 +929,10 @@
     {
       "date": "2026-06-10",
       "text": "The desk filed April's Kidal events as the morning's news — six weeks stale. The reader caught it; the desk did not. A freshness rule now stands in the standing orders: news means the last 48 hours, older events appear only as context."
+    },
+    {
+      "date": "2026-06-21",
+      "text": "The desk filed June 19 that Iran would not hold its first substantive nuclear session before July 4. Events falsified that read in 48 hours: both delegations arrived at Burgenstock on June 21 — Vance and Qalibaf/Araghchi across the table, Pakistan PM Sharif and Field Marshal Munir present, Qatar mediating. What the desk got wrong: it underestimated how heavily Tehran weights asset unfreezing and sanctions relief against its stated Lebanon precondition. Iran declared Hormuz closed on June 20 (disputed by CENTCOM), then came to the table anyway. The June 15 prediction (no verified enrichment freeze before September 2026) is unchanged."
     }
   ]
 }
