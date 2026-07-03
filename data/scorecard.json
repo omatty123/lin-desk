@@ -1,33 +1,29 @@
 {
-  "updated": "2026-07-02",
-  "edition": 24,
+  "updated": "2026-07-03",
+  "edition": 25,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The 30 governments flying to Tehran for Ali Khamenei's state funeral (July 4-9) are the multipolar alignment made protocol. Khamenei was assassinated in the February 28 US-Israeli strikes; five months of war delayed his burial; now officials from over 30 states and religious delegations from 90-plus countries are confirming attendance. The Doha indirect session of July 1 produced what Qatar described as 'positive progress on issues related to the Islamabad Memorandum' — and then paused: all sessions suspend July 4-9 for the funeral. The diplomatic calendar of the non-Atlantic world is organized around a man the Atlantic order killed. Simultaneously in Ouagadougou: July 1 reporting confirmed that Ibrahim Traoré formalized an intelligence relationship with Israel on June 26 — the same day he severed ties with France — including operational data exchange on Islamist militants. The AES is constructing its security architecture from whatever pieces are available, without ideological restriction. Paris enters day six of its 'measures under consideration' posture with no specific actions announced; the desk's June 29 prediction is accumulating confirmation. The corridor dispute, the funeral attendance, the Ouagadougou pivot: all three are the same story about who has alternatives and who does not.",
-      "watching": "Khamenei funeral attendance count July 4-9 — final tally as multipolarity indicator; Iran July 9 talks resumption — IAEA procedural movement or another committee; France reciprocal measures — specific content when announced; AES September UNGA consolidation; July Politburo communiqué",
+      "verdict": "Khamenei's casket went on display in Tehran on July 3; the state funeral runs July 4–9 in Tehran, Qom, Mashhad, Najaf, and Karbala. The attendee list is the multipolarity alignment made protocol: Medvedev for Putin, Pakistan's PM Sharif, India's Minister of State, Chinese representatives, two senior Taliban officials, 30+ governments, 90+ religious delegations. No NATO member state is present. Mojtaba Khamenei — Supreme Leader since March — will not appear publicly at his own father's burial; Israel has named him for elimination and Tehran has taken the threat at face value. The NATO-absence map is the multipolarity map.",
+      "watching": "Mojtaba Khamenei's first public appearance post-funeral; Iran July 9 talks resumption — IAEA procedural movement or another committee; France reciprocal measures — specific content when announced; AES September UNGA consolidation; July Politburo communiqué",
       "sources": [
         {
-          "label": "RFERL — US-Iran indirect talks Doha (July 1)",
-          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+          "label": "Outlook India — Khamenei funeral: world leaders to attend",
+          "url": "https://www.outlookindia.com/international/ayatollah-ali-khamenei-funeral-india-global-leaders-to-attend-iran-state-ceremonies"
         },
         {
-          "label": "NBC News — Khamenei funeral set for July",
-          "url": "https://www.nbcnews.com/world/iran/funeral-irans-late-supreme-leader-ali-khamenei-set-july-war-delay-rcna349928"
+          "label": "Jerusalem Post — Pakistan PM Sharif, world leaders attending",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-901216"
         },
         {
-          "label": "CryptoBriefing — 30+ countries to attend funeral",
-          "url": "https://cryptobriefing.com/officials-from-30-countries-to-attend-irans-supreme-leader-funeral-in-july-2026/"
+          "label": "RT — Iran warns US and Israel against attacks on funeral",
+          "url": "https://www.rt.com/news/642514-iran-khamenei-funeral-warning/"
         },
         {
-          "label": "Independent Press — Traore strengthens Israel ties (June 30)",
-          "url": "https://independentpress.cc/burkina-fasos-traore-strengthens-israel-ties-as-anti-west-rhetoric-continues/2026/06/30/"
-        },
-        {
-          "label": "Al Jazeera — Burkina Faso cuts ties with France",
-          "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
+          "label": "Wikipedia — State funeral of Ali Khamenei",
+          "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
         }
       ]
     },
@@ -81,28 +77,16 @@
       "name_zh": "萨赫勒联盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The IMF $104.89M disbursed June 26. France severed by Burkina Faso the same day — and July 1 reporting confirmed that Traoré received the Israeli ambassador's credentials at Koulouba on June 26 as well: Simon-Clément Seroussi, Israel's envoy also accredited to Côte d'Ivoire, including non-public intelligence contacts and data exchange on Islamist militants active in the Sahel. The geometry is clear: on the day France ended, Israel began. Traoré is not ideological about his security partnerships — he has a war on seven fronts and will take Islamist-tracking intelligence from any reliable source that will provide it. France enters day six of its 'measures under consideration' posture on July 2 with nothing specific announced. The desk's June 29 prediction — that France's measures will not include anything Ouagadougou cannot absorb — is accumulating confirmation. The IMF money cleared, the AES Bamako UNGA roadmap is proceeding, and Traoré has not spoken publicly on France's response, which is the correct register for a government that already decided the relationship was over.",
+      "verdict": "The IMF $104.89M disbursed June 26. France severed by Burkina Faso the same day — and July 1 reporting confirmed that France was caught off guard. Day seven of the diplomatic rupture: no specific retaliatory measures announced. The Foreign Ministry line remains 'under review.' The June 29 desk prediction — that France's measures will be symbolic — accumulates confirmation with each day of silence. An Elysée with real leverage does not deliberate for a week. The Burkina-Israel security arrangement (credentials July 1) and the AES architecture — Russian security, Chinese trade, IMF funding — make Ouagadougou indifferent to whatever Paris eventually announces.",
       "watching": "France reciprocal measures — specific content when announced; operational details of Burkina-Israel security arrangement; AES September UNGA consolidation; Alekseyevo-Druzhkovka geolocated breakthrough — Sept 1 prediction",
       "sources": [
         {
-          "label": "Independent Press — Traore strengthens Israel ties (June 30)",
-          "url": "https://independentpress.cc/burkina-fasos-traore-strengthens-israel-ties-as-anti-west-rhetoric-continues/2026/06/30/"
-        },
-        {
-          "label": "Pravda France — Burkina-Israel rapprochement confirmed (July 1)",
-          "url": "https://france.news-pravda.com/en/world/2026/07/01/103205.html"
-        },
-        {
-          "label": "France 24 — Burkina Faso junta cuts ties with France (June 26)",
-          "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france"
-        },
-        {
-          "label": "Al Jazeera — Burkina Faso cuts ties with France",
+          "label": "Al Jazeera — Burkina Faso cuts diplomatic ties with France",
           "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
         },
         {
-          "label": "IMF — Fifth ECF Review + RSF disbursement June 26",
-          "url": "https://www.imf.org/en/news/articles/2026/06/26/pr26226-burkina-faso-imf-concl-2026-aiv-consult-5th-rev-ecf-arrgmnt-app-aug-comp-1st-rev-rsf"
+          "label": "Burkina Pravda — France caught off guard by Burkina Faso's decision",
+          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/01/7115.html"
         }
       ]
     },
@@ -110,24 +94,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "down",
-      "verdict": "China's NBS Manufacturing PMI for June: 50.3, beating the 50.1 forecast, third consecutive month of expansion. The RatingDog (formerly Caixin) private-sector PMI for June, released July 1: 51.7, steady, seventh consecutive month above 50. Both surveys beat expectations and appear to confirm a manufacturing stabilization. The desk reads both against what they do not say: output prices fell for the first time in six months (48.2), and employment remained subdued (48.4). The expansion is concentrated in AI-linked high-tech exports; domestic demand has not recovered from the May retail contraction (-0.6% YoY, first decline since December 2022). Xi Jinping's July 1 CCP 105th anniversary address declared the party has 'deeply changed the trend and trajectory of world development' — the outward-looking confidence sits atop this split economy. The Politburo's July meeting inherits: manufacturing PMIs in expansion, retail in contraction, output prices falling. The desk's June 16 prediction (retail sales not returning to positive in June) resolves when mid-July NBS data files.",
+      "verdict": "China's June Manufacturing PMI (RatingDog/Caixin series) printed 51.7, beating the 51.1 forecast and above May's 51.8 — six consecutive months of expansion above 50. The industrial and export engine is holding. The demand problem persists: May retail sales fell 0.6% YoY, the first decline in over three years. June retail does not print until mid-July. The Politburo has cover to hold rates; the question is whether they use the July meeting to signal genuine stimulus or wait for Q3 data. The desk's June 16 prediction — that June retail sales will not return to positive — is live.",
       "watching": "July Politburo communiqué — rate relief or hold; June retail sales (mid-July NBS) for June 16 prediction resolution; whether targeted stimulus appears before Q3 data",
       "sources": [
         {
-          "label": "CNBC — Xi touts CCP global influence, 105th anniversary (July 1)",
-          "url": "https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html"
+          "label": "MQL5 — China Caixin/RatingDog Manufacturing PMI June 51.7",
+          "url": "https://www.mql5.com/en/economic-calendar/china/caixin-manufacturing-pmi"
         },
         {
-          "label": "Global Times — June manufacturing PMI 50.3 (June 30)",
-          "url": "https://www.globaltimes.cn/page/202606/1364771.shtml"
-        },
-        {
-          "label": "MEXC News — Caixin/RatingDog PMI June 51.7 (July 1)",
-          "url": "https://www.mexc.com/news/1186231"
-        },
-        {
-          "label": "InvestingLive — Asia economic calendar July 1",
-          "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-01-july-2026-china-manufacturing-pmi-coming-up-again-20260630/"
+          "label": "Trading Economics — China Services PMI",
+          "url": "https://tradingeconomics.com/china/services-pmi"
         }
       ]
     },
@@ -135,7 +111,7 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "The Doha session of July 1 produced Qatar's description of 'positive progress on issues related to the Islamabad Memorandum' — and then stopped: all talks suspend July 4-9 for the state funeral of Ali Khamenei. The same day, Iranian parliament speaker Qalibaf announced that IAEA inspectors remain barred from war-damaged nuclear sites, with access restricted to Bushehr and the Tehran research reactor only — the gap between Washington's announced July 13 benchmark and Tehran's actual position is now fully public. The $6 billion in frozen assets held in Qatar will be released as purchased goods, not cash, per Deputy FM Gharibabadi. Lebanon: the IDF withdrawal remains conditioned on prior Hezbollah disarmament; Hezbollah has rejected this; IDF operations continue; the walkout trigger is live. The corridor dispute is unresolved; Hormuz maritime unions have designated the strait a 'warlike operations area' with 14 seafarers killed and 40-plus vessel attacks. France's six-day paralysis on Burkina Faso provides the corresponding data point: coercive instruments are structurally constrained against states that have secured alternative partnerships. June 15 prediction (no verified freeze before September) unchanged. June 30 prediction (Iran suspends nuclear working groups before August 1) running.",
+      "verdict": "Nuclear talks paused July 4–9 for the Khamenei state funeral. Mojtaba Khamenei's absence from his own father's burial — for security reasons — is the clearest indicator of how far the Atlantic order's reach extends: a head of state cannot attend his own father's funeral. The IAEA dispute remains structurally unresolved: Qalibaf confirmed Iran bars access to bombed sites; Vance's announced benchmarks and Tehran's public positions describe different agreements. The June 24 desk prediction — that the July 13 benchmark will produce a dispute over scope rather than verified access — is on track. Lebanon: IDF operations continue; the deconfliction cell has not stopped them.",
       "watching": "Iran July 9 talks resumption — IAEA procedural movement; Lebanon IDF walkout trigger; France reciprocal measures content; Hormuz corridor written transit language before MOU expires mid-August; July Politburo on China growth trajectory",
       "sources": [
         {
@@ -163,56 +139,36 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Russia's July 2 overnight strike: 73 missiles and 656 drones launched; 40 missiles and 602 drones intercepted; at least 22 killed, 130-plus wounded across Kyiv, Dnipropetrovsk, Poltava, and Cherkasy. Ukraine's July 1 deep-strike response: State Research Institute of Physical Measurements (Penza) — produces sensors for aviation and missile systems — struck by drones; Saky airbase in Crimea hit, Su-30SM confirmed on fire in hangar; Ufa oil refinery struck. Martyanov's July 1 analysis: combined Tornado-S/Smerch/Grad salvos produce casualty rates above 50 percent at company-battalion level; passive shelter cannot address the combined-arms fire regime. Alekseyevo-Druzhkovka: day 9 of contact phase; Yuzhnaya Group force composition (4 mech + mountain assault + airmobile brigades) unchanged; no geolocated breakthrough confirmed; September 1 prediction on track. Russia-decisive verdict unchanged.",
+      "basis": "Ukraine struck the Lukoil-Nizhegorodnefteorgsintez refinery in Kstovo (Russia's 4th largest, 17MT/yr capacity) on July 2, firing the AVT-6 primary crude unit — the fourth major refinery in the Moscow-region supply chain to be hit. These are Ukrainian General Staff claims without independent confirmation of damage scale. Russia's July 2 overnight strike on Kyiv: 73 missiles and 656 drones, 22 dead, 130+ wounded. Alekseyevo-Druzhkovka contact continues into day 10+; no geolocated breakthrough. The September 1 desk prediction for Russian operational control is on track. The deep-strike exchange is real on both sides; the material balance favors Russia on production, manpower, and territorial momentum.",
       "sources": [
         {
-          "label": "CNN — Russian strikes Kyiv July 2",
-          "url": "https://www.cnn.com/2026/07/01/world/russian-strikes-kyiv-zelensky-intl-hnk"
+          "label": "NV Ukraine — Ukrainian strikes target oil refinery in Kstovo",
+          "url": "https://english.nv.ua/russian-war/ukrainian-strikes-target-oil-refinery-in-kstovo-russian-military-sites-50621085.html"
         },
         {
-          "label": "CNBC — Russia massive strike Ukraine July 2",
-          "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html"
+          "label": "United24 — Ukraine strikes Russia's fourth-largest oil refinery",
+          "url": "https://united24media.com/war-in-ukraine/ukraine-strikes-russias-fourth-largest-oil-refinery-damaging-key-processing-unit-20372"
         },
         {
-          "label": "Kyiv Post — Ukraine hits Penza missile-linked plant (July 1)",
-          "url": "https://www.kyivpost.com/post/79335"
-        },
-        {
-          "label": "Kyiv Post — SBU hits Saky airbase (July 1)",
-          "url": "https://www.kyivpost.com/post/79350"
-        },
-        {
-          "label": "Martyanov — Reminiscence of the Future (standing reference)",
+          "label": "Reminiscence of the Future (Martyanov)",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Wikipedia — Ukraine war timeline June 2026",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(1_June_2026_%E2%80%93_present)"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "De-escalating (funeral pause) — talks suspended July 4-9; nuclear access dispute hardening",
+      "advantage": "De-escalating (funeral pause) — nuclear access dispute hardening",
       "trend": "de-escalating (stalled on nuclear)",
-      "basis": "Qatar's Foreign Ministry: 'positive progress on issues related to the Islamabad Memorandum' from July 1 Doha indirect session. All sessions now suspended July 4-9 for the state funeral of Supreme Leader Ali Khamenei (assassinated February 28; burial in Mashhad July 9). Same day: Iranian parliament speaker Qalibaf announced IAEA inspectors remain barred from war-damaged nuclear sites; access restricted to Bushehr and Tehran research reactor only. Deputy FM Gharibabadi: the $6 billion frozen in Qatar will be released as purchased goods, not cash. Hormuz: maritime unions designated the strait a 'warlike operations area'; 14 seafarers killed, 40-plus vessel attacks; 34 crossings June 30 but below pre-war levels. Lebanon: IDF operations continuing; Hezbollah rejected Washington framework; walkout trigger live. Nuclear chapter: working-group level, unchanged. June 15 prediction (no verified freeze before September) intact. June 30 prediction (Iran suspends nuclear working groups before August 1) running. Mojtaba Khamenei succeeds his father as Supreme Leader — described by analysts as less compromising on enrichment.",
+      "basis": "Doha talks produced Qatar's 'positive progress' description before pausing July 4–9 for the Khamenei state funeral. Nuclear chapter: Qalibaf confirmed Iran bars IAEA access to war-damaged sites; Vance's announced benchmarks and Tehran's public positions describe different agreements. The July 13 benchmark is live. Hormuz MOU: both sides agreed to a maritime standdown; written corridor rules remain unresolved. Lebanon: IDF operations continue; Hezbollah and Berri reject the Washington framework. The 60-day MOU expires mid-August with no verified nuclear procedure agreed.",
       "sources": [
         {
-          "label": "RFERL — US-Iran indirect talks Doha (July 1)",
-          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+          "label": "Times of Israel — US, Iran made progress at Doha talks, agree to regroup after funeral",
+          "url": "https://www.timesofisrael.com/liveblog_entry/us-iran-made-progress-at-doha-talks-agree-to-regroup-after-khamenei-funeral-qatar/"
         },
         {
-          "label": "NBC News — Khamenei funeral set for July",
-          "url": "https://www.nbcnews.com/world/iran/funeral-irans-late-supreme-leader-ali-khamenei-set-july-war-delay-rcna349928"
-        },
-        {
-          "label": "Al Jazeera — Khamenei funeral and burial dates",
-          "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei"
-        },
-        {
-          "label": "Euronews — US and Iran agree to pause, meet in Qatar",
-          "url": "https://www.euronews.com/2026/06/29/us-and-iran-agree-to-pause-attacks-and-meet-in-qatar-us-media-reports"
+          "label": "RT — Iran warns US and Israel against attacks on funeral",
+          "url": "https://www.rt.com/news/642514-iran-khamenei-funeral-warning/"
         }
       ]
     },
@@ -363,6 +319,76 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-03",
+      "items": [
+        {
+          "text": "THE GLOBAL SOUTH FLIES TO TEHRAN: Khamenei casket on display July 3; funeral July 4-9 in Tehran/Qom/Mashhad/Najaf/Karbala; Medvedev for Putin, Pakistan PM Sharif, India MoS, Chinese reps, two Taliban officials; 30+ governments, 90+ religious delegations; Mojtaba Khamenei will not appear publicly (Israel has named him for elimination); Iran warns US/Israel against attacks; NATO-absence map is multipolarity map",
+          "links": [
+            {
+              "label": "Outlook India — Khamenei funeral world leaders",
+              "url": "https://www.outlookindia.com/international/ayatollah-ali-khamenei-funeral-india-global-leaders-to-attend-iran-state-ceremonies"
+            },
+            {
+              "label": "Jerusalem Post — Pakistan PM attending",
+              "url": "https://www.jpost.com/middle-east/iran-news/article-901216"
+            },
+            {
+              "label": "RT — Iran warns US and Israel",
+              "url": "https://www.rt.com/news/642514-iran-khamenei-funeral-warning/"
+            },
+            {
+              "label": "Wikipedia — State funeral of Ali Khamenei",
+              "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
+            }
+          ]
+        },
+        {
+          "text": "KSTOVO: THE DESK FILES THE FOURTH REFINERY: Ukraine struck Lukoil-Nizhegorodnefteorgsintez (4th-largest Russian refinery, 17MT/yr) July 2; AVT-6 primary unit on fire; railway bridge over Donets also struck; Ukrainian claims, no independent damage confirmation; fourth major refinery in Moscow-region supply chain hit; Alekseyevo-Druzhkovka contact day 10+, no breakthrough, Sept 1 prediction on track",
+          "links": [
+            {
+              "label": "NV Ukraine — Kstovo refinery strike",
+              "url": "https://english.nv.ua/russian-war/ukrainian-strikes-target-oil-refinery-in-kstovo-russian-military-sites-50621085.html"
+            },
+            {
+              "label": "United24 — Ukraine strikes Russia's fourth-largest oil refinery",
+              "url": "https://united24media.com/war-in-ukraine/ukraine-strikes-russias-fourth-largest-oil-refinery-damaging-key-processing-unit-20372"
+            }
+          ]
+        },
+        {
+          "text": "FRANCE: DAY SEVEN WITHOUT MEASURES: No specific French countermeasures against Burkina Faso announced; Foreign Ministry still 'under review'; France 'caught off guard' per July 1 reporting; June 29 prediction accumulating confirmation; AES architecture (Russian security, Chinese trade, IMF, Israel intelligence) makes Ouagadougou indifferent",
+          "links": [
+            {
+              "label": "Burkina Pravda — France caught off guard",
+              "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/01/7115.html"
+            },
+            {
+              "label": "Al Jazeera — Burkina Faso cuts ties with France",
+              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
+            }
+          ]
+        },
+        {
+          "text": "PRC: THE EXPORT ENGINE READS HOT: June RatingDog/Caixin Manufacturing PMI 51.7 (beats 51.1 forecast, above May 51.8); sixth consecutive month above 50; domestic demand problem persists (May retail -0.6% YoY); June retail prints mid-July; July Politburo watch; June 16 prediction live",
+          "links": [
+            {
+              "label": "MQL5 — China Caixin/RatingDog Manufacturing PMI",
+              "url": "https://www.mql5.com/en/economic-calendar/china/caixin-manufacturing-pmi"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Khamenei funeral attendance final tally July 4-9; Mojtaba first public appearance",
+        "Iran July 9 nuclear talks resumption — IAEA procedural movement or committee",
+        "Lebanon IDF ops — Iranian walkout trigger",
+        "Alekseyevo-Druzhkovka Sept 1 prediction",
+        "France reciprocal measures — specific content",
+        "July Politburo communiqué; June retail NBS mid-July",
+        "Spain vs Portugal/Croatia July 6 — tea prediction alive"
+      ]
+    },
     {
       "date": "2026-07-02",
       "items": [
