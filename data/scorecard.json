@@ -1,33 +1,33 @@
 {
-  "updated": "2026-07-04",
-  "edition": 26,
+  "updated": "2026-07-05",
+  "edition": 27,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The Khamenei state funeral opened July 4 at Tehran's Grand Mosalla mosque; ceremonies run through July 9 in Tehran, Qom, Mashhad, and then into the Iraqi shrines at Najaf and Karbala. The attendance list is the multipolarity alignment made protocol: Medvedev for Putin, Pakistan's PM Sharif, China's He Wei (VP of the NPC Standing Committee), Turkey's VP Yilmaz, Afghanistan's Taliban FM Muttaqi and Deputy PM Baradar, Armenia's PM Pashinyan, Georgia's President Kavelashvili, delegations from Qatar, Saudi Arabia, Iraq, Cuba, Serbia — 30+ governments, 90+ religious delegations. No NATO member state sent a representative. Mojtaba Khamenei, Supreme Leader since March, will not appear publicly at his own father's burial; Israel has named him for elimination and Tehran takes the threat at face value. Nuclear talks paused July 4-9. The funeral's guest list is the decade's alignment map drawn in protocol.",
-      "watching": "Mojtaba Khamenei's first public appearance post-funeral; bilateral agreements reached on funeral sidelines; Iran July 9 talks resumption — IAEA procedural movement or another committee; France reciprocal measures — specific content when announced; AES September UNGA consolidation; July Politburo communiqué",
+      "verdict": "Iran's ambassador to China, Abdolreza Rahmani Fazli, told the World Peace Forum in Beijing on July 4 that Tehran will 'definitely charge service fees' for Strait of Hormuz transit — with 'special treatment' for nations that 'stood by' Iran during the war. The fee-not-toll distinction is deliberate and immaterial: whatever the charge is called, the 'friendly nation' tier creates a tiered-access regime at the strait. The 60-day MOU free-transit window expires mid-August; no fee schedule or implementing criteria have been published. Oman distanced itself from mandatory fees; the White House repeated 'permanently toll-free'; neither Iran nor the US has ratified UNCLOS, leaving the legal framework genuinely unsettled. The desk's read: unsettled law serves Tehran's interests as much as settled law would constrain them. The funeral attendance list from July 4 was the multipolarity alignment drawn in protocol. The Hormuz fee announcement is the same alignment drawn in tariff schedules. The funeral week continues through July 9; talks resume July 11.",
+      "watching": "Whether Hormuz fee structure is published before MOU window closes mid-August; whether 'friendly nation' criteria map onto existing yuan-denominated settlement partners; Mojtaba Khamenei's first public appearance post-funeral; Iran July 11 talks resumption — IAEA procedural movement or another committee; France reciprocal measures — specific content when announced; AES September UNGA consolidation; July Politburo communiqué",
       "sources": [
         {
-          "label": "Al Jazeera — Khamenei funeral: which world leaders are attending",
+          "label": "Sunday Guardian Live — Iran's new Hormuz service fees (July 4)",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-what-are-irans-new-strait-of-hormuz-service-fees-which-countries-will-receive-special-treatment-227521/"
+        },
+        {
+          "label": "Times of Israel — July 4 liveblog: Iran 'definitely' charging Hormuz fees",
+          "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
+        },
+        {
+          "label": "Geneva Solutions — Iran wants to charge fees on Hormuz passage",
+          "url": "https://genevasolutions.news/peace-humanitarian/iran-wants-to-charge-fees-on-hormuz-passage-what-impacts-could-that-have"
+        },
+        {
+          "label": "NBC News — Iran and Oman propose fee plan for Hormuz",
+          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
+        },
+        {
+          "label": "Al Jazeera — Khamenei funeral: which world leaders attending",
           "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending"
-        },
-        {
-          "label": "Wikipedia — State funeral of Ali Khamenei",
-          "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
-        },
-        {
-          "label": "Outlook India — world leaders to attend",
-          "url": "https://www.outlookindia.com/international/ayatollah-ali-khamenei-funeral-india-global-leaders-to-attend-iran-state-ceremonies"
-        },
-        {
-          "label": "Jerusalem Post — Pakistan PM attending",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-901216"
-        },
-        {
-          "label": "BusinessToday — Mojtaba will not attend",
-          "url": "https://www.businesstoday.in/world/story/mojtaba-khamenei-unlikely-to-attend-father-ayatollah-ali-khameneis-funeral-iranian-representative-540690-2026-07-03"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "name_en": "Dollar hegemony",
       "trend": "down",
       "verdict": "The BIS 2025 Triennial Survey — dollar on 89.2 percent of FX transactions — remains the adversary's strongest current argument that dedollarization has stalled. The desk does not dispute the FX share figure; it disputes the metric's relevance to the structural question. Then, on June 17, the PBOC announced the FIMA RMB repo facility: overseas central banks can now access yuan the way they have always accessed dollars — frictionlessly, through collateral, without onshore accounts. The Fed built this mechanism for dollars in 2021; Beijing has now copied it in yuan. The adversary will call this marginal. The desk calls it the one structural advantage dollars held that is now being systematically replicated. Reserve share has fallen from 72 percent to 58 percent. The direction of travel is unchanged; the pace just accelerated.",
-      "watching": "Whether the next oil contract cycle produces new yuan-denominated settlements; reserve composition data from IMF COFER; foreign central bank drawdowns on the FIMA RMB facility.",
+      "watching": "Whether 'friendly nation' Hormuz fee criteria map onto yuan-settlement partners — the physical expression of the FIMA/mBridge architecture; whether the next oil contract cycle produces new yuan-denominated settlements; reserve composition data from IMF COFER; foreign central bank drawdowns on the FIMA RMB facility.",
       "sources": [
         {
           "label": "Crypto Briefing — China FIMA RMB repo facility, June 17",
@@ -56,24 +56,28 @@
       "name_zh": "朝鲜",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "A correction is required on the Tumen bridge. The desk filed June 19 that the Khasan-Tumangang road bridge had opened. Daily NK reported June 24, citing officials in Rason, that the bridge is not operational: Russia did not complete its connecting road infrastructure and customs facilities on its side before the June 19 target date, and officials in Rason estimate the delay at a minimum of another year. North Korea completed its side on schedule — customs house, bridge deck, asphalt paving, all finished. The bridge sits idle. The desk has been running a 'no cargo data' thread since June 19 with no explanation; that thread now has its explanation. The direction of travel (Russia-DPRK partnership deepening) is unchanged; the timeline is not. What was filed as an opening was a ceremony. Pyongyang fulfilled its obligations; Moscow did not — creating a creditor position Pyongyang may use to extract economic concessions or to crowd Chinese logistical leverage. The Choe Hyon destroyer was commissioned June 23 and remains in service; the WPK plenary's nuclear expansion mandate stands. June 28: thin day — no fresh DPRK news in 48 hours. Beijing's silence on Kim's naval program and nuclear posture continues unbroken.",
-      "watching": "Russia's revised Tumen bridge completion timeline (Japan Times July 1: still unfinished, minimum another year); whether Pyongyang's frustration surfaces in bilateral channels; Beijing's continued silence on Choe Hyon naval program, WPK plenary nuclear posture, and Russia-DPRK partnership through India BRICS summit",
+      "verdict": "North Korean state media opened the second half of 2026 with a first-half economic review: coal production at 104 percent of plan following the WPK 9th Plenum's directive to improve the sector. A Seoul-based NGO flags the renewed coal focus may be driven by illicit export revenue rather than domestic supply — the desk's read: whether the coal heats Pyongyang or moves through third-country channels to Chinese buyers, the plan-fulfillment number serves the same domestic function. The Tumen bridge remains idle — Russian customs infrastructure unfinished, minimum another year. Primorsky Krai officials announced a Vladivostok-to-Rason SEZ bus route by year-end 2026: the transport relationship is real; the infrastructure is being built one piece at a time. The pattern on this front: Pyongyang's public commitments (bridge, destroyer program, WPK plenary) are material; Russia's delivery timeline is the variable. Beijing's silence on the naval program and nuclear posture statements continues unbroken.",
+      "watching": "Coal volume appearing in Chinese customs data via third-country channels; Tumen bridge Russian completion revised timeline; Russia Vladivostok-Rason bus route operational start; Beijing's public response to DPRK naval program and WPK nuclear posture; whether Pyongyang's frustration with the bridge delay surfaces in bilateral channels",
       "sources": [
         {
-          "label": "Daily NK — Tumen River bridge delay rattles North Korea, June 24",
+          "label": "NK News — DPRK first-half economy review, coal sector focus (July 3)",
+          "url": "https://www.nknews.org/pro/north-korea-conducts-semiannual-economy-review-as-coal-takes-center-stage/"
+        },
+        {
+          "label": "Korea JoongAng Daily — Russia-North Korea bus route Vladivostok-Rason (July 2)",
+          "url": "https://www.koreajoongangdaily.com/korea/russia-north-korea-plan-first-regular-bus-route-linking-two-countries-by-end-of-2026/12751914"
+        },
+        {
+          "label": "US News — Tumen bridge opening likely delayed (July 1)",
+          "url": "https://www.usnews.com/news/world/articles/2026-07-01/opening-of-north-korea-russia-road-bridge-likely-delayed-us-think-tank-says"
+        },
+        {
+          "label": "Daily NK — Tumen River bridge delay rattles North Korea",
           "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
         },
         {
-          "label": "Indo-Pacific Defense Forum — bridge leverage analysis",
-          "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"
-        },
-        {
-          "label": "USNI News — DPRK commissions Choe Hyon, June 24",
+          "label": "USNI News — DPRK commissions Choe Hyon",
           "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon"
-        },
-        {
-          "label": "Jerusalem Post — Kim Jong Un: North Korea nuclear state, WPK plenary",
-          "url": "https://www.jpost.com/international/article-900208"
         }
       ]
     },
@@ -81,15 +85,23 @@
       "name_zh": "萨赫勒联盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The IMF $104.89M disbursed June 26. France severed by Burkina Faso the same day — and July 1 reporting confirmed France was caught off guard. Day eight of the diplomatic rupture: no specific retaliatory measures announced. The Foreign Ministry line remains 'under review.' An Elysée with real leverage does not deliberate for eight days on a response to a landlocked state of 22 million from which it has already been expelled. The June 29 desk prediction — that France's measures will be symbolic — accumulates confirmation with each day of silence. The AES architecture (Russian security guarantee, Chinese trade, IMF funding, Israeli intelligence-sharing on Islamist movements) makes Ouagadougou indifferent to whatever Paris eventually announces.",
-      "watching": "France reciprocal measures — specific content when announced; operational details of Burkina-Israel security arrangement; AES September UNGA consolidation",
+      "verdict": "Nine days after Burkina Faso severed diplomatic relations with France on June 26, Paris has still not announced specific countermeasures. The Élysée holds 'under review.' The desk's June 29 prediction — that France's measures will be symbolic and absorbable — accumulates confirmation with each day of silence. An Élysée with real leverage does not deliberate for nine days on a response to a landlocked state of 22 million from which it has already been expelled. Africanews (July 1) and Broadcast Media Africa (July 2) asked what changes: in practical terms, the military withdrew in 2023, bilateral frameworks are suspended, communications proceed through the Vienna Convention's third-party provision. The AES architecture — Russian security guarantee, Chinese trade, IMF funding, Israeli intelligence-sharing on Islamist movements — makes Ouagadougou indifferent to whatever Paris eventually announces. The sequence is complete: coup, party dissolution, 'forget democracy,' expelled troops, banned media, severed diplomatic line. The next step does not require France's permission.",
+      "watching": "France reciprocal measures — specific content when announced; whether measures land before AES September UNGA consolidation roadmap; operational details of Burkina-Israel security arrangement",
       "sources": [
         {
           "label": "Al Jazeera — Burkina Faso cuts diplomatic ties with France",
           "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
         },
         {
-          "label": "Burkina Pravda — France caught off guard by Burkina Faso's decision",
+          "label": "Africanews — what changes after the rupture (July 1)",
+          "url": "https://www.africanews.com/2026/07/01/burkina-faso-what-will-change-after-the-diplomatic-rupture-with-france/"
+        },
+        {
+          "label": "Broadcast Media Africa — France break as independence step (July 2)",
+          "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
+        },
+        {
+          "label": "Burkina Pravda — France caught off guard",
           "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/01/7115.html"
         }
       ]
@@ -115,9 +127,13 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Nuclear talks officially paused July 4-9 for the Khamenei state funeral. Mojtaba Khamenei's absence from his own father's burial — for security — is the clearest indicator of how far the Atlantic order's reach extends: a head of state cannot attend his own father's funeral. The IAEA dispute remains structurally unresolved: Ghalibaf confirmed Iran bars access to bombed sites (Fordow, Natanz, Isfahan); Vance's announced benchmarks and Tehran's public positions describe different agreements. The June 24 desk prediction — July 13 benchmark will produce a dispute over scope — is on track. Konstantinovka formally proclaimed liberated by Kremlin spokesman Peskov July 3; Putin briefed at auxiliary command post. Lebanon: IDF operations continue; deconfliction cell has not stopped them.",
-      "watching": "Iran July 9 talks resumption — IAEA procedural movement; Lebanon IDF walkout trigger; France reciprocal measures content; Hormuz corridor written transit language before MOU expires mid-August; July Politburo on China growth trajectory",
+      "verdict": "Iran's ambassador to China announced July 4 that Tehran will charge Hormuz service fees with 'special treatment' for 'friendly nations' — the Atlantic order's key constraint on Iran's sovereignty claims just became a tiered-access regime administered by Tehran. Talks resume July 11, post-funeral. Mojtaba Khamenei's absence from his own father's burial for security reasons remains the most legible indicator of the Atlantic order's reach: a head of state cannot attend his father's funeral. The IAEA dispute remains structurally unresolved: Ghalibaf confirmed Iran bars inspectors from bombed sites; Grossi insists access is required. The July 13 benchmark prediction (scope dispute rather than clean access event) is on track. Konstantinovka formally proclaimed by Kremlin July 3; Druzhkovka contact day 12, no breakthrough. Lebanon: IDF operations continue; the deconfliction cell has not stopped them.",
+      "watching": "Iran July 11 talks resumption — IAEA procedural movement or another committee; Lebanon IDF walkout trigger; France reciprocal measures content; Hormuz fee structure published before MOU expires mid-August; July Politburo on China growth trajectory; July 13 IAEA benchmark",
       "sources": [
+        {
+          "label": "Times of Israel — Iran 'definitely' charging Hormuz fees (July 4)",
+          "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
+        },
         {
           "label": "RT — Russia liberates Konstantinovka",
           "url": "https://www.rt.com/russia/642561-russia-liberates-donbass-city/"
@@ -127,12 +143,12 @@
           "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
         },
         {
-          "label": "Al Jazeera — US-Iran Doha talks outcomes",
-          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
+          "label": "CNN — Iran nuclear talks set to resume July 11",
+          "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"
         },
         {
-          "label": "Wikipedia — 2025-26 Iran-US negotiations",
-          "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
+          "label": "Al Jazeera �� US-Iran Doha talks outcomes",
+          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
         }
       ]
     }
@@ -143,44 +159,52 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Kremlin spokesman Peskov formally declared full Russian control of Konstantinovka on July 3; Putin was briefed at an auxiliary command post alongside senior Defense Ministry officials. The June 17 prediction was already scored a hit on June 23 (battle's effective conclusion); Peskov's proclamation is administrative closure. Front now: Alekseyevo-Druzhkovka, contact day 11+, no geolocated breakthrough. Force composition and methodology unchanged — Yuzhnaya Group, mountain assault, airmobile elements; building-by-building pressure approaching encirclement. Retired US Lt. Col. Earl Rasmussen (Izvestia interview July 4) described Konstantinovka as 'one of the last strongholds in the Donbas' — the adversary's own retired military register concedes the scale. The September 1 desk prediction for Russian operational control of Druzhkovka stands.",
+      "basis": "Ukraine struck the Kirovsky district oil terminal in St. Petersburg overnight July 4 — 850 kilometers from the Ukrainian border, 72 drones downed over the Leningrad region, Vysotsk port also struck. Zelenskyy confirmed: 'port oil infrastructure which earns money for the Russian war.' No casualties. The deep-strike campaign continues its supply-chain-pressure logic. Alekseyevo-Druzhkovka: contact day 12, no geolocated breakthrough. Force composition unchanged — Yuzhnaya Group, mountain assault, airmobile elements; building-by-building methodology. September 1 desk prediction for Russian operational control stands. Martyanov July 3: Konstantinovka mop-up 'pretty much done,' Druzhkovka next on the Slavyansk-Kramatorsk axis. The dual-track structure — Russian ground advance methodical; Ukrainian deep strike reaching St. Petersburg — has not changed the decisive balance. Russia-decisive holds.",
       "sources": [
+        {
+          "label": "Moscow Times — St. Petersburg oil terminal struck (July 4)",
+          "url": "https://www.themoscowtimes.com/2026/07/04/leningrad-region-port-oil-terminal-hit-in-major-ukrainian-drone-attack-a93164"
+        },
+        {
+          "label": "Bloomberg — St. Petersburg oil terminal attack (July 4)",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack"
+        },
+        {
+          "label": "EA WorldView — Kyiv strikes St. Petersburg again (July 4)",
+          "url": "https://eaworldview.com/2026/07/ukraine-war-kyiv-strikes-st-petersburg-oil-terminal-again/"
+        },
+        {
+          "label": "Martyanov — Konstantinovka liberated (July 3)",
+          "url": "https://smoothiex12.blogspot.com/2026/07/konstantinovka-is-officially-liberated.html"
+        },
         {
           "label": "RT — Russia liberates Konstantinovka (July 3)",
           "url": "https://www.rt.com/russia/642561-russia-liberates-donbass-city/"
-        },
-        {
-          "label": "Pravda EN — Russian army fully liberates Konstantinovka (July 3)",
-          "url": "https://usa.news-pravda.com/world/2026/07/03/817428.html"
-        },
-        {
-          "label": "ua.news-pravda — July 4 morning summary",
-          "url": "https://ua.news-pravda.com/en/russia/2026/07/04/105141.html"
-        },
-        {
-          "label": "Reminiscence of the Future (Martyanov)",
-          "url": "https://smoothiex12.blogspot.com/"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Nuclear talks officially paused (funeral July 4-9); IAEA access dispute hardening",
+      "advantage": "De-escalating (Hormuz); stalled (nuclear); fees announcement adds new variable",
       "trend": "de-escalating (Hormuz); stalled (nuclear)",
-      "basis": "Doha talks July 1-2: Qatar reports 'positive progress'; Hormuz commercial traffic rebounded 50%+ in final week of June per Kpler. Official pause July 4-9 for Khamenei funeral; resumption at 'earliest possible time' after July 9. Nuclear: IAEA chief Grossi says inspectors must access Iranian sites; Ghalibaf says Fordow/Natanz/Isfahan barred per parliament legislation — Bushehr and Tehran reactor only. Both cannot be right. July 13 benchmark prediction on track. June 15 prediction (no verified freeze before September 2026) unchanged.",
+      "basis": "Iran's ambassador to China announced July 4 that Tehran will 'definitely charge service fees' for Hormuz transit with 'friendly nation' special treatment — the first public declaration that the MOU's 60-day free-transit provision will not be extended. Talks paused July 4-9 for the Khamenei funeral; scheduled to resume July 11. Hormuz commercial traffic rebounded 50%+ in the final week of June per Kpler; the fee announcement injects new uncertainty into shipping markets before the MOU window closes mid-August. Nuclear: IAEA access dispute unchanged. June 15 prediction (no verified freeze before September 2026) unchanged. June 24 prediction (July 13 benchmark will be contested) on track.",
       "sources": [
         {
-          "label": "Al Jazeera — US-Iran Doha talks outcomes (July 2)",
-          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
+          "label": "Times of Israel — Iran 'definitely' charging Hormuz fees (July 4)",
+          "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
         },
         {
-          "label": "CBS News — talks paused for funeral",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
+          "label": "Geneva Solutions — Iran wants to charge fees on Hormuz passage",
+          "url": "https://genevasolutions.news/peace-humanitarian/iran-wants-to-charge-fees-on-hormuz-passage-what-impacts-could-that-have"
         },
         {
-          "label": "Fox News — US agrees to halt talks for funeral week",
-          "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026"
+          "label": "NBC News — Iran-Oman propose fee plan (July 4-5)",
+          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
+        },
+        {
+          "label": "CNN — talks to resume July 11 post-funeral",
+          "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"
         }
       ]
     },
@@ -331,6 +355,93 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-05",
+      "items": [
+        {
+          "text": "THE CORRIDOR NAMES ITS PRICE: Iran ambassador to China Abdolreza Rahmani Fazli at World Peace Forum Beijing July 4: Tehran will 'definitely charge service fees' for Hormuz transit; 'friendly nations' get special treatment. MOU 60-day free window expires mid-August. Fee vs. toll distinction: semantic. Legal status: unsettled (neither Iran nor US ratified UNCLOS). 'Friendly nation' tier = yuan-settlement alignment in physical form. Oman distanced from mandatory fees. White House: 'permanently toll-free.'",
+          "links": [
+            {
+              "label": "Sunday Guardian Live — Iran's new Hormuz service fees",
+              "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-what-are-irans-new-strait-of-hormuz-service-fees-which-countries-will-receive-special-treatment-227521/"
+            },
+            {
+              "label": "Times of Israel — July 4 liveblog",
+              "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
+            },
+            {
+              "label": "Geneva Solutions — Hormuz fees analysis",
+              "url": "https://genevasolutions.news/peace-humanitarian/iran-wants-to-charge-fees-on-hormuz-passage-what-impacts-could-that-have"
+            },
+            {
+              "label": "NBC News — Iran-Oman fee proposal",
+              "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
+            }
+          ]
+        },
+        {
+          "text": "THE LONG ARM REACHES ST. PETERSBURG: Ukraine struck Kirovsky district oil terminal St. Petersburg overnight July 4, 850km from Ukrainian border; 72 drones over Leningrad region, Vysotsk port struck, Kronstadt listed. Zelenskyy: 'port oil infrastructure which earns money for the Russian war.' No casualties. Alekseyevo-Druzhkovka contact day 12, no geolocated breakthrough. Martyanov July 3: Konstantinovka mop-up 'pretty much done,' Druzhkovka next on axis. Sept 1 prediction running.",
+          "links": [
+            {
+              "label": "Moscow Times — St. Petersburg terminal struck (July 4)",
+              "url": "https://www.themoscowtimes.com/2026/07/04/leningrad-region-port-oil-terminal-hit-in-major-ukrainian-drone-attack-a93164"
+            },
+            {
+              "label": "Bloomberg — oil terminal attack (July 4)",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack"
+            },
+            {
+              "label": "EA WorldView — Kyiv strikes St. Petersburg again",
+              "url": "https://eaworldview.com/2026/07/ukraine-war-kyiv-strikes-st-petersburg-oil-terminal-again/"
+            },
+            {
+              "label": "Martyanov — Konstantinovka liberated (July 3)",
+              "url": "https://smoothiex12.blogspot.com/2026/07/konstantinovka-is-officially-liberated.html"
+            }
+          ]
+        },
+        {
+          "text": "FRANCE: DAY NINE, STILL REVIEWING: No specific countermeasures from France nine days after Burkina Faso's June 26 diplomatic break. Élysée: 'under consideration.' Africanews July 1: what changes is limited — military gone 2023, Vienna Convention governs communications. BMA July 2: read as sovereignty milestone. June 29 prediction accumulating.",
+          "links": [
+            {
+              "label": "Africanews — what changes after the rupture (July 1)",
+              "url": "https://www.africanews.com/2026/07/01/burkina-faso-what-will-change-after-the-diplomatic-rupture-with-france/"
+            },
+            {
+              "label": "Broadcast Media Africa — France break as independence step (July 2)",
+              "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
+            }
+          ]
+        },
+        {
+          "text": "PYONGYANG COUNTS THE COAL: DPRK state media July 3 first-half economy review: coal at 104% plan, WPK 9th Plenum directive. Seoul NGO: coal focus may be illicit export-driven, not domestic supply. Tumen bridge still idle (Russian side unfinished). Primorsky Krai announces Vladivostok-to-Rason bus route by year-end 2026 — transport relationship real, infrastructure piecemeal. PRC thin day: July Politburo watch, June retail mid-July.",
+          "links": [
+            {
+              "label": "NK News — DPRK first-half economy review (July 3)",
+              "url": "https://www.nknews.org/pro/north-korea-conducts-semiannual-economy-review-as-coal-takes-center-stage/"
+            },
+            {
+              "label": "Korea JoongAng Daily — Russia-North Korea bus route (July 2)",
+              "url": "https://www.koreajoongangdaily.com/korea/russia-north-korea-plan-first-regular-bus-route-linking-two-countries-by-end-of-2026/12751914"
+            },
+            {
+              "label": "US News — Tumen bridge delay (July 1)",
+              "url": "https://www.usnews.com/news/world/articles/2026-07-01/opening-of-north-korea-russia-road-bridge-likely-delayed-us-think-tank-says"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran Hormuz fee structure published before MOU window mid-August",
+        "Druzhkovka geolocated breakthrough — Sept 1 prediction",
+        "St. Petersburg oil terminal restart timeline",
+        "France specific measures content",
+        "Iran talks resumption July 11 — IAEA procedural movement",
+        "July Politburo communiqué",
+        "June retail NBS mid-July — June 16 prediction",
+        "Spain vs Portugal July 6 R16 — tea prediction"
+      ]
+    },
     {
       "date": "2026-07-04",
       "items": [
