@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-05",
-  "edition": 27,
+  "updated": "2026-07-06",
+  "edition": 28,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
       "verdict": "Iran's ambassador to China, Abdolreza Rahmani Fazli, told the World Peace Forum in Beijing on July 4 that Tehran will 'definitely charge service fees' for Strait of Hormuz transit — with 'special treatment' for nations that 'stood by' Iran during the war. The fee-not-toll distinction is deliberate and immaterial: whatever the charge is called, the 'friendly nation' tier creates a tiered-access regime at the strait. The 60-day MOU free-transit window expires mid-August; no fee schedule or implementing criteria have been published. Oman distanced itself from mandatory fees; the White House repeated 'permanently toll-free'; neither Iran nor the US has ratified UNCLOS, leaving the legal framework genuinely unsettled. The desk's read: unsettled law serves Tehran's interests as much as settled law would constrain them. The funeral attendance list from July 4 was the multipolarity alignment drawn in protocol. The Hormuz fee announcement is the same alignment drawn in tariff schedules. The funeral week continues through July 9; talks resume July 11.",
-      "watching": "Whether Hormuz fee structure is published before MOU window closes mid-August; whether 'friendly nation' criteria map onto existing yuan-denominated settlement partners; Mojtaba Khamenei's first public appearance post-funeral; Iran July 11 talks resumption — IAEA procedural movement or another committee; France reciprocal measures — specific content when announced; AES September UNGA consolidation; July Politburo communiqué",
+      "watching": "Hormuz fee structure publication before MOU window mid-August; Ankara summit July 7-8 as Atlantic-order internal audit; India BRICS summit August-September for BRICS Unit/BRICS Pay framework adoption.",
       "sources": [
         {
           "label": "Sunday Guardian Live — Iran's new Hormuz service fees (July 4)",
@@ -56,28 +56,20 @@
       "name_zh": "朝鲜",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "North Korean state media opened the second half of 2026 with a first-half economic review: coal production at 104 percent of plan following the WPK 9th Plenum's directive to improve the sector. A Seoul-based NGO flags the renewed coal focus may be driven by illicit export revenue rather than domestic supply — the desk's read: whether the coal heats Pyongyang or moves through third-country channels to Chinese buyers, the plan-fulfillment number serves the same domestic function. The Tumen bridge remains idle — Russian customs infrastructure unfinished, minimum another year. Primorsky Krai officials announced a Vladivostok-to-Rason SEZ bus route by year-end 2026: the transport relationship is real; the infrastructure is being built one piece at a time. The pattern on this front: Pyongyang's public commitments (bridge, destroyer program, WPK plenary) are material; Russia's delivery timeline is the variable. Beijing's silence on the naval program and nuclear posture statements continues unbroken.",
-      "watching": "Coal volume appearing in Chinese customs data via third-country channels; Tumen bridge Russian completion revised timeline; Russia Vladivostok-Rason bus route operational start; Beijing's public response to DPRK naval program and WPK nuclear posture; whether Pyongyang's frustration with the bridge delay surfaces in bilateral channels",
+      "verdict": "On July 3, Kim Jong Un personally oversaw weapon-systems trials of the destroyer Kang Kon: strategic cruise missile test-fire, naval artillery, automatic weapons, electronic warfare — and ordered active service within two months. The Kang Kon (5,000 tonnes, second Choe Hyon-class) is the largest surface combatant North Korea has ever fielded. Read with the WPK 9th CC 2nd Plenary nuclear-expansion order, the Nampho/Chongjin shipyard expansion, and the Vladivostok-Rason bus route: four indicators on a single maritime-reach trajectory.",
+      "watching": "Kang Kon active-service date (~September 3); Beijing's public response to the cruise missile test; Tumen bridge Russia completion timeline.",
       "sources": [
         {
-          "label": "NK News — DPRK first-half economy review, coal sector focus (July 3)",
-          "url": "https://www.nknews.org/pro/north-korea-conducts-semiannual-economy-review-as-coal-takes-center-stage/"
+          "label": "CGTN — Kang Kon weapon system test, July 5",
+          "url": "https://news.cgtn.com/news/2026-07-05/Top-DPRK-leader-oversees-weapon-system-test-of-destroyer-Kang-Kon-1Ox0lP1Pda8/p.html"
         },
         {
-          "label": "Korea JoongAng Daily — Russia-North Korea bus route Vladivostok-Rason (July 2)",
-          "url": "https://www.koreajoongangdaily.com/korea/russia-north-korea-plan-first-regular-bus-route-linking-two-countries-by-end-of-2026/12751914"
+          "label": "Defence Security Asia — Kang Kon analysis",
+          "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"
         },
         {
-          "label": "US News — Tumen bridge opening likely delayed (July 1)",
-          "url": "https://www.usnews.com/news/world/articles/2026-07-01/opening-of-north-korea-russia-road-bridge-likely-delayed-us-think-tank-says"
-        },
-        {
-          "label": "Daily NK — Tumen River bridge delay rattles North Korea",
-          "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
-        },
-        {
-          "label": "USNI News — DPRK commissions Choe Hyon",
-          "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon"
+          "label": "ABC News — Kim observes weapons tests from Kang Kon",
+          "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-observes-weapons-tests-new-134487809"
         }
       ]
     },
@@ -85,24 +77,16 @@
       "name_zh": "萨赫勒联盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Nine days after Burkina Faso severed diplomatic relations with France on June 26, Paris has still not announced specific countermeasures. The Élysée holds 'under review.' The desk's June 29 prediction — that France's measures will be symbolic and absorbable — accumulates confirmation with each day of silence. An Élysée with real leverage does not deliberate for nine days on a response to a landlocked state of 22 million from which it has already been expelled. Africanews (July 1) and Broadcast Media Africa (July 2) asked what changes: in practical terms, the military withdrew in 2023, bilateral frameworks are suspended, communications proceed through the Vienna Convention's third-party provision. The AES architecture — Russian security guarantee, Chinese trade, IMF funding, Israeli intelligence-sharing on Islamist movements — makes Ouagadougou indifferent to whatever Paris eventually announces. The sequence is complete: coup, party dissolution, 'forget democracy,' expelled troops, banned media, severed diplomatic line. The next step does not require France's permission.",
-      "watching": "France reciprocal measures — specific content when announced; whether measures land before AES September UNGA consolidation roadmap; operational details of Burkina-Israel security arrangement",
+      "verdict": "Ten days since Burkina Faso severed diplomatic relations with France on June 26. Paris has announced that 'necessary reciprocal measures are currently being considered.' None have been announced. The desk filed June 29 that France's measures would not include anything Ouagadougou cannot absorb; day ten confirms the prediction accumulates. Traoré's three-register architecture — IMF disbursement, France break, AES/UNGA roadmap — holds undisturbed.",
+      "watching": "Specific French reciprocal measures — content and timing; whether the Ankara NATO summit (July 7-8) produces a coordinated European-Africa posture; AES proceedings for French economic leverage.",
       "sources": [
         {
           "label": "Al Jazeera — Burkina Faso cuts diplomatic ties with France",
           "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
         },
         {
-          "label": "Africanews — what changes after the rupture (July 1)",
-          "url": "https://www.africanews.com/2026/07/01/burkina-faso-what-will-change-after-the-diplomatic-rupture-with-france/"
-        },
-        {
-          "label": "Broadcast Media Africa — France break as independence step (July 2)",
+          "label": "Broadcast Media Africa — Burkina Faso independence framing (July 2)",
           "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
-        },
-        {
-          "label": "Burkina Pravda — France caught off guard",
-          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/01/7115.html"
         }
       ]
     },
@@ -127,28 +111,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Iran's ambassador to China announced July 4 that Tehran will charge Hormuz service fees with 'special treatment' for 'friendly nations' — the Atlantic order's key constraint on Iran's sovereignty claims just became a tiered-access regime administered by Tehran. Talks resume July 11, post-funeral. Mojtaba Khamenei's absence from his own father's burial for security reasons remains the most legible indicator of the Atlantic order's reach: a head of state cannot attend his father's funeral. The IAEA dispute remains structurally unresolved: Ghalibaf confirmed Iran bars inspectors from bombed sites; Grossi insists access is required. The July 13 benchmark prediction (scope dispute rather than clean access event) is on track. Konstantinovka formally proclaimed by Kremlin July 3; Druzhkovka contact day 12, no breakthrough. Lebanon: IDF operations continue; the deconfliction cell has not stopped them.",
-      "watching": "Iran July 11 talks resumption — IAEA procedural movement or another committee; Lebanon IDF walkout trigger; France reciprocal measures content; Hormuz fee structure published before MOU expires mid-August; July Politburo on China growth trajectory; July 13 IAEA benchmark",
+      "verdict": "Russia struck Kyiv overnight July 5-6 with 29 ballistic missiles — zero intercepted. Zelensky explicitly attributed the failure to 'insufficient supply of interceptor missiles.' NATO's Ankara summit opens July 7-8 with a pre-agreed €70 billion pledge to Ukraine for 2026. The summit will produce text about commitments; the interceptor arithmetic preceded it by 24 hours. The Atlantic order is managing a war whose material requirements continue to outpace its political decisions.",
+      "watching": "NATO Ankara summit communiqué — whether interceptor supply commitments exceed the €70B envelope; Trump-Zelensky bilateral July 8; Druzhkovka geolocated movement.",
       "sources": [
         {
-          "label": "Times of Israel — Iran 'definitely' charging Hormuz fees (July 4)",
-          "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
+          "label": "CNN — Kyiv ballistic missile attack on eve of NATO summit (July 5-6)",
+          "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
         },
         {
-          "label": "RT — Russia liberates Konstantinovka",
-          "url": "https://www.rt.com/russia/642561-russia-liberates-donbass-city/"
-        },
-        {
-          "label": "CBS News — talks paused for Khamenei funeral",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
-        },
-        {
-          "label": "CNN — Iran nuclear talks set to resume July 11",
-          "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"
-        },
-        {
-          "label": "Al Jazeera �� US-Iran Doha talks outcomes",
-          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
+          "label": "Wikipedia — 2026 Ankara NATO summit",
+          "url": "https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit"
         }
       ]
     }
@@ -159,52 +131,40 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Ukraine struck the Kirovsky district oil terminal in St. Petersburg overnight July 4 — 850 kilometers from the Ukrainian border, 72 drones downed over the Leningrad region, Vysotsk port also struck. Zelenskyy confirmed: 'port oil infrastructure which earns money for the Russian war.' No casualties. The deep-strike campaign continues its supply-chain-pressure logic. Alekseyevo-Druzhkovka: contact day 12, no geolocated breakthrough. Force composition unchanged — Yuzhnaya Group, mountain assault, airmobile elements; building-by-building methodology. September 1 desk prediction for Russian operational control stands. Martyanov July 3: Konstantinovka mop-up 'pretty much done,' Druzhkovka next on the Slavyansk-Kramatorsk axis. The dual-track structure — Russian ground advance methodical; Ukrainian deep strike reaching St. Petersburg — has not changed the decisive balance. Russia-decisive holds.",
+      "basis": "Russia struck Kyiv overnight July 5-6 with 29 ballistic missiles — zero intercepted; Zelensky attributed the failure to 'insufficient supply of interceptor missiles' (11 dead, dozens wounded). The Martyanov assessment (July 5): Zircon and Kalibr as the strike package; 6th Motorized Rifle Division advancing on Druzhkovka from the north, contact day 13. September 1 desk prediction for Druzhkovka operational control stands. Russia deep-strike/ground-advance dual track continues; Ukraine deep-strike campaign continues (Kirovsky terminal, Kstovo refinery, Penza NDIFI). The material balance — Russia running down Ukrainian intercept capacity; Ukraine running a supply-chain pressure campaign on Russian infrastructure — has not changed the decisive advantage. Russia-decisive holds.",
       "sources": [
         {
-          "label": "Moscow Times — St. Petersburg oil terminal struck (July 4)",
-          "url": "https://www.themoscowtimes.com/2026/07/04/leningrad-region-port-oil-terminal-hit-in-major-ukrainian-drone-attack-a93164"
+          "label": "CNN — Kyiv ballistic missile attack, zero intercepted (July 5-6)",
+          "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
         },
         {
-          "label": "Bloomberg — St. Petersburg oil terminal attack (July 4)",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack"
+          "label": "Martyanov — Reminiscence of the Future (July 5)",
+          "url": "https://smoothiex12.blogspot.com/"
         },
         {
-          "label": "EA WorldView — Kyiv strikes St. Petersburg again (July 4)",
-          "url": "https://eaworldview.com/2026/07/ukraine-war-kyiv-strikes-st-petersburg-oil-terminal-again/"
-        },
-        {
-          "label": "Martyanov — Konstantinovka liberated (July 3)",
-          "url": "https://smoothiex12.blogspot.com/2026/07/konstantinovka-is-officially-liberated.html"
-        },
-        {
-          "label": "RT — Russia liberates Konstantinovka (July 3)",
-          "url": "https://www.rt.com/russia/642561-russia-liberates-donbass-city/"
+          "label": "Wikipedia — 2026 Ankara NATO summit",
+          "url": "https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "De-escalating (Hormuz); stalled (nuclear); fees announcement adds new variable",
-      "trend": "de-escalating (Hormuz); stalled (nuclear)",
-      "basis": "Iran's ambassador to China announced July 4 that Tehran will 'definitely charge service fees' for Hormuz transit with 'friendly nation' special treatment — the first public declaration that the MOU's 60-day free-transit provision will not be extended. Talks paused July 4-9 for the Khamenei funeral; scheduled to resume July 11. Hormuz commercial traffic rebounded 50%+ in the final week of June per Kpler; the fee announcement injects new uncertainty into shipping markets before the MOU window closes mid-August. Nuclear: IAEA access dispute unchanged. June 15 prediction (no verified freeze before September 2026) unchanged. June 24 prediction (July 13 benchmark will be contested) on track.",
+      "advantage": "De-escalating (Hormuz); stalled (nuclear)",
+      "trend": "stalled (nuclear)",
+      "basis": "Khamenei's state funeral concludes in Mashhad July 6 (burial at Imam Reza shrine). Technical talks resume July 11. The IAEA access benchmark — the 20-day marker from the June 15 roadmap — falls July 13: two days after talks resume. Iran's deputy FM Gharibabadi position (no IAEA access to bombed sites; conditioned on sanctions termination) has not moved. Grossi's expectation ('going to happen') and Gharibabadi's stated position remain two descriptions of two different agreements. The July 11 session must produce a scheduled inspection before July 13, or the benchmark passes — confirming the June 24 prediction. June 15 prediction (no verified freeze before September 2026) unchanged.",
       "sources": [
         {
-          "label": "Times of Israel — Iran 'definitely' charging Hormuz fees (July 4)",
-          "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
+          "label": "Wikipedia — State funeral of Ali Khamenei",
+          "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
         },
         {
-          "label": "Geneva Solutions — Iran wants to charge fees on Hormuz passage",
-          "url": "https://genevasolutions.news/peace-humanitarian/iran-wants-to-charge-fees-on-hormuz-passage-what-impacts-could-that-have"
+          "label": "CBS News — IAEA inspections 'not essential' timing (Vance)",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"
         },
         {
-          "label": "NBC News — Iran-Oman propose fee plan (July 4-5)",
-          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
-        },
-        {
-          "label": "CNN — talks to resume July 11 post-funeral",
-          "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"
+          "label": "Fox News — US-Iran talks pause for Khamenei funeral (July 3)",
+          "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026"
         }
       ]
     },
@@ -355,6 +315,71 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-06",
+      "items": [
+        {
+          "text": "THE INTERCEPTOR COUNT IS THE BRIEFING: 29 ballistic missiles over Kyiv overnight July 5-6, zero intercepted; Zelensky cites 'insufficient supply of interceptor missiles'; 11 dead; NATO Ankara summit July 7-8, €70B pledge; Druzhkovka contact day 13; Russia-decisive holds.",
+          "links": [
+            {
+              "label": "CNN — Kyiv missile attack July 5-6",
+              "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
+            },
+            {
+              "label": "Martyanov — July 5 (6th MRD, Zircon/Kalibr)",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "THE KANG KON FIRES — AND THE DESK CORRECTS YESTERDAY: Kim Jong Un oversaw strategic cruise missile test-fire + weapons trials of destroyer Kang Kon July 3; active service in 2 months; 5,000t, second Choe Hyon-class; desk correction — July 5 briefing missed this while filing coal.",
+          "links": [
+            {
+              "label": "CGTN — Kang Kon weapons test July 5",
+              "url": "https://news.cgtn.com/news/2026-07-05/Top-DPRK-leader-oversees-weapon-system-test-of-destroyer-Kang-Kon-1Ox0lP1Pda8/p.html"
+            },
+            {
+              "label": "Defence Security Asia — Kang Kon analysis",
+              "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"
+            }
+          ]
+        },
+        {
+          "text": "THE FUNERAL ENDS TODAY; THE BENCHMARK IS JULY 13: Khamenei buried Mashhad July 6; talks resume July 11; IAEA benchmark July 13 (two days after resumption); Gharibabadi position unchanged; June 15 + June 24 predictions intact.",
+          "links": [
+            {
+              "label": "Wikipedia — State funeral of Ali Khamenei",
+              "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
+            },
+            {
+              "label": "CBS News — IAEA timing",
+              "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"
+            }
+          ]
+        },
+        {
+          "text": "FRANCE: DAY TEN. THE SILENCE CONFIRMS THE PREDICTION: No specific French reciprocal measures day 10 after Burkina Faso severs ties; June 29 prediction accumulating; Traoré government undisturbed.",
+          "links": [
+            {
+              "label": "Al Jazeera — Burkina severs ties with France",
+              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
+            },
+            {
+              "label": "Broadcast Media Africa — July 2",
+              "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "NATO Ankara summit July 7-8 — interceptor commitments + Trump-Zelensky bilateral",
+        "Kang Kon active service date (~September 3); Beijing response",
+        "Iran July 11 talks — scheduled IAEA visit or third committee; July 13 benchmark",
+        "France specific measures — content; Ankara summit EU-Sahel posture",
+        "Druzhkovka Sept 1 geolocated breakthrough",
+        "Spain vs Portugal World Cup R16 July 6 — tea prediction alive"
+      ]
+    },
     {
       "date": "2026-07-05",
       "items": [
@@ -1801,6 +1826,10 @@
     {
       "date": "2026-07-01",
       "text": "North Korea conducted a weapons test series on June 25 — an upgraded 240mm 24-tube multiple rocket launcher, a special mission ballistic missile warhead designed to strike 'airfields, ports and power facilities,' and a 155mm self-propelled howitzer — reported by Al Jazeera on June 26. The desk's June 26 and June 27 briefings logged DPRK as 'thin day' without covering the tests. Kim Jong-un's accompanying demand for a 'deadly and destructive offensive posture' and 'ultra-precision' long-range capabilities is now background to the WPK plenary nuclear expansion orders filed in the June 23 briefing."
+    },
+    {
+      "date": "2026-07-06",
+      "text": "The July 5 briefing covered DPRK coal (first-half economy review, July 3 reporting) while omitting the Kang Kon strategic cruise missile test-fire, also from July 3 and reported July 5 by CGTN. The desk corrects the omission in today's filing."
     }
   ]
 }
