@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-06",
-  "edition": 28,
+  "updated": "2026-07-07",
+  "edition": 29,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "Iran's ambassador to China, Abdolreza Rahmani Fazli, told the World Peace Forum in Beijing on July 4 that Tehran will 'definitely charge service fees' for Strait of Hormuz transit — with 'special treatment' for nations that 'stood by' Iran during the war. The fee-not-toll distinction is deliberate and immaterial: whatever the charge is called, the 'friendly nation' tier creates a tiered-access regime at the strait. The 60-day MOU free-transit window expires mid-August; no fee schedule or implementing criteria have been published. Oman distanced itself from mandatory fees; the White House repeated 'permanently toll-free'; neither Iran nor the US has ratified UNCLOS, leaving the legal framework genuinely unsettled. The desk's read: unsettled law serves Tehran's interests as much as settled law would constrain them. The funeral attendance list from July 4 was the multipolarity alignment drawn in protocol. The Hormuz fee announcement is the same alignment drawn in tariff schedules. The funeral week continues through July 9; talks resume July 11.",
-      "watching": "Hormuz fee structure publication before MOU window mid-August; Ankara summit July 7-8 as Atlantic-order internal audit; India BRICS summit August-September for BRICS Unit/BRICS Pay framework adoption.",
+      "verdict": "The NATO Ankara summit opened July 7 as the Atlantic order's internal audit — precisely as this desk's 'watching' field predicted. The €70 billion annual pledge is real; Secretary-General Rutte's candor is more revealing: 'From a practical perspective there is a limit on interceptors on NATO territory and that is why we need to produce more.' Rutte said the quiet part plainly. A summit convened in response to zero-for-29 on ballistic missiles over Kyiv cannot produce the interceptors it lacks; it can produce communiqué text. The multipolarity read has always been that the Atlantic order's internal contradictions are the signal — production timelines are not 2026. Hormuz fee architecture (mid-August window), the funeral-attendance alignment map (30+ governments, zero NATO), and now the Ankara interceptor admission form a single picture. The India BRICS summit in August-September is the next structural marker.",
+      "watching": "Hormuz fee structure publication before MOU window mid-August; Ankara summit communiqué text on Patriot licensing for domestic production; India BRICS summit August-September for BRICS Unit/BRICS Pay framework adoption.",
       "sources": [
         {
           "label": "Sunday Guardian Live — Iran's new Hormuz service fees (July 4)",
@@ -28,6 +28,10 @@
         {
           "label": "Al Jazeera — Khamenei funeral: which world leaders attending",
           "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending"
+        },
+        {
+          "label": "RFERL — Rutte on interceptors and NATO defense spending",
+          "url": "https://www.rferl.org/a/nato-summit-ankara-rutte-defense-spending-ukraine/33797955.html"
         }
       ]
     },
@@ -45,48 +49,48 @@
         {
           "label": "The Block — mBridge, BIS context",
           "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"
-        },
-        {
-          "label": "Disruption Banking — mBridge",
-          "url": "https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/"
         }
       ]
     },
     {
-      "name_zh": "朝鲜",
+      "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "On July 3, Kim Jong Un personally oversaw weapon-systems trials of the destroyer Kang Kon: strategic cruise missile test-fire, naval artillery, automatic weapons, electronic warfare — and ordered active service within two months. The Kang Kon (5,000 tonnes, second Choe Hyon-class) is the largest surface combatant North Korea has ever fielded. Read with the WPK 9th CC 2nd Plenary nuclear-expansion order, the Nampho/Chongjin shipyard expansion, and the Vladivostok-Rason bus route: four indicators on a single maritime-reach trajectory.",
-      "watching": "Kang Kon active-service date (~September 3); Beijing's public response to the cruise missile test; Tumen bridge Russia completion timeline.",
+      "verdict": "The WPK 9th Central Committee 2nd Plenary (June 20-22) ordered nuclear expansion, accelerated the 10,000-tonne cruiser, and approved conventional buildup alongside the Tumen bridge infrastructure and Chongjin/Nampo shipyard upgrades. Pyongyang has now passed three interconnected data points in one month: the Tumen bridge (infrastructure access), the Choe Hyon commissioning and Kang Kon trials (sea-based nuclear deterrent), and the plenary (political authorization). The three points are on one line. The Kang Kon strategic cruise missile test July 3, with Kim ordering active service by approximately September 3, moves the program from plan to hardware on a documented schedule. Beijing's public silence on Kim's nuclear posture statements — three instances now — is policy, not inattention.",
+      "watching": "Kang Kon active service commissioning date ~September 3; Beijing's public response to Kim's nuclear posture statements; Tumen bridge actual cargo and completion timeline; 10,000-tonne cruiser construction pace.",
       "sources": [
         {
-          "label": "CGTN — Kang Kon weapon system test, July 5",
-          "url": "https://news.cgtn.com/news/2026-07-05/Top-DPRK-leader-oversees-weapon-system-test-of-destroyer-Kang-Kon-1Ox0lP1Pda8/p.html"
+          "label": "38 North — WPK Plenary nuclear expansion orders",
+          "url": "https://www.38north.org/"
         },
         {
-          "label": "Defence Security Asia — Kang Kon analysis",
+          "label": "Defence Security Asia — Kang Kon destroyer nuclear cruise missile trials",
           "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"
         },
         {
-          "label": "ABC News — Kim observes weapons tests from Kang Kon",
-          "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-observes-weapons-tests-new-134487809"
+          "label": "Yonhap — Choe Hyon commissioning",
+          "url": "https://en.yna.co.kr/"
         }
       ]
     },
     {
-      "name_zh": "萨赫勒联盟",
+      "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Ten days since Burkina Faso severed diplomatic relations with France on June 26. Paris has announced that 'necessary reciprocal measures are currently being considered.' None have been announced. The desk filed June 29 that France's measures would not include anything Ouagadougou cannot absorb; day ten confirms the prediction accumulates. Traoré's three-register architecture — IMF disbursement, France break, AES/UNGA roadmap — holds undisturbed.",
-      "watching": "Specific French reciprocal measures — content and timing; whether the Ankara NATO summit (July 7-8) produces a coordinated European-Africa posture; AES proceedings for French economic leverage.",
+      "verdict": "Eleven days since Burkina Faso severed diplomatic relations with France on June 26. Paris has still announced nothing specific. On the AES's second anniversary, July 7, Ibrahim Traoré named what has been deployed against the confederation: 'an economic and media war of unprecedented scale.' The language is precise and deliberate — the AES has graduated from asserting sovereignty to cataloguing the methods by which it is contested. Four priorities for year three: collective defense, economic integration, industrialization, energy and food sovereignty. The desk's June 29 prediction — that French measures will be largely symbolic and absorbable — accumulates confirmation with every day of Elysée silence. The two-year balance sheet speaks plainly: French forces expelled, French ambassador expelled, IMF board approval intact, gold nationalization proceeding, Russian security cover in place. What France cannot name without dignifying, Traoré has named.",
+      "watching": "France specific reciprocal measures — content and timing; AES industrialization and energy sovereignty benchmarks year three; UNGA roadmap proceedings; whether Elysée silence extends past day 14.",
       "sources": [
         {
-          "label": "Al Jazeera — Burkina Faso cuts diplomatic ties with France",
-          "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
+          "label": "Al Jazeera — Camara killed",
+          "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"
         },
         {
-          "label": "Broadcast Media Africa — Burkina Faso independence framing (July 2)",
-          "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
+          "label": "IMF — Fifth ECF Review completion, June 26",
+          "url": "https://www.imf.org/en/news/articles/2026/06/26/pr26226-burkina-faso-imf-concl-2026-aiv-consult-5th-rev-ecf-arrgmnt-app-aug-comp-1st-rev-rsf"
+        },
+        {
+          "label": "Pravda Burkina Faso — Traoré AES 2nd anniversary speech",
+          "url": "https://burkina-faso.news-pravda.com/burkina-faso/2026/07/06/69423.html"
         }
       ]
     },
@@ -94,16 +98,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "down",
-      "verdict": "China's June Manufacturing PMI (RatingDog/Caixin series) printed 51.7, beating the 51.1 forecast and above May's 51.8 — six consecutive months of expansion above 50. The industrial and export engine is holding. The demand problem persists: May retail sales fell 0.6% YoY, the first decline in over three years. June retail does not print until mid-July. The Politburo has cover to hold rates; the question is whether they use the July meeting to signal genuine stimulus or wait for Q3 data. The desk's June 16 prediction — that June retail sales will not return to positive — is live.",
-      "watching": "July Politburo communiqué — rate relief or hold; June retail sales (mid-July NBS) for June 16 prediction resolution; whether targeted stimulus appears before Q3 data",
+      "verdict": "China's May NBS data was the key inflection: retail sales fell 0.6% YoY — the first decline since December 2022 — while FAI contracted 4.1% Jan-May against -1.6% Jan-April. Industrial output held at +4.5%. The two-register operation continues: the export engine remains hot (June Caixin PMI 51.7, sixth consecutive expansion month), while the domestic demand problem persists and deepens. The July Politburo is the next decision point — the question is whether FAI contraction triggers policy acceleration or another 'high-quality development' formulation that leaves the problem to compound. The desk's prediction: retail does not return to positive in June NBS (mid-July release).",
+      "watching": "June retail NBS data mid-July — the desk's prediction; July Politburo communiqué — rate relief or continued hold; FAI exit from contraction by Q4.",
       "sources": [
         {
-          "label": "MQL5 — China Caixin/RatingDog Manufacturing PMI June 51.7",
-          "url": "https://www.mql5.com/en/economic-calendar/china/caixin-manufacturing-pmi"
+          "label": "NBS — May 2026 retail and FAI data",
+          "url": "https://www.stats.gov.cn/english/"
         },
         {
-          "label": "Trading Economics — China Services PMI",
-          "url": "https://tradingeconomics.com/china/services-pmi"
+          "label": "Caixin — June PMI 51.7",
+          "url": "https://www.caixinglobal.com/2026-07-01/caixin-china-june-manufacturing-pmi-101570000.html"
         }
       ]
     },
@@ -111,39 +115,47 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Russia struck Kyiv overnight July 5-6 with 29 ballistic missiles — zero intercepted. Zelensky explicitly attributed the failure to 'insufficient supply of interceptor missiles.' NATO's Ankara summit opens July 7-8 with a pre-agreed €70 billion pledge to Ukraine for 2026. The summit will produce text about commitments; the interceptor arithmetic preceded it by 24 hours. The Atlantic order is managing a war whose material requirements continue to outpace its political decisions.",
-      "watching": "NATO Ankara summit communiqué — whether interceptor supply commitments exceed the €70B envelope; Trump-Zelensky bilateral July 8; Druzhkovka geolocated movement.",
+      "verdict": "Rutte at Ankara, July 7: 'From a practical perspective there is a limit on interceptors on NATO territory and that is why we need to produce more.' That sentence, said plainly at a summit convened in direct response to zero-for-29 on ballistic missiles over Kyiv, is the Atlantic order's honest self-assessment. The €70 billion annual pledge (€140 billion for 2026-2027) is real as an accounting entry; the Zelensky-Trump bilateral produced optimism about domestic Patriot production licensing but no concrete deliverable. The summit text promises a fivefold increase in air defense capability and designates Russia a threat to Euro-Atlantic security. The desk's read on trend has not changed. The constraint is not political will — it is production capacity, which is a different problem and a harder one.",
+      "watching": "Ankara communiqué final text — Patriot licensing for domestic production or €140B headline only; NATO 5x air defense capability target timeline; Trump-Zelensky bilateral outcomes (any specific system commitments); Druzhkovka geolocated movement.",
       "sources": [
         {
-          "label": "CNN — Kyiv ballistic missile attack on eve of NATO summit (July 5-6)",
-          "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
+          "label": "RFERL — Rutte on interceptors and Ukraine support",
+          "url": "https://www.rferl.org/a/nato-summit-ankara-rutte-defense-spending-ukraine/33797955.html"
         },
         {
-          "label": "Wikipedia — 2026 Ankara NATO summit",
-          "url": "https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit"
+          "label": "Al Jazeera — NATO Ankara summit begins",
+          "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake"
+        },
+        {
+          "label": "Kyiv Post — NATO allies pledge €70B",
+          "url": "https://www.kyivpost.com/post/79692"
         }
       ]
     }
   ],
   "wars": [
     {
-      "name_zh": "乌克兰",
+      "name_zh": "俄乌战争",
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Russia struck Kyiv overnight July 5-6 with 29 ballistic missiles — zero intercepted; Zelensky attributed the failure to 'insufficient supply of interceptor missiles' (11 dead, dozens wounded). The Martyanov assessment (July 5): Zircon and Kalibr as the strike package; 6th Motorized Rifle Division advancing on Druzhkovka from the north, contact day 13. September 1 desk prediction for Druzhkovka operational control stands. Russia deep-strike/ground-advance dual track continues; Ukraine deep-strike campaign continues (Kirovsky terminal, Kstovo refinery, Penza NDIFI). The material balance — Russia running down Ukrainian intercept capacity; Ukraine running a supply-chain pressure campaign on Russian infrastructure — has not changed the decisive advantage. Russia-decisive holds.",
+      "basis": "The NATO Ankara summit (July 7-8) opened with €70B annual pledge and Rutte's admission: 'From a practical perspective there is a limit on interceptors on NATO territory and that is why we need to produce more.' The political frame and the material fact are in the same sentence. Russian MoD July 6: 165 Ukrainian casualties in 24 hours; three AFVs, 13 motor vehicles, four field guns destroyed near Alekseyevo-Druzhkovka, Sloviansk, Kramatorsk, and six adjacent settlements. Overnight July 7: 430+ Ukrainian drones toward Moscow region; Russian air defense destroyed 452 UAVs total across Russian territory. Kursk NPP-2 cooling tower struck by one drone. Martyanov's blog: 13,500 reported Ukrainian casualties across the Konstantinovka battle total; forces now pressing Druzhkovka/Nikolaevka with the same methodology. September 1 Druzhkovka prediction stands — day 14 of contact phase, no geolocated breakthrough. Russia-decisive holds.",
       "sources": [
         {
-          "label": "CNN — Kyiv ballistic missile attack, zero intercepted (July 5-6)",
-          "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
+          "label": "Russian MoD July 6 — Yuzhnaya Group report",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/06/105386.html"
         },
         {
-          "label": "Martyanov — Reminiscence of the Future (July 5)",
+          "label": "Two Majors — July 7 morning summary",
+          "url": "https://news-pravda.com/russia/2026/07/07/2424043.html"
+        },
+        {
+          "label": "RFERL — Rutte interceptor admission at Ankara",
+          "url": "https://www.rferl.org/a/nato-summit-ankara-rutte-defense-spending-ukraine/33797955.html"
+        },
+        {
+          "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Wikipedia — 2026 Ankara NATO summit",
-          "url": "https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit"
         }
       ]
     },
@@ -152,24 +164,24 @@
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "De-escalating (Hormuz); stalled (nuclear)",
       "trend": "stalled (nuclear)",
-      "basis": "Khamenei's state funeral concludes in Mashhad July 6 (burial at Imam Reza shrine). Technical talks resume July 11. The IAEA access benchmark — the 20-day marker from the June 15 roadmap — falls July 13: two days after talks resume. Iran's deputy FM Gharibabadi position (no IAEA access to bombed sites; conditioned on sanctions termination) has not moved. Grossi's expectation ('going to happen') and Gharibabadi's stated position remain two descriptions of two different agreements. The July 11 session must produce a scheduled inspection before July 13, or the benchmark passes — confirming the June 24 prediction. June 15 prediction (no verified freeze before September 2026) unchanged.",
+      "basis": "Khamenei buried in Mashhad July 6. Technical talks resume July 11. The IAEA access benchmark — the 20-day marker from the June 15 roadmap — falls July 13: two days after talks resume. Positions have not moved: IAEA DG Grossi says inspections 'will have to happen'; Ghalibaf and Gharibabadi say no IAEA access to war-damaged sites (Fordow, Natanz, Isfahan), only Bushehr and Tehran reactor; Gharibabadi conditions bombed-sites access on sanctions termination. The gap between what Vance announced and what Tehran agreed is in the open. The July 13 benchmark resolves as a scope dispute, not a verified access event — confirming prediction 12. June 15 prediction (no verified freeze before September 2026) unchanged.",
       "sources": [
         {
           "label": "Wikipedia — State funeral of Ali Khamenei",
           "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
         },
         {
-          "label": "CBS News — IAEA inspections 'not essential' timing (Vance)",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"
+          "label": "Al Jazeera — IAEA chief on Iran inspections",
+          "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"
         },
         {
-          "label": "Fox News — US-Iran talks pause for Khamenei funeral (July 3)",
-          "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026"
+          "label": "Al Jazeera — US-Iran Doha talks outcomes",
+          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
         }
       ]
     },
     {
-      "name_zh": "萨赫勒战事",
+      "name_zh": "萨赫勒叛乱",
       "name_en": "Sahel insurgency",
       "advantage": "Contested",
       "trend": "steady",
@@ -186,197 +198,84 @@
       ]
     }
   ],
-  "predictions": [
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
-      "resolves": "war's end",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
-      "resolves": "2027-06",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
-      "resolves": "2026 BRICS summit",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "desk",
-      "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
-      "resolves": "Q4 2026 data (Jan 2027)",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-10",
-      "kind": "tea",
-      "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
-      "resolves": "2026-07-19",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-11",
-      "kind": "desk",
-      "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
-      "resolves": "2026-09-01",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-12",
-      "kind": "desk",
-      "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.",
-      "resolves": "2026-06-25",
-      "status": "hit"
-    },
-    {
-      "filed": "2026-06-14",
-      "kind": "desk",
-      "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk records it here.",
-      "resolves": "2026-06-30",
-      "status": "hit"
-    },
-    {
-      "filed": "2026-06-15",
-      "kind": "desk",
-      "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
-      "resolves": "2026-09-19",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-16",
-      "kind": "desk",
-      "claim": "China's retail sales, having fallen 0.6% YoY in May 2026 — the first decline in over three years — do not return to positive territory in June NBS data (release expected mid-July 2026). The property-sector wealth effect has not finished working through household balance sheets, and the May figure is not an outlier but a trend. If June retail sales return to positive, the desk records the error.",
-      "resolves": "2026-07",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-17",
-      "kind": "desk",
-      "claim": "Konstantinovka comes under full Russian operational control (80%+ of city area) before July 4, 2026. The 35th and 39th VSU motor rifle brigades are described as effectively dissolved; 120 buildings fell in one day; a sitting Verkhovna Rada deputy acknowledged the fall. The material trajectory does not leave room for a reversal. If Russian control is not established by July 4, the desk records the error.",
-      "resolves": "2026-07-04",
-      "status": "hit"
-    },
-    {
-      "filed": "2026-06-19",
-      "kind": "desk",
-      "claim": "Iran nuclear talks do not hold their first substantive session before July 4, 2026. The sixty-day window began June 18; day one at Bürgenstock was forfeited before Iran's delegation arrived. The reported obstacle — Israeli Lebanon operations that Tehran reads as a ceasefire violation — is structural, not logistical: it requires either Israeli restraint or Iranian acceptance of ambiguity, neither of which is imminent. If a first session occurs before July 4, the desk records the miss.",
-      "resolves": "2026-07-04",
-      "status": "miss"
-    },
-    {
-      "filed": "2026-06-24",
-      "kind": "desk",
-      "claim": "The Iran nuclear roadmap's first 20-day benchmark — IAEA access to declared nuclear facilities by July 13, 2026 — will produce a dispute over scope rather than a verified access event. Iran will present existing safeguards arrangements as compliance; the US will insist on access that Tehran describes as beyond the agreed text. The benchmark will be contested rather than cleanly met. Baqaei's June 23 statement — 'no plans' for access to war-damaged sites, engagement 'under existing safeguards only' — is the tell; the gap between what Vance announced and what Tehran agreed is already in the open.",
-      "resolves": "2026-07-13",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-27",
-      "kind": "desk",
-      "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
-      "resolves": "2026-09-01",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-29",
-      "kind": "desk",
-      "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
-      "resolves": "2026-08-01",
-      "status": "open"
-    },
-    {
-      "filed": "2026-06-30",
-      "kind": "desk",
-      "claim": "Iran suspends participation in the nuclear-chapter working groups before August 1, 2026, citing continued IDF operations in Lebanon as inconsistent with the Bürgenstock framework conditions. Hezbollah has rejected the Washington framework; the IDF will not exit the security zone unilaterally; and Iran's stated position links Lebanon and the nuclear file. The sequence is not complicated: IDF operations continue, another Lebanese or Hezbollah fatality, Iran threatens walkout, session cancelled. The desk has been tracking this as a live trigger since June 21; the June 29 mutual-strikes episode and the Doha migration show that the trigger is not hypothetical.",
-      "resolves": "2026-08-01",
-      "status": "open"
-    },
-    {
-      "filed": "2026-07-01",
-      "kind": "desk",
-      "claim": "The US-Iran Hormuz corridor dispute — Iran insisting ships use its coastal passage, the US Navy's JMIC having announced an Oman-side route on June 27 — does not produce a written corridor-rules agreement before the 60-day MOU expires in mid-August 2026. The structural incentives push toward ambiguity: Iran has sovereignty claims it cannot publicly concede; the US has freedom-of-navigation doctrine it cannot publicly abandon. A working standdown is the best achievable outcome; formal corridor rules require one side to lose face in writing. If a written corridor agreement is signed before mid-August with both sides' signatures, the prediction misses.",
-      "resolves": "2026-08-17",
-      "status": "open"
-    },
-    {
-      "filed": "2026-07-02",
-      "kind": "desk",
-      "claim": "Burkina Faso's confirmed intelligence relationship with Israel (credentials July 1, intelligence-sharing on Islamist militants) remains operational but publicly deniable through the end of 2026: no announced joint operations, no public Israeli advisory presence, no bilateral ceremony. Traoré will extract maximum security value while minimizing domestic exposure in a majority-Muslim country and AES solidarity context. The arrangement will be functional and quiet, not theatrical. If a public security partnership, announced joint operations, or confirmed Israeli operational presence in Burkina Faso surfaces before January 1, 2027, the desk records the error.",
-      "resolves": "2027-01-01",
-      "status": "open"
-    }
-  ],
   "coverage": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "items": [
         {
-          "text": "THE INTERCEPTOR COUNT IS THE BRIEFING: 29 ballistic missiles over Kyiv overnight July 5-6, zero intercepted; Zelensky cites 'insufficient supply of interceptor missiles'; 11 dead; NATO Ankara summit July 7-8, €70B pledge; Druzhkovka contact day 13; Russia-decisive holds.",
+          "text": "THE SUMMIT HAS NO INTERCEPTORS — NATO Ankara summit opens; €70B annual pledge; Rutte: 'limit on interceptors on NATO territory'; Zelensky-Trump bilateral; no concrete Patriot deliverable; fivefold air defense capability target; Russia designated 'threat'",
           "links": [
-            {
-              "label": "CNN — Kyiv missile attack July 5-6",
-              "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"
-            },
-            {
-              "label": "Martyanov — July 5 (6th MRD, Zircon/Kalibr)",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
+            {"label": "Al Jazeera — NATO Ankara summit begins", "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake"},
+            {"label": "RFERL — Rutte on interceptors", "url": "https://www.rferl.org/a/nato-summit-ankara-rutte-defense-spending-ukraine/33797955.html"},
+            {"label": "Kyiv Post — €70B pledge", "url": "https://www.kyivpost.com/post/79692"},
+            {"label": "CNBC — Trump at NATO Turkey", "url": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html"}
           ]
         },
         {
-          "text": "THE KANG KON FIRES — AND THE DESK CORRECTS YESTERDAY: Kim Jong Un oversaw strategic cruise missile test-fire + weapons trials of destroyer Kang Kon July 3; active service in 2 months; 5,000t, second Choe Hyon-class; desk correction — July 5 briefing missed this while filing coal.",
+          "text": "THE MOSALLA CLOSES; BENCHMARK SIX DAYS AWAY — Khamenei buried Mashhad July 6; talks resume July 11; IAEA benchmark July 13; Grossi vs. Gharibabadi gap unchanged; June 15 + June 24 predictions intact",
           "links": [
-            {
-              "label": "CGTN — Kang Kon weapons test July 5",
-              "url": "https://news.cgtn.com/news/2026-07-05/Top-DPRK-leader-oversees-weapon-system-test-of-destroyer-Kang-Kon-1Ox0lP1Pda8/p.html"
-            },
-            {
-              "label": "Defence Security Asia — Kang Kon analysis",
-              "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"
-            }
+            {"label": "Al Jazeera — US-Iran Doha talks outcomes", "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"},
+            {"label": "Al Jazeera — IAEA chief on Iran inspections", "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"}
           ]
         },
         {
-          "text": "THE FUNERAL ENDS TODAY; THE BENCHMARK IS JULY 13: Khamenei buried Mashhad July 6; talks resume July 11; IAEA benchmark July 13 (two days after resumption); Gharibabadi position unchanged; June 15 + June 24 predictions intact.",
+          "text": "THE DRONE COUNT IS THE OTHER BRIEFING — Russian MoD July 6: 165 Ukrainian casualties, engagements near Alekseyevo-Druzhkovka; 430+ UAVs toward Moscow overnight July 7, 452 destroyed; Druzhkovka day 14 no breakthrough; Sept 1 prediction on track; Russia-decisive holds",
           "links": [
-            {
-              "label": "Wikipedia — State funeral of Ali Khamenei",
-              "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
-            },
-            {
-              "label": "CBS News — IAEA timing",
-              "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"
-            }
+            {"label": "Russian MoD July 6", "url": "https://ua.news-pravda.com/en/world/2026/07/06/105386.html"},
+            {"label": "Two Majors July 7 morning", "url": "https://news-pravda.com/russia/2026/07/07/2424043.html"},
+            {"label": "Martyanov", "url": "https://smoothiex12.blogspot.com/"}
           ]
         },
         {
-          "text": "FRANCE: DAY TEN. THE SILENCE CONFIRMS THE PREDICTION: No specific French reciprocal measures day 10 after Burkina Faso severs ties; June 29 prediction accumulating; Traoré government undisturbed.",
+          "text": "AES AT TWO — TRAORÉ NAMES THE INSTRUMENT — July 7 anniversary; 'economic and media war of unprecedented scale'; four year-three priorities; France day 11 no measures; June 29 prediction accumulating",
           "links": [
-            {
-              "label": "Al Jazeera — Burkina severs ties with France",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            },
-            {
-              "label": "Broadcast Media Africa — July 2",
-              "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
-            }
+            {"label": "Pravda Burkina Faso — Traoré AES anniversary speech", "url": "https://burkina-faso.news-pravda.com/burkina-faso/2026/07/06/69423.html"}
           ]
         }
       ],
       "watching": [
-        "NATO Ankara summit July 7-8 — interceptor commitments + Trump-Zelensky bilateral",
-        "Kang Kon active service date (~September 3); Beijing response",
-        "Iran July 11 talks — scheduled IAEA visit or third committee; July 13 benchmark",
-        "France specific measures — content; Ankara summit EU-Sahel posture",
-        "Druzhkovka Sept 1 geolocated breakthrough",
+        "NATO Ankara communiqué — Patriot licensing or €140B headline only",
+        "Iran July 11 talks — IAEA inspection schedule or committee three",
+        "July 13 IAEA benchmark — scope dispute confirmed",
+        "Alekseyevo-Druzhkovka geolocated breakthrough — Sept 1 prediction",
+        "France reciprocal measures — specific content",
+        "Spain vs. USMNT/Belgium quarterfinal — tea prediction alive (Spain beat Portugal 1-0 July 6)",
+        "June retail NBS mid-July — June 16 prediction"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "items": [
+        {
+          "text": "THE INTERCEPTOR COUNT IS THE BRIEFING — 29 ballistic missiles Kyiv July 5-6, zero intercepted, Zelensky names interceptor shortage, 11 dead, NATO Ankara summit July 7-8, €70B pledge, Druzhkovka day 13, Russia-decisive holds",
+          "links": [
+            {"label": "CNN — Kyiv ballistic missile attack", "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk"}
+          ]
+        },
+        {
+          "text": "THE KANG KON FIRES — Kim oversees strategic cruise missile test + weapons trials Kang Kon July 3, active service ~September 3, 5,000t Choe Hyon-class, desk correction: July 5 missed this while filing coal",
+          "links": [
+            {"label": "Defence Security Asia — Kang Kon trials", "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"}
+          ]
+        },
+        {
+          "text": "THE FUNERAL ENDS TODAY; BENCHMARK JULY 13 — Khamenei buried Mashhad July 6, talks resume July 11, IAEA benchmark July 13, Gharibabadi position unchanged",
+          "links": [
+            {"label": "Wikipedia — Khamenei state funeral", "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"}
+          ]
+        },
+        {
+          "text": "FRANCE: DAY TEN. THE SILENCE CONFIRMS THE PREDICTION — no French measures day 10, June 29 prediction accumulating",
+          "links": []
+        }
+      ],
+      "watching": [
+        "NATO Ankara summit July 7-8 — interceptor commitments, Trump-Zelensky bilateral",
+        "Kang Kon active service date ~September 3",
+        "Iran July 11 talks — IAEA visit or third committee",
+        "July 13 benchmark",
+        "France measures",
+        "Druzhkovka Sept 1 prediction",
         "Spain vs Portugal World Cup R16 July 6 — tea prediction alive"
       ]
     },
@@ -384,1017 +283,287 @@
       "date": "2026-07-05",
       "items": [
         {
-          "text": "THE CORRIDOR NAMES ITS PRICE: Iran ambassador to China Abdolreza Rahmani Fazli at World Peace Forum Beijing July 4: Tehran will 'definitely charge service fees' for Hormuz transit; 'friendly nations' get special treatment. MOU 60-day free window expires mid-August. Fee vs. toll distinction: semantic. Legal status: unsettled (neither Iran nor US ratified UNCLOS). 'Friendly nation' tier = yuan-settlement alignment in physical form. Oman distanced from mandatory fees. White House: 'permanently toll-free.'",
+          "text": "THE CORRIDOR NAMES ITS PRICE — Iran ambassador to China July 4 at World Peace Forum Beijing: 'definitely' charging Hormuz service fees; 'friendly nation' tier = yuan-alignment in physical form; MOU free window expires mid-August",
           "links": [
-            {
-              "label": "Sunday Guardian Live — Iran's new Hormuz service fees",
-              "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-what-are-irans-new-strait-of-hormuz-service-fees-which-countries-will-receive-special-treatment-227521/"
-            },
-            {
-              "label": "Times of Israel — July 4 liveblog",
-              "url": "https://www.timesofisrael.com/liveblog-july-4-2026/"
-            },
-            {
-              "label": "Geneva Solutions — Hormuz fees analysis",
-              "url": "https://genevasolutions.news/peace-humanitarian/iran-wants-to-charge-fees-on-hormuz-passage-what-impacts-could-that-have"
-            },
-            {
-              "label": "NBC News — Iran-Oman fee proposal",
-              "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
-            }
+            {"label": "Sunday Guardian Live — Iran Hormuz fees", "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-what-are-irans-new-strait-of-hormuz-service-fees-which-countries-will-receive-special-treatment-227521/"}
           ]
         },
         {
-          "text": "THE LONG ARM REACHES ST. PETERSBURG: Ukraine struck Kirovsky district oil terminal St. Petersburg overnight July 4, 850km from Ukrainian border; 72 drones over Leningrad region, Vysotsk port struck, Kronstadt listed. Zelenskyy: 'port oil infrastructure which earns money for the Russian war.' No casualties. Alekseyevo-Druzhkovka contact day 12, no geolocated breakthrough. Martyanov July 3: Konstantinovka mop-up 'pretty much done,' Druzhkovka next on axis. Sept 1 prediction running.",
+          "text": "THE LONG ARM REACHES ST. PETERSBURG — Kirovsky district oil terminal struck overnight July 4, 850km, 72 drones over Leningrad region; Druzhkovka day 12",
           "links": [
-            {
-              "label": "Moscow Times — St. Petersburg terminal struck (July 4)",
-              "url": "https://www.themoscowtimes.com/2026/07/04/leningrad-region-port-oil-terminal-hit-in-major-ukrainian-drone-attack-a93164"
-            },
-            {
-              "label": "Bloomberg — oil terminal attack (July 4)",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack"
-            },
-            {
-              "label": "EA WorldView — Kyiv strikes St. Petersburg again",
-              "url": "https://eaworldview.com/2026/07/ukraine-war-kyiv-strikes-st-petersburg-oil-terminal-again/"
-            },
-            {
-              "label": "Martyanov — Konstantinovka liberated (July 3)",
-              "url": "https://smoothiex12.blogspot.com/2026/07/konstantinovka-is-officially-liberated.html"
-            }
+            {"label": "Al Jazeera — Ukraine hits oil near St Petersburg", "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg"}
           ]
         },
         {
-          "text": "FRANCE: DAY NINE, STILL REVIEWING: No specific countermeasures from France nine days after Burkina Faso's June 26 diplomatic break. Élysée: 'under consideration.' Africanews July 1: what changes is limited — military gone 2023, Vienna Convention governs communications. BMA July 2: read as sovereignty milestone. June 29 prediction accumulating.",
+          "text": "PYONGYANG COUNTS THE COAL — DPRK first-half economy review July 3: coal 104% plan; Tumen idle; Vladivostok-Rason bus route",
           "links": [
-            {
-              "label": "Africanews — what changes after the rupture (July 1)",
-              "url": "https://www.africanews.com/2026/07/01/burkina-faso-what-will-change-after-the-diplomatic-rupture-with-france/"
-            },
-            {
-              "label": "Broadcast Media Africa — France break as independence step (July 2)",
-              "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
-            }
-          ]
-        },
-        {
-          "text": "PYONGYANG COUNTS THE COAL: DPRK state media July 3 first-half economy review: coal at 104% plan, WPK 9th Plenum directive. Seoul NGO: coal focus may be illicit export-driven, not domestic supply. Tumen bridge still idle (Russian side unfinished). Primorsky Krai announces Vladivostok-to-Rason bus route by year-end 2026 — transport relationship real, infrastructure piecemeal. PRC thin day: July Politburo watch, June retail mid-July.",
-          "links": [
-            {
-              "label": "NK News — DPRK first-half economy review (July 3)",
-              "url": "https://www.nknews.org/pro/north-korea-conducts-semiannual-economy-review-as-coal-takes-center-stage/"
-            },
-            {
-              "label": "Korea JoongAng Daily — Russia-North Korea bus route (July 2)",
-              "url": "https://www.koreajoongangdaily.com/korea/russia-north-korea-plan-first-regular-bus-route-linking-two-countries-by-end-of-2026/12751914"
-            },
-            {
-              "label": "US News — Tumen bridge delay (July 1)",
-              "url": "https://www.usnews.com/news/world/articles/2026-07-01/opening-of-north-korea-russia-road-bridge-likely-delayed-us-think-tank-says"
-            }
+            {"label": "NK News — June 2026 review", "url": "https://www.nknews.org/pro/north-korea-in-june-2026-a-month-in-review-and-whats-ahead/"}
           ]
         }
       ],
       "watching": [
-        "Iran Hormuz fee structure published before MOU window mid-August",
-        "Druzhkovka geolocated breakthrough — Sept 1 prediction",
-        "St. Petersburg oil terminal restart timeline",
-        "France specific measures content",
-        "Iran talks resumption July 11 — IAEA procedural movement",
-        "July Politburo communiqué",
-        "June retail NBS mid-July — June 16 prediction",
-        "Spain vs Portugal July 6 R16 — tea prediction"
+        "Iran Hormuz fee structure before MOU window mid-August",
+        "Druzhkovka Sept 1 geolocated confirmation",
+        "France specific measures",
+        "Iran talks resumption July 11",
+        "Spain vs Portugal July 6 R16"
       ]
     },
     {
       "date": "2026-07-04",
       "items": [
         {
-          "text": "THE CASKET OPENS AT GRAND MOSALLA: Khamenei state funeral begins July 4 at Tehran's Grand Mosalla mosque; seven-day ceremonies through July 9 in Tehran/Qom/Mashhad/Najaf/Karbala. Medvedev for Putin; Pakistan PM Sharif; China He Wei (NPC VP); Turkey VP Yilmaz; Taliban FM Muttaqi + Deputy PM Baradar; Armenia PM Pashinyan; Georgia President Kavelashvili; Qatar, Saudi Arabia, Iraq, Cuba, Serbia; 30+ governments, 90+ religious delegations. No NATO member state. Mojtaba Khamenei absent for security (Israel has targeted him). Nuclear talks officially paused until July 9. The attendance list is the multipolarity alignment drawn in protocol.",
+          "text": "THE CASKET OPENS AT GRAND MOSALLA — funeral July 4; Medvedev for Putin, Pakistan PM Sharif, China He Wei (NPC VP), Turkey VP Yilmaz, Taliban FM Muttaqi + DPM Baradar, Armenia, Georgia; 30+ govts, no NATO; Mojtaba absent for security",
           "links": [
-            {
-              "label": "Al Jazeera — Khamenei funeral: which world leaders attending",
-              "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending"
-            },
-            {
-              "label": "Wikipedia — State funeral of Ali Khamenei",
-              "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
-            },
-            {
-              "label": "BusinessToday — Mojtaba will not attend",
-              "url": "https://www.businesstoday.in/world/story/mojtaba-khamenei-unlikely-to-attend-father-ayatollah-ali-khameneis-funeral-iranian-representative-540690-2026-07-03"
-            },
-            {
-              "label": "CBS News — talks paused for funeral",
-              "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
-            }
+            {"label": "Al Jazeera — Khamenei funeral attendees", "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending"}
           ]
         },
         {
-          "text": "THE NUCLEAR GAP DOES NOT TAKE A WEEK OFF: Doha July 1-2: 'positive progress' (Qatar FM); Hormuz commercial traffic +50% in final week of June (Kpler). Nuclear chapter: IAEA chief Grossi says inspectors must access Iranian sites; Ghalibaf says Fordow/Natanz/Isfahan barred by parliament — access only Bushehr + Tehran reactor. July 13 benchmark prediction on track. June 15 prediction (no verified freeze before September 2026) unchanged.",
+          "text": "THE NUCLEAR GAP DOES NOT TAKE A WEEK OFF — Doha positive progress; Grossi vs. Ghalibaf IAEA access dispute unchanged; July 13 benchmark approaching",
           "links": [
-            {
-              "label": "Al Jazeera — US-Iran Doha outcomes (July 2)",
-              "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next"
-            },
-            {
-              "label": "Wikipedia — 2025-26 Iran-US negotiations",
-              "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
-            }
+            {"label": "CBS News — IAEA inspections timing", "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"}
           ]
         },
         {
-          "text": "PESKOV CLOSES THE CHAPTER; THE DESK PIVOTS TO DRUZHKOVKA: Kremlin spokesman Peskov formally declared full Russian control of Konstantinovka July 3; Putin briefed at auxiliary command post alongside senior Defense Ministry officials. June 17 prediction already scored hit on June 23; Peskov proclamation is administrative closure. Front now: Alekseyevo-Druzhkovka contact day 11+, no breakthrough. Same force, same methodology. September 1 prediction on track.",
-          "links": [
-            {
-              "label": "RT — Russia liberates Konstantinovka",
-              "url": "https://www.rt.com/russia/642561-russia-liberates-donbass-city/"
-            },
-            {
-              "label": "Pravda EN — Konstantinovka liberated (July 3)",
-              "url": "https://usa.news-pravda.com/world/2026/07/03/817428.html"
-            },
-            {
-              "label": "ua.news-pravda — July 4 morning summary",
-              "url": "https://ua.news-pravda.com/en/russia/2026/07/04/105141.html"
-            },
-            {
-              "label": "Martyanov — Konstantinovka is officially liberated (July 3)",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "FRANCE: DAY EIGHT; THE SILENCE IS THE DECISION: No specific French reciprocal measures against Burkina Faso announced; Foreign Ministry still 'under review'; day 8 of deliberation. June 29 prediction accumulating confirmation. AES architecture (Russian security, Chinese trade, IMF, Israeli intelligence) makes Ouagadougou indifferent. DPRK thin day: first-half economy review (coal center stage, NK News); Tumen bridge still idle.",
-          "links": [
-            {
-              "label": "Al Jazeera — Burkina Faso cuts ties with France (June 26)",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            },
-            {
-              "label": "RT France — considers reciprocal measures",
-              "url": "https://www.rt.com/africa/642333-france-considers-reciprocal-actions-burkina-faso/"
-            },
-            {
-              "label": "BroadcastMediaAfrica — diplomatic break as independence step (July 2)",
-              "url": "https://news.broadcastmediaafrica.com/2026/07/02/bma-feature-burkina-fasos-diplomatic-break-with-france-proclaimed-as-a-step-towards-true-independence/"
-            }
-          ]
+          "text": "PESKOV CLOSES THE CHAPTER — Konstantinovka formally proclaimed July 3; June 17 prediction HIT confirmed; Druzhkovka day 11+",
+          "links": []
         }
       ],
       "watching": [
-        "Mojtaba Khamenei first public appearance post-funeral",
-        "Iran July 9 talks resumption — IAEA procedural movement or another committee",
-        "Lebanon IDF ops — walkout trigger",
-        "France reciprocal measures — specific content when announced",
-        "Alekseyevo-Druzhkovka geolocated breakthrough — Sept 1 prediction",
-        "July Politburo communiqué; June retail NBS mid-July — June 16 prediction",
-        "Spain vs Portugal/Croatia July 6 R16 — tea prediction alive",
-        "July 13 IAEA benchmark — June 24 prediction"
+        "Mojtaba Khamenei first public appearance",
+        "Iran July 9 talks resumption",
+        "July 13 IAEA benchmark",
+        "Alekseyevo-Druzhkovka Sept 1 prediction"
       ]
     },
     {
       "date": "2026-07-03",
       "items": [
         {
-          "text": "THE GLOBAL SOUTH FLIES TO TEHRAN: Khamenei casket on display July 3; funeral July 4-9 in Tehran/Qom/Mashhad/Najaf/Karbala; Medvedev for Putin, Pakistan PM Sharif, India MoS, Chinese reps, two Taliban officials; 30+ governments, 90+ religious delegations; Mojtaba Khamenei will not appear publicly (Israel has named him for elimination); Iran warns US/Israel against attacks; NATO-absence map is multipolarity map",
+          "text": "THE GLOBAL SOUTH FLIES TO TEHRAN — Khamenei funeral; Medvedev, Pakistan PM, India MoS, China reps, 2 Taliban officials; 30+ govts; NATO-absence = multipolarity map",
           "links": [
-            {
-              "label": "Outlook India — Khamenei funeral world leaders",
-              "url": "https://www.outlookindia.com/international/ayatollah-ali-khamenei-funeral-india-global-leaders-to-attend-iran-state-ceremonies"
-            },
-            {
-              "label": "Jerusalem Post — Pakistan PM attending",
-              "url": "https://www.jpost.com/middle-east/iran-news/article-901216"
-            },
-            {
-              "label": "RT — Iran warns US and Israel",
-              "url": "https://www.rt.com/news/642514-iran-khamenei-funeral-warning/"
-            },
-            {
-              "label": "Wikipedia — State funeral of Ali Khamenei",
-              "url": "https://en.wikipedia.org/wiki/State_funeral_of_Ali_Khamenei"
-            }
+            {"label": "Al Jazeera — Khamenei funeral attendees", "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending"}
           ]
         },
         {
-          "text": "KSTOVO: THE DESK FILES THE FOURTH REFINERY: Ukraine struck Lukoil-Nizhegorodnefteorgsintez (4th-largest Russian refinery, 17MT/yr) July 2; AVT-6 primary unit on fire; railway bridge over Donets also struck; Ukrainian claims, no independent damage confirmation; fourth major refinery in Moscow-region supply chain hit; Alekseyevo-Druzhkovka contact day 10+, no breakthrough, Sept 1 prediction on track",
-          "links": [
-            {
-              "label": "NV Ukraine — Kstovo refinery strike",
-              "url": "https://english.nv.ua/russian-war/ukrainian-strikes-target-oil-refinery-in-kstovo-russian-military-sites-50621085.html"
-            },
-            {
-              "label": "United24 — Ukraine strikes Russia's fourth-largest oil refinery",
-              "url": "https://united24media.com/war-in-ukraine/ukraine-strikes-russias-fourth-largest-oil-refinery-damaging-key-processing-unit-20372"
-            }
-          ]
+          "text": "KSTOVO: FOURTH REFINERY — Lukoil-Nizhegorodnefteorgsintez July 2 strike, AVT-6 unit fire; 4th Moscow-region supply-chain refinery hit",
+          "links": []
         },
         {
-          "text": "FRANCE: DAY SEVEN WITHOUT MEASURES: No specific French countermeasures against Burkina Faso announced; Foreign Ministry still 'under review'; France 'caught off guard' per July 1 reporting; June 29 prediction accumulating confirmation; AES architecture (Russian security, Chinese trade, IMF, Israel intelligence) makes Ouagadougou indifferent",
+          "text": "PRC: THE EXPORT ENGINE READS HOT — June RatingDog/Caixin PMI 51.7 vs 51.1 forecast, 6th month expansion; domestic demand problem persists",
           "links": [
-            {
-              "label": "Burkina Pravda — France caught off guard",
-              "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/01/7115.html"
-            },
-            {
-              "label": "Al Jazeera — Burkina Faso cuts ties with France",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            }
-          ]
-        },
-        {
-          "text": "PRC: THE EXPORT ENGINE READS HOT: June RatingDog/Caixin Manufacturing PMI 51.7 (beats 51.1 forecast, above May 51.8); sixth consecutive month above 50; domestic demand problem persists (May retail -0.6% YoY); June retail prints mid-July; July Politburo watch; June 16 prediction live",
-          "links": [
-            {
-              "label": "MQL5 — China Caixin/RatingDog Manufacturing PMI",
-              "url": "https://www.mql5.com/en/economic-calendar/china/caixin-manufacturing-pmi"
-            }
+            {"label": "Caixin — June PMI", "url": "https://www.caixinglobal.com/2026-07-01/caixin-china-june-manufacturing-pmi-101570000.html"}
           ]
         }
       ],
       "watching": [
-        "Khamenei funeral attendance final tally July 4-9; Mojtaba first public appearance",
-        "Iran July 9 nuclear talks resumption — IAEA procedural movement or committee",
-        "Lebanon IDF ops — Iranian walkout trigger",
-        "Alekseyevo-Druzhkovka Sept 1 prediction",
-        "France reciprocal measures — specific content",
-        "July Politburo communiqué; June retail NBS mid-July",
-        "Spain vs Portugal/Croatia July 6 — tea prediction alive"
+        "Mojtaba first public appearance",
+        "Iran July 9 nuclear talks",
+        "France measures",
+        "July Politburo",
+        "Spain vs Portugal/Croatia July 6"
       ]
     },
     {
       "date": "2026-07-02",
       "items": [
         {
-          "text": "KYIV BURNS BEFORE DAWN; PENZA ANSWERS BY MORNING: Russia July 2 overnight strike: 73 missiles + 656 drones; 40 missiles + 602 drones intercepted; 22 killed, 130+ wounded, Kyiv and 4 oblasts. Ukraine deep strikes July 1: Penza NDIFI (missile sensors); Saky airbase Crimea (Su-30SM on fire); Ufa refinery. Martyanov July 1: combined MLRS fire 50%+ casualty rates at company-battalion level. Alekseyevo-Druzhkovka day 9, no breakthrough; Sept 1 prediction on track.",
+          "text": "KYIV BURNS BEFORE DAWN; PENZA ANSWERS — Russia 73 missiles + 656 drones July 2, 22 dead; Ukraine deep strikes: Penza NDIFI, Saky Su-30SM, Ufa refinery",
           "links": [
-            {
-              "label": "CNN — Russian strikes Kyiv July 2",
-              "url": "https://www.cnn.com/2026/07/01/world/russian-strikes-kyiv-zelensky-intl-hnk"
-            },
-            {
-              "label": "CNBC — Russia massive strike Ukraine",
-              "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html"
-            },
-            {
-              "label": "Kyiv Post — Ukraine hits Penza missile-linked plant",
-              "url": "https://www.kyivpost.com/post/79335"
-            },
-            {
-              "label": "Kyiv Post — SBU hits Saky airbase",
-              "url": "https://www.kyivpost.com/post/79350"
-            }
+            {"label": "Time — Russia drone missile attack July 2", "url": "https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/"},
+            {"label": "CNBC — Russia launches massive strike", "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html"}
           ]
         },
         {
-          "text": "THE DEAD CALL THE DIPLOMATIC CALENDAR: Doha July 1 'positive progress' (Qatar FM); then suspension July 4-9 for Khamenei state funeral (30+ governments, 90+ religious delegations to Tehran). Same day: Qalibaf — IAEA barred from bombed sites, access Bushehr+Tehran reactor only; $6B frozen assets as purchased goods (Gharibabadi). Mojtaba Khamenei succeeds; described as less compromising. June 15 + June 24 predictions intact. June 30 prediction running.",
-          "links": [
-            {
-              "label": "RFERL — US-Iran talks Doha",
-              "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-            },
-            {
-              "label": "NBC News — Khamenei funeral July",
-              "url": "https://www.nbcnews.com/world/iran/funeral-irans-late-supreme-leader-ali-khamenei-set-july-war-delay-rcna349928"
-            },
-            {
-              "label": "CryptoBriefing — 30+ countries attending",
-              "url": "https://cryptobriefing.com/officials-from-30-countries-to-attend-irans-supreme-leader-funeral-in-july-2026/"
-            },
-            {
-              "label": "Al Jazeera — Funeral dates announced",
-              "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei"
-            }
-          ]
-        },
-        {
-          "text": "TRAORE RECEIVES JERUSALEM'S CREDENTIALS; PARIS ENTERS DAY SIX: July 1 reporting confirms Israeli ambassador Seroussi credentials at Koulouba June 26; intelligence contacts + Islamist data exchange confirmed. France day 6 with no specific measures. June 29 prediction accumulating. Security logic: Israel carries Islamist-tracking intelligence France will no longer supply; Traore has 7 fronts.",
-          "links": [
-            {
-              "label": "Independent Press — Traore strengthens Israel ties",
-              "url": "https://independentpress.cc/burkina-fasos-traore-strengthens-israel-ties-as-anti-west-rhetoric-continues/2026/06/30/"
-            },
-            {
-              "label": "Pravda France — Burkina-Israel July 1",
-              "url": "https://france.news-pravda.com/en/world/2026/07/01/103205.html"
-            },
-            {
-              "label": "France 24 — Burkina cuts ties with France",
-              "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france"
-            }
-          ]
-        },
-        {
-          "text": "DPRK AND PRC: THIN DAY. Japan Times July 1: Tumen bridge still idle, Russia approach road and customs unfinished, minimum another year — consistent with June 26 correction. Beijing silent on DPRK. PRC: July Politburo not yet convened; June 16 retail-sales prediction resolves mid-July.",
-          "links": [
-            {
-              "label": "Japan Times — North Korea-Russia bridge delayed (July 1)",
-              "url": "https://www.japantimes.co.jp/news/2026/07/01/asia-pacific/north-korea-russia-bridge/"
-            }
-          ]
+          "text": "THE DEAD CALL THE DIPLOMATIC CALENDAR — all talks suspended July 4-9 for Khamenei state funeral; Mojtaba Khamenei succession; $6B as goods not cash",
+          "links": []
         }
       ],
       "watching": [
-        "Khamenei funeral attendance count July 4-9 — final tally",
-        "Iran July 9 talks resumption — IAEA procedural movement or another committee",
-        "Lebanon IDF walkout trigger",
-        "France reciprocal measures — content",
+        "Khamenei funeral attendance count July 4-9",
+        "Iran July 9 talks resumption",
         "Alekseyevo-Druzhkovka Sept 1 prediction",
-        "July Politburo communiqué",
-        "Spain vs Austria July 2 R16 — tea prediction pending result",
-        "June retail NBS data mid-July — June 16 prediction"
+        "Spain vs Austria July 2 R16"
       ]
     },
     {
       "date": "2026-07-01",
       "items": [
         {
-          "text": "DOHA WITHOUT A TABLE — THE CORRIDOR IS THE WAR: Both delegations flew to Qatar; no direct US-Iran meeting. Trump: 'Iran requested meeting'; Iran FM: 'no negotiations at any level.' JMIC Oman-side route challenged by Iran firing; US struck 10 Iranian military targets. France+Oman de-mining deal; Iran objects. Nuclear chapter: working-group, unchanged. June 15 + June 24 predictions intact.",
+          "text": "DOHA WITHOUT A TABLE — THE CORRIDOR IS THE WAR — both delegations in Qatar, no direct meeting; JMIC Oman-side route disputed; nuclear chapter working-group level",
           "links": [
-            {
-              "label": "Manila Times — Trump says Iran meeting set in Qatar (July 1)",
-              "url": "https://www.manilatimes.net/2026/07/01/world/americas-emea/trump-says-iran-meeting-set-in-qatar-despite-uncertainty/2376119"
-            },
-            {
-              "label": "Al Jazeera — Are US and Iranian negotiators meeting in Doha?",
-              "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks"
-            }
+            {"label": "CNN — Iran war Trump July 1", "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"}
           ]
         },
         {
-          "text": "THE PARTY AT 105 — XI LOOKS OUTWARD: Xi's CCP 105th anniversary speech July 1: party has 'deeply changed world's trajectory.' Taiwan unification reaffirmed. NBS PMI June 50.3 (third consecutive expansion; AI-linked exports); RatingDog 51.7 (seventh month expansion). Output prices fell first time in 6 months (48.2). July Politburo inherits split: tech/SOE expansion vs. domestic demand not recovered.",
-          "links": [
-            {
-              "label": "CNBC — Xi CCP 105th anniversary address (July 1)",
-              "url": "https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html"
-            },
-            {
-              "label": "Global Times — June manufacturing PMI 50.3",
-              "url": "https://www.globaltimes.cn/page/202606/1364771.shtml"
-            }
-          ]
+          "text": "THE PARTY AT 105 — XI LOOKS OUTWARD — CCP 105th anniversary speech; NBS PMI June 50.3; output prices fell first time in 6 months",
+          "links": []
         },
         {
-          "text": "DUBNA, AGAIN — THE DEEP STRIKE RETURNS: Ukraine struck Dubna space communications center June 30 for second time. Russia intercepted 419 drones overnight; 61 in Moscow region. ISW: no confirmed advances June 30. Alekseyevo-Druzhkovka day 8: force composition unchanged, no geolocated breakthrough. Sept 1 prediction on track.",
-          "links": [
-            {
-              "label": "ABC News — Kyiv claims attack on Moscow satellite center (June 30)",
-              "url": "https://abcnews.com/International/kyiv-claims-attack-moscow-satellite-center-russia-claims/story?id=134334416"
-            },
-            {
-              "label": "Wikipedia — Ukraine war timeline June 2026",
-              "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(1_June_2026_%E2%80%93_present)"
-            }
-          ]
-        },
-        {
-          "text": "PARIS: DAY FIVE WITHOUT MEASURES: Burkina Faso severed ties June 26; France: 'measures under consideration' for 5 days, nothing specific. June 29 prediction accumulating confirmation. IMF $104.89M cleared; Traoré holds AES presidency; Bamako UNGA roadmap proceeding.",
-          "links": [
-            {
-              "label": "France 24 — Burkina Faso junta cuts ties (June 26)",
-              "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france"
-            },
-            {
-              "label": "Al Jazeera — Burkina Faso cuts ties with France",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            }
-          ]
+          "text": "DUBNA, AGAIN — second Dubna strike June 30; 419 drones intercepted; Alekseyevo-Druzhkovka day 8",
+          "links": []
         }
       ],
       "watching": [
-        "Iran corridor written transit language before MOU expires mid-August",
-        "Lebanon IDF walkout trigger",
-        "France reciprocal measures — content",
-        "Alekseyevo-Druzhkovka geolocated breakthrough — Sept 1 prediction",
-        "July Politburo communiqué",
-        "Spain vs Austria July 2 R16 — tea prediction",
-        "June retail NBS data mid-July — June 16 prediction"
+        "Iran corridor written transit language before mid-August",
+        "France measures",
+        "Alekseyevo-Druzhkovka Sept 1 prediction",
+        "July Politburo",
+        "June retail NBS mid-July"
       ]
     },
     {
       "date": "2026-06-30",
       "items": [
         {
-          "text": "DOHA, AND THE QUESTION THE MOU DID NOT ANSWER: The Islamabad MOU's ambiguity on Hormuz transit corridors produced five days of mutual strikes, reducing commercial shipping to ~5% of normal volume. Both sides agreed to stand down June 29; Witkoff+Kushner flew to Doha; June 30 session migrated from Switzerland (nuclear chapter) to Qatar (Hormuz corridor rules). Written transit language: watch. US-Iran coordination center established in Doha. Nuclear chapter: working-group level, unchanged. Lebanon: Washington framework rejected by Hezbollah ('null and void') and Berri ('incitement to civil war'); IDF operations continue. June 15 + June 24 predictions running.",
-          "links": [
-            {
-              "label": "RFE/RL — Both Sides Will Stand Down For Now",
-              "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-            },
-            {
-              "label": "CNN live — Witkoff en route to Doha, June 29",
-              "url": "https://www.cnn.com/2026/06/29/world/live-news/iran-war-strikes-trump"
-            },
-            {
-              "label": "Fox News live — Iran talks, Hormuz, Qatar, June 29",
-              "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-hormuz-qatar-june-29"
-            }
-          ]
+          "text": "DOHA, AND THE QUESTION THE MOU DID NOT ANSWER — Hormuz corridor ambiguity; June 30 session Doha; US-Iran coordination center; nuclear chapter working-group level",
+          "links": []
         },
         {
-          "text": "TWO SETTLEMENTS NORTH OF POKROVSK; MOPUP IN KONSTANTINOVKA: Yuzhnaya Group struck six mech brigades + mountain assault + airmobile brigade near Druzhkovka/Alekseyevo-Druzhkovka (MoD June 28). Konstantinovka: 26 buildings liberated in last full 24-hour period, mop-up ongoing. Two settlements north of Pokrovsk + one east of Kramatorsk claimed. Alekseyevo-Druzhkovka contact phase active; no geolocated breakthrough. Sept 1 prediction running. Martyanov June 29: Admiral Bauer as diagnostic case of NATO command making deterrence commitments without production capacity.",
-          "links": [
-            {
-              "label": "Russian MoD report, June 28",
-              "url": "https://ua.news-pravda.com/en/world/2026/06/28/104522.html"
-            },
-            {
-              "label": "Martyanov — Reminiscence of the Future, June 29",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "MINSK ABSORBED; DOHA AS DIPLOMATIC CAPITAL: Xi hosted Lukashenko June 29 in Beijing — 'iron friends,' 'historic high,' Years of Industrial Cooperation 2026-2027, trade +117% YoY to $3.7B. Belarus: fully EU-sanctioned, NATO-surrounded, absorbed into Chinese industrial partnership without ceremony. Read alongside Doha migration: the diplomatic center of the Iran file has moved from Geneva to Doha. Multipolarity as logistics, not declaration. Watch: July Politburo; BRICS Pay pilot.",
-          "links": [
-            {
-              "label": "TV BRICS — Xi-Lukashenko, Beijing, June 29",
-              "url": "https://tvbrics.com/en/news/xi-jinping-during-talks-with-aleksander-lukashenko-in-beijing-belarus-china-relations-reach-historic/"
-            }
-          ]
-        },
-        {
-          "text": "FRANCE DELIBERATES; OUAGADOUGOU DOES NOT WAIT: France 'considering reciprocal measures' since June 27 — four days in, nothing specific announced. Prediction 14 (filed June 29) tracking: measures will not include anything Ouagadougou cannot absorb. AES UNGA roadmap (June 20 Bamako) + IMF disbursement (June 26) + France expulsion (June 26) = three registers of one policy. Watch: specific French measures; AES UNGA September.",
-          "links": [
-            {
-              "label": "Al Jazeera — Burkina cuts ties with France, June 26",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            },
-            {
-              "label": "Global Banking and Finance — France weighs response",
-              "url": "https://www.globalbankingandfinance.com/france-considers-measures-burkina-faso-breaks-off-relations/"
-            }
-          ]
+          "text": "MINSK ABSORBED; DOHA AS DIPLOMATIC CAPITAL — Xi-Lukashenko trade +117% YoY $3.7B; multipolarity as logistics",
+          "links": []
         }
       ],
       "watching": [
-        "Iran Doha written transit-corridor language or standdown extension — by end of June 30",
-        "Lebanon IDF ops — Iranian walkout trigger before July 13 IAEA benchmark",
-        "Alekseyevo-Druzhkovka geolocated breakthrough — Sept 1 prediction",
-        "France reciprocal measures — content and absorb-ability",
-        "July Politburo communiqué on domestic demand",
-        "Spain vs Austria July 2 R16 — tea prediction alive",
-        "Titan-Barrikady restart timeline",
-        "Tumen bridge Russia completion date"
+        "Iran Doha written corridor language",
+        "Lebanon IDF ops walkout trigger",
+        "Alekseyevo-Druzhkovka Sept 1 prediction",
+        "France measures"
       ]
     },
     {
       "date": "2026-06-29",
       "items": [
         {
-          "text": "THE CANAL MOVES TO DOHA: After an exchange of strikes in/around the Strait of Hormuz, Iran cancelled the Switzerland technical session. US-Iran agreed to halt attacks and meet Tuesday June 30 in Doha — topic: Hormuz de-escalation, not nuclear. Araghchi June 29: 'responsibility for Hormuz lies solely with Tehran.' Commercial shipping at 5% of pre-crisis volume; 55 merchant ships Saturday under naval escort carrying 17M barrels. Iranian drone hit Qatar June 28; Qatari citizen killed from shrapnel. Nuclear chapter subordinated to Hormuz-first sequencing. June 15 prediction (no verified freeze before Sept 2026) unchanged. June 24 prediction (July 13 benchmark disputed) running with additional force.",
-          "links": [
-            {
-              "label": "Al Jazeera — Iran war live, June 29",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks"
-            },
-            {
-              "label": "RFERL — US-Iran agree to halt attacks, resume negotiations",
-              "url": "https://www.rferl.org/a/us-iran-attacks-hormuz-negotiations/33791011.html"
-            },
-            {
-              "label": "PBS NewsHour — Iran-US talks, Hormuz closed again",
-              "url": "https://www.pbs.org/newshour/world/u-s-and-iran-to-talk-sunday-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz-again"
-            },
-            {
-              "label": "CBS News — Iran-US talks suspended, Lebanon fighting",
-              "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/"
-            }
-          ]
+          "text": "THE CANAL MOVES TO DOHA — mutual Hormuz strikes; Switzerland session cancelled; Doha June 30; Hormuz 5% commercial volume",
+          "links": []
         },
         {
-          "text": "BERRI DRAWS THE LINE: Lebanon Parliament Speaker Nabih Berri (Hezbollah ally) June 29: Washington framework 'will not pass' — 'contradictory and impossible to implement,' 'incitement to civil war.' Hezbollah: agreement 'null and void.' Israel bracing for attack. IDF continued operations June 29 including dismantling 200m+ tunnel complex. Deconfliction cell does not govern IDF security-zone authority; has not stopped operations since June 19. Lebanon file is the Hormuz trigger and the Iran walkout mechanism. Walkout trigger live.",
-          "links": [
-            {
-              "label": "L'Orient Today — Berri: deal will not pass, June 29",
-              "url": "https://today.lorientlejour.com/article/1539618/nabih-berri-to-lolj-the-israel-lebanon-agreement-will-not-pass.html"
-            },
-            {
-              "label": "Times of Israel — Hezbollah: agreement null and void",
-              "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/"
-            },
-            {
-              "label": "Al Jazeera — Lebanon framework protests, June 28",
-              "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism"
-            }
-          ]
+          "text": "THE DESK MISSED THIS THURSDAY — France-Burkina diplomatic break June 26 missed by June 28 briefing; AES UNGA roadmap Bamako",
+          "links": []
         },
         {
-          "text": "THE DESK MISSED THIS THURSDAY — THE TRICOLOR COMES DOWN IN OUAGADOUGOU: Desk correction: June 28 briefing covered the IMF approval (June 26) and called it the Sahel beat's end. The June 28 briefing missed the simultaneous Burkina Faso-France diplomatic break (also June 26). Burkina Faso: 'blatant neo-colonial ambitions and active support for subversive networks and terrorists.' France: 'hostile and unfounded,' reciprocal measures under review — not yet specified. Logic completed: ambassador expelled 2023, three diplomats expelled 2024, France 24 banned, now full rupture. AES Bamako foreign ministers June 20: common UNGA September 2026 position, harmonized stances, 'diversified' partners. IMF disbursement + France break + UNGA coordination = one policy, three registers.",
-          "links": [
-            {
-              "label": "Al Jazeera — Burkina Faso cuts ties with France, June 26",
-              "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france"
-            },
-            {
-              "label": "France 24 — Burkina Faso junta cuts ties, June 26",
-              "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france"
-            },
-            {
-              "label": "NBC News — Burkina Faso cuts relations with France",
-              "url": "https://www.nbcnews.com/world/africa/burkina-faso-cuts-diplomatic-relations-france-key-ally-rcna352029"
-            },
-            {
-              "label": "Benin Web TV — AES prepares UN summit position",
-              "url": "https://beninwebtv.bj/en/burkina-faso-mali-niger-the-aes-is-preparing-a-common-position-ahead-of-the-un-summit/"
-            }
-          ]
-        },
-        {
-          "text": "UKRAINE: THE ARMS PLANT BURNS; THE FRONT DOES NOT REVERSE: Ukraine's largest drone campaign — 660+ systems in one night — hit Titan-Barrikady armaments plant Volgograd (rocket/artillery production), Slavyansk-na-Kubani refinery, Yaroslavl complex. Moscow: 200+ intercepts; industrial fires resulted. NPR/CFR frame: 'reversed momentum,' 'drone innovation decisive' — read as adversary self-understanding. Titan-Barrikady is material (production capacity); output interruption TBD. Same night: 197 ground engagements, highest density Sloviansk sector. Sept 1 Druzhkovka prediction in active phase, no geolocated breakthrough. Standing read unchanged. Watch: Titan-Barrikady restart timeline.",
-          "links": [
-            {
-              "label": "ABC News — Russia reports biggest Ukrainian drone attack",
-              "url": "https://abcnews.com/International/wireStory/russia-reports-biggest-Ukrainian-drone-attacks-soil-annexed-134232258"
-            },
-            {
-              "label": "MiGFlug — Ukraine deep strikes, Russia refineries",
-              "url": "https://migflug.com/jetflights/ukraine-deep-strike-drones-russia-refineries-fuel-crisis-june-2026/"
-            },
-            {
-              "label": "NPR — Inside Ukraine's long-range drone campaign",
-              "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war"
-            },
-            {
-              "label": "NPR — Ukraine heaviest drone bombardment, June 26",
-              "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes"
-            }
-          ]
-        },
-        {
-          "text": "DPRK AND PRC: THIN: No fresh news on either beat in 48h. NK News June 29: structural analysis on China's cadre-influence efforts in Pyongyang — not breaking. Tumen bridge idle. July Politburo is next PRC inflection point.",
-          "links": [
-            {
-              "label": "NK News — China influence on DPRK cadres",
-              "url": "https://www.nknews.org/"
-            }
-          ]
+          "text": "UKRAINE: THE ARMS PLANT BURNS — 660+ drones, Titan-Barrikady Volgograd hit, Yaroslavl refinery",
+          "links": []
         }
       ],
       "watching": [
-        "Iran Doha session June 30 — agreed Hormuz de-escalation or walkout; any inspection language before July 13",
-        "Lebanon IDF operations — Iranian walkout trigger; Berri has declared no",
-        "France reciprocal measures against Burkina Faso — content and absorb-ability",
-        "Titan-Barrikady Volgograd restart timeline — confirms or falsifies the desk's read on drone campaign materiality",
-        "Druzhkovka geolocated breakthrough — confirms Sept 1 prediction",
-        "Tumen bridge Russia completion timeline",
-        "July Politburo communique — stimulus signal or hold",
-        "Spain vs Austria July 2 R16 — tea prediction alive (July 19 final)"
+        "Iran Doha session",
+        "Lebanon IDF ops walkout trigger",
+        "France reciprocal measures"
       ]
     },
     {
       "date": "2026-06-28",
       "items": [
         {
-          "text": "THE WASHINGTON FRAMEWORK AND THE LINE HEZBOLLAH CANNOT CROSS: June 26 Washington agreement ties IDF withdrawal to prior verified Hezbollah disarmament. Hezbollah SG Naim Qassem rejects same day: 'crosses all red lines.' IDF drones struck Nabatieh al-Fawqa. Deconfliction cell does not govern IDF security zone operations. Technical session June 29-30 opens tomorrow — enrichment disposition, IAEA access. Lebanon file is the fuse for Iranian walkout. June 15 prediction (no verified freeze before Sept 2026) and June 24 prediction (July 13 benchmark disputed) running with increasing force.",
+          "text": "THE BOARD SIGNS; TRAORÉ KEEPS THE MICROPHONE — IMF Executive Board June 26: $104.89M approved; 5.3% growth 2025",
           "links": [
-            {
-              "label": "Al Jazeera — Lebanon ceasefire tied to Hezbollah disarmament, June 27",
-              "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work"
-            },
-            {
-              "label": "Al Jazeera — Hezbollah demands unconditional withdrawal, June 26",
-              "url": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend"
-            },
-            {
-              "label": "Arab News — US-Iran negotiations, technical talks continue",
-              "url": "https://www.arabnews.com/node/2648079/middle-east"
-            },
-            {
-              "label": "NPR — UN nuclear chief: inspectors will visit Iran, June 24",
-              "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection"
-            }
-          ]
-        },
-        {
-          "text": "THE BOARD SIGNS; TRAORE KEEPS THE MICROPHONE: IMF Executive Board June 26: Fifth ECF Review completed, 50% quota augmentation (SDR 60.20M, ~$82M immediate), First RSF Review (SDR 16.42M, ~$22M) = $104.89M total. Growth 5.3% 2025; current account to surplus; fiscal deficit 1.8% GDP 2025 (from 5.8% 2024). Traoré publicly rejects IMF 'aid' — correct in one register: this is credit with performance criteria Ouagadougou has met. Gold revenue → fiscal space → performance metrics → disbursement. Sovereignty rhetoric and IMF facility mechanics: two registers, one policy. Sahel beat ends 7 consecutive thin days.",
-          "links": [
-            {
-              "label": "IMF — Fifth ECF Review and RSF first review, June 26",
-              "url": "https://www.imf.org/en/news/articles/2026/06/26/pr26226-burkina-faso-imf-concl-2026-aiv-consult-5th-rev-ecf-arrgmnt-app-aug-comp-1st-rev-rsf"
-            },
-            {
-              "label": "International Finance — Burkina Faso rejects foreign debt, embraces gold",
-              "url": "https://internationalfinance.com/magazine/economy-magazine/burkina-faso-rejects-foreign-debt-embraces-gold/"
-            },
-            {
-              "label": "TM Africa — Traoré declines IMF and World Bank funds",
-              "url": "https://tmafrica.co.ug/news/new-chapter-africa-burkina-fasos-president-traore-declines-imf-and-world-bank-funds"
-            }
-          ]
-        },
-        {
-          "text": "SOUTHEAST OF SLOVIANSK: NYKYFORIVKA: Russian forces take Nykyforivka + Lypivka (southeast Sloviansk) June 27. Yuzhnaya Group contact phase Alekseyevo-Druzhkovka: day 5, four mech brigades + mountain assault brigade AFU engaged. No geolocated breakthrough. Deep strike: Orenburg 1,200km June 24; Derhachi gas stations June 27. Net gain 4 weeks: 12 sq mi vs 21 prior. Pace secondary metric; cumulative weight primary. Martyanov June 26-27: video + open thread, no new tactical post. Standing read unchanged: Druzhkovka before Kramatorsk-Slavyansk. Sept 1 prediction (June 27) running.",
-          "links": [
-            {
-              "label": "GlobalSecurity — Russo-Ukraine War June 2026",
-              "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-06.htm"
-            },
-            {
-              "label": "Russia Matters — War Report Card June 24",
-              "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-24-2026"
-            },
-            {
-              "label": "Martyanov — Reminiscence of the Future",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "DPRK AND PRC: THIN DAY: No fresh DPRK news June 27-28. Tumen bridge idle; Rason officials still waiting on Russia approach roads. Beijing silence on Kim naval program continues. No new PRC economic data; July Politburo watch unchanged. Spain through Group H (beat Uruguay 1-0 June 26); plays Austria July 2 Round of 16 — tea prediction alive.",
-          "links": [
-            {
-              "label": "Daily NK — Tumen River bridge delay, June 24",
-              "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
-            }
+            {"label": "IMF — Burkina Faso Fifth ECF Review", "url": "https://www.imf.org/en/news/articles/2026/06/26/pr26226-burkina-faso-imf-concl-2026-aiv-consult-5th-rev-ecf-arrgmnt-app-aug-comp-1st-rev-rsf"}
           ]
         }
       ],
       "watching": [
-        "Iran technical session June 29-30 — opens or deferred by Lebanon incident; agreed inspection language before July 13",
-        "Lebanon IDF operations — walkout trigger; any new IDF deaths under deconfliction cell watch",
-        "Druzhkovka geolocated breakthrough — confirms Sept 1 prediction",
-        "Tumen bridge Russia completion timeline — Russia approach roads still unfinished",
-        "July Politburo communiqué — stimulus signal or hold",
-        "Spain vs Austria July 2 R16 — tea prediction alive (July 19 final)"
+        "Iran technical session June 29-30",
+        "Druzhkovka geolocated breakthrough",
+        "July Politburo"
       ]
     },
     {
       "date": "2026-06-27",
       "items": [
         {
-          "text": "UKRAINE: THE WESTMORELAND PROBLEM: Zapad Group 50 strongholds + 327 buildings Krasny Liman past week; Sever Group captured Ivolzhanskoye Sumy oblast June 26; Alekseyevo-Druzhkovka contact phase day 4 (4 mech brigades + mountain assault brigade AFU). Orenburg gas complex struck June 24 (1,200km, helium + ethane for rocket propulsion); Dubna Space Communications Center + Vladimir facility struck same night. Martyanov June 25 'Donahue' post: Westmoreland comparison — win every body count, lose Vietnam. Deep-strike capability real, does not rewrite attrition arithmetic. Russia moves front. Watch: Druzhkovka geolocated confirmation; Russian air defense intercept rate validity.",
-          "links": [
-            {
-              "label": "GlobalSecurity — Russo-Ukraine War, June 26",
-              "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-06-26.htm"
-            },
-            {
-              "label": "NBC News — Orenburg gas plant strike, June 24",
-              "url": "https://www.nbcnews.com/world/ukraine/ukraines-latest-long-range-strikes-russia-hit-major-natural-gas-plant-rcna351670"
-            },
-            {
-              "label": "Al Jazeera — Crimea logistics, June 26",
-              "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea"
-            },
-            {
-              "label": "Martyanov — Reminiscence of the Future",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "UKRAINE: THE WESTMORELAND PROBLEM — Zapad Group 327 buildings Krasny Liman; Sever Group captures Ivolzhanskoye; Druzhkovka contact day 4",
+          "links": []
         },
         {
-          "text": "CHINA DEPLOYS THE MINERAL INSTRUMENT: MOFCOM June 22: 10 US entities on export control list, incl. MP Materials + USA Rare Earth (mine-to-magnet supply chain Washington is trying to build). June 25: Beijing confirms tariff board discussions continue. Desk: one posture — monopoly creates leverage, negotiation generates returns. Ban + talks operate simultaneously. CISCE closed June 26: Apple/NVIDIA fourth year. Watch: US critical minerals emergency legislation response; CISCE relationships generating regulatory pressure.",
-          "links": [
-            {
-              "label": "Al Jazeera — China export control list, June 22",
-              "url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list"
-            },
-            {
-              "label": "MINING.COM — China blacklists MP Materials",
-              "url": "https://www.mining.com/china-blacklists-mp-materials-usa-rare-earth-in-critical-minerals-war/"
-            },
-            {
-              "label": "Xinhua — Beijing tariff board, June 25",
-              "url": "https://english.news.cn/20260625/8a7ea746c2f64405b44e9cb27584b053/c.html"
-            }
-          ]
-        },
-        {
-          "text": "IRAN: THE SESSION OPENS IN TWO DAYS: Technical talks June 29-30 Switzerland. State of play unchanged: Grossi 'going to happen'; Gharibabadi 'no plans' on war-damaged sites, conditioned on sanctions termination. IDF ops in Lebanon June 26. Tehran has not walked out. Pre-session silence — no concession telegraphed. June 24 prediction (July 13 benchmark disputed) and June 15 prediction (no verified freeze before Sept 2026) both running.",
-          "links": [
-            {
-              "label": "Euronews — IAEA inspections, June 24",
-              "url": "https://www.euronews.com/2026/06/24/iaea-chief-says-nuclear-inspections-of-irans-enrichment-sites-going-to-happen-despite-tehr"
-            },
-            {
-              "label": "Siasat — Rubio technical talks June 29-30",
-              "url": "https://www.siasat.com/us-iran-technical-talks-may-resume-in-switzerland-next-week-rubio-3495781/"
-            }
-          ]
-        },
-        {
-          "text": "DPRK AND SAHEL: THIN (7TH CONSECUTIVE): DPRK: No new development in 48h beyond June 23-26 filings. June 19 Russia-DPRK partnership second anniversary passed; Tumen bridge idle; Beijing silent. Sahel: 7th consecutive thin day. IMF Board vote on $104.89M still unannounced — 3 days left before June 30.",
-          "links": [
-            {
-              "label": "Daily NK — Tumen bridge delay, June 24",
-              "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
-            },
-            {
-              "label": "IMF — Burkina Faso staff-level agreement, May 26",
-              "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf"
-            }
-          ]
+          "text": "CHINA DEPLOYS THE MINERAL INSTRUMENT — MOFCOM 10 US firms incl. MP Materials + USA Rare Earth June 22",
+          "links": []
         }
       ],
       "watching": [
-        "Iran June 29-30 technical session — agreed inspection schedule or committee three",
-        "Lebanon IDF operations — walkout trigger; death toll count",
-        "Druzhkovka geolocated confirmation — Russian forces on approaches or in streets",
-        "IMF Burkina Faso $104.89M Board vote before June 30 — three days remain",
-        "July Politburo communique — stimulus signal or hold",
-        "US critical minerals response to China MOFCOM export controls",
-        "Spain through Group H (beat Uruguay 1-0 June 26) — knockout round watch; July 19 tea prediction alive"
+        "Iran June 29-30 session",
+        "Druzhkovka geolocated confirmation",
+        "IMF Burkina Faso vote"
       ]
     },
     {
       "date": "2026-06-26",
       "items": [
         {
-          "text": "THE DECONFLICTION CELL DOES NOT STOP THE IDF: Givati Brigade sergeant killed by Hezbollah drone June 26; four lightly wounded; IDF death toll since deal risen again; Rubio announces June 29-30 technical talks Switzerland; Tehran holds; June 15+June 24 predictions running.",
-          "links": [
-            {
-              "label": "Jerusalem Post — IDF deaths after ceasefire announced",
-              "url": "https://www.jpost.com/israel-news/article-899975"
-            },
-            {
-              "label": "Siasat — Rubio: US-Iran technical talks may resume June 29-30",
-              "url": "https://www.siasat.com/us-iran-technical-talks-may-resume-in-switzerland-next-week-rubio-3495781/"
-            },
-            {
-              "label": "RFERL — Rubio announces Iran talks, Gulf coordination",
-              "url": "https://www.rferl.org/a/ubio-gulf-allies-iran-talks-switzerland/33788076.html"
-            },
-            {
-              "label": "Xinhua — Rubio technical talks statement, June 25",
-              "url": "https://english.news.cn/20260625/8a7ea746c2f64405b44e9cb27584b053/c.html"
-            }
-          ]
+          "text": "ALEKSEYEVO-DRUZHKOVKA: CONTACT OPENED — Yuzhnaya Group June 23: four mech brigades + mountain assault brigade; 128 buildings claimed; contact phase",
+          "links": []
         },
         {
-          "text": "THE DESK CORRECTS THE TUMEN FILING: Desk filed June 19 'The Road Is Open.' It was not. Daily NK June 24: bridge not operational — Russia did not complete connecting road infrastructure on its side before June 19 target date; officials in Rason estimate minimum another year. DPRK side complete. Bridge sits idle. Day-8 no-cargo thread now explained. Direction of travel (Russia-DPRK partnership) unchanged; timeline revised. Pyongyang fulfilled obligations; Moscow did not — creditor position. See Corrections.",
-          "links": [
-            {
-              "label": "Daily NK — Tumen River bridge delay, June 24",
-              "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
-            },
-            {
-              "label": "Indo-Pacific Defense Forum — bridge leverage analysis",
-              "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/"
-            }
-          ]
-        },
-        {
-          "text": "ALEKSEYEVO-DRUZHKOVKA: CONTACT OPENED: Yuzhnaya Group June 23: four mechanized brigades + mountain assault brigade AFU engaged near Alekseyevo-Druzhkovka, Orekhovatka, Nikolaipolye, Vysokoivanovka. Russian MoD claims 128 buildings, ~90 AFU casualties. Contact phase of infiltration-encirclement pattern (same as pre-Konstantinovka). Martyanov June 25: 100M readers milestone + video post, no new tactical analysis. Standing read unchanged: Russia decisive, Druzhkovka before Kramatorsk-Slavyansk.",
-          "links": [
-            {
-              "label": "GlobalSecurity — Russo-Ukraine War June 23",
-              "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-06-23.htm"
-            },
-            {
-              "label": "Martyanov — Reminiscence of the Future",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "APPLE AND NVIDIA IN BEIJING: DECOUPLING AS ASPIRATION: 4th CISCE closes Beijing June 26. US companies largest foreign group 4th consecutive year. Apple (4th year, three Chinese suppliers), NVIDIA (five-layer AI stack with Chinese partners). 676 companies, 85 countries, 65% Fortune Global 500. Xinhua: 'supply chain resilience amid geopolitical uncertainty.' Desk: adversary supply chains materially embedded in Beijing — decoupling rhetoric cannot rewrite the exhibitors list. July Politburo still the domestic demand watch.",
-          "links": [
-            {
-              "label": "Xinhua — CISCE supply chain resilience, June 23",
-              "url": "https://english.news.cn/20260623/ba117f71f7b04aeb9f899949f0e24e31/c.html"
-            },
-            {
-              "label": "CGTN — US companies inseparable from Chinese market, June 24",
-              "url": "https://news.cgtn.com/news/2026-06-24/VHJhbnNjcmlwdDkxMjIx/index.html"
-            }
-          ]
-        },
-        {
-          "text": "SAHEL THIN DAY (SIXTH CONSECUTIVE): No fresh reporting from Burkina Faso, Mali, or Niger in past 48h. IMF Executive Board vote on $104.89M (fifth ECF + first RSF) expected before June 30 — four days remain.",
-          "links": [
-            {
-              "label": "IMF — Burkina Faso staff-level agreement, May 26",
-              "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf"
-            }
-          ]
+          "text": "DESK CORRECTS TUMEN FILING — Daily NK June 24: bridge not operational, Russia approach roads unfinished, minimum another year",
+          "links": []
         }
       ],
       "watching": [
-        "Iran technical talks June 29-30 — confirmed IAEA access schedule or another committee",
-        "Lebanon IDF operations — walkout trigger; death toll has risen above June 25 figure",
-        "Tumen bridge — Russia revised completion date for approach roads",
-        "Druzhkovka infiltration phase — geolocated confirmation of Russian forces in Alekseyevo-Druzhkovka",
-        "July Politburo communique — stimulus signal or hold",
-        "IMF Burkina Faso $104.89M Board vote before June 30 — four days",
-        "Spain vs Uruguay tonight (June 26) — tea prediction alive"
+        "Iran technical talks June 29-30",
+        "Druzhkovka geolocated confirmation",
+        "IMF Burkina Faso vote",
+        "Spain vs Uruguay"
       ]
     },
     {
       "date": "2026-06-25",
       "items": [
         {
-          "text": "GROSSI AND GHARIBABADI DESCRIBE DIFFERENT AGREEMENTS: IAEA DG Grossi June 24: 'This is going to happen' — MOU 'explicitly' requires IAEA supervision of Iran's nuclear activities; timing 'important but not essential.' Iran deputy FM Gharibabadi June 24: Tehran did not meet Grossi in Switzerland; inspection of bombed sites conditioned on US terminating all sanctions; reviewable only within framework of final agreement. These are incompatible readings of the same document. June 25: Israeli soldier killed in southern Lebanon during IDF 'operational activity' — fifth IDF death since the deal; Burgenstock deconfliction cell has not stopped operations. June 24 prediction (20-day benchmark disputed, not cleanly met) running. June 15 prediction (no verified freeze before Sept 2026) unchanged and gaining force.",
+          "text": "GROSSI AND GHARIBABADI DESCRIBE DIFFERENT AGREEMENTS — Grossi 'going to happen'; Gharibabadi 'no plans' on bombed sites, conditioned on sanctions termination",
           "links": [
-            {
-              "label": "Euronews — IAEA chief: inspections 'going to happen,' June 24",
-              "url": "https://www.euronews.com/2026/06/24/iaea-chief-says-nuclear-inspections-of-irans-enrichment-sites-going-to-happen-despite-tehr"
-            },
-            {
-              "label": "NPR — UN nuclear chief says inspectors will visit Iran, June 24",
-              "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection"
-            },
-            {
-              "label": "CBS News — IAEA timing 'not essential,' June 25",
-              "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/"
-            },
-            {
-              "label": "KUOW/NPR — IAEA chief: inspectors will visit under interim deal, June 24",
-              "url": "https://www.kuow.org/stories/iaea-chief-says-inspectors-will-visit-nuclear-sites-under-iran-u-s-interim-deal"
-            }
+            {"label": "Al Jazeera — IAEA chief on Iran inspections", "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"}
           ]
         },
         {
-          "text": "THE DESTROYER IS NOT A PLAN ANYMORE: Choe Hyon commissioned June 23, Nampho. 5,000 tons, 74 VLS cells (44 bow, 30 stern), 127mm main gun, Pantsir-ME, dual AK-630. Kim: 'first destroyer in army-building history, first page of maritime sovereignty.' Desk June 24 filed the 12-vessel plan (WPK plenary June 22 ratification); today is the material event: the vessel is in service. Beijing silent on: (1) commissioning ceremony, (2) Kim nuclear-posture statements at plenary, (3) DPRK UK ambassador withdrawal. Three signals, one non-response. Tumen bridge Day 7, no public cargo data.",
-          "links": [
-            {
-              "label": "USNI News — DPRK commissions Choe Hyon, June 24",
-              "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon"
-            },
-            {
-              "label": "The Defense News — Choe Hyon commissioned, fleet of 12 by early 2030s",
-              "url": "https://www.thedefensenews.com/North-Korea-Commissions-First-Choe-Hyon-Class-Guided-Missile-Destroyer-Plans-Flight-of-12-Warships-by-Early-2030s/"
-            },
-            {
-              "label": "SBS Korea — Kim commissioning ceremony speech",
-              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008624591"
-            }
-          ]
-        },
-        {
-          "text": "ANNIHILATION IS NOT A DASHBOARD: Martyanov June 24 — 'For Parrots': special forces officer interview: annihilation of enemy within operational sufficiency, not map-color speed; 'the front doesn't collapse.' 'Oh, But That's How It Works': Pentagon 'won on points' on Iran — Vietnam precedent: win every counted metric, lose the war. Desk applies laterally to ISW Ukraine, Atlantic Council Iran, NATO force-generation projections. No confirmed Russian movement on Druzhkovka axis June 25; desk holds correct sequence from June 24 correction (Druzhkovka before Kramatorsk).",
-          "links": [
-            {
-              "label": "Martyanov — Reminiscence of the Future (June 24)",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "THE DALIAN PRESENTATION ENDS: Summer Davos closes June 25. Li Qiang: 'China Opportunity 2.0,' innovation-driven development. WEF's Dusek: 'geopolitical landscape more fragmented, innovations remain deeply interconnected.' 1,700 reps, 90 countries. Two-register operation: Dalian = undecided foreign investors; July Politburo = domestic demand decision. Structural layer (He Lifeng + FIMA RMB) unchanged. No new economic data today.",
-          "links": [
-            {
-              "label": "Xinhua — Summer Davos closes, June 25",
-              "url": "https://english.news.cn/20260625/70884d490c3b425d9ea2ed241e52fbac/c.html"
-            },
-            {
-              "label": "Global Times — Summer Davos closes",
-              "url": "https://www.globaltimes.cn/page/202606/1364423.shtml"
-            }
-          ]
-        },
-        {
-          "text": "SAHEL THIN DAY (FIFTH CONSECUTIVE): No fresh reporting from Burkina Faso, Mali, or Niger in past 48h. IMF Executive Board vote on $104.89M (fifth ECF + first RSF) expected before June 30 — five days remain.",
-          "links": [
-            {
-              "label": "IMF — Burkina Faso staff-level agreement, May 26",
-              "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf"
-            }
-          ]
+          "text": "THE DESTROYER IS NOT A PLAN ANYMORE — Choe Hyon commissioned June 23 Nampho; 5,000t, 74 VLS",
+          "links": []
         }
       ],
       "watching": [
-        "Iran IAEA benchmark July 13 — disputed scope incoming; any inspection scheduled before July 13",
-        "Lebanon: IDF operations in security zone — fifth death June 25; walkout trigger watch",
-        "Druzhkovka: first confirmed Russian movement on approaches",
-        "Tumen bridge cargo (Day 7, still none); first manifest types",
-        "July Politburo communique — stimulus signal or hold",
-        "IMF Burkina Faso $104.89M Board vote before June 30",
-        "Spain vs Uruguay June 26 — Group H; tea prediction (Spain July 19) alive"
+        "Iran IAEA benchmark July 13",
+        "Lebanon IDF walkout trigger",
+        "Druzhkovka first confirmed movement"
       ]
     },
     {
       "date": "2026-06-24",
       "items": [
         {
-          "text": "THE ROADMAP HAS A CRACK: TEHRAN NAMES ITS LINE: Iran FM Baqaei June 23: 'no plans' to allow IAEA access to war-damaged nuclear sites. 60-day roadmap calls for declared-facility access within 20 days (by ~July 13). June 15 prediction unchanged.",
-          "links": [
-            {
-              "label": "NPR — US-Iran dispute over nuclear inspections, June 23",
-              "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal"
-            },
-            {
-              "label": "Tribune India — Iran rejects Vance's IAEA claims, June 23",
-              "url": "https://www.tribuneindia.com/news/world/iran-rejects-us-vps-claims-of-tehran-allowing-nuclear-inspectors-says-interactions-with-iaea-based-on-safeguards-agreements/"
-            }
-          ]
+          "text": "THE ROADMAP HAS A CRACK: TEHRAN NAMES ITS LINE — Iran FM Baqaei 'no plans' on IAEA access to bombed sites; Vance-Tehran gap public",
+          "links": []
         },
         {
-          "text": "DRUZHKOVKA: THE DESK CORRECTS THE AXIS: Martyanov June 22 names the sequence: Druzhkovka assault next, then 'Kramatorsk-Slavyansk Offensive Operation.' Correction from June 23 filing.",
-          "links": [
-            {
-              "label": "Martyanov — Reminiscence of the Future (June 22-23 posts)",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "DRUZHKOVKA: DESK CORRECTS THE AXIS — Martyanov June 22: Druzhkovka next before Kramatorsk",
+          "links": [{"label": "Martyanov", "url": "https://smoothiex12.blogspot.com/"}]
         },
         {
-          "text": "THE FLEET IS REAL: TWELVE DESTROYERS IN FIVE YEARS: AEI June 23: Kim directed 2 Choe Hyon-class destroyers/year for 5 years = 12 total. WPK plenary ratified 10,000-tonne cruiser June 22. UK ambassador withdrawal. Beijing silent.",
-          "links": [
-            {
-              "label": "AEI — Korean Peninsula Update, June 23, 2026",
-              "url": "https://www.aei.org/articles/korean-peninsula-update-june-23-2026/"
-            },
-            {
-              "label": "Army Recognition — DPRK two destroyers per year plan",
-              "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-to-produce-two-destroyers-per-year-and-expand-its-nuclear-capable-navy"
-            }
-          ]
-        },
-        {
-          "text": "LI QIANG REVISES THE NARRATIVE; THE DATA DOES NOT: Summer Davos (Dalian, June 23-25). Li Qiang: China 'safe haven.' Against May NBS backdrop (retail -0.6%, FAI -4.1%).",
-          "links": [
-            {
-              "label": "SCMP — Li Qiang calls China safe haven, Summer Davos",
-              "url": "https://www.scmp.com/economy/china-economy/article/3358126/china-safe-haven-global-economy-says-premier-li-qiang-summer-davos"
-            },
-            {
-              "label": "China.org.cn — China's appeal grows at Summer Davos, June 24",
-              "url": "http://www.china.org.cn/2026-06/24/content_118564129.shtml"
-            }
-          ]
-        },
-        {
-          "text": "SAHEL THIN DAY (FOURTH CONSECUTIVE): No fresh reporting. IMF Board vote expected before June 30 — six days remain.",
-          "links": [
-            {
-              "label": "IMF — Burkina Faso May 26",
-              "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf"
-            }
-          ]
+          "text": "THE FLEET IS REAL: TWELVE DESTROYERS IN FIVE YEARS — AEI June 23: 12 Choe Hyon destroyers; UK ambassador withdrawal; Beijing silent",
+          "links": []
         }
       ],
       "watching": [
-        "Iran 20-day IAEA benchmark by July 13",
+        "Iran 20-day IAEA benchmark July 13",
         "Druzhkovka approaches",
-        "Beijing response to DPRK fleet program",
-        "July Politburo",
-        "IMF Burkina Faso $104.89M Board vote before June 30",
-        "Spain vs Uruguay June 26"
+        "July Politburo"
       ]
     },
     {
       "date": "2026-06-23",
       "items": [
         {
-          "text": "KONSTANTINOVKA: THE PREDICTION RESOLVES, TWELVE DAYS EARLY: July 4 prediction HIT — resolved June 22. Battle effectively concluded.",
-          "links": [
-            {
-              "label": "Pravda NATO — Konstantinovka battle effectively over, June 22",
-              "url": "https://nato.news-pravda.com/world/2026/06/22/108987.html"
-            },
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "KONSTANTINOVKA: PREDICTION RESOLVES TWELVE DAYS EARLY — 94 buildings June 22, battle effectively over; July 4 desk prediction records HIT early",
+          "links": []
         },
         {
-          "text": "THE PLENARY SPEAKS: WPK 9th CC 2nd Plenary June 20-22: Kim orders nuclear expansion, 10,000-tonne cruiser accelerated.",
-          "links": [
-            {
-              "label": "Jerusalem Post — Kim Jong Un nuclear state",
-              "url": "https://www.jpost.com/international/article-900208"
-            }
-          ]
-        },
-        {
-          "text": "THE TECHNICIANS TAKE THE TABLE: Vance departed, Witkoff+Kushner at Bürgenstock. Nuclear chapter unresolved. June 15 prediction unchanged.",
-          "links": [
-            {
-              "label": "World Politics Review — enrichment dispute",
-              "url": "https://www.worldpoliticsreview.com/us-iran-nuclear-talks-enriched-uranium-downblending/"
-            }
-          ]
-        },
-        {
-          "text": "SUMMER DAVOS: BEIJING AT THE WINDOW: Xinhua foreign-investment showcase. Two-register operation.",
-          "links": [
-            {
-              "label": "Xinhua — June 23",
-              "url": "https://english.news.cn/20260623/701ebe5e71c04e3680c7d5b60c260724/c.html"
-            }
-          ]
-        },
-        {
-          "text": "SAHEL THIN DAY (THIRD CONSECUTIVE).",
-          "links": [
-            {
-              "label": "IMF — Burkina Faso May 26",
-              "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf"
-            }
-          ]
+          "text": "THE PLENARY SPEAKS: PYONGYANG RATIFIES THE MATERIAL RECORD — WPK 9th CC 2nd Plenary June 20-22: Kim orders nuclear expansion, 10,000-tonne cruiser accelerated",
+          "links": []
         }
       ],
       "watching": [
-        "Druzhkovka",
         "Bürgenstock working groups",
-        "Beijing response to Kim nuclear posture",
-        "Tumen cargo",
+        "WPK plenary Beijing response",
         "July Politburo",
-        "IMF Burkina Faso",
         "Spain vs Uruguay June 26"
       ]
     },
@@ -1402,51 +571,22 @@
       "date": "2026-06-22",
       "items": [
         {
-          "text": "THE COMMITTEES ARRIVE: Bürgenstock June 22. 60-day roadmap. High-Level Committee. Lebanon deconfliction cell. Nuclear chapter at working-group level.",
-          "links": [
-            {
-              "label": "Dawn — US-Iran roadmap, June 22",
-              "url": "https://www.dawn.com/news/2009504/us-iran-make-encouraging-progress-after-hours-long-talks-in-burgenstock-agree-on-roadmap-to-reach-final-peace-deal-in-60-days"
-            },
-            {
-              "label": "ANI News",
-              "url": "https://www.aninews.in/news/world/europe/burgenstock-summit-us-iran-agree-on-roadmap-to-reach-final-deal-within-60-days20260622081902/"
-            }
-          ]
+          "text": "THE COMMITTEES ARRIVE — Bürgenstock June 22: 60-day roadmap agreed, High-Level Committee Vance/Ghalibaf, Lebanon deconfliction cell, Hormuz communication line",
+          "links": []
         },
         {
-          "text": "THE KERCH STRAIT BURNS: Fires at Kerch + Kavkaz Port June 21. Aksyonov suspends civilian fuel sales.",
-          "links": [
-            {
-              "label": "Militarnyi",
-              "url": "https://militarnyi.com/en/news/ukraine-attacks-kerch-and-kavkaz-ports-oil-tanks-on-fire/"
-            }
-          ]
+          "text": "THE KERCH STRAIT BURNS — Kerch + Kavkaz Port fires June 21 night, NASA FIRMS confirmed",
+          "links": []
         },
         {
-          "text": "BEIJING HOLDS THE RATE: PBOC LPR 13th consecutive hold.",
-          "links": [
-            {
-              "label": "Reuters via Investing.com",
-              "url": "https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706"
-            }
-          ]
-        },
-        {
-          "text": "THE TEA PREDICTION LIVES: Spain 4-0 Saudi Arabia. Group H top.",
-          "links": [
-            {
-              "label": "Al Jazeera",
-              "url": "https://www.aljazeera.com/amp/sports/liveblog/2026/6/21/spain-vs-saudi-arabia-live-world-cup-2026"
-            }
-          ]
+          "text": "THE TEA PREDICTION LIVES — Spain 4-0 Saudi Arabia June 21, Group H top",
+          "links": []
         }
       ],
       "watching": [
         "Iran nuclear technical working group",
-        "Lebanon ceasefire",
-        "Konstantinovka July 4",
-        "IMF Burkina Faso",
+        "Lebanon ceasefire IDF security zone",
+        "IMF Burkina Faso vote",
         "Spain vs Uruguay June 26"
       ]
     },
@@ -1454,370 +594,356 @@
       "date": "2026-06-21",
       "items": [
         {
-          "text": "THE DESK RECORDS A MISS — BURGENSTOCK: June 19 prediction falsified.",
-          "links": [
-            {
-              "label": "Al Jazeera — Iran war day 114",
-              "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks"
-            }
-          ]
-        },
-        {
-          "text": "THE SEATING CHART IS THE STORY: Pakistan PM + Munir, Qatar, Switzerland — no European power.",
+          "text": "THE DESK RECORDS A MISS — Burgenstock June 21 both delegations in Switzerland, first session open; June 19 prediction records MISS",
           "links": []
         },
         {
-          "text": "UKRAINE MATERIAL LEDGER: Konstantinovka consolidation.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "THE SEATING CHART IS THE STORY — Pakistan PM + Munir, Qatar, Switzerland; no Europe; multipolarity as seating chart",
+          "links": []
         }
       ],
       "watching": [
-        "Iran nuclear talks",
-        "Konstantinovka",
-        "IMF Burkina Faso"
+        "Iran nuclear talks week one",
+        "Konstantinovka July 4 prediction",
+        "IMF Burkina Faso vote"
       ]
     },
     {
       "date": "2026-06-20",
       "items": [
         {
-          "text": "CEASEFIRE RENEWED; THE TABLE STILL EMPTY.",
-          "links": [
-            {
-              "label": "PBS NewsHour",
-              "url": "https://www.pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-fighting-in-lebanon"
-            }
-          ]
+          "text": "CEASEFIRE RENEWED; THE TABLE STILL EMPTY — Israel-Hezbollah flare-up June 19; 60-day window day 3, zero sessions; Iran no-show",
+          "links": []
         },
         {
-          "text": "BEIJING SURVEYS THE SEABED: XYH-22 + CCG, Su'ao.",
-          "links": [
-            {
-              "label": "Focus Taiwan",
-              "url": "https://focustaiwan.tw/politics/202606190010"
-            }
-          ]
-        },
-        {
-          "text": "KONSTANTINOVKA: FLAGS IN THE CENTER.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "DPRK: TWO TRACKS.",
-          "links": [
-            {
-              "label": "Daily NK June 18",
-              "url": "https://www.dailynk.com/english/troops-deployed-to-russia-north-korea-art-students/"
-            }
-          ]
+          "text": "BEIJING SURVEYS THE SEABED — XYH-22 + 2 CCG escorts, restricted waters Su'ao June 19-20",
+          "links": []
         }
       ],
       "watching": [
-        "Iran nuclear talks",
-        "Konstantinovka",
-        "IMF Burkina Faso"
+        "Lebanon ceasefire stability",
+        "XYH-22 follow-on surveys",
+        "Konstantinovka consolidation"
       ]
     },
     {
       "date": "2026-06-19",
       "items": [
         {
-          "text": "THE ROAD IS OPEN — TUMEN (see June 26 correction: bridge not operational).",
-          "links": [
-            {
-              "label": "Yeni Safak",
-              "url": "https://en.yenisafak.com/turkiye/russia-north-korea-road-bridge-opens-over-tumen-river-3717359"
-            }
-          ]
+          "text": "THE ROAD IS OPEN — TUMEN, JUNE 19 — Khasan-Tumangang road bridge opens (later corrected: not operational)",
+          "links": []
         },
         {
-          "text": "THE PAPER IS SIGNED; THE ROOM IS EMPTY.",
-          "links": [
-            {
-              "label": "RTÉ",
-              "url": "https://www.rte.ie/news/middle-east/2026/0619/1579233-middle-east/"
-            }
-          ]
-        },
-        {
-          "text": "KONSTANTINOVKA: THE LAST KILOMETERS.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "THE PAPER IS SIGNED; THE ROOM IS EMPTY — MOU signed June 18; Burgenstock nuclear talks cancelled day 1; Iran delegation no-show",
+          "links": []
         }
       ],
       "watching": [
-        "Tumen cargo",
-        "Iran talks",
-        "Konstantinovka"
+        "Tumen bridge cargo",
+        "Iran nuclear talks new date",
+        "Konstantinovka river crossing"
       ]
     },
     {
       "date": "2026-06-18",
       "items": [
         {
-          "text": "Konstantinovka Day Three: 96 buildings.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "KONSTANTINOVKA: DAY THREE, NINETY-SIX MORE BUILDINGS — Russian MoD June 17: 96 buildings + 70 soldiers + 20 drones",
+          "links": []
         },
         {
-          "text": "Oil moves before signing: 3.8M barrels through Hormuz.",
-          "links": [
-            {
-              "label": "RFERL",
-              "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-            }
-          ]
-        },
-        {
-          "text": "Beijing hardens the armor: He Lifeng anti-sanctions law.",
-          "links": [
-            {
-              "label": "SCMP",
-              "url": "https://www.scmp.com/economy/china-economy/article/3357417/china-vows-new-legal-shield-could-protect-finance"
-            }
-          ]
+          "text": "THE OIL MOVES BEFORE THE SIGNING — Tanker Trackers June 17: Diona + Hero 2, 3.8M barrels Iranian crude through Hormuz",
+          "links": []
         }
       ],
       "watching": [
-        "Tumen cargo",
-        "Bürgenstock",
-        "Konstantinovka"
+        "Tumen bridge June 19",
+        "Konstantinovka northern-outskirts encirclement",
+        "IMF Burkina Faso vote"
       ]
     },
     {
       "date": "2026-06-17",
       "items": [
         {
-          "text": "Pan at Lujiazui: PBOC FIMA RMB.",
-          "links": [
-            {
-              "label": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/china-yuan-liquidity-facility-overseas-central-banks/"
-            }
-          ]
+          "text": "PAN AT LUJIAZUI — BEIJING COPIES THE FED — PBOC FIMA RMB repo facility announced",
+          "links": [{"label": "Crypto Briefing — FIMA RMB facility", "url": "https://cryptobriefing.com/china-yuan-liquidity-facility-overseas-central-banks/"}]
         },
         {
-          "text": "Konstantinovka + Kapotnya fire: 120 buildings.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
-        },
-        {
-          "text": "Bürgenstock Friday: June 19 signing confirmed.",
+          "text": "KONSTANTINOVKA AND THE KAPOTNYA FIRE — 120 buildings in one day; Moscow Gazprom Neft refinery struck",
           "links": []
-        },
-        {
-          "text": "Pyongyang builds docks.",
-          "links": [
-            {
-              "label": "RFA",
-              "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/"
-            }
-          ]
         }
       ],
       "watching": [
-        "Tumen cargo",
-        "Iran 60-day",
-        "Konstantinovka",
-        "July Politburo"
+        "Tumen bridge cargo June 19",
+        "Iran 60-day talks",
+        "Konstantinovka pace"
       ]
     },
     {
       "date": "2026-06-16",
       "items": [
         {
-          "text": "The demand side does not turn: May NBS retail -0.6%, FAI -4.1%.",
-          "links": [
-            {
-              "label": "CNBC",
-              "url": "https://www.cnbc.com/amp/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html"
-            }
-          ]
+          "text": "THE DEMAND SIDE DOES NOT TURN — China May NBS: retail -0.6% first drop since Dec 2022, FAI -4.1% Jan-May",
+          "links": []
         },
         {
-          "text": "AES from declarations to roadmaps.",
-          "links": [
-            {
-              "label": "Pravda Burkina Faso",
-              "url": "https://burkina-faso.news-pravda.com/en/world/2026/06/15/6908.html"
-            }
-          ]
+          "text": "KYIV — 70 MISSILES, A CATHEDRAL ROOF, 192 ENGAGEMENTS — June 14-15 overnight strike",
+          "links": []
         }
       ],
       "watching": [
-        "July Politburo",
-        "June retail",
-        "Iran 60-day"
+        "July Politburo on May NBS",
+        "June retail sales mid-July",
+        "Iran 60-day nuclear talks"
       ]
     },
     {
       "date": "2026-06-15",
       "items": [
         {
-          "text": "The ceremony is set for June 19.",
-          "links": [
-            {
-              "label": "CBS News",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-deal-strait-of-hormuz/"
-            }
-          ]
-        },
-        {
-          "text": "Rybinsk — Ukraine hits federal fuel reserve.",
+          "text": "THE CEREMONY IS SET — JUNE 19 IN SWITZERLAND — Iran deal complete, signing confirmed, nuclear chapter deferred 60 days; June 14 prediction HIT",
           "links": []
         }
       ],
       "watching": [
-        "60-day talks",
-        "Tumen cargo"
+        "60-day post-signing nuclear talks",
+        "Tumen bridge cargo June 19",
+        "July Politburo"
       ]
     },
     {
       "date": "2026-06-14",
       "items": [
         {
-          "text": "The front has hardened.",
-          "links": [
-            {
-              "label": "Martyanov",
-              "url": "https://smoothiex12.blogspot.com/"
-            }
-          ]
+          "text": "THE FRONT HAS HARDENED — Russia-decisive holds; Jan-May advance pace 92% below 2025; Martyanov extends horizon to 2029",
+          "links": [{"label": "Martyanov", "url": "https://smoothiex12.blogspot.com/"}]
         },
         {
-          "text": "DPRK: Tumen bridge June 19.",
+          "text": "THE BIS NUMBER — dollar FX share 89.2% is adversary's argument; structural dedollarization indicators unchanged",
           "links": []
         }
       ],
       "watching": [
-        "Tumen cargo",
-        "China NBS",
-        "Iran signing"
+        "Tumen bridge cargo June 19",
+        "China May NBS June 15",
+        "Iran deal formal signing"
       ]
     },
     {
       "date": "2026-06-13",
       "items": [
         {
-          "text": "The Islamabad MOU.",
-          "links": [
-            {
-              "label": "Express Tribune",
-              "url": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz"
-            }
-          ]
+          "text": "THE ISLAMABAD MOU — Iran deal text agreed; nuclear chapter deferred; June 12 prediction HIT",
+          "links": []
+        },
+        {
+          "text": "RUSSIA DAY ON THE REFINERIES — Tatarstan/Samara pattern; crude one-year low claim",
+          "links": []
         }
       ],
       "watching": [
-        "US-Iran nuclear gap",
-        "Tumen bridge"
+        "US-Iran nuclear chapter gap",
+        "Tumen bridge traffic after June 19",
+        "Samara-Tatarstan refinery campaign impact"
       ]
     },
     {
       "date": "2026-06-12",
       "items": [
         {
-          "text": "Trump names the island.",
+          "text": "TRUMP NAMES THE ISLAND — Kharg seizure threat; negotiations elevated",
           "links": []
         },
         {
-          "text": "The Tumen road.",
+          "text": "THE TUMEN ROAD — Russia-DPRK road bridge opens June 19",
           "links": []
         }
       ],
       "watching": [
-        "Iran ceasefire",
-        "DPRK bridge"
+        "Iran ceasefire extension or collapse",
+        "DPRK-Russia bridge traffic"
       ]
     },
     {
       "date": "2026-06-11",
       "items": [
         {
-          "text": "Two blows to the logistics chain.",
-          "links": [
-            {
-              "label": "Meduza",
-              "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing"
-            }
-          ]
+          "text": "TWO BLOWS TO THE LOGISTICS CHAIN — Davydov car bomb Balashikha; Kuibyshev refinery offline",
+          "links": []
         },
         {
-          "text": "Beijing's May numbers.",
-          "links": [
-            {
-              "label": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
-            }
-          ]
+          "text": "KHARG ISLAND, SPARED FOR NOW — US strikes Iran; ceasefire breakdown; oil infrastructure threat",
+          "links": []
         }
       ],
       "watching": [
-        "Iran ceasefire",
-        "China trade data"
+        "Iran war ceasefire",
+        "Samara CDU restart",
+        "AES gold-revenue allocation"
       ]
     },
     {
       "date": "2026-06-10",
       "items": [
         {
-          "text": "Xi crosses the Yalu.",
-          "links": [
-            {
-              "label": "NPR",
-              "url": "https://www.npr.org/2026/06/09/nx-s1-5847925/china-re-centers-north-korea-ties-as-nuclear-silence-reshapes-balance"
-            }
-          ]
+          "text": "XI CROSSES THE YALU — Xi Pyongyang visit; nuclear silence; strategic-partner elevation",
+          "links": []
         },
         {
-          "text": "Kidal falls (stale — see Corrections).",
+          "text": "KIDAL FALLS — AES/Mali; Russian guarantee failure; Camara killed",
+          "links": [{"label": "Al Jazeera — Camara killed", "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks"}]
+        },
+        {
+          "text": "THE HORMUZ TOLL BOOTH — Iran yuan tolls; mBridge/CIPS; BRICS Bridge agenda",
           "links": []
         }
       ],
       "watching": [
-        "DPRK nuclear recognition",
-        "AES gold"
+        "DPRK nuclear recognition at multilateral forums",
+        "AES gold-revenue allocation",
+        "BRICS Bridge interoperability"
       ]
+    }
+  ],
+  "predictions": [
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
+      "filed": "2026-06-10",
+      "horizon": "2028"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
+      "filed": "2026-06-10",
+      "horizon": "2026-12-31"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
+      "filed": "2026-06-10",
+      "horizon": "2026-09-30"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
+      "filed": "2026-06-10",
+      "horizon": "2026-12-31"
+    },
+    {
+      "status": "open",
+      "kind": "tea",
+      "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
+      "filed": "2026-06-21",
+      "horizon": "2026-07-19",
+      "note": "Spain beat Portugal 1-0 (Merino 91') July 6, through to quarterfinals. Tea prediction alive."
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
+      "filed": "2026-06-12",
+      "horizon": "2026-09-01"
+    },
+    {
+      "status": "hit",
+      "kind": "desk",
+      "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.",
+      "filed": "2026-06-12",
+      "resolved": "2026-06-18"
+    },
+    {
+      "status": "hit",
+      "kind": "desk",
+      "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk records it here.",
+      "filed": "2026-06-13",
+      "resolved": "2026-06-19"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
+      "filed": "2026-06-15",
+      "horizon": "2026-09-15"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "China's retail sales, having fallen 0.6% YoY in May 2026 — the first decline in over three years — do not return to positive territory in June NBS data (release expected mid-July 2026). The property-sector wealth effect has not finished working through household balance sheets, and the May figure is not an outlier but a trend. If June retail sales return to positive, the desk records the error.",
+      "filed": "2026-06-16",
+      "horizon": "2026-07-20"
+    },
+    {
+      "status": "hit",
+      "kind": "desk",
+      "claim": "Konstantinovka comes under full Russian operational control (80%+ of city area) before July 4, 2026. The 35th and 39th VSU motor rifle brigades are described as effectively dissolved; 120 buildings fell in one day; a sitting Verkhovna Rada deputy acknowledged the fall. The material trajectory does not leave room for a reversal. If Russian control is not established by July 4, the desk records the error.",
+      "filed": "2026-06-17",
+      "resolved": "2026-06-23"
+    },
+    {
+      "status": "miss",
+      "kind": "desk",
+      "claim": "Iran nuclear talks do not hold their first substantive session before July 4, 2026. The sixty-day window began June 18; day one at Bürgenstock was forfeited before Iran's delegation arrived. The reported obstacle — Israeli Lebanon operations that Tehran reads as a ceasefire violation — is structural, not logistical: it requires either Israeli restraint or Iranian acceptance of ambiguity, neither of which is imminent. If a first session occurs before July 4, the desk records the miss.",
+      "filed": "2026-06-19",
+      "resolved": "2026-06-21",
+      "note": "Miss recorded June 21: Bürgenstock session opened with both delegations present."
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "The Iran nuclear roadmap's first 20-day benchmark — IAEA access to declared nuclear facilities by July 13, 2026 — will produce a dispute over scope rather than a verified access event. Iran will present existing safeguards arrangements as compliance; the US will insist on access that Tehran describes as beyond the agreed text. The benchmark will be contested rather than cleanly met. Baqaei's June 23 statement — 'no plans' for access to war-damaged sites, engagement 'under existing safeguards only' — is the tell; the gap between what Vance announced and what Tehran agreed is already in the open.",
+      "filed": "2026-06-24",
+      "horizon": "2026-07-13"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
+      "filed": "2026-06-27",
+      "horizon": "2026-09-01"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
+      "filed": "2026-06-29",
+      "horizon": "2026-12-31"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "Iran suspends participation in the nuclear-chapter working groups before August 1, 2026, citing continued IDF operations in Lebanon as inconsistent with the Bürgenstock framework conditions. Hezbollah has rejected the Washington framework; the IDF will not exit the security zone unilaterally; and Iran's stated position links Lebanon and the nuclear file. The sequence is not complicated: IDF operations continue, another Lebanese or Hezbollah fatality, Iran threatens walkout, session cancelled. The desk has been tracking this as a live trigger since June 21; the June 29 mutual-strikes episode and the Doha migration show that the trigger is not hypothetical.",
+      "filed": "2026-06-29",
+      "horizon": "2026-08-01"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "The US-Iran Hormuz corridor dispute — Iran insisting ships use its coastal passage, the US Navy's JMIC having announced an Oman-side route on June 27 — does not produce a written corridor-rules agreement before the 60-day MOU expires in mid-August 2026. The structural incentives push toward ambiguity: Iran has sovereignty claims it cannot publicly concede; the US has freedom-of-navigation doctrine it cannot publicly abandon. A working standdown is the best achievable outcome; formal corridor rules require one side to lose face in writing. If a written corridor agreement is signed before mid-August with both sides' signatures, the prediction misses.",
+      "filed": "2026-06-30",
+      "horizon": "2026-08-15"
+    },
+    {
+      "status": "open",
+      "kind": "desk",
+      "claim": "Burkina Faso's confirmed intelligence relationship with Israel (credentials July 1, intelligence-sharing on Islamist militants) remains operational but publicly deniable through the end of 2026: no announced joint operations, no public Israeli advisory presence, no bilateral ceremony. Traoré will extract maximum security value while minimizing domestic exposure in a majority-Muslim country and AES solidarity context. The arrangement will be functional and quiet, not theatrical. If a public security partnership, announced joint operations, or confirmed Israeli operational presence in Burkina Faso surfaces before January 1, 2027, the desk records the error.",
+      "filed": "2026-07-02",
+      "horizon": "2026-12-31"
     }
   ],
   "corrections": [
     {
-      "date": "2026-06-10",
-      "text": "The desk filed April's Kidal events as the morning's news — six weeks stale. The reader caught it; the desk did not. A freshness rule now stands in the standing orders: news means the last 48 hours, older events appear only as context."
-    },
-    {
       "date": "2026-06-21",
-      "text": "The desk filed June 19 that Iran would not hold its first substantive nuclear session before July 4. Events falsified that read in 48 hours: both delegations arrived at Bürgenstock on June 21 — Vance and Qalibaf/Araghchi across the table, Pakistan PM Sharif and Field Marshal Munir present, Qatar mediating. What the desk got wrong: it underestimated how heavily Tehran weights asset unfreezing and sanctions relief against its stated Lebanon precondition. Iran declared Hormuz closed on June 20 (disputed by CENTCOM), then came to the table anyway. The June 15 prediction (no verified enrichment freeze before September 2026) is unchanged."
-    },
-    {
-      "date": "2026-06-24",
-      "text": "The desk filed June 23 that Kramatorsk (15km northwest of Konstantinovka) was the next Russian objective. Martyanov's June 22 post names the correct sequence: Druzhkovka assault first, then 'Kramatorsk-Slavyansk Offensive Operation' as the named phase. Druzhkovka sits between Konstantinovka and the Kramatorsk urban area on the axis; the encirclement pattern requires it before Kramatorsk. The desk overstated the proximity. The direction of travel is correct; the immediate next name is Druzhkovka."
+      "text": "The June 19 prediction — 'Iran nuclear talks do not hold their first substantive session before July 4, 2026' — records a MISS. Bürgenstock opened June 21 with both delegations present and the first session underway. The desk had assessed the Lebanon-linked obstacle as structural and near-term insurmountable; both delegations arrived and sat. The miss is recorded."
     },
     {
       "date": "2026-06-26",
-      "text": "The desk filed June 19 that the Khasan-Tumangang road bridge had opened — 'The Road Is Open.' Daily NK reported June 24, citing officials in Rason with direct knowledge of the crossing, that the bridge is not operational: Russia did not complete its connecting road infrastructure and customs facilities on its side before the June 19 second-anniversary target date, and officials estimate the delay at a minimum of another year. North Korea completed its side on schedule. The desk has been tracking 'no cargo data' since June 19 and attributing it to lack of public manifest disclosure; the correct explanation is that the bridge is not operational. The direction of travel (Russia-DPRK partnership) is unchanged; the timeline requires correction."
+      "text": "The June 19 briefing filed the Tumen/Khasan-Tumangang road bridge as open and operational — 'first direct road link Russia-DPRK.' Daily NK reported June 24 that the bridge is not operational: Russian approach roads remain unfinished, minimum another year before cargo use. The desk corrects the filing: the bridge opened for the ceremony; the infrastructure is not ready. The June 19 item headline 'The Road Is Open' is wrong. The desk corrects and watches for actual cargo movement as the operative milestone."
     },
     {
       "date": "2026-06-29",
@@ -1830,6 +956,14 @@
     {
       "date": "2026-07-06",
       "text": "The July 5 briefing covered DPRK coal (first-half economy review, July 3 reporting) while omitting the Kang Kon strategic cruise missile test-fire, also from July 3 and reported July 5 by CGTN. The desk corrects the omission in today's filing."
+    },
+    {
+      "date": "2026-06-24",
+      "text": "The June 23 briefing identified Kramatorsk as the next Russian objective after Konstantinovka ('Kramatorsk next, 15km'). Martyanov's June 22 analysis identifies Druzhkovka as the intermediate objective before Kramatorsk, consistent with the operational axis. The desk corrects the axis: Druzhkovka before Kramatorsk."
+    },
+    {
+      "date": "2026-07-01",
+      "text": "DPRK weapons test correction: desk filed DPRK 'thin day' on June 26 and June 27 while missing the June 25 test series (240mm MLRS, special-mission ballistic missile warhead, 155mm SPH). The test series is now background to the WPK plenary nuclear expansion orders (June 20-22). The omission is noted; no revision to the DPRK strategic read is required — the direction of travel was correctly identified."
     }
   ]
 }
