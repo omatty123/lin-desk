@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09",
-  "edition": 31,
+  "updated": "2026-07-10",
+  "edition": 32,
   "board": [
     {
       "name_zh": "多极化",
@@ -52,8 +52,8 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Kim Jong Un sent a congratulatory message to Xi Jinping on July 1 for the CCP's 105th anniversary, 'expressing desire to strengthen bilateral relations.' DPRK-PRC trade reached record monthly levels in April 2026; passenger flights and railway services have resumed after the COVID-19 pause. The Citizens' Alliance for North Korean Human Rights counted 3,756 North Korean vessels at foreign ports in 2025, compared to 1,929 in 2023 — nearly double. Coal is running at 104% of plan; the Ministry of National Defense monopolizes this revenue stream, funding the destroyer program the desk has been tracking. Kang Kon active service target: approximately September 3 — Kim's order to trials teams on July 3. The third destroyer at Nampo is 30% complete, with the October Workers' Party founding anniversary as the stated deadline. Beijing has maintained public silence on Kim's nuclear posture for five consecutive instances. Five data points constitute a policy. The economic integration proceeds at the operational level — vessel counts, trade figures, resumed transport — while Beijing keeps the political silence that serves both parties.",
-      "watching": "Kang Kon confirmed active-service commissioning ~September 3; third destroyer completion — October WPK anniversary target; Beijing public response to DPRK naval expansion (fifth consecutive silence is policy, sixth approaches doctrine); Tumen bridge actual cargo and completion timeline.",
+      "verdict": "Kim Jong Un chaired the First Enlarged Meeting of the Ninth Central Military Commission on July 9 — the first CMC enlarged meeting since the Ninth Party Congress in February — and signed seven orders on 'important military measures.' The declared focus: nuclear forces 'qualitatively and quantitatively,' combat-system standardization, military-base modernization, naval capabilities, intelligence-collection improvements, and a 'revolution in military education.' The institutional sequence is now four steps in five weeks: Xi's June visit (strategic alignment declared), the Ninth Party Congress (political authority), the Ninth Plenary (military expansion directive), and now the CMC orders (executive implementation). State media names the focus areas without specific figures — KCNA announces in aggregate; the program builds in detail. Beijing has maintained public silence through six consecutive DPRK military-expansion announcements. The desk called it a policy at five; the sixth confirms the doctrine. DPRK-PRC trade at record monthly levels in April; passenger flights and railway services resumed; coal at 104% of plan. The Kang Kon's active-service target remains approximately September 3; the third destroyer at Nampo is 30% complete, October WPK founding anniversary as the stated deadline.",
+      "watching": "DPRK CMC seven orders — content on delivery systems versus force composition; Kang Kon confirmed active-service commissioning ~September 3; third destroyer completion — October WPK anniversary target; Beijing public response to the CMC orders (sixth consecutive silence = doctrine); Tumen bridge actual cargo and completion timeline.",
       "sources": [
         {
           "label": "AEI — Korean Peninsula Update, July 7",
@@ -70,6 +70,18 @@
         {
           "label": "Defence Security Asia — Kang Kon nuclear cruise missile trials",
           "url": "https://defencesecurityasia.com/en/kang-kon-destroyer-north-korea-nuclear-cruise-missile-kim-jong-un-naval-modernisation/"
+        },
+        {
+          "label": "NK News — Kim oversees CMC meeting on nukes, navy, intel, July 10",
+          "url": "https://www.nknews.org/2026/07/kim-jong-un-oversees-military-meeting-on-improving-nukes-navy-and-intel-agency/"
+        },
+        {
+          "label": "US News — DPRK decides measures to expand nuclear forces, July 9",
+          "url": "https://www.usnews.com/news/world/articles/2026-07-09/north-korea-decides-on-measures-to-expand-nuclear-forces-kcna-reports"
+        },
+        {
+          "label": "Pravda EN — DPRK nuclear forces strengthened qualitatively and quantitatively, July 10",
+          "url": "https://news-pravda.com/world/2026/07/10/2431628.html"
         }
       ]
     },
@@ -106,8 +118,8 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "down",
-      "verdict": "June inflation data released today. Consumer prices rose 1.0% YoY — below the 1.1% forecast, down from 1.2% in both April and May. Food prices fell 1.6% for the third consecutive month. Transport costs slowed to +4.1% from +5.4% as the government cut domestic gasoline and diesel prices following the easing of the Iran war premium. Core inflation: 1.0%, also down. Producer prices came in at +4.1% YoY — the strongest reading since July 2022. The scissors: industrial capacity running hot on commodity costs while the consumer stays home. The pattern is consistent: the export engine remains strong (Caixin PMI 51.7, sixth consecutive expansion month), but domestic demand does not respond to messaging. June retail sales release mid-July — that is where the desk's prediction (no return to positive) resolves. The July Politburo meets in approximately three weeks.",
-      "watching": "June NBS retail sales mid-July — the desk's prediction (no return to positive); July Politburo communique — rate relief or another hold; FAI exit from contraction by Q4.",
+      "verdict": "June inflation data released July 9: consumer prices rose 1.0% YoY — below the 1.1% forecast. Food prices fell 1.6% for the third consecutive month. PPI +4.1% YoY, strongest since July 2022. The scissors between a hot industrial sector and a consumer who has not returned is the structural condition. On July 10, China's Ministry of Commerce, NDRC, and associated departments jointly issued a retail sector modernization guideline — goal: 'modern retail system' and 'globally competitive retailers' by 2030, under the 15th Five-Year Plan. Xinhua frames it as creating 'new sources of consumer demand.' The desk reads it from the data side: you issue a five-year roadmap for demand when you cannot solve the problem in one year. May retail sales fell 0.6% — the first decline in over three years. June NBS retail data releases approximately July 15-17; the desk's Prediction 10 (retail does not return to positive in June) resolves in approximately one week. A five-year plan for retail innovation does not change the June figures.",
+      "watching": "June NBS retail sales mid-July (~July 15-17) — the desk's Prediction 10 resolution; July Politburo communiqué — rate relief or acknowledgment of structural demand problem; FAI exit from contraction by Q4.",
       "sources": [
         {
           "label": "CNBC — China June CPI/PPI, July 9",
@@ -120,6 +132,14 @@
         {
           "label": "NBS — May 2026 data",
           "url": "https://www.stats.gov.cn/english/"
+        },
+        {
+          "label": "Xinhua — China aims to boost consumption via retail sector plan, July 9",
+          "url": "https://english.news.cn/20260709/d7410c2f4df644c6b058baa87abae111/c.html"
+        },
+        {
+          "label": "China Daily — Retail moves seen boosting economy, July 10",
+          "url": "https://global.chinadaily.com.cn/a/202607/10/WS6a5047e9a310986e2b464840.html"
         }
       ]
     },
@@ -151,7 +171,7 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Deep strikes July 8-9: Saratov oil refinery ablaze, Nizhnekamsk petrochemical hit, Borisoglebsk air base on fire, Ufa refinery burning, nine Russian fuel tankers struck in the Sea of Azov by FP-2 drones (July 8); Lukoil-owned oil depot near Mikhaylovsk in Stavropol Krai at 900km range, Tver oil depot again (July 9). The campaign against Russian fuel logistics runs at its established pace. Alekseyevo-Druzhkovka, day sixteen: Yuzhnaya Group brigades in contact, no geolocated breakthrough. Martyanov's July 8 post on Polish FM Sikorski's call for Ukraine to 'restrain emotions' frames the coalition condition precisely: a secondary supporter who has reached the limit of his deliverable capacity and wants the temperature to read differently. Ankara closed with €140 billion pledged and Rutte's honest admission that the production line does not solve 2026. Russia-decisive holds.",
+      "basis": "July 10 morning battle summary: 'intensified military operations' in the Druzhkovka direction; aerial bomb on a private home in Druzhkovka (3 killed, 2 wounded); Konstantinovka in mopping-up. Ukrainian counterattacks near Malinovka (9km east of Kramatorsk). Kupyansk sector: Russian advances continuing. 30+ drones intercepted over the Leningrad region overnight; drone-debris fire at a Krasnodar refinery. Alekseyevo-Druzhkovka, day seventeen: no geolocated breakthrough. Martyanov's July 9 post on a US commander approving strikes on an Iranian school — the 'we do not target civilians' doctrine illustrated. Russia-decisive holds; September 1 Druzhkovka prediction on track.",
       "sources": [
         {
           "label": "Russian MoD report July 8, Pravda Ukraine",
@@ -168,6 +188,14 @@
         {
           "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
+        },
+        {
+          "label": "Pravda EN — July 10 morning summary",
+          "url": "https://news-pravda.com/world/2026/07/10/2431652.html"
+        },
+        {
+          "label": "Pravda EN — Chronicle of strikes July 9-10",
+          "url": "https://news-pravda.com/ukraine/2026/07/10/2431748.html"
         }
       ]
     },
@@ -176,7 +204,7 @@
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "De-escalating (Hormuz); stalled (nuclear)",
       "trend": "stalled (nuclear)",
-      "basis": "The six-day funeral for Ali Khamenei closes today in Mashhad. Three sons attended the burial; Mojtaba Khamenei, the new Supreme Leader, did not appear. Reportedly advised against attending on security grounds: severely injured in the February 28 Israeli strike, facial disfigurement, significant leg damage. The desk's register: Iran's Supreme Leader has not been publicly seen or heard since his appointment in March. Technical talks resume July 11. The IAEA access benchmark falls July 13 — two days later. Positions have not moved: Grossi says inspections 'will have to have access and inspect'; Gharibabadi says no IAEA access to war-damaged sites, conditioned on sanctions termination. The gap has not narrowed in six weeks. Prediction 12 — the benchmark resolves as a scope dispute — remains on track. Lebanon: IDF security zone operations continue; Hezbollah has declared the Washington framework 'null and void.' The walkout trigger (Prediction 16) is structurally live but has not fired in the past 48 hours. June 15 prediction (no verified freeze before September 2026) unchanged.",
+      "basis": "Talks resume in Doha July 11; IAEA access benchmark July 13. Nothing moved during the Khamenei funeral break (July 4-9): no informal channel produced alignment on access terms, no softening of the Grossi-Gharibabadi gap. Grossi: inspectors 'will have to have access and inspect.' Gharibabadi: no access to war-damaged sites, engagement only under existing safeguards. The desk's Prediction 12 — that July 13 resolves as a scope dispute, not a verified access event — is three days from resolution. Mojtaba Khamenei has not been publicly seen or heard since his March appointment; reportedly absent from the Mashhad burial on security grounds (injuries from the February 28 Israeli strike). Lebanon: IDF security zone operations continued through the funeral week without interruption; Hezbollah has maintained its rejection of the Washington framework. The walkout trigger (Prediction 16) remains structurally live. June 15 prediction (no verified freeze before September 2026) unchanged.",
       "sources": [
         {
           "label": "CBC — Mojtaba not at Khamenei funeral",
@@ -219,6 +247,85 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-10",
+      "items": [
+        {
+          "text": "SEVEN ORDERS FROM THE NINTH CMC — Kim Jong Un chairs First Enlarged CMC meeting of 9th Party Congress era July 9; signs 7 military orders; focus: nuclear quantitative+qualitative, combat-system standardization, naval capabilities, intelligence, 'revolution in military education'; Beijing silence x6; institutional sequence: Xi visit + Party Congress + Plenary + CMC orders = 4 steps in 5 weeks; Kang Kon ~Sept 3; third destroyer 30% Nampo",
+          "links": [
+            {
+              "label": "NK News — Kim oversees CMC meeting July 10",
+              "url": "https://www.nknews.org/2026/07/kim-jong-un-oversees-military-meeting-on-improving-nukes-navy-and-intel-agency/"
+            },
+            {
+              "label": "US News — DPRK nuclear forces decision July 9",
+              "url": "https://www.usnews.com/news/world/articles/2026-07-09/north-korea-decides-on-measures-to-expand-nuclear-forces-kcna-reports"
+            },
+            {
+              "label": "Pravda EN — DPRK nuclear forces July 10",
+              "url": "https://news-pravda.com/world/2026/07/10/2431628.html"
+            }
+          ]
+        },
+        {
+          "text": "DRUZHKOVKA, DAY SEVENTEEN — aerial bomb on Druzhkovka home July 10 (3 killed, 2 wounded); Russian MoD: intensified operations in Druzhkovka direction; Konstantinovka mopping up; Malinovka counterattacks (9km E Kramatorsk); 30+ drones Leningrad region; Krasnodar refinery fire; Sept 1 prediction on track; Russia-decisive holds",
+          "links": [
+            {
+              "label": "Pravda EN — July 10 morning summary",
+              "url": "https://news-pravda.com/world/2026/07/10/2431652.html"
+            },
+            {
+              "label": "Pravda EN — Ukraine strikes chronicle July 10",
+              "url": "https://news-pravda.com/ukraine/2026/07/10/2431748.html"
+            },
+            {
+              "label": "Martyanov — Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "TOMORROW'S TABLE, SATURDAY'S BENCHMARK — Iran talks resume July 11 Doha; IAEA benchmark July 13; Grossi vs. Gharibabadi gap unchanged through funeral break; Lebanon IDF ops continue; Prediction 12 imminent resolution (scope dispute not verified access); June 15 prediction intact",
+          "links": [
+            {
+              "label": "Al Jazeera — IAEA chief on Iran inspections",
+              "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"
+            },
+            {
+              "label": "Wikipedia — Iran-US negotiations 2025-2026",
+              "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
+            }
+          ]
+        },
+        {
+          "text": "BEIJING ISSUES THE RETAIL PLAN — MOFCOM/NDRC retail modernization guideline July 10: modern retail system + globally competitive retailers by 2030 (15th Five-Year Plan); Xinhua: 'new sources of consumer demand'; desk: five-year roadmap for a one-year problem; May retail -0.6% (40-month low); June data ~July 15-17; Prediction 10 imminent",
+          "links": [
+            {
+              "label": "Xinhua — China retail sector plan July 9",
+              "url": "https://english.news.cn/20260709/d7410c2f4df644c6b058baa87abae111/c.html"
+            },
+            {
+              "label": "China Daily — Retail moves July 10",
+              "url": "https://global.chinadaily.com.cn/a/202607/10/WS6a5047e9a310986e2b464840.html"
+            }
+          ]
+        },
+        {
+          "text": "SAHEL thin day (France day 14 no specific reciprocal measures; Prediction 14 accumulates); Tea: Spain vs Belgium QF today SoFi Stadium LA — prediction alive",
+          "links": []
+        }
+      ],
+      "watching": [
+        "Iran July 11 talks — IAEA inspection language or scope dispute confirmed (Prediction 12 resolves July 13)",
+        "Lebanon IDF ops — walkout trigger (Prediction 16)",
+        "DPRK CMC seven orders — content on delivery systems vs. force composition",
+        "Alekseyevo-Druzhkovka Sept 1 prediction — geolocated breakthrough",
+        "NBS June retail data mid-July (~July 15-17) — Prediction 10 resolution",
+        "July Politburo communiqué — domestic demand intervention signal",
+        "Spain vs Belgium QF today — tea prediction",
+        "France reciprocal measures — specific content (Prediction 14)"
+      ]
+    },
     {
       "date": "2026-07-09",
       "items": [
@@ -1145,7 +1252,7 @@
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain beat Portugal 1-0 (Merino 91') July 6, through to quarterfinals. Faces Belgium July 10 QF. Tea prediction alive."
+      "note": "Spain beat Portugal 1-0 (Merino 91') July 6, through to QF. Faces Belgium July 10 QF at SoFi Stadium LA. Tea prediction alive."
     },
     {
       "status": "open",
@@ -1180,7 +1287,8 @@
       "kind": "desk",
       "claim": "China's retail sales, having fallen 0.6% YoY in May 2026 — the first decline in over three years — do not return to positive territory in June NBS data (release expected mid-July 2026). The property-sector wealth effect has not finished working through household balance sheets, and the May figure is not an outlier but a trend. If June retail sales return to positive, the desk records the error.",
       "filed": "2026-06-16",
-      "horizon": "2026-07-20"
+      "horizon": "2026-07-20",
+      "note": "June NBS retail data releases approximately July 15-17. Prediction resolves within one week."
     },
     {
       "status": "hit",
@@ -1202,7 +1310,8 @@
       "kind": "desk",
       "claim": "The Iran nuclear roadmap's first 20-day benchmark — IAEA access to declared nuclear facilities by July 13, 2026 — will produce a dispute over scope rather than a verified access event. Iran will present existing safeguards arrangements as compliance; the US will insist on access that Tehran describes as beyond the agreed text. The benchmark will be contested rather than cleanly met. Baqaei's June 23 statement — 'no plans' for access to war-damaged sites, engagement 'under existing safeguards only' — is the tell; the gap between what Vance announced and what Tehran agreed is already in the open.",
       "filed": "2026-06-24",
-      "horizon": "2026-07-13"
+      "horizon": "2026-07-13",
+      "note": "July 13 benchmark is three days away. Talks resume July 11. Grossi-Gharibabadi gap unchanged through funeral break. Prediction 12 imminent resolution."
     },
     {
       "status": "open",
