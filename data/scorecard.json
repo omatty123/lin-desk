@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10",
-  "edition": 32,
+  "updated": "2026-07-11",
+  "edition": 33,
   "board": [
     {
       "name_zh": "多极化",
@@ -52,8 +52,8 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Kim Jong Un chaired the First Enlarged Meeting of the Ninth Central Military Commission on July 9 — the first CMC enlarged meeting since the Ninth Party Congress in February — and signed seven orders on 'important military measures.' The declared focus: nuclear forces 'qualitatively and quantitatively,' combat-system standardization, military-base modernization, naval capabilities, intelligence-collection improvements, and a 'revolution in military education.' The institutional sequence is now four steps in five weeks: Xi's June visit (strategic alignment declared), the Ninth Party Congress (political authority), the Ninth Plenary (military expansion directive), and now the CMC orders (executive implementation). State media names the focus areas without specific figures — KCNA announces in aggregate; the program builds in detail. Beijing has maintained public silence through six consecutive DPRK military-expansion announcements. The desk called it a policy at five; the sixth confirms the doctrine. DPRK-PRC trade at record monthly levels in April; passenger flights and railway services resumed; coal at 104% of plan. The Kang Kon's active-service target remains approximately September 3; the third destroyer at Nampo is 30% complete, October WPK founding anniversary as the stated deadline.",
-      "watching": "DPRK CMC seven orders — content on delivery systems versus force composition; Kang Kon confirmed active-service commissioning ~September 3; third destroyer completion — October WPK anniversary target; Beijing public response to the CMC orders (sixth consecutive silence = doctrine); Tumen bridge actual cargo and completion timeline.",
+      "verdict": "Today, July 11, marks the 65th anniversary of the Sino-Korean Treaty of Friendship, Cooperation and Mutual Assistance — signed July 11, 1961 by Kim Il-sung and Zhou Enlai, committing both governments to immediate military assistance in the event of armed attack. Xi Jinping and Kim Jong Un exchanged congratulatory messages: Xi on the 'great importance' of the friendship; Kim on its 'solid legal foundation.' The anniversary lands one month after Xi's Pyongyang visit, two weeks after the WPK Ninth Plenary's nuclear expansion orders, and two days after Kim signed seven CMC military directives — four points on one line. Beijing maintains public silence on the specific content of the CMC orders; the anniversary statement is the occasion form, not an exception to that silence. Separately: North Korea has ordered surprise inspections of civilian militia war readiness ahead of the July 27 Korean War armistice anniversary. The domestic mobilization tempo has not slowed since the Party Congress. The Kang Kon approaches its active-service date (~September 3); third destroyer at Nampo 30% complete with October WPK anniversary as the stated deadline.",
+      "watching": "Beijing public response to CMC seven orders content — seventh consecutive silence or first public comment; Kang Kon confirmed active-service commissioning ~September 3; third destroyer October WPK anniversary target; DPRK July 27 armistice anniversary events and mobilization signals; Tumen bridge cargo and completion timeline.",
       "sources": [
         {
           "label": "AEI — Korean Peninsula Update, July 7",
@@ -82,6 +82,14 @@
         {
           "label": "Pravda EN — DPRK nuclear forces strengthened qualitatively and quantitatively, July 10",
           "url": "https://news-pravda.com/world/2026/07/10/2431628.html"
+        },
+        {
+          "label": "Pravda EN — China and North Korea hail 65 years of ironclad alliance",
+          "url": "https://news-pravda.com/world/2026/07/11/2433753.html"
+        },
+        {
+          "label": "Daily NK — North Korea surprise civilian militia inspections",
+          "url": "https://www.dailynk.com/english/north-korea-surprise-inspections-civilian-militias-victory-day/"
         }
       ]
     },
@@ -89,8 +97,8 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The second Russia-AES ministerial meeting convened in Niamey July 8. What it produced matters more than that it met. The joint communique explicitly names 'criminal collusion between Ukraine, France, some other countries and terrorist groups' operating in the Sahel — the first bilateral document at this level to do so with both parties' signatures. A memorandum of consultations was also signed, setting the next ministerial in Russia for 2027 and expanding the 3+1 format to economics, finance, central bank interaction, and interparliamentary cooperation. Lavrov arrived from Addis Ababa, where he met the AU Commission chair and Abiy Ahmed before flying to Niamey — the arc of the visit is itself a statement about the order being assembled. France is thirteen days into 'reviewing reciprocal measures.' Ouagadougou and Paris have no diplomatic missions to each other. The Niamey joint communique has both parties' names at the bottom.",
-      "watching": "France specific reciprocal measures — content and timing (Prediction 14 accumulates confirmation with each day of silence); Russia-AES economic/financial cooperation framework under the expanded Niamey MoU; AES industrialization and energy sovereignty benchmarks year three.",
+      "verdict": "The second Russia-AES ministerial (Niamey, July 8) produced a joint communique naming 'criminal collusion between Ukraine, France, some other countries and terrorist groups' in the Sahel — the hardest bilateral text the format has yet generated, with both parties' signatures. On July 10, Burkina Faso's National Commission reviewed the AES second-year roadmap and called for faster execution and stronger resource mobilization: the industrial and energy sovereignty targets are running behind the ambition. France is fifteen days into its diplomatic break with Ouagadougou and has announced no punitive economic measures. The standard reciprocal requirement — Burkinabè diplomats to leave Paris by July 6 — was the automatic consequence of a severed relationship, not a 'measure' in any operative sense. Prediction 14 accumulates.",
+      "watching": "France specific punitive economic measures — content and timing (Prediction 14 accumulates); Russia-AES economic/financial cooperation framework under the Niamey MoU; AES industrialization and energy sovereignty benchmarks year three.",
       "sources": [
         {
           "label": "Russia-AES Joint Statement, Pravda Burkina Faso",
@@ -111,6 +119,10 @@
         {
           "label": "IMF — Fifth ECF Review completion, June 26",
           "url": "https://www.imf.org/en/news/articles/2026/06/26/pr26226-burkina-faso-imf-concl-2026-aiv-consult-5th-rev-ecf-arrgmnt-app-aug-comp-1st-rev-rsf"
+        },
+        {
+          "label": "Xinhua — Burkina Faso reviews implementation of AES second-year roadmap, July 10",
+          "url": "https://english.news.cn/20260710/b5ac314a1c3f4eff90820c70e6c79310/c.html"
         }
       ]
     },
@@ -171,56 +183,44 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 10 morning battle summary: 'intensified military operations' in the Druzhkovka direction; aerial bomb on a private home in Druzhkovka (3 killed, 2 wounded); Konstantinovka in mopping-up. Ukrainian counterattacks near Malinovka (9km east of Kramatorsk). Kupyansk sector: Russian advances continuing. 30+ drones intercepted over the Leningrad region overnight; drone-debris fire at a Krasnodar refinery. Alekseyevo-Druzhkovka, day seventeen: no geolocated breakthrough. Martyanov's July 9 post on a US commander approving strikes on an Iranian school — the 'we do not target civilians' doctrine illustrated. Russia-decisive holds; September 1 Druzhkovka prediction on track.",
+      "basis": "July 11 update: Russian forces crossed the Lozovaya River at Roskoshnoe and now control Pavlovka and Priyut; engagement lines at Torskoe, approximately seven kilometers from Druzhkovka. The Artyom garrison has had its supply routes cut. Ukrainian counterattack attempts along Lenin Avenue from the Alekseyevo-Druzhkovka side were unsuccessful; counterattacks also in Malinovka and Tikhonovka (9km east of Kramatorsk). July 11 morning summary: 144 Ukrainian UAVs destroyed in a single operational period; Konstantinovsky direction 'intense fighting on flanks, forces advancing toward Oleksiivka-Druzhkovka.' Day 18. The Lozovaya was the last significant terrain obstacle on the northern approach axis. The September 1 prediction for operational control is assembling its material conditions faster than the calendar requires.",
       "sources": [
         {
-          "label": "Russian MoD report July 8, Pravda Ukraine",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/08/105599.html"
+          "label": "Southfront Maps — Russian Army reaches outskirts of Druzhkovka",
+          "url": "https://maps.southfront.press/russian-army-reaches-outskirts-of-druzhkovka"
         },
         {
-          "label": "LiveUAMap — Mikhaylovsk strike July 9",
-          "url": "https://liveuamap.com/en/2026/9-july-01-drones-have-attacked-fuel-depot-in-mikhaylovsk"
+          "label": "Pravda EN — July 11 morning summary",
+          "url": "https://news-pravda.com/world/2026/07/11/2433684.html"
         },
         {
-          "label": "Wikipedia — Ukraine war timeline",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(1_June_2026_%E2%80%93_present)"
+          "label": "Russian Defence Ministry weekly report July 4-10",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/10/105830.html"
         },
         {
           "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Pravda EN — July 10 morning summary",
-          "url": "https://news-pravda.com/world/2026/07/10/2431652.html"
-        },
-        {
-          "label": "Pravda EN — Chronicle of strikes July 9-10",
-          "url": "https://news-pravda.com/ukraine/2026/07/10/2431748.html"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "De-escalating (Hormuz); stalled (nuclear)",
-      "trend": "stalled (nuclear)",
-      "basis": "Talks resume in Doha July 11; IAEA access benchmark July 13. Nothing moved during the Khamenei funeral break (July 4-9): no informal channel produced alignment on access terms, no softening of the Grossi-Gharibabadi gap. Grossi: inspectors 'will have to have access and inspect.' Gharibabadi: no access to war-damaged sites, engagement only under existing safeguards. The desk's Prediction 12 — that July 13 resolves as a scope dispute, not a verified access event — is three days from resolution. Mojtaba Khamenei has not been publicly seen or heard since his March appointment; reportedly absent from the Mashhad burial on security grounds (injuries from the February 28 Israeli strike). Lebanon: IDF security zone operations continued through the funeral week without interruption; Hezbollah has maintained its rejection of the Washington framework. The walkout trigger (Prediction 16) remains structurally live. June 15 prediction (no verified freeze before September 2026) unchanged.",
+      "advantage": "Escalated — ceasefire declared over; diplomatic track parallel",
+      "trend": "escalating",
+      "basis": "On July 8, the United States struck approximately 90 Iranian military targets — air defense systems, coastal surveillance assets, missile and drone storage, naval capabilities, and logistics infrastructure along Iran's coastline. Tehran retaliated with ballistic missiles targeting US allies: Qatar, Bahrain, Kuwait, and Jordan (Jordan intercepted eight Iranian missiles). On July 10, Trump posted on Truth Social: 'the cease fire is OVER' — and in the same post confirmed Iran had asked to continue negotiations and the US had agreed. The diplomatic and military tracks are now formally separated in both parties' public language. The July 13 IAEA benchmark arrives in this context: Gharibabadi's position on access to bombed sites unchanged, Grossi's access demand unchanged. The June 15 prediction — no verified freeze before September 2026 — was correct before the ceasefire collapsed and is more correct now. Prediction 12 (scope dispute not verified access on July 13) becomes more likely; the worst case is no session at all. The July 8-10 briefings missed this escalation entirely — correction filed July 11.",
       "sources": [
         {
-          "label": "CBC — Mojtaba not at Khamenei funeral",
-          "url": "https://www.cbc.ca/news/world/khamenei-funeral-no-sighting-mojtaba-successor-9.7259060"
+          "label": "NBC News — US-Iran new attacks, Trump says ceasefire over",
+          "url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615"
         },
         {
-          "label": "Gulf News — Where is Mojtaba?",
-          "url": "https://gulfnews.com/world/mena/where-is-mojtaba-absence-at-khamenei-funeral-fuels-questions-1.500597434"
+          "label": "Al Jazeera — Trump: ceasefire over, talks continuing",
+          "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over"
         },
         {
-          "label": "Al Jazeera — IAEA chief on Iran inspections",
-          "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"
-        },
-        {
-          "label": "Wikipedia — Iran-US negotiations 2025-2026",
-          "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
+          "label": "Washington Times — Iran ceasefire over, but talks continue",
+          "url": "https://www.washingtontimes.com/news/2026/jul/10/iran-ceasefire-talks-continue-trump/"
         }
       ]
     },
@@ -247,6 +247,92 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-11",
+      "items": [
+        {
+          "text": "DESK RECORDS ANOTHER MISS: CEASEFIRE DIED ON WEDNESDAY — US struck ~90 Iranian military targets July 8; Iran retaliated with ballistic missiles at Qatar/Bahrain/Kuwait/Jordan (Jordan intercepted 8); Trump Truth Social July 10: 'cease fire is OVER' + Iran asked to continue talks, US agreed; July 8-10 briefings missed this entirely; July 13 IAEA benchmark in active-exchanges context; June 15 prediction + Prediction 12 intact; correction filed",
+          "links": [
+            {
+              "label": "NBC News — US-Iran new attacks, ceasefire over",
+              "url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615"
+            },
+            {
+              "label": "Al Jazeera — Trump: ceasefire over, talks continuing",
+              "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over"
+            },
+            {
+              "label": "Washington Times — Iran ceasefire over, talks continue",
+              "url": "https://www.washingtontimes.com/news/2026/jul/10/iran-ceasefire-talks-continue-trump/"
+            }
+          ]
+        },
+        {
+          "text": "THE LOZOVAYA IS BEHIND THEM — Russia crosses Lozovaya River at Roskoshnoe, controls Pavlovka + Priyut; engagement at Torskoe 7km from Druzhkovka; Artyom garrison supply routes cut; Ukrainian counterattacks Lenin Avenue failed; Malinovka/Tikhonovka counterattacks (9km E Kramatorsk); 144 UAVs destroyed July 11 morning; day 18; Sept 1 prediction accelerating",
+          "links": [
+            {
+              "label": "Southfront Maps — Russian Army reaches outskirts of Druzhkovka",
+              "url": "https://maps.southfront.press/russian-army-reaches-outskirts-of-druzhkovka"
+            },
+            {
+              "label": "Pravda EN — July 11 morning summary",
+              "url": "https://news-pravda.com/world/2026/07/11/2433684.html"
+            },
+            {
+              "label": "Martyanov — Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "SIXTY-FIVE YEARS ON THE TREATY LINE — 65th anniversary Sino-Korean Treaty of Friendship, Cooperation and Mutual Assistance (July 11, 1961, Kim Il-sung + Zhou Enlai); Xi-Kim congratulatory exchange; four-point institutional sequence: Xi visit + Plenary + CMC orders + anniversary = one month; Beijing silence on CMC order content; surprise civilian militia inspections ahead July 27 armistice anniversary",
+          "links": [
+            {
+              "label": "Pravda EN — China and North Korea hail 65 years of ironclad alliance",
+              "url": "https://news-pravda.com/world/2026/07/11/2433753.html"
+            },
+            {
+              "label": "Daily NK — North Korea surprise militia inspections",
+              "url": "https://www.dailynk.com/english/north-korea-surprise-inspections-civilian-militias-victory-day/"
+            }
+          ]
+        },
+        {
+          "text": "AES: THE REVIEW SAYS FASTER — Burkina National Commission July 10 second-year roadmap review: faster execution + stronger resource mobilization; second year strong on political/military, behind on industrial/energy sovereignty; France day 15 no punitive economic measures; diplomatic expulsion automatic not operative measure; Prediction 14 accumulates",
+          "links": [
+            {
+              "label": "Xinhua — Burkina Faso reviews AES second-year roadmap",
+              "url": "https://english.news.cn/20260710/b5ac314a1c3f4eff90820c70e6c79310/c.html"
+            }
+          ]
+        },
+        {
+          "text": "TEA: MERINO 88', FRANCE NEXT — Spain 2-1 Belgium July 10 SoFi Stadium; Fabian Ruiz opener; De Ketelaere equalizer; Merino 88' winner (second consecutive knockout-round winner); Courtois off injured; faces France semi-final; July 19 tea prediction alive",
+          "links": [
+            {
+              "label": "CNN — Spain's late goal breaks Belgian hearts",
+              "url": "https://www.cnn.com/2026/07/10/sport/live-news/spain-belgium-world-cup-score"
+            },
+            {
+              "label": "ESPN — Spain 2-1 Belgium",
+              "url": "https://www.espn.com/soccer/match/_/gameId/760511/belgium-spain"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran July 13 IAEA benchmark — scope dispute confirmed or no session (Prediction 12 resolves Saturday)",
+        "Iran-US next talks date after ceasefire-over declaration — Doha again or Switzerland",
+        "Lebanon IDF walkout trigger — Prediction 16 live",
+        "Torskoe geolocated fire control — Sept 1 Druzhkovka prediction accelerating",
+        "DPRK July 27 armistice anniversary mobilization and events",
+        "Beijing public response to CMC orders — seventh silence or first comment",
+        "NBS June retail data mid-July (~July 15-17) — Prediction 10 resolution",
+        "July Politburo communiqué",
+        "France punitive economic measures — specific content (Prediction 14)",
+        "Spain vs France semi-final — tea prediction"
+      ]
+    },
     {
       "date": "2026-07-10",
       "items": [
@@ -1252,7 +1338,7 @@
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain beat Portugal 1-0 (Merino 91') July 6, through to QF. Faces Belgium July 10 QF at SoFi Stadium LA. Tea prediction alive."
+      "note": "Spain 2-1 Belgium July 10 (Merino 88'), through to semi-finals vs France. Tea prediction alive entering the semi-final round."
     },
     {
       "status": "open",
@@ -1377,6 +1463,10 @@
     {
       "date": "2026-07-01",
       "text": "DPRK weapons test correction: desk filed DPRK 'thin day' on June 26 and June 27 while missing the June 25 test series (240mm MLRS, special-mission ballistic missile warhead, 155mm SPH). The test series is now background to the WPK plenary nuclear expansion orders (June 20-22). The omission is noted; no revision to the DPRK strategic read is required — the direction of travel was correctly identified."
+    },
+    {
+      "date": "2026-07-11",
+      "text": "The July 8, 9, and 10 briefings missed a major Iran escalation. On July 8, the United States conducted airstrikes against approximately 90 Iranian military targets (air defense, coastal surveillance, missile/drone storage, naval capabilities, logistics infrastructure along Iran's coastline). Iran retaliated with ballistic missiles targeting US allies in Qatar, Bahrain, Kuwait, and Jordan; Jordan intercepted eight incoming Iranian missiles. On July 10, Trump posted on Truth Social declaring the ceasefire 'OVER' while confirming Iran had asked to continue negotiations and the US had agreed. The July 8 briefing tracked the NATO Ankara summit and Niamey ministerial; the July 9 briefing covered Russian oil-facility strikes and the Russia-AES communique; the July 10 briefing covered the DPRK CMC orders and retail plan. The Iran file was held in 'watching' entries as 'July 11 talks, July 13 benchmark' throughout, with no coverage of the live military exchange that produced Trump's ceasefire-over declaration. The error is recorded. No revision to the desk's strategic read is required — the June 15 prediction (no verified freeze before September 2026) was correct before the ceasefire collapsed and is more correct now — but the failure to file the exchange of fire while tracking a benchmark two days later is the kind of error this desk is committed to naming."
     }
   ]
 }
