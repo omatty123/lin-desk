@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-11",
-  "edition": 33,
+  "updated": "2026-07-12",
+  "edition": 34,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The Niamey ministerial on July 8 produced the hardest document the Russia-AES format has yet signed: a joint communique naming 'criminal collusion between Ukraine, France, some other countries and terrorist groups' operating in the Sahel. Both parties' signatures on that language. The same session produced a memorandum of consultations setting the next ministerial in Russia for 2027 and expanding the 3+1 format to economics, finance, central bank interaction, and interparliamentary cooperation. Lavrov arrived from Addis Ababa — he met Abiy Ahmed and the AU Commission chair before landing in Niamey. The arc: continental institution first, AES foreign ministers next, joint text that names names last. France is thirteen days into its 'review of reciprocal measures.' Traoré called it an 'economic and media war of unprecedented scale' on July 7; Lavrov arrived and signed beside him on July 8. The institutional architecture of an alternative order is not declaratory anymore. It has a joint communique with specific adversaries named.",
-      "watching": "France's specific reciprocal measures — content and timing; Russia-AES economic/financial cooperation and central bank interaction under the Niamey MoU; India BRICS summit August-September for BRICS Unit/BRICS Pay framework adoption.",
+      "verdict": "The Niamey ministerial on July 8 produced the hardest document the Russia-AES format has yet signed: a joint communique naming 'criminal collusion between Ukraine, France, some other countries and terrorist groups' operating in the Sahel. The same session expanded the 3+1 format to economics, finance, central bank interaction, and interparliamentary cooperation — next ministerial in Russia in 2027. Today the ECOWAS Bank for Investment and Development — the institution the AES departed — published its 2025 annual report: Niger 6.9%, Burkina Faso 5.0%, Mali 4.9%, combined AES rate 5.5%. The adversary's regional lender is recording their growth. And on July 10, North Korean Cabinet Premier Pak Thae Song told Xi Jinping that the DPRK 'firmly supports China in safeguarding its core interests on issues such as the Taiwan question' — Taiwan named explicitly in a DPRK-PRC bilateral communique for the first time in this register. Multipolarity is not a declaration anymore; it is a seating chart, a joint communique with named adversaries, a growth figure published by the adversary's bank, and a Taiwan pledge from Pyongyang.",
+      "watching": "France's specific reciprocal measures — content and timing (Prediction 15 accumulates at day 16); Russia-AES economic/financial cooperation and central bank interaction under the Niamey MoU; India BRICS summit August-September for BRICS Unit/BRICS Pay framework adoption; Beijing's public response to DPRK CMC nuclear orders — seventh silence or first comment.",
       "sources": [
         {
           "label": "Russia-AES Joint Statement, Pravda Burkina Faso",
@@ -28,6 +28,14 @@
         {
           "label": "Niger FM — 'perfect expression of our will toward new world order', Pravda Niger",
           "url": "https://niger.news-pravda.com/en/world/2026/07/08/4661.html"
+        },
+        {
+          "label": "Pravda Burkina — Niger leads AES economic growth 2025",
+          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7284.html"
+        },
+        {
+          "label": "PRC MFA — Xi meets DPRK Premier Pak Thae Song",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202607/t20260710_11979902.html"
         }
       ]
     },
@@ -52,8 +60,8 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Today, July 11, marks the 65th anniversary of the Sino-Korean Treaty of Friendship, Cooperation and Mutual Assistance — signed July 11, 1961 by Kim Il-sung and Zhou Enlai, committing both governments to immediate military assistance in the event of armed attack. Xi Jinping and Kim Jong Un exchanged congratulatory messages: Xi on the 'great importance' of the friendship; Kim on its 'solid legal foundation.' The anniversary lands one month after Xi's Pyongyang visit, two weeks after the WPK Ninth Plenary's nuclear expansion orders, and two days after Kim signed seven CMC military directives — four points on one line. Beijing maintains public silence on the specific content of the CMC orders; the anniversary statement is the occasion form, not an exception to that silence. Separately: North Korea has ordered surprise inspections of civilian militia war readiness ahead of the July 27 Korean War armistice anniversary. The domestic mobilization tempo has not slowed since the Party Congress. The Kang Kon approaches its active-service date (~September 3); third destroyer at Nampo 30% complete with October WPK anniversary as the stated deadline.",
-      "watching": "Beijing public response to CMC seven orders content — seventh consecutive silence or first public comment; Kang Kon confirmed active-service commissioning ~September 3; third destroyer October WPK anniversary target; DPRK July 27 armistice anniversary events and mobilization signals; Tumen bridge cargo and completion timeline.",
+      "verdict": "On July 10, Chinese President Xi Jinping received North Korean Cabinet Premier Pak Thae Song in Beijing, ahead of the 65th anniversary of the Sino-Korean Treaty of Friendship, Cooperation and Mutual Assistance (July 11, 1961). Xi called for both sides to 'maintain firm strategic resolve' and 'strengthen strategic coordination' — invoking the Chinese People's Volunteers as a foundation stone. The meeting's most notable formulation comes from Premier Pak: the DPRK 'firmly supports China in safeguarding its core interests on issues such as the Taiwan question.' Taiwan named explicitly in a DPRK-PRC bilateral communique is new in this register. Beijing maintains public silence through seven briefing cycles on the content of Kim's July 9 CMC orders — nuclear expansion, naval acceleration, intelligence modernization — but accepts the Taiwan pledge in return. Separately: North Korean market rice prices fell approximately 20% in early July as seasonal agricultural supplies arrived; Russian companies are now exploring trade in meat, mining, and machinery. The Kang Kon approaches its active-service date (~September 3); third destroyer at Nampo 30% complete.",
+      "watching": "Beijing public response to CMC seven orders — eighth cycle or first comment; Kang Kon confirmed commissioning ~September 3; third destroyer October WPK anniversary target; whether Pak's Taiwan formulation appears in KCNA output; DPRK July 27 armistice anniversary mobilization; Tumen bridge cargo and completion timeline.",
       "sources": [
         {
           "label": "AEI — Korean Peninsula Update, July 7",
@@ -90,6 +98,18 @@
         {
           "label": "Daily NK — North Korea surprise civilian militia inspections",
           "url": "https://www.dailynk.com/english/north-korea-surprise-inspections-civilian-militias-victory-day/"
+        },
+        {
+          "label": "PRC MFA — Xi meets DPRK Premier Pak Thae Song",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202607/t20260710_11979902.html"
+        },
+        {
+          "label": "NK News — North Korean premier meets Chinese President Xi ahead of alliance anniversary",
+          "url": "https://www.nknews.org/2026/07/north-korean-premier-meets-chinese-president-xi-ahead-of-alliance-anniversary/"
+        },
+        {
+          "label": "UPI — Xi meets North Korea Premier Pak Thae Song in Beijing",
+          "url": "https://www.upi.com/Top_News/World-News/2026/07/10/China-Xi-Jinping-met-North-Korea-Premier-Pak-Thae-song-Beijing/3341783677513/"
         }
       ]
     },
@@ -97,8 +117,8 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The second Russia-AES ministerial (Niamey, July 8) produced a joint communique naming 'criminal collusion between Ukraine, France, some other countries and terrorist groups' in the Sahel — the hardest bilateral text the format has yet generated, with both parties' signatures. On July 10, Burkina Faso's National Commission reviewed the AES second-year roadmap and called for faster execution and stronger resource mobilization: the industrial and energy sovereignty targets are running behind the ambition. France is fifteen days into its diplomatic break with Ouagadougou and has announced no punitive economic measures. The standard reciprocal requirement — Burkinabè diplomats to leave Paris by July 6 — was the automatic consequence of a severed relationship, not a 'measure' in any operative sense. Prediction 14 accumulates.",
-      "watching": "France specific punitive economic measures — content and timing (Prediction 14 accumulates); Russia-AES economic/financial cooperation framework under the Niamey MoU; AES industrialization and energy sovereignty benchmarks year three.",
+      "verdict": "The second Russia-AES ministerial (Niamey, July 8) produced the hardest bilateral text the format has generated — naming 'criminal collusion between Ukraine, France, some other countries and terrorist groups' in the Sahel. Today the ECOWAS Bank for Investment and Development published its 2025 annual report: Niger 6.9% GDP growth — third-fastest in West Africa — Burkina Faso 5.0%, Mali 4.9%, combined AES 5.5%. The institution the AES left is recording their growth. On July 8, Burkina Faso and the African Finance Corporation signed a $300 million infrastructure agreement. France has now gone sixteen days without announcing specific reciprocal measures following the June 26 diplomatic break; Traoré's government proceeds undisturbed. The material indicators build quietly: gold at elevated prices, mining output strong, AFC bridging what France declines to fill. Prediction 15 accumulates.",
+      "watching": "France specific punitive economic measures — content and timing (Prediction 15, day 16); Russia-AES economic/financial cooperation framework under the Niamey MoU; AES industrialization and energy sovereignty benchmarks year three; AFC $300M infrastructure project timeline and disbursement.",
       "sources": [
         {
           "label": "Russia-AES Joint Statement, Pravda Burkina Faso",
@@ -123,6 +143,10 @@
         {
           "label": "Xinhua — Burkina Faso reviews implementation of AES second-year roadmap, July 10",
           "url": "https://english.news.cn/20260710/b5ac314a1c3f4eff90820c70e6c79310/c.html"
+        },
+        {
+          "label": "Pravda Burkina — Niger leads AES economic growth 2025 (ECOWAS Bank report)",
+          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7284.html"
         }
       ]
     },
@@ -183,44 +207,44 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 11 update: Russian forces crossed the Lozovaya River at Roskoshnoe and now control Pavlovka and Priyut; engagement lines at Torskoe, approximately seven kilometers from Druzhkovka. The Artyom garrison has had its supply routes cut. Ukrainian counterattack attempts along Lenin Avenue from the Alekseyevo-Druzhkovka side were unsuccessful; counterattacks also in Malinovka and Tikhonovka (9km east of Kramatorsk). July 11 morning summary: 144 Ukrainian UAVs destroyed in a single operational period; Konstantinovsky direction 'intense fighting on flanks, forces advancing toward Oleksiivka-Druzhkovka.' Day 18. The Lozovaya was the last significant terrain obstacle on the northern approach axis. The September 1 prediction for operational control is assembling its material conditions faster than the calendar requires.",
+      "basis": "July 12 update. Overnight July 12, Ukrainian military intelligence struck the Syzran oil refinery (Samara, 800km deep) — Rosneft facility, ELOU-AVT-5 unit (~30% of primary capacity), one killed, three injured; third strike in 2026 on this plant. July 11: Ukrainian USF claimed Sea of Azov infrastructure strikes (Ilsky refinery, Taganrog terminal, Azov depot, multiple vessels); Russia suspended civilian Sea of Azov shipping — confirmation that something was struck. Deputy PM Manturov confirmed Russian FPV drone production: over 15,000 per day; Martyanov calculates 5.475 million annually. Wikipedia timeline (July 11): Ukrainian FPV drone with wings hit a Russian truck at ~110km range — previous operational limit was 19km. Alekseyevo-Druzhkovka: day nineteen of contact; no geolocated breakthrough; September 1 prediction on track. Lozovaya River is behind Russian forces; engagement at Torskoe (~7km from Druzhkovka); Artyom supply routes cut.",
       "sources": [
         {
-          "label": "Southfront Maps — Russian Army reaches outskirts of Druzhkovka",
-          "url": "https://maps.southfront.press/russian-army-reaches-outskirts-of-druzhkovka"
+          "label": "United24 Media — Syzran refinery deep strike (July 12)",
+          "url": "https://united24media.com/war-in-ukraine/ukraines-military-intelligence-sets-russias-syzran-oil-refinery-on-fire-in-deep-strike-20686"
         },
         {
-          "label": "Pravda EN — July 11 morning summary",
-          "url": "https://news-pravda.com/world/2026/07/11/2433684.html"
-        },
-        {
-          "label": "Russian Defence Ministry weekly report July 4-10",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/10/105830.html"
+          "label": "EA WorldView — Ukraine War Day 1,600 deep strikes",
+          "url": "https://eaworldview.com/2026/07/ukraine-war-russia-oil-refinery-kyiv-hits/"
         },
         {
           "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
+        },
+        {
+          "label": "Southfront Maps — Russian Army reaches outskirts of Druzhkovka",
+          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — ceasefire declared over; diplomatic track parallel",
+      "advantage": "Escalated — parallel-track: strikes and negotiations running simultaneously",
       "trend": "escalating",
-      "basis": "On July 8, the United States struck approximately 90 Iranian military targets — air defense systems, coastal surveillance assets, missile and drone storage, naval capabilities, and logistics infrastructure along Iran's coastline. Tehran retaliated with ballistic missiles targeting US allies: Qatar, Bahrain, Kuwait, and Jordan (Jordan intercepted eight Iranian missiles). On July 10, Trump posted on Truth Social: 'the cease fire is OVER' — and in the same post confirmed Iran had asked to continue negotiations and the US had agreed. The diplomatic and military tracks are now formally separated in both parties' public language. The July 13 IAEA benchmark arrives in this context: Gharibabadi's position on access to bombed sites unchanged, Grossi's access demand unchanged. The June 15 prediction — no verified freeze before September 2026 — was correct before the ceasefire collapsed and is more correct now. Prediction 12 (scope dispute not verified access on July 13) becomes more likely; the worst case is no session at all. The July 8-10 briefings missed this escalation entirely — correction filed July 11.",
+      "basis": "July 12 update. Talks between the US and Iran were reported to resume July 11 following the seven-day state funeral for Khamenei. Context: July 8, the US struck ~90 Iranian military targets; Iran retaliated with ballistic missiles against Qatar, Bahrain, Kuwait, Jordan (Jordan intercepted 8); Trump declared MoU 'OVER' July 10 before acknowledging talks might continue (desk corrected this miss July 11). The parallel-track mode — strikes and negotiations simultaneously — appears accepted by both parties. Key nuclear development: the Arms Control Association reports the US has shifted its nuclear chapter position from a permanent enrichment ban to a 15-year suspension — no reciprocal Iranian movement on IAEA access to bombed sites reported. Iran's position: bombed-site inspections resolved only within a final agreement. July 13 IAEA benchmark (Prediction 13) approaches: the scope-dispute mode has been consistent since Bürgenstock. Lebanon remains the operational tripwire: IDF operations continue; Hezbollah demands full withdrawal; Prediction 16 live.",
       "sources": [
         {
-          "label": "NBC News — US-Iran new attacks, Trump says ceasefire over",
-          "url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615"
+          "label": "Arms Control Association — Fighting Mars US-Iranian pledges to end war, restart nuclear talks",
+          "url": "https://www.armscontrol.org/act/2026-07/news/fighting-mars-us-iranian-pledges-end-war-restart-nuclear-talks"
         },
         {
-          "label": "Al Jazeera — Trump: ceasefire over, talks continuing",
-          "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over"
+          "label": "Al Jazeera — Will peace talks resume and when?",
+          "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when"
         },
         {
-          "label": "Washington Times — Iran ceasefire over, but talks continue",
-          "url": "https://www.washingtontimes.com/news/2026/jul/10/iran-ceasefire-talks-continue-trump/"
+          "label": "Times of Israel — Negotiations set to resume July 11 with nuclear talks",
+          "url": "https://www.timesofisrael.com/liveblog_entry/us-iran-negotiations-reportedly-set-to-resume-june-11-will-include-nuclear-talks/"
         }
       ]
     },
@@ -247,6 +271,85 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-12",
+      "items": [
+        {
+          "text": "THE FUEL CAMPAIGN REACHES FURTHER THAN THE LOGIC SAYS IT SHOULD — Syzran refinery struck overnight July 12 (800km deep, ELOU-AVT-5 unit, Rosneft, 1 killed, 3rd strike in 2026); Sea of Azov claimed strikes July 11 (Ilsky, Taganrog, Azov depot + vessels); Russia suspended civilian Sea of Azov shipping July 11; Deputy PM Manturov: 15,000+ FPV drones/day; Martyanov July 11: adversary's tanker claims = theater; Wikipedia timeline: FPV drone hit truck at 110km (prev. 19km limit); Alekseyevo-Druzhkovka day 19, no breakthrough, Sept 1 prediction on track.",
+          "links": [
+            {
+              "label": "United24 Media — Syzran refinery deep strike",
+              "url": "https://united24media.com/war-in-ukraine/ukraines-military-intelligence-sets-russias-syzran-oil-refinery-on-fire-in-deep-strike-20686"
+            },
+            {
+              "label": "EA WorldView — Day 1,600 strikes",
+              "url": "https://eaworldview.com/2026/07/ukraine-war-russia-oil-refinery-kyiv-hits/"
+            },
+            {
+              "label": "Martyanov — Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "THE TABLE RECONVENES; THE BENCHMARK ARRIVES TOMORROW — Iran-US talks reported to resume July 11 post-Khamenei funeral; July 8: US struck ~90 Iranian targets, Iran retaliated at Qatar/Bahrain/Kuwait/Jordan; Trump MoU 'OVER' July 10 + continued (desk miss corrected July 11); parallel tracks accepted; Arms Control: US shifted to 15-year enrichment suspension (was permanent ban); Iran: bombed sites inspection in final agreement only, unchanged; July 13 IAEA benchmark = Prediction 13 approaching resolution; Lebanon IDF ops continue, Hezbollah demands full withdrawal; Prediction 16 live.",
+          "links": [
+            {
+              "label": "Arms Control Association — Fighting Mars nuclear talks",
+              "url": "https://www.armscontrol.org/act/2026-07/news/fighting-mars-us-iranian-pledges-end-war-restart-nuclear-talks"
+            },
+            {
+              "label": "Al Jazeera — Will peace talks resume?",
+              "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when"
+            },
+            {
+              "label": "Times of Israel — Talks set to resume July 11",
+              "url": "https://www.timesofisrael.com/liveblog_entry/us-iran-negotiations-reportedly-set-to-resume-june-11-will-include-nuclear-talks/"
+            }
+          ]
+        },
+        {
+          "text": "BEIJING AND PYONGYANG: THE TREATY TURNS 65; TAIWAN IS NAMED — Xi received Premier Pak Thae Song in Beijing July 10; 65th anniversary Sino-Korean Treaty (July 11, 1961); Xi: 'firm strategic resolve,' 'strategic coordination,' CPV invoked; Pak: DPRK 'firmly supports China in safeguarding its core interests on issues such as the Taiwan question' — Taiwan named explicitly in DPRK-PRC bilateral communique, new in this register; Beijing x7 silence on CMC nuclear orders but accepts Taiwan pledge; rice prices -20% early July; Russian companies exploring DPRK trade (meat, mining, machinery).",
+          "links": [
+            {
+              "label": "PRC MFA — Xi meets Pak Thae Song",
+              "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202607/t20260710_11979902.html"
+            },
+            {
+              "label": "NK News — Premier meets Xi ahead of anniversary",
+              "url": "https://www.nknews.org/2026/07/north-korean-premier-meets-chinese-president-xi-ahead-of-alliance-anniversary/"
+            },
+            {
+              "label": "UPI — Xi meets North Korea Premier",
+              "url": "https://www.upi.com/Top_News/World-News/2026/07/10/China-Xi-Jinping-met-North-Korea-Premier-Pak-Thae-song-Beijing/3341783677513/"
+            }
+          ]
+        },
+        {
+          "text": "THE ADVERSARY'S BANK COUNTS THE GROWTH — ECOWAS Bank for Investment and Development 2025 annual report: Niger 6.9% (3rd-fastest in West Africa), Burkina Faso 5.0%, Mali 4.9%, combined AES 5.5%; institution they left records their growth; Burkina: mining + gold at elevated prices; Niger: crude exports + end of ECOWAS blockade costs; AFC $300M Burkina infrastructure agreement July 8; France day 16 no specific reciprocal measures; Prediction 15 accumulates.",
+          "links": [
+            {
+              "label": "Pravda Burkina — Niger leads AES growth 2025 (ECOWAS Bank report)",
+              "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7284.html"
+            },
+            {
+              "label": "Pravda Burkina — Russia-AES Niamey joint statement",
+              "url": "https://burkina-faso.news-pravda.com/en/russia/2026/07/08/7247.html"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran July 13 IAEA benchmark — scope dispute confirmed vs. procedural movement (Prediction 13 resolves today/tomorrow)",
+        "Lebanon IDF walkout trigger — Prediction 16 live",
+        "DPRK: Pak's Taiwan formulation in KCNA output; Beijing public response to CMC orders (x7 silence)",
+        "Alekseyevo-Druzhkovka Sept 1 prediction — contact day 19",
+        "June retail NBS data ~July 15-17 — Prediction 10 resolution",
+        "July Politburo communiqué",
+        "Spain vs France semifinal July 14 — tea prediction alive",
+        "France punitive measures specific content — Prediction 15"
+      ]
+    },
     {
       "date": "2026-07-11",
       "items": [
