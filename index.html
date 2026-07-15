@@ -149,6 +149,10 @@ section { margin-bottom: 30px; }
   font-family: 'IBM Plex Mono', monospace;
   color: var(--ink-soft);
 }
+.sec-head .note .rec { font-weight: 500; }
+.sec-head .note .rec.hit { color: var(--rise); }
+.sec-head .note .rec.miss { color: var(--fall); }
+.sec-head .note .rec.open { color: var(--hold); }
 
 /* board */
 .board {
@@ -302,6 +306,20 @@ footer a { color: var(--seal); text-decoration: none; border-bottom: 1px dotted 
     <div class="board" id="board"></div>
   </section>
 
+  <section id="sec-predictions">
+    <div class="sec-head">
+      <span class="zh">预测簿</span>
+      <span class="en">Predictions — on the record, scored in public</span>
+      <span class="note" id="pred-record">—</span>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Filed</th><th>Claim</th><th>Resolves</th><th>Status</th></tr>
+      </thead>
+      <tbody id="predictions"></tbody>
+    </table>
+  </section>
+
   <section id="sec-wars">
     <div class="sec-head">
       <span class="zh">战况账簿</span>
@@ -313,20 +331,6 @@ footer a { color: var(--seal); text-decoration: none; border-bottom: 1px dotted 
         <tr><th>Front</th><th>Material advantage</th><th>Trend</th><th>Basis</th></tr>
       </thead>
       <tbody id="wars"></tbody>
-    </table>
-  </section>
-
-  <section id="sec-predictions">
-    <div class="sec-head">
-      <span class="zh">预测簿</span>
-      <span class="en">Predictions — on the record, scored in public</span>
-      <span class="note">待 open · 中 hit · 误 miss</span>
-    </div>
-    <table>
-      <thead>
-        <tr><th>Filed</th><th>Claim</th><th>Resolves</th><th>Status</th></tr>
-      </thead>
-      <tbody id="predictions"></tbody>
     </table>
   </section>
 
@@ -400,18 +404,26 @@ fetch('data/scorecard.json')
       </tr>`;
     }).join('');
 
-    document.getElementById('predictions').innerHTML = (d.predictions || []).map(p => {
+    const preds = d.predictions || [];
+    const rec = preds.reduce((a, p) => { a[p.status] = (a[p.status] || 0) + 1; return a; }, {});
+    document.getElementById('pred-record').innerHTML =
+      `记录 track record · <span class="rec hit">${rec.hit || 0} 中 hit</span> · ` +
+      `<span class="rec miss">${rec.miss || 0} 误 miss</span> · ` +
+      `<span class="rec open">${rec.open || 0} 待 open</span>`;
+    // resolve date: schema drifted over time (resolves → horizon/resolved); accept all
+    const resolveOn = p => p.resolves || p.horizon || p.resolved || '—';
+    document.getElementById('predictions').innerHTML = preds.map(p => {
       const s = STATUS[p.status] || STATUS.open;
       const tea = p.kind === 'tea' ? '<span class="tea-tag">茶余</span>' : '';
       return `<tr>
         <td class="adv">${esc(p.filed)}</td>
         <td class="claim">${tea}${esc(p.claim)}</td>
-        <td class="adv">${esc(p.resolves)}</td>
+        <td class="adv">${esc(resolveOn(p))}</td>
         <td><span class="status ${s.cls}">${s.label}</span></td>
       </tr>`;
     }).join('');
 
-    document.getElementById('coverage').innerHTML = d.coverage.slice(0, 14).map(c => `
+    document.getElementById('coverage').innerHTML = d.coverage.map(c => `
       <div class="day">
         <div class="date">${esc(c.date)}</div>
         <div>
