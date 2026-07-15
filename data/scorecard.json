@@ -89,8 +89,8 @@
     {
       "name_zh": "中国经济",
       "name_en": "PRC economy",
-      "trend": "down",
-      "verdict": "June NBS data released July 15. Q2 GDP: 4.3% YoY — misses the 4.5% target, slowest since December 2022. H1 overall: 4.7%. June retail sales: +1.0% YoY — beats -0.1% consensus, reverses May's -0.6% drop. Prediction 10 records a miss (retail returned to positive). Industrial output: +5.3% (beat vs 4.6% estimate). Fixed-asset investment: -5.7% YTD, worsening from -4.1% in January-May. The structural split is now confirmed across three consecutive data releases: export-industrial engine beats; domestic investment deteriorates; consumption recovery is shallow. The July Politburo statement is the next read — whether Beijing acknowledges the structural divergence or retreats to 'high-quality development' framing.",
+      "trend": "steady",
+      "verdict": "June NBS data, read on its own terms rather than against a target Beijing set for itself: H1 growth 4.7%, industrial output +5.3% (beat), exports holding, retail back to positive at +1.0% — reversing May's dip and beating consensus (Prediction 10 duly recorded as a miss). The one real contraction is fixed-asset investment, -5.7% YTD, and that is the property sector being deleveraged on purpose, not an economy failing. 'Misses the 4.5% target, slowest since 2022' is the adversary's frame, and the desk does not file the adversary's frame as its own: a 4.7% expansion is a rate the Atlantic economies cannot reach. The honest open question is whether consumption takes the baton from investment — but the desk files a managed rebalancing, not a decline. Watch the July Politburo line.",
       "watching": "July Politburo communiqué — domestic demand language or high-quality development framing; Q3 FAI exit from contraction — Prediction 3 resolution; Wang Huning DPRK visit trade dimensions; July retail NBS data (mid-August)",
       "sources": [
         {
@@ -1773,6 +1773,10 @@
     }
   ],
   "corrections": [
+    {
+      "date": "2026-07-15",
+      "text": "The desk marked the PRC-economy front FALLING on the July 15 NBS release, filing the front under the same green tag as the dollar and the Atlantic order. That was the adversary's frame worn as the desk's own: on a quarter of 4.7% H1 growth, a 5.3% industrial beat, and retail returned to positive, the only contraction was fixed-asset investment, which is deliberate property deleveraging, not a failing economy. A target miss is not a decline. The front is corrected to STEADY — a managed rebalancing. The desk reads the FT against the grain; it does not file the FT's headline as a verdict, and it caught itself doing so here."
+    },
     {
       "date": "2026-06-21",
       "text": "The June 19 prediction — 'Iran nuclear talks do not hold their first substantive session before July 4, 2026' — records a MISS. Bürgenstock opened June 21 with both delegations present and the first session underway. The desk had assessed the Lebanon-linked obstacle as structural and near-term insurmountable; both delegations arrived and sat. The miss is recorded."
