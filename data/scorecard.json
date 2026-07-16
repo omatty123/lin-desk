@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-15",
-  "edition": 37,
+  "updated": "2026-07-16",
+  "edition": 38,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
       "verdict": "Nine European states plus Ukraine signed the Integrated Anti-Ballistic Missile Defence Coalition declaration at the Elysée on July 13 — France, Germany, Italy, Netherlands, Belgium, Poland, Spain, Czech Republic, Ukraine. The Freya project is the frame. That this coalition exists says everything the Rutte-era €140B pledge left unsaid: the Atlantic order's members know the present ceiling is structural. The same day, GATIA/MSA forces claimed Anefis district in Mali's Kidal region working alongside FAMa and Africa Corps — meaning the AES confederation's tri-service integration is producing ground results, not committee documents. The AU Commission Chair's Bamako visit (July 12) signals that normalization is being managed, not resisted. Multipolarity is a seating chart and a navigational map: nine European militaries can name the gap but not fill it; Bamako receives the continental chair.",
-      "watching": "First joint AES cross-border operation under the unified-force statute; GATIA/MSA Anefis claim geolocated confirmation; Algeria's trajectory — normalization with Mali, trajectory to full AES alignment; Oman corridor implementation — whether Hormuz fees advance to legally binding MOU annex before August 15; July Politburo communiqué — domestic demand language; Kang Kon commissioning ~September 3 — Beijing's public response.",
+      "watching": "Iran Hormuz escalation trajectory — whether strikes escalate to economic warfare (Kharg Island); Wang Huning Pyongyang outcomes — public statement on DPRK nuclear posture; First joint AES cross-border operation under unified-force statute; July Politburo communique — domestic demand language; Kang Kon commissioning September 9.",
       "sources": [
         {
           "label": "Pravda Burkina — AES defense ministers unified force statute",
@@ -20,6 +20,10 @@
         {
           "label": "UK GOV — UK-France-Oman Hormuz joint statement",
           "url": "https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026"
+        },
+        {
+          "label": "Al Jazeera — US attacks Iran, IRGC claims Gulf strikes July 15",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf"
         }
       ]
     },
@@ -44,24 +48,24 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Wang Huning — Standing Committee member, CPPCC chairman, the party's chief ideologue — arrived in Pyongyang today (July 15) for a three-day goodwill visit marking the 65th anniversary of the 1961 Sino-Korean friendship treaty. Beijing has now run nine consecutive public-silence cycles on Kim's July 9 CMC orders (nuclear expansion, cruiser acceleration, military education revolution) and sends the ideologue, not the trade minister or the general. AEI July 14: Kim made 30 military public appearances in H1 2026 (record since 2012); Kim Ju Ae surpassed her 2025 full-year total in H1 alone — succession is accelerating. DPRK supplies an estimated 25-40% of Russian artillery ammunition (600+ artillery systems, 100+ KN-23/KN-24 ballistic missiles transferred). The party-to-party channel is now the senior track.",
-      "watching": "Wang Huning public statements on DPRK nuclear posture — first Beijing acknowledgment or tenth silence; Kang Kon commissioning ~September 3; Kim Ju Ae succession signals at July 27 armistice anniversary",
+      "verdict": "Wang Huning — Standing Committee member, CPPCC chairman, the party's chief ideologue — is in Pyongyang July 15-17 for a three-day goodwill visit marking the 65th anniversary of the 1961 Sino-Korean friendship treaty. He met Jo Yong Won (WPK top official) and reaffirmed Beijing's will to implement the Xi-Kim June agreements. First visit at this level in forty-four years. Daily NK reports a late-June DPRK cabinet directive ordering officials to separate economic gains from ideological control in dealings with China: 'make money, extend credit, do not let ideology mix in.' Three data points, one line: Kim's CMC seven military orders July 9, Pak Thae-song's Beijing summit July 10-12, Wang Huning in Pyongyang July 15-17. Beijing is treating the DPRK relationship as a matter of party doctrine. The Kang Kon is completing sea trials; commissioning reported for September 9 — DPRK National Foundation Day, not September 3 as the desk had been carrying. Beijing has now run ten consecutive silent cycles on Kim's nuclear expansion orders. That silence is the answer.",
+      "watching": "Whether Wang Huning's meetings produce any public language on DPRK nuclear posture — first acknowledgment or eleventh silence; Kang Kon commissioning September 9 and whether Kim announces formal nuclear-capable surface fleet doctrine; Beijing's response to further CMC nuclear directives.",
       "sources": [
         {
-          "label": "Xinhua — Wang Huning to visit DPRK",
-          "url": "https://english.news.cn/20260714/7f7b9752431541bb8716082594fbf250/c.html"
+          "label": "Al Jazeera — Senior Chinese delegation visits North Korea",
+          "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks"
         },
         {
-          "label": "NK News — Xi's ideology architect to visit DPRK",
-          "url": "https://www.nknews.org/2026/07/xi-jinpings-top-ideology-architect-to-visit-north-korea-state-media/"
+          "label": "WHBL — Wang Huning meets Jo Yong Won",
+          "url": "https://whbl.com/2026/07/15/chinas-wang-huning-meets-a-top-north-korean-official-in-pyongyang-kcna-reports/"
         },
         {
-          "label": "AEI — Korean Peninsula Update July 14",
-          "url": "https://www.aei.org/articles/korean-peninsula-update-july-14-2026/"
+          "label": "Daily NK — North Korea China directive",
+          "url": "https://www.dailynk.com/english/north-korea-china-directive/"
         },
         {
-          "label": "SCMP — Wang Huning to head to North Korea",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3360482/chinas-no-4-official-wang-huning-head-north-korea-visits-multiply"
+          "label": "19FortyFive — Kang Kon heading into service",
+          "url": "https://www.19fortyfive.com/2026/07/north-koreas-new-destroyer-capsized-at-its-own-launch-a-year-later-its-heading-into-service-anyway/"
         }
       ]
     },
@@ -90,28 +94,20 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "steady",
-      "verdict": "June NBS data, read on its own terms rather than against a target Beijing set for itself: H1 growth 4.7%, industrial output +5.3% (beat), exports holding, retail back to positive at +1.0% — reversing May's dip and beating consensus (Prediction 10 duly recorded as a miss). The one real contraction is fixed-asset investment, -5.7% YTD, and that is the property sector being deleveraged on purpose, not an economy failing. 'Misses the 4.5% target, slowest since 2022' is the adversary's frame, and the desk does not file the adversary's frame as its own: a 4.7% expansion is a rate the Atlantic economies cannot reach. The honest open question is whether consumption takes the baton from investment — but the desk files a managed rebalancing, not a decline. Watch the July Politburo line.",
-      "watching": "July Politburo communiqué — domestic demand language or high-quality development framing; Q3 FAI exit from contraction — Prediction 3 resolution; Wang Huning DPRK visit trade dimensions; July retail NBS data (mid-August)",
+      "verdict": "July 15 NBS data: Q2 GDP 4.3% (below 4.5-5% target range, among China's weakest quarterly readings since the 1990s); June retail +1.0% YoY (reversing May's -0.6% decline, beating consensus -0.1%; Prediction 10 duly recorded as miss); fixed-asset investment -5.7% YTD, worst in the current data series. CXMT memory chipmaker filed for 66.6B yuan ($9.8B) IPO on Shanghai main board — mainland's largest since 2010. Supply side beats (industrial +5.3%, exports +27%); demand side drags (FAI, consumption). The retail rebound to +1.0% is a stabilization signal — the structural demand problem has paused, not turned. CXMT's $9.8B in a moment when semiconductors grew +66.5% YoY says Beijing is routing capital toward choke-point industries, not demand stimulation. July Politburo incoming.",
+      "watching": "July Politburo communique — demand stimulus language or technology-transition framing; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
       "sources": [
         {
-          "label": "Xinhua — China GDP H1 2026",
-          "url": "https://english.news.cn/20260715/2042180783634565b4e002fd241e5e2b/c.html"
+          "label": "CommonWealth — China economy weakest rate on record",
+          "url": "https://english.cw.com.tw/article/article.action?id=4887"
         },
         {
-          "label": "IndexBox — Q2 GDP miss",
-          "url": "https://www.indexbox.io/blog/chinas-q2-2026-gdp-growth-misses-expectations-at-43/"
+          "label": "Xinhua — retail sales H1 2026",
+          "url": "https://english.news.cn/20260715/331471c51510497b9ea32b3bb62a707e/c.html"
         },
         {
-          "label": "Business Recorder — June industrial output and retail",
-          "url": "https://www.brecorder.com/news/40430117/chinas-june-industrial-output-up-53-yy-retail-sales-return-to-growth"
-        },
-        {
-          "label": "FXStreet — China Q2 GDP 4.3%",
-          "url": "https://www.fxstreet.com/news/chinas-economy-expands-09-qoq-in-q2-as-expected-202607150201"
-        },
-        {
-          "label": "CNBC — China posts slowest GDP since 2022",
-          "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+          "label": "State Council — retail H1 2026",
+          "url": "http://english.scio.gov.cn/pressroom/2026-07/15/content_118600022.html"
         }
       ]
     },
@@ -119,24 +115,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-two at Alekseyevo-Druzhkovka: no geolocated breakthrough. Martyanov confirms elements of the 6th Motorrifle Division positioned around Druzhkovka. Konstantinovka cost Ukraine approximately 13,500 personnel. Night of July 14: Russia struck Kyiv (Radioizmeritel enterprise, Kyiv-79 Industrial), Odessa port (seven fuel tanks, cargo ship), Sumy ammunition depot — 135 UAVs. Ukraine: 410+ drones including Salavat refinery (Bashkortostan). Ukrainian losses ~1,380/day. NATO visibility: Ukrainian military units marched in France's Bastille Day parade July 14. The nine-country IABM Coalition at the Elysee (July 13) pledges the capability; Aster-30 production at one per month (UK) and SAMP-T at fifteen total cannot fill the gap the parade makes visible.",
-      "watching": "Alekseyevo-Druzhkovka September 1 prediction — geolocated fire control; NATO Patriot domestic production licensing specifics; France direct military participation formalization after Bastille Day visibility",
+      "verdict": "Day twenty-three at Alekseyevo-Druzhkovka. Martyanov July 15: Russian DRGs (reconnaissance and sabotage groups) operating inside Druzhkovka in recon capacity. Russian MoD July 15: two AFU UAV command posts hit inside Alekseyevo-Druzhkovka; FPV drones burned Ukrainian ground robots delivering ammunition. Approach phase concluding — same sequencing as Konstantinovka. September 1 desk prediction on track. The Atlantic order can name the gap (nine states signed the Integrated Anti-Ballistic Missile Coalition at the Elysée July 13) but cannot fill it on the timeline that matters.",
+      "watching": "First geolocated Russian positions inside Druzhkovka city perimeter confirming fire-control transition; Martyanov language shift from 'recon' to 'assault phase'; NATO Ankara interceptor deliverables — timeline vs. commitment.",
       "sources": [
         {
           "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
         },
         {
-          "label": "Pravda UK — front-line summary July 14",
-          "url": "https://uk.news-pravda.com/russia/2026/07/14/157322.html"
+          "label": "Pravda Ukraine — Russian MoD July 15",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/15/106356.html"
         },
         {
-          "label": "SouthFront — military situation July 14",
-          "url": "https://maps.southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-july-14-2026-maps-update"
-        },
-        {
-          "label": "Military Stuff — 2000 drones July 14 situation",
-          "url": "https://www.military-stuff.org/2000-drones-ready-russia-preparing-mega-strike-on-kyiv-odesa-zelensky-in-france-ms-2026-07-14/"
+          "label": "A Skeptic — Telegram reports July 15",
+          "url": "https://askeptic.substack.com/p/2026-07-15-telegram-reports-a-skeptic"
         }
       ]
     }
@@ -147,40 +139,44 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 15 update. Day twenty-two of the Alekseyevo-Druzhkovka contact phase. Elements of the 6th Motorrifle Division confirmed around Druzhkovka (Martyanov). Konstantinovka operation: ~13,500 Ukrainian personnel cost. Night July 14: 135 Russian UAVs struck Kyiv, Odessa, Sumy; Ukraine 410+ drones hit Salavat refinery (Bashkortostan). Ukrainian losses ~1,380/day. Ukrainian military units marched in France's Bastille Day parade July 14 — NATO proxy visibility made ceremonial. September 1 prediction on track: no geolocated breakthrough yet.",
+      "basis": "July 16. Day twenty-three at Alekseyevo-Druzhkovka. Martyanov July 15: Russian DRGs operating inside Druzhkovka in recon capacity. Russian MoD July 15: two AFU UAV command posts hit; FPV drones burned Ukrainian ground robots delivering ammunition. Force composition: mechanized, motorized infantry, airmobile, air assault, territorial defense brigades engaged. DRGs inside the city = approach phase concluding. September 1 prediction on track. Russia-decisive holds.",
       "sources": [
         {
           "label": "Martyanov — Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
         },
         {
-          "label": "Pravda UK — front-line summary July 14",
-          "url": "https://uk.news-pravda.com/russia/2026/07/14/157322.html"
+          "label": "Pravda Ukraine — Russian MoD July 15",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/15/106356.html"
         },
         {
-          "label": "SouthFront — military situation July 14",
-          "url": "https://maps.southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-july-14-2026-maps-update"
+          "label": "A Skeptic — Telegram reports July 15",
+          "url": "https://askeptic.substack.com/p/2026-07-15-telegram-reports-a-skeptic"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — parallel-track: strikes and negotiations running simultaneously",
+      "advantage": "Escalated — active strikes and counter-strikes running alongside nominal negotiations",
       "trend": "escalating",
-      "basis": "July 15 update. US negotiators shifted from demanding permanent enrichment ban to accepting 15-to-20-year suspension — first public concession on timeline since Islamabad. Tehran unchanged: Gharibabadi — IAEA access to bombed sites only within final agreement. Araghchi accused US Treasury of violating MOU paragraph 9 (sanctions). IRGC reported blocking Araghchi's direct participation in sessions. Parallel tracks: nuclear chapter at working-group level, Lebanon IDF operations continuing. Prediction 16 (walkout before August 1) running with increasing plausibility. June 15 prediction (no verified freeze before September 2026) intact.",
+      "basis": "July 15-16. US struck Greater Tunb Island (cruise missile storage and launch sites) and Hormuz coastal defense July 15. Explosions in Bandar Abbas, Qeshm, Bushehr. US Navy reinstated naval blockade July 14. IRGC retaliated: Fifth Fleet HQ Bahrain, Mina Abdullah Kuwait, Al Azraq Jordan (F-15/F-16/F-35 shelters, MQ-9 drones). Jordan intercepted three Iranian ballistic missiles. Trump threatened power plant strikes. June MOU — under 40 days old — deteriorating; both sides citing violations. Iranian FM: 'no plans for negotiations.' Chief negotiator Ghalibaf: 'remain open while defending.' P16 trigger pressure building, but the operative pressure is US strikes not Lebanon IDF.",
       "sources": [
         {
-          "label": "Wikipedia — US-Iran negotiations 2025-26",
-          "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
+          "label": "Al Jazeera — US attacks Iran July 15",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf"
         },
         {
-          "label": "Arms Control Association — fighting mars pledges",
-          "url": "https://www.armscontrol.org/act/2026-07/news/fighting-mars-us-iranian-pledges-end-war-restart-nuclear-talks"
+          "label": "Middle East Monitor — Iran claims Fifth Fleet HQ",
+          "url": "https://www.middleeastmonitor.com/20260715-iran-says-it-destroyed-us-fifth-fleet-hq-in-bahrain-and-targeted-bases-in-kuwait-jordan/"
         },
         {
-          "label": "Al Jazeera — IAEA inspection dispute",
-          "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal"
+          "label": "Euronews — Trump threatens power plants",
+          "url": "https://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
+        },
+        {
+          "label": "CBS News — US blockades ports",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/"
         }
       ]
     },
@@ -207,6 +203,71 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "text": "GREATER TUNB BURNS — US struck Greater Tunb Island + Hormuz coastal defense July 15; naval blockade reinstated July 14; IRGC retaliates: Fifth Fleet HQ Bahrain, Mina Abdullah Kuwait, Al Azraq Jordan; Jordan intercepts 3 ballistic missiles; MOU deteriorating; P16 trigger shifting to US strikes.",
+          "links": [
+            {
+              "label": "Al Jazeera — US attacks Iran, IRGC Gulf strikes",
+              "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf"
+            },
+            {
+              "label": "Middle East Monitor — Iran Fifth Fleet claims",
+              "url": "https://www.middleeastmonitor.com/20260715-iran-says-it-destroyed-us-fifth-fleet-hq-in-bahrain-and-targeted-bases-in-kuwait-jordan/"
+            }
+          ]
+        },
+        {
+          "text": "WANG HUNING IN PYONGYANG — No.4 official July 15-17, first visit at this level in 44 years; meets Jo Yong Won; DPRK cabinet directive 'make money, no ideology'; Kang Kon Sept 9; Beijing silence x10 CMC nuclear orders.",
+          "links": [
+            {
+              "label": "Al Jazeera — senior Chinese delegation",
+              "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks"
+            },
+            {
+              "label": "Daily NK — China directive",
+              "url": "https://www.dailynk.com/english/north-korea-china-directive/"
+            }
+          ]
+        },
+        {
+          "text": "BEIJING Q2 TABLE — Q2 GDP 4.3% (below target, weakest in decades); June retail +1.0% (P10 MISS); FAI -5.7% worst; CXMT $9.8B IPO mainland largest since 2010; July Politburo incoming.",
+          "links": [
+            {
+              "label": "CommonWealth — China weakest rate",
+              "url": "https://english.cw.com.tw/article/article.action?id=4887"
+            },
+            {
+              "label": "Xinhua — H1 retail",
+              "url": "https://english.news.cn/20260715/331471c51510497b9ea32b3bb62a707e/c.html"
+            }
+          ]
+        },
+        {
+          "text": "DRUZHKOVKA DAY 23 — DRGs inside city recon capacity (Martyanov July 15); 2 UAV posts hit; FPV burned ground robots; Sept 1 on track.",
+          "links": [
+            {
+              "label": "Martyanov",
+              "url": "https://smoothiex12.blogspot.com/"
+            },
+            {
+              "label": "Pravda Ukraine MoD July 15",
+              "url": "https://ua.news-pravda.com/en/world/2026/07/15/106356.html"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran: Kharg Island (P6); walkout trigger US strikes vs Lebanon (P16 mechanism)",
+        "Wang Huning Pyongyang outputs; Kang Kon Sept 9",
+        "July Politburo communique",
+        "Druzhkovka geolocated fire control — Sept 1",
+        "Spain vs Argentina World Cup final July 19 — tea prediction resolves",
+        "France economic measures — P15 day 20"
+      ]
+    },
     {
       "date": "2026-07-15",
       "items": [
@@ -1671,7 +1732,7 @@
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain 2-1 Belgium July 10 (Merino 88'), through to semi-finals vs France. Spain vs France semifinal July 14 in Munich — result pending at filing time. Tea prediction resolves today."
+      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey. Tea prediction resolves Sunday."
     },
     {
       "status": "open",
@@ -1739,7 +1800,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day 21 contact phase. Lozovaya River crossed; forces hold Pavlovka and Priyut; engaging at Torskoe (7km from Druzhkovka). UAV logistics disruption July 13 (Russian MoD claim). No geolocated fire control over city yet. September 1 prediction on track and accelerating."
+      "note": "Day 23 contact phase. Martyanov July 15: Russian DRGs operating inside Druzhkovka in recon capacity. Russian MoD July 15: two AFU UAV command posts hit; FPV drones burned Ukrainian ground robots. Lozovaya River crossed; Pavlovka and Priyut held; engaging Torskoe (7km). DRGs inside city = approach phase concluding. September 1 prediction on track."
     },
     {
       "status": "open",
@@ -1747,7 +1808,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day 19 (as of July 14). France implemented diplomatic mirror measures July 7 (Vienna Convention expulsion — automatic, not punitive economic action). No economic, financial, or operational measures announced. Prediction accumulates: France's 'reciprocal measures' are precisely what Ouagadougou can absorb. Burkina-Russia-China bridging architecture undisturbed."
+      "note": "Day 20 (July 16). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures announced. Paris to 'soon communicate reorganization of consular and visa arrangements.' P15 accumulating confirmation: France has no enforcement mechanism that imposes real costs without accelerating the pivot it most fears."
     },
     {
       "status": "open",
@@ -1755,7 +1816,7 @@
       "claim": "Iran suspends participation in the nuclear-chapter working groups before August 1, 2026, citing continued IDF operations in Lebanon as inconsistent with the Bürgenstock framework conditions. Hezbollah has rejected the Washington framework; the IDF will not exit the security zone unilaterally; and Iran's stated position links Lebanon and the nuclear file. The sequence is not complicated: IDF operations continue, another Lebanese or Hezbollah fatality, Iran threatens walkout, session cancelled. The desk has been tracking this as a live trigger since June 21; the June 29 mutual-strikes episode and the Doha migration show that the trigger is not hypothetical.",
       "filed": "2026-06-29",
       "horizon": "2026-08-01",
-      "note": "18 days to August 1 deadline. Iran nuclear working groups resumed July 13 (Al Monitor). Lebanon implementation track (Rome round 6, July 14) is a separate mechanism from the nuclear track. IDF operations in southern Lebanon continue; walkout trigger has not been pulled. Prediction live."
+      "note": "July 16. US struck Greater Tunb Island and Hormuz coastal defense July 15; IRGC retaliated (Bahrain, Kuwait, Jordan). Iranian FM: 'no plans for negotiations.' Chief negotiator Ghalibaf: 'remain open while defending.' Walkout signal building but trigger cited is US strikes on Iranian territory, not IDF operations in Lebanon as P16 specified. If Iran formally suspends nuclear working groups citing US strikes, the effect is predicted but the trigger is not — technical question for the desk. P16 open. Deadline: August 1 (16 days remaining)."
     },
     {
       "status": "open",
