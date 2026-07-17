@@ -203,6 +203,13 @@ td.claim .tea-tag { font-family: 'Noto Serif SC', serif; font-weight: 600; font-
 .status.hit { color: var(--rise); }
 .status.miss { color: var(--fall); }
 
+/* deep-link target: a briefing links "Prediction N" here via #pred-N */
+tbody tr[id^="pred-"] { scroll-margin-top: 24px; transition: background .4s ease; }
+tbody tr[id^="pred-"].linked,
+tbody tr[id^="pred-"]:target { background: rgba(179, 45, 31, .09); }
+tbody tr[id^="pred-"].linked td:first-child,
+tbody tr[id^="pred-"]:target td:first-child { box-shadow: inset 3px 0 0 var(--seal); }
+
 /* wars ledger */
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 thead th {
@@ -412,10 +419,11 @@ fetch('data/scorecard.json')
       `<span class="rec open">${rec.open || 0} 待 open</span>`;
     // resolve date: schema drifted over time (resolves → horizon/resolved); accept all
     const resolveOn = p => p.resolves || p.horizon || p.resolved || '—';
-    document.getElementById('predictions').innerHTML = preds.map(p => {
+    document.getElementById('predictions').innerHTML = preds.map((p, idx) => {
       const s = STATUS[p.status] || STATUS.open;
       const tea = p.kind === 'tea' ? '<span class="tea-tag">茶余</span>' : '';
-      return `<tr>
+      // Prediction N = 1-based ledger position; anchor #pred-N is a permanent deep-link target
+      return `<tr id="pred-${idx + 1}">
         <td class="adv">${esc(p.filed)}</td>
         <td class="claim">${tea}${esc(p.claim)}</td>
         <td class="adv">${esc(resolveOn(p))}</td>
@@ -445,6 +453,17 @@ fetch('data/scorecard.json')
           <div class="date">${esc(c.date)}</div>
           <div>${esc(c.text)}</div>
         </div>`).join('');
+    }
+
+    // Data renders after load, so a #pred-N link from a briefing can't scroll
+    // to its row until the table exists. Do it now, and flag it explicitly —
+    // Chrome doesn't reliably apply :target to a row inserted after navigation.
+    if (location.hash) {
+      const target = document.getElementById(location.hash.slice(1));
+      if (target) {
+        target.scrollIntoView({ block: 'center' });
+        target.classList.add('linked');
+      }
     }
   })
   .catch(() => {
