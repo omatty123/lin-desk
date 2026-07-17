@@ -93,21 +93,25 @@
     {
       "name_zh": "中国经济",
       "name_en": "PRC economy",
-      "trend": "steady",
-      "verdict": "July 15 NBS data: Q2 GDP 4.3% (below 4.5-5% target range, among China's weakest quarterly readings since the 1990s); June retail +1.0% YoY (reversing May's -0.6% decline, beating consensus -0.1%; Prediction 10 duly recorded as miss); fixed-asset investment -5.7% YTD, worst in the current data series. CXMT memory chipmaker filed for 66.6B yuan ($9.8B) IPO on Shanghai main board — mainland's largest since 2010. Supply side beats (industrial +5.3%, exports +27%); demand side drags (FAI, consumption). The retail rebound to +1.0% is a stabilization signal — the structural demand problem has paused, not turned. CXMT's $9.8B in a moment when semiconductors grew +66.5% YoY says Beijing is routing capital toward choke-point industries, not demand stimulation. July Politburo incoming.",
+      "trend": "up",
+      "verdict": "The desk moves this front to rising and says why plainly: the productive economy is the story, and it is winning. H1 growth 4.7%, industrial output +5.3%, exports +27%, semiconductors +66.5% YoY, and CXMT's $9.8B Shanghai IPO — capital routed straight into the choke-point industries Washington is trying to strangle. The 'slowdown / deflation / collapse' frame is the call the Western press has botched for fifteen straight years. As Han Feizi documents at Asia Times, China's 'deflation' is hedonic — cars, phones, appliances getting radically better as prices fall — and its subsidies create value rather than destroy it; the Pettis ledger is measuring the wrong quantity. The one real drag, fixed-asset investment at -5.7%, is a property bubble being deflated on purpose, not an economy failing. Nine of the world's top-ten research universities are now Chinese: the productive base compounds while the number the FT watches shrinks by design. Watch the July Politburo line, but the direction is set.",
       "watching": "July Politburo communique — demand stimulus language or technology-transition framing; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
       "sources": [
         {
-          "label": "CommonWealth — China economy weakest rate on record",
-          "url": "https://english.cw.com.tw/article/article.action?id=4887"
+          "label": "Han Feizi — Asia Times (standing reference)",
+          "url": "https://asiatimes.com/author/han-feizi/"
         },
         {
-          "label": "Xinhua — retail sales H1 2026",
+          "label": "Han Feizi — In defense of Chinese deflation",
+          "url": "https://asiatimes.com/2025/01/in-defense-of-chinese-deflation/"
+        },
+        {
+          "label": "Han Feizi — University research at China speed",
+          "url": "https://asiatimes.com/2026/06/university-research-at-china-speed-brings-sea-changes-to-science/"
+        },
+        {
+          "label": "Xinhua — retail sales & H1 2026 data",
           "url": "https://english.news.cn/20260715/331471c51510497b9ea32b3bb62a707e/c.html"
-        },
-        {
-          "label": "State Council — retail H1 2026",
-          "url": "http://english.scio.gov.cn/pressroom/2026-07/15/content_118600022.html"
         }
       ]
     },
