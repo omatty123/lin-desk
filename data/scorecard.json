@@ -1768,28 +1768,33 @@
       "kind": "desk",
       "claim": "Russia achieves its stated objectives in Ukraine: the war ends on Moscow's terms, with Ukrainian NATO membership permanently off the table.",
       "filed": "2026-06-10",
-      "horizon": "2028"
+      "horizon": "2028",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "'Denuclearization' does not return to official PRC language on the DPRK. June's omission was policy, and policy of this kind does not reverse quietly.",
       "filed": "2026-06-10",
-      "horizon": "2026-12-31"
+      "horizon": "2026-12-31",
+      "schema_version": 1,
+      "beat": "peninsula"
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
       "filed": "2026-06-10",
-      "horizon": "2026-09-30"
+      "horizon": "2026-09-30",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "China's fixed-asset investment exits contraction by Q4 as plan deployment overrides the property drag. If it does not, the desk will say so in this column.",
       "filed": "2026-06-10",
-      "horizon": "2026-12-31"
+      "horizon": "2026-12-31",
+      "schema_version": 1
     },
     {
       "status": "open",
@@ -1797,35 +1802,40 @@
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey. Tea prediction resolves Sunday July 19."
+      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey. Tea prediction resolves Sunday July 19.",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
-      "horizon": "2026-09-01"
+      "horizon": "2026-09-01",
+      "schema_version": 1
     },
     {
       "status": "hit",
       "kind": "desk",
       "claim": "The Qatar mediation track produces a formal ceasefire extension before June 25, 2026. Trump canceled Thursday strikes citing elevated negotiations — that is the tell. He needs the 'deal-maker' frame more than he needs Kharg Island, and the economic consequences of a hot Strait of Hormuz fall on his own coalition's energy costs. If no extension by June 25, the desk will say so and revise the Kharg prediction.",
       "filed": "2026-06-12",
-      "resolved": "2026-06-18"
+      "resolved": "2026-06-18",
+      "schema_version": 1
     },
     {
       "status": "hit",
       "kind": "desk",
       "claim": "The US-Iran deal is formally signed before June 30, 2026. Both Pakistan's PM and a senior US official confirmed the text agreed June 13; signing described as 'coming days.' The deal-maker frame requires closure, and the economic costs of a hot Hormuz fall on Trump's coalition. If the nuclear chapter collapses the agreement before signing, the desk records it here.",
       "filed": "2026-06-13",
-      "resolved": "2026-06-19"
+      "resolved": "2026-06-19",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
       "filed": "2026-06-15",
-      "horizon": "2026-09-15"
+      "horizon": "2026-09-15",
+      "schema_version": 1
     },
     {
       "status": "miss",
@@ -1833,14 +1843,16 @@
       "claim": "China's retail sales, having fallen 0.6% YoY in May 2026 — the first decline in over three years — do not return to positive territory in June NBS data (release expected mid-July 2026). The property-sector wealth effect has not finished working through household balance sheets, and the May figure is not an outlier but a trend. If June retail sales return to positive, the desk records the error.",
       "filed": "2026-06-16",
       "horizon": "2026-07-20",
-      "note": "June NBS retail data and Q2 GDP release July 15. Prediction 10 resolves within 24 hours. June trade data (July 14): exports +27%, imports +36% — external demand robust; domestic demand question unresolved until NBS lands."
+      "note": "June NBS retail data and Q2 GDP release July 15. Prediction 10 resolves within 24 hours. June trade data (July 14): exports +27%, imports +36% — external demand robust; domestic demand question unresolved until NBS lands.",
+      "schema_version": 1
     },
     {
       "status": "hit",
       "kind": "desk",
       "claim": "Konstantinovka comes under full Russian operational control (80%+ of city area) before July 4, 2026. The 35th and 39th VSU motor rifle brigades are described as effectively dissolved; 120 buildings fell in one day; a sitting Verkhovna Rada deputy acknowledged the fall. The material trajectory does not leave room for a reversal. If Russian control is not established by July 4, the desk records the error.",
       "filed": "2026-06-17",
-      "resolved": "2026-06-23"
+      "resolved": "2026-06-23",
+      "schema_version": 1
     },
     {
       "status": "miss",
@@ -1848,7 +1860,8 @@
       "claim": "Iran nuclear talks do not hold their first substantive session before July 4, 2026. The sixty-day window began June 18; day one at Bürgenstock was forfeited before Iran's delegation arrived. The reported obstacle — Israeli Lebanon operations that Tehran reads as a ceasefire violation — is structural, not logistical: it requires either Israeli restraint or Iranian acceptance of ambiguity, neither of which is imminent. If a first session occurs before July 4, the desk records the miss.",
       "filed": "2026-06-19",
       "resolved": "2026-06-21",
-      "note": "Miss recorded June 21: Bürgenstock session opened with both delegations present."
+      "note": "Miss recorded June 21: Bürgenstock session opened with both delegations present.",
+      "schema_version": 1
     },
     {
       "status": "hit",
@@ -1857,7 +1870,8 @@
       "filed": "2026-06-24",
       "horizon": "2026-07-13",
       "note": "HIT. July 13 benchmark passed without verified IAEA access or agreed inspection language. Araghchi in Muscat July 12 on Hormuz corridors; Gharibabadi 'existing safeguards only' unchanged. The scope dispute was confirmed exactly as predicted. Note: prior log entries labeled this 'Prediction 12' in error; scorecard position 13 is correct.",
-      "resolved": "2026-07-13"
+      "resolved": "2026-07-13",
+      "schema_version": 1
     },
     {
       "status": "open",
@@ -1865,7 +1879,8 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day 24. Russian forces completed breakthrough at Malinovka and Vasyutinsky (9km E Kramatorsk) July 16-17; stormtroopers flanking Alekseyevo-Druzhkovka from multiple axes; 'surrounded' language in open-source frontline reports July 17 morning. Zelensky fired Defense Minister Fedorov (drone program architect) July 16 — replacement is conventional police general. September 1 prediction accelerating, not merely on track."
+      "note": "Day 24. Russian forces completed breakthrough at Malinovka and Vasyutinsky (9km E Kramatorsk) July 16-17; stormtroopers flanking Alekseyevo-Druzhkovka from multiple axes; 'surrounded' language in open-source frontline reports July 17 morning. Zelensky fired Defense Minister Fedorov (drone program architect) July 16 — replacement is conventional police general. September 1 prediction accelerating, not merely on track.",
+      "schema_version": 1
     },
     {
       "status": "open",
@@ -1873,7 +1888,8 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day 20 (July 16). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures announced. Paris to 'soon communicate reorganization of consular and visa arrangements.' P15 accumulating confirmation: France has no enforcement mechanism that imposes real costs without accelerating the pivot it most fears."
+      "note": "Day 20 (July 16). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures announced. Paris to 'soon communicate reorganization of consular and visa arrangements.' P15 accumulating confirmation: France has no enforcement mechanism that imposes real costs without accelerating the pivot it most fears.",
+      "schema_version": 1
     },
     {
       "status": "hit",
@@ -1882,21 +1898,92 @@
       "filed": "2026-06-29",
       "horizon": "2026-08-01",
       "resolved": "2026-07-17",
-      "note": "HIT — with trigger correction. Nuclear working groups are in abeyance as of July 17; Iranian FM stated 'no plans for negotiations.' The prediction called for suspension citing IDF Lebanon operations; the operative trigger was US strikes on Iranian territory (sixth consecutive night July 17) and MOU violation accusations. The effect — nuclear talks suspended before August 1 — is the prediction. The trigger was wrong. The desk records both the hit and the mechanism error; see corrections."
+      "note": "HIT — with trigger correction. Nuclear working groups are in abeyance as of July 17; Iranian FM stated 'no plans for negotiations.' The prediction called for suspension citing IDF Lebanon operations; the operative trigger was US strikes on Iranian territory (sixth consecutive night July 17) and MOU violation accusations. The effect — nuclear talks suspended before August 1 — is the prediction. The trigger was wrong. The desk records both the hit and the mechanism error; see corrections.",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "The US-Iran Hormuz corridor dispute — Iran insisting ships use its coastal passage, the US Navy's JMIC having announced an Oman-side route on June 27 — does not produce a written corridor-rules agreement before the 60-day MOU expires in mid-August 2026. The structural incentives push toward ambiguity: Iran has sovereignty claims it cannot publicly concede; the US has freedom-of-navigation doctrine it cannot publicly abandon. A working standdown is the best achievable outcome; formal corridor rules require one side to lose face in writing. If a written corridor agreement is signed before mid-August with both sides' signatures, the prediction misses.",
       "filed": "2026-06-30",
-      "horizon": "2026-08-15"
+      "horizon": "2026-08-15",
+      "schema_version": 1
     },
     {
       "status": "open",
       "kind": "desk",
       "claim": "Burkina Faso's confirmed intelligence relationship with Israel (credentials July 1, intelligence-sharing on Islamist militants) remains operational but publicly deniable through the end of 2026: no announced joint operations, no public Israeli advisory presence, no bilateral ceremony. Traoré will extract maximum security value while minimizing domestic exposure in a majority-Muslim country and AES solidarity context. The arrangement will be functional and quiet, not theatrical. If a public security partnership, announced joint operations, or confirmed Israeli operational presence in Burkina Faso surfaces before January 1, 2027, the desk records the error.",
       "filed": "2026-07-02",
-      "horizon": "2026-12-31"
+      "horizon": "2026-12-31",
+      "schema_version": 1
+    },
+    {
+      "schema_version": 2,
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "Mandela Barnes wins the August 11 Wisconsin Democratic gubernatorial primary. The former lieutenant governor's statewide name recognition carries a fragmented five-way open-seat field where no rival has consolidated the anti-Barnes vote.",
+        "filed": "2026-07-17",
+        "resolves_by": "2026-08-11",
+        "resolution": "Resolves 对 if Barnes takes the most votes in the Aug 11 Democratic primary for governor; 错 if any other Democrat wins.",
+        "confidence": 45
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "Tom Tiffany wins the August 11 Wisconsin Republican gubernatorial primary. A sitting congressman with party-establishment backing faces only token opposition from Andrew Manske.",
+        "filed": "2026-07-17",
+        "resolves_by": "2026-08-11",
+        "resolution": "Resolves 对 if Tiffany takes the most votes in the Aug 11 Republican primary for governor; 错 otherwise.",
+        "confidence": 92
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Democratic nominee wins the November 3 Wisconsin governorship. An open seat in a state that has elected Democratic governors since 2018, in a midterm cycle under a Republican president, favors the out-party — narrowly, in a genuine swing state.",
+        "filed": "2026-07-17",
+        "resolves_by": "2026-11-03",
+        "resolution": "Resolves 对 if the Democratic candidate wins the Nov 3 general election for governor; 错 if the Republican wins.",
+        "confidence": 55
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "packers",
+      "kind": "tea",
+      "filing": {
+        "claim": "The Green Bay Packers make the 2026 NFL playoffs. Jordan Love's continuity carries a roster that shed starters into one of the league's harder schedules — a wildcard berth, not the division.",
+        "filed": "2026-07-17",
+        "resolves_by": "2027-01-12",
+        "resolution": "Resolves 对 if the Packers qualify for the 2026-27 NFL playoffs; 错 if they miss.",
+        "confidence": 58
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
@@ -1943,6 +2030,74 @@
     {
       "date": "2026-07-15",
       "text": "Prediction 10 — the desk predicted China's retail sales would not return to positive territory in June 2026 after May's -0.6% YoY decline. June data released July 15 shows retail +1.0% YoY, beating a -0.1% consensus. The prediction is a miss. The desk notes that the structural read — domestic demand weakness, FAI collapse (-5.7% YTD), Q2 GDP miss (4.3% vs 4.5%) — remains intact; the specific retail number was wrong."
+    }
+  ],
+  "beats": [
+    {
+      "id": "wisconsin",
+      "name_zh": "威州政治",
+      "name_en": "Wisconsin Politics",
+      "order": 1
+    },
+    {
+      "id": "packers",
+      "name_zh": "包装工",
+      "name_en": "Green Bay Packers",
+      "order": 2
+    },
+    {
+      "id": "peninsula",
+      "name_zh": "半岛",
+      "name_en": "The Peninsula",
+      "order": 3
+    },
+    {
+      "id": "machine-war",
+      "name_zh": "机器战争",
+      "name_en": "The Machine War",
+      "order": 4
+    },
+    {
+      "id": "audit-desk",
+      "name_zh": "审计处",
+      "name_en": "The Audit Desk",
+      "order": 5
+    },
+    {
+      "id": "university-front",
+      "name_zh": "大学战线",
+      "name_en": "The University Front",
+      "order": 6
+    },
+    {
+      "id": "prize-circuit",
+      "name_zh": "文苑",
+      "name_en": "The Prize Circuit",
+      "order": 7
+    }
+  ],
+  "audit_predictions": [
+    {
+      "schema_version": 2,
+      "beat": "audit-desk",
+      "filing": {
+        "source": "Gordon Chang",
+        "claim": "China's Communist Party regime collapses by 2011 (paraphrased from 'The Coming Collapse of China', 2001).",
+        "claim_verbatim": false,
+        "where_filed": {
+          "label": "The Coming Collapse of China (2001)",
+          "url": "https://en.wikipedia.org/wiki/The_Coming_Collapse_of_China"
+        },
+        "their_implied_date": "2011-12-31",
+        "our_filing_date": "2026-07-17",
+        "resolves_by": "2011-12-31",
+        "resolution": "Resolves 对 (their call correct) if the PRC/CCP regime collapsed by end-2011; 错 if it remained in power."
+      },
+      "status": "错",
+      "outcome": "错",
+      "reasoning_held": "no",
+      "resolved": "2026-07-17",
+      "note": "Filed 2001, deadline 2011. Not only did the CCP survive; China passed Japan to become the world's second-largest economy in 2010. The founding text of the China-collapse genre, graded 错 — the charter entry for this desk."
     }
   ]
 }

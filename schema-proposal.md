@@ -1,8 +1,11 @@
 # Schema Proposal: Forecasting-Ledger Overhaul
 
-Status: **DRAFT — awaiting approval.** Nothing here is implemented. No existing file
-(`index.html`, `data/scorecard.json`, or any site asset) is touched by this proposal.
-This document exists to get the data shapes right before any UI work begins.
+Status: **IMPLEMENTED 2026-07-17.** Built live: `data/scorecard.json` carries `beats`,
+legacy `schema_version:1` migration, four `schema_version:2` seeded predictions, and an
+`audit_predictions` ledger; `index.html` was fully redesigned to render all of it. Open
+questions resolved with: (1) Option B nested `filing` block in the single file;
+(2) `audit_predictions` in the same scorecard.json; (3) id scheme `{beat}-{filed}-{seq}`;
+(4) `void_reason` as specified.
 
 ## Design constraints carried forward
 

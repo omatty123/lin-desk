@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>林卫红的案头 — Lin's Desk</title>
-<meta name="description" content="The morning desk's standing scorecard: who's up, who's down, who is winning which war. Compiled daily. The desk audits itself.">
+<meta name="description" content="A forecasting scorecard that grades itself: predictions filed with confidence and resolution criteria, scored by Brier, with a desk that audits other analysts too. 红涨绿跌.">
 <meta property="og:title" content="林卫红的案头 — Lin's Desk">
-<meta property="og:description" content="The morning desk's standing scorecard: who's up, who's down, who is winning which war. Red rises, green falls.">
+<meta property="og:description" content="A self-grading forecasting instrument: confidence-weighted predictions, Brier scoring, dual outcome/mechanism grades, and a desk that audits other analysts. Red rises, green falls.">
 <meta property="og:image" content="https://omatty123.github.io/lin-desk/assets/og.png">
 <meta property="og:url" content="https://omatty123.github.io/lin-desk/">
 <meta property="og:type" content="website">
@@ -15,461 +15,430 @@
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@600;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@500;700;900&display=swap" rel="stylesheet">
 <style>
-:root {
-  --paper: #f3eee2;
-  --paper-dark: #eae3d2;
-  --ink: #221d16;
-  --ink-soft: #57503f;
-  --rule: #b8ad94;
-  --seal: #b32d1f;
-  --rise: #b32d1f;
-  --fall: #1c6b4a;
-  --hold: #847a64;
+:root{
+  --bg:#ffffff; --panel:#fafafa; --panel2:#f4f4f5;
+  --ink:#141414; --ink2:#3d3d40; --muted:#6b6b70; --faint:#9a9aa0;
+  --line:#e6e6e8; --line2:#d8d8dc;
+  --red:#d21b2c;   /* 涨 rising / 对 correct */
+  --red-bg:#fbe9eb;
+  --green:#0f8a43; /* 跌 falling / 错 wrong */
+  --green-bg:#e6f4ec;
+  --gray:#8b8b92;  /* 待 open */
+  --gray-bg:#f0f0f2;
 }
-* { margin: 0; padding: 0; box-sizing: border-box; }
-html { background: var(--paper); }
-body {
-  font-family: 'Spectral', Georgia, serif;
-  color: var(--ink);
-  line-height: 1.45;
-  position: relative;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  opacity: .35;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.45 0 0 0 0 0.40 0 0 0 0 0.30 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
-  z-index: 2;
-}
-.sheet { max-width: 1080px; margin: 0 auto; padding: 22px 28px 40px; position: relative; z-index: 1; }
+*{margin:0;padding:0;box-sizing:border-box}
+html{background:var(--bg);-webkit-text-size-adjust:100%}
+body{font-family:'IBM Plex Sans','Noto Sans SC',system-ui,sans-serif;color:var(--ink);line-height:1.5;font-size:15px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px 72px}
+.mono{font-family:'IBM Plex Mono',monospace}
+a{color:inherit}
 
 /* ---------- masthead ---------- */
-header {
-  border-top: 3px solid var(--ink);
-  border-bottom: 1px solid var(--ink);
-  position: relative;
-  padding: 14px 0 12px;
-  margin-bottom: 4px;
-}
-header::after {
-  content: '';
-  position: absolute;
-  left: 0; right: 0;
-  top: 6px;
-  border-top: 1px solid var(--ink);
-}
-.mast { display: flex; align-items: flex-end; gap: 18px; flex-wrap: wrap; }
-.seal {
-  width: 58px; height: 58px;
-  background: var(--seal);
-  color: #f6f0e1;
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 900;
-  font-size: 22px;
-  line-height: 1.1;
-  display: grid;
-  place-content: center;
-  text-align: center;
-  transform: rotate(-2.5deg);
-  box-shadow: 1px 1px 0 rgba(34,29,22,.35);
-  flex: 0 0 auto;
-  letter-spacing: 2px;
-}
-.mast h1 {
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 900;
-  font-size: clamp(30px, 4.6vw, 46px);
-  letter-spacing: 1px;
-  line-height: 1.05;
-}
-.mast .latin {
-  font-family: 'Spectral', serif;
-  font-weight: 600;
-  font-size: 13px;
-  letter-spacing: .28em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-  display: block;
-  margin-top: 5px;
-}
-.mast-meta {
-  margin-left: auto;
-  text-align: right;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 12px;
-  color: var(--ink-soft);
-}
-.mast-meta b { color: var(--ink); font-weight: 500; }
-.motto {
-  border-bottom: 3px double var(--ink);
-  padding: 5px 0 7px;
-  margin-bottom: 26px;
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  flex-wrap: wrap;
-  font-size: 13.5px;
-  font-style: italic;
-  color: var(--ink-soft);
-}
-.motto .conv { font-style: normal; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; }
-.motto .conv .r { color: var(--rise); font-weight: 500; }
-.motto .conv .g { color: var(--fall); font-weight: 500; }
+header.mast{padding:26px 0 18px;border-bottom:3px solid var(--ink)}
+.mast-row{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.seal{flex:0 0 auto;width:46px;height:46px;background:var(--red);color:#fff;display:grid;place-content:center;
+  font-family:'Noto Sans SC',serif;font-weight:900;font-size:15px;letter-spacing:1px;border-radius:6px;line-height:1}
+.mast h1{font-family:'Noto Sans SC',sans-serif;font-weight:900;font-size:clamp(26px,4vw,38px);letter-spacing:.5px;line-height:1}
+.mast .latin{font-weight:700;font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+.mast-meta{margin-left:auto;text-align:right;font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);line-height:1.7}
+.mast-meta b{color:var(--ink);font-weight:600}
+.tagline{margin-top:14px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;align-items:center;
+  font-size:13px;color:var(--ink2);font-style:italic}
+.conv{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:11.5px;color:var(--muted)}
+.conv .r{color:var(--red);font-weight:600}
+.conv .g{color:var(--green);font-weight:600}
 
-/* ---------- sections ---------- */
-section { margin-bottom: 30px; }
-.sec-head {
-  display: flex;
-  align-items: baseline;
-  gap: 12px;
-  border-bottom: 1px solid var(--ink);
-  padding-bottom: 4px;
-  margin-bottom: 14px;
-}
-.sec-head .zh {
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 900;
-  font-size: 21px;
-}
-.sec-head .en {
-  font-family: 'Spectral', serif;
-  font-weight: 600;
-  font-size: 12px;
-  letter-spacing: .24em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-}
-.sec-head .note {
-  margin-left: auto;
-  font-size: 11.5px;
-  font-family: 'IBM Plex Mono', monospace;
-  color: var(--ink-soft);
-}
-.sec-head .note .rec { font-weight: 500; }
-.sec-head .note .rec.hit { color: var(--rise); }
-.sec-head .note .rec.miss { color: var(--fall); }
-.sec-head .note .rec.open { color: var(--hold); }
+/* ---------- section chrome ---------- */
+section{margin-top:40px;scroll-margin-top:16px}
+.sec-head{display:flex;align-items:baseline;gap:12px;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--line2)}
+.sec-head .zh{font-family:'Noto Sans SC',sans-serif;font-weight:900;font-size:20px;letter-spacing:.5px}
+.sec-head .en{font-weight:600;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+.sec-head .note{margin-left:auto;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--faint)}
 
-/* board */
-.board {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-  gap: 1px;
-  background: var(--rule);
-  border: 1px solid var(--rule);
-}
-.card { background: var(--paper); padding: 13px 15px 12px; position: relative; }
-.card-top { display: flex; align-items: baseline; gap: 9px; margin-bottom: 6px; }
-.card-top .en { font-weight: 600; font-size: 16.5px; letter-spacing: .01em; }
-.card-top .zh {
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 600;
-  font-size: 12.5px;
-  color: var(--ink-soft);
-}
-.trend {
-  margin-left: auto;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 12px;
-  font-weight: 500;
-  white-space: nowrap;
-}
-.trend.up { color: var(--rise); }
-.trend.down { color: var(--fall); }
-.trend.steady { color: var(--hold); }
-.card .verdict { font-size: 13.8px; margin-bottom: 8px; }
-.card .watch {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 11px;
-  color: var(--ink-soft);
-  border-top: 1px dotted var(--rule);
-  padding-top: 6px;
-}
-.card .watch::before { content: '看 watch · '; color: var(--seal); }
-.srcs { margin-top: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; }
-.srcs a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--rule); margin-right: 9px; }
-.srcs a:hover { color: var(--seal); border-bottom-color: var(--seal); }
-td .srcs { margin-top: 7px; }
-.day li a.art { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--rule); font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; margin-left: 7px; }
-.day li a.art:hover { color: var(--seal); border-bottom-color: var(--seal); }
-td.claim { font-size: 13.8px; }
-td.claim .tea-tag { font-family: 'Noto Serif SC', serif; font-weight: 600; font-size: 11px; color: var(--seal); border: 1px solid var(--seal); padding: 1px 5px; margin-right: 7px; white-space: nowrap; }
-.status { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500; white-space: nowrap; }
-.status.open { color: var(--hold); }
-.status.hit { color: var(--rise); }
-.status.miss { color: var(--fall); }
+/* ---------- calibration panel ---------- */
+.calib{display:grid;grid-template-columns:1.1fr 1.4fr;gap:14px}
+@media(max-width:720px){.calib{grid-template-columns:1fr}}
+.calib-card{border:1px solid var(--line);border-radius:10px;padding:18px 20px;background:var(--panel)}
+.calib-card h3{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:12px}
+.brier-big{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:40px;line-height:1;color:var(--ink)}
+.brier-sub{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.5}
+.record{display:flex;gap:22px;margin-top:6px}
+.record .tk{font-family:'IBM Plex Mono',monospace;font-size:13px}
+.record .n{font-weight:600;font-size:26px;display:block;line-height:1.1}
+.tk.k-red .n{color:var(--red)} .tk.k-green .n{color:var(--green)} .tk.k-gray .n{color:var(--gray)}
+.tk .lb{font-size:11px;color:var(--muted);letter-spacing:.04em}
+.beat-brier{display:flex;flex-direction:column;gap:7px;margin-top:4px}
+.bb-row{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;font-size:12.5px}
+.bb-row .bn{color:var(--ink2)} .bb-row .bn small{color:var(--faint);font-family:'IBM Plex Mono',monospace}
+.bb-row .bv{font-family:'IBM Plex Mono',monospace;font-weight:600;color:var(--ink)}
+.bb-row .bv.none{color:var(--faint);font-weight:400}
 
-/* deep-link target: a briefing links "Prediction N" here via #pred-N */
-tbody tr[id^="pred-"] { scroll-margin-top: 24px; transition: background .4s ease; }
-tbody tr[id^="pred-"].linked,
-tbody tr[id^="pred-"]:target { background: rgba(179, 45, 31, .09); }
-tbody tr[id^="pred-"].linked td:first-child,
-tbody tr[id^="pred-"]:target td:first-child { box-shadow: inset 3px 0 0 var(--seal); }
+/* ---------- beat filter ---------- */
+.beatbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+.chip{font-family:'IBM Plex Mono',monospace;font-size:12px;border:1px solid var(--line2);background:#fff;color:var(--ink2);
+  padding:5px 11px;border-radius:999px;cursor:pointer;transition:.12s;white-space:nowrap}
+.chip:hover{border-color:var(--ink2)}
+.chip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+.chip .zh{font-family:'Noto Sans SC',sans-serif;font-weight:700}
 
-/* wars ledger */
-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
-thead th {
-  font-family: 'Spectral', serif;
-  font-weight: 600;
-  font-size: 11px;
-  letter-spacing: .18em;
-  text-transform: uppercase;
-  text-align: left;
-  color: var(--ink-soft);
-  border-bottom: 1px solid var(--ink);
-  padding: 0 14px 5px 0;
-}
-tbody td {
-  vertical-align: top;
-  padding: 10px 14px 10px 0;
-  border-bottom: 1px solid var(--rule);
-}
-td.front { white-space: nowrap; font-weight: 600; font-size: 15px; }
-td.front .zh {
-  display: block;
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 600;
-  font-size: 12px;
-  color: var(--ink-soft);
-}
-td.adv { white-space: nowrap; font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; font-weight: 500; }
-td.adv.contested { color: var(--hold); }
-td.basis { color: var(--ink); }
+/* ---------- predictions ---------- */
+.pred{border:1px solid var(--line);border-left:3px solid var(--line2);border-radius:8px;padding:13px 16px;margin-bottom:10px;background:#fff;scroll-margin-top:20px;transition:background .3s,border-color .3s}
+.pred.s-red{border-left-color:var(--red)} .pred.s-green{border-left-color:var(--green)} .pred.s-gray{border-left-color:var(--gray)} .pred.s-void{border-left-color:var(--faint)}
+.pred.linked{background:#fff7f7;border-left-width:4px}
+.pred-top{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-bottom:7px}
+.pnum{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--faint)}
+.bchip{font-family:'Noto Sans SC',sans-serif;font-size:11px;font-weight:700;color:var(--ink2);background:var(--panel2);border:1px solid var(--line);padding:1px 7px;border-radius:4px}
+.tea{font-size:10.5px;font-weight:700;color:var(--red);border:1px solid var(--red);border-radius:4px;padding:0 5px}
+.status{margin-left:auto;font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:600;padding:2px 9px;border-radius:5px;white-space:nowrap}
+.st-red{color:var(--red);background:var(--red-bg)} .st-green{color:var(--green);background:var(--green-bg)}
+.st-gray{color:var(--gray);background:var(--gray-bg)} .st-void{color:var(--faint);background:var(--gray-bg)}
+.claim{font-size:14.5px;color:var(--ink);line-height:1.5}
+.pred-meta{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;margin-top:9px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted)}
+.dates b{color:var(--ink2);font-weight:600}
+.conf{display:flex;align-items:center;gap:7px}
+.conf .bar{width:70px;height:6px;background:var(--gray-bg);border-radius:3px;overflow:hidden}
+.conf .fill{height:100%;background:var(--ink)}
+.grade{display:flex;gap:7px;flex-wrap:wrap}
+.gtag{font-size:11px;padding:1px 7px;border-radius:4px;font-family:'IBM Plex Mono',monospace}
+.gtag.out-red{color:var(--red);background:var(--red-bg)} .gtag.out-green{color:var(--green);background:var(--green-bg)}
+.gtag.mech{color:var(--ink2);background:var(--panel2);border:1px solid var(--line)}
+.resline{font-size:12px;color:var(--muted);margin-top:8px;padding-top:8px;border-top:1px dashed var(--line2);line-height:1.5}
+.resline .lbl{color:var(--faint);text-transform:uppercase;letter-spacing:.1em;font-size:10px;font-family:'IBM Plex Mono',monospace}
+.legacy-tag{font-size:10px;color:var(--faint);font-family:'IBM Plex Mono',monospace;border:1px solid var(--line);border-radius:4px;padding:0 5px}
 
-/* coverage */
-.day { display: grid; grid-template-columns: 118px 1fr; gap: 0 18px; padding: 10px 0; border-bottom: 1px solid var(--rule); }
-.day:last-child { border-bottom: none; }
-.day .date { font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; color: var(--ink); padding-top: 2px; }
-.day ul { list-style: none; }
-.day li { font-size: 13.8px; padding-left: 14px; position: relative; }
-.day li::before { content: '·'; position: absolute; left: 2px; color: var(--seal); font-weight: 700; }
-.day .threads {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 11px;
-  color: var(--ink-soft);
-  margin-top: 6px;
-  padding-left: 14px;
-}
-.day .threads::before { content: '线 threads · '; color: var(--seal); }
+/* ---------- board / cards grid ---------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+.bcard{border:1px solid var(--line);border-radius:10px;padding:15px 17px;background:#fff}
+.bcard-top{display:flex;align-items:baseline;gap:8px;margin-bottom:8px}
+.bcard-top .en{font-weight:700;font-size:16px}
+.bcard-top .zh{font-family:'Noto Sans SC',sans-serif;font-weight:700;font-size:12px;color:var(--muted)}
+.trend{margin-left:auto;font-family:'IBM Plex Mono',monospace;font-size:11.5px;font-weight:600;white-space:nowrap}
+.trend.up{color:var(--red)} .trend.down{color:var(--green)} .trend.steady,.trend.other{color:var(--gray)}
+.verdict{font-size:13.5px;color:var(--ink2);line-height:1.5}
+.watch{margin-top:9px;padding-top:8px;border-top:1px dotted var(--line2);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted)}
+.watch::before{content:'看 ';color:var(--red)}
+.srcs{margin-top:8px;display:flex;flex-wrap:wrap;gap:5px 12px}
+.srcs a{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line2)}
+.srcs a:hover{color:var(--red);border-bottom-color:var(--red)}
 
-/* corrections */
-.corrections { font-size: 13.8px; }
-.corrections .none { font-style: italic; color: var(--ink-soft); }
-.corr { padding: 8px 0; border-bottom: 1px solid var(--rule); display: grid; grid-template-columns: 118px 1fr; gap: 0 18px; }
-.corr .date { font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; }
+/* ---------- wars table ---------- */
+.tbl-scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+thead th{text-align:left;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1px solid var(--line2);padding:0 14px 7px 0}
+tbody td{vertical-align:top;padding:12px 14px 12px 0;border-bottom:1px solid var(--line)}
+td.front{white-space:nowrap;font-weight:700;font-size:14.5px}
+td.front .zh{display:block;font-family:'Noto Sans SC',sans-serif;font-weight:700;font-size:11.5px;color:var(--muted)}
+td.adv{white-space:nowrap;font-family:'IBM Plex Mono',monospace;font-size:12.5px;font-weight:600}
+td.basis{color:var(--ink2)}
 
-footer {
-  border-top: 3px solid var(--ink);
-  margin-top: 8px;
-  padding-top: 8px;
-  display: flex;
-  justify-content: space-between;
-  gap: 14px;
-  flex-wrap: wrap;
-  font-size: 12px;
-  color: var(--ink-soft);
-}
-footer a { color: var(--seal); text-decoration: none; border-bottom: 1px dotted var(--seal); }
-.err { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--seal); padding: 20px 0; }
+/* ---------- audit desk ---------- */
+.audit{border:1px solid var(--line);border-left:3px solid var(--line2);border-radius:8px;padding:14px 16px;margin-bottom:10px;background:#fff;scroll-margin-top:20px;transition:background .3s}
+.audit.s-red{border-left-color:var(--red)} .audit.s-green{border-left-color:var(--green)} .audit.s-gray{border-left-color:var(--gray)}
+.audit.linked{background:#fff7f7}
+.audit .src{font-weight:700;font-size:14.5px}
+.audit .aclaim{font-size:14px;color:var(--ink2);margin-top:4px;line-height:1.5}
+.audit .aclaim .vq{font-size:10px;color:var(--faint);font-family:'IBM Plex Mono',monospace;border:1px solid var(--line);border-radius:3px;padding:0 4px;margin-left:6px}
+.empty{color:var(--faint);font-size:13px;font-style:italic;padding:8px 0}
 
-@media (max-width: 640px) {
-  .sheet { padding: 16px 16px 32px; }
-  .mast-meta { margin-left: 0; text-align: left; }
-  .day, .corr { grid-template-columns: 1fr; }
-  .day .date { margin-bottom: 4px; }
-}
+/* ---------- coverage ---------- */
+.day{display:grid;grid-template-columns:104px 1fr;gap:0 18px;padding:11px 0;border-bottom:1px solid var(--line)}
+.day .date{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--ink2);padding-top:2px}
+.day ul{list-style:none} .day li{font-size:13.5px;padding-left:14px;position:relative;margin-bottom:3px}
+.day li::before{content:'·';position:absolute;left:2px;color:var(--red);font-weight:700}
+.day li a{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line2);margin-left:6px}
+.day li a:hover{color:var(--red)}
+.threads{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin-top:6px;padding-left:14px}
+.threads::before{content:'线 ';color:var(--red)}
+@media(max-width:600px){.day{grid-template-columns:1fr}.day .date{margin-bottom:4px}}
+
+/* ---------- corrections ---------- */
+.corr{display:grid;grid-template-columns:104px 1fr;gap:0 18px;padding:11px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.corr .date{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted)}
+.corr .txt{color:var(--ink2);line-height:1.55}
+@media(max-width:600px){.corr{grid-template-columns:1fr}}
+
+/* ---------- methodology ---------- */
+.method{border:1px solid var(--line);border-radius:10px;background:var(--panel);padding:20px 22px}
+.method dl{display:grid;grid-template-columns:180px 1fr;gap:12px 20px}
+@media(max-width:640px){.method dl{grid-template-columns:1fr;gap:4px 0}.method dd{margin-bottom:12px}}
+.method dt{font-weight:700;font-size:13.5px}.method dt .zh{font-family:'Noto Sans SC',sans-serif;color:var(--muted);font-weight:700;font-size:12px;margin-left:6px}
+.method dd{font-size:13px;color:var(--ink2);line-height:1.55}
+.method code{font-family:'IBM Plex Mono',monospace;font-size:12px;background:var(--panel2);padding:1px 5px;border-radius:4px}
+
+footer{margin-top:48px;padding-top:16px;border-top:3px solid var(--ink);display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+footer a{color:var(--red);text-decoration:none}
+.err{color:var(--red);font-family:'IBM Plex Mono',monospace;font-size:13px;padding:24px 0}
+.hidden{display:none!important}
 </style>
 </head>
 <body>
-<div class="sheet">
-
-  <header>
-    <div class="mast">
-      <div class="seal">林<br>印</div>
+<div class="wrap">
+  <header class="mast">
+    <div class="mast-row">
+      <div class="seal">林印</div>
       <div>
         <h1>林卫红的案头</h1>
-        <span class="latin">Lin's Desk — The Standing Scorecard</span>
+        <div class="latin">Lin's Desk — A Forecasting Scorecard</div>
       </div>
-      <div class="mast-meta">
-        updated <b id="m-updated">—</b><br>
-        edition <b id="m-edition">—</b> · compiled by the morning desk
-      </div>
+      <div class="mast-meta">updated <b id="m-updated">—</b><br>edition <b id="m-edition">—</b></div>
+    </div>
+    <div class="tagline">
+      <span>The desk audits itself. That is what distinguishes it from the New York Times.</span>
+      <span class="conv">红涨绿跌 · <span class="r">red = rising / correct</span> · <span class="g">green = falling / wrong</span></span>
     </div>
   </header>
-  <div class="motto">
-    <span>The desk audits itself. That is what distinguishes it from the New York Times.</span>
-    <span class="conv">红涨绿跌 · Shanghai convention: <span class="r">red rises</span>, <span class="g">green falls</span></span>
-  </div>
 
-  <section id="sec-board">
-    <div class="sec-head">
-      <span class="zh">形势板</span>
-      <span class="en">The Board — who's up, who's down</span>
+  <section id="sec-calib">
+    <div class="sec-head"><span class="zh">预测校准</span><span class="en">Calibration — the record, scored</span>
+      <span class="note" id="calib-note"></span></div>
+    <div class="calib">
+      <div class="calib-card">
+        <h3>Brier Score · 布里尔分</h3>
+        <div class="brier-big" id="brier-overall">—</div>
+        <div class="brier-sub" id="brier-sub">Lower is better. Computed only over resolved, confidence-weighted predictions filed under the new discipline; legacy calls resolve on outcome alone and sit outside the score.</div>
+      </div>
+      <div class="calib-card">
+        <h3>Track Record · 战绩</h3>
+        <div class="record" id="record"></div>
+        <div class="beat-brier" id="beat-brier" style="margin-top:16px"></div>
+      </div>
     </div>
-    <div class="board" id="board"></div>
   </section>
 
-  <section id="sec-predictions">
-    <div class="sec-head">
-      <span class="zh">预测簿</span>
-      <span class="en">Predictions — on the record, scored in public</span>
-      <span class="note" id="pred-record">—</span>
-    </div>
-    <table>
-      <thead>
-        <tr><th>Filed</th><th>Claim</th><th>Resolves</th><th>Status</th></tr>
-      </thead>
-      <tbody id="predictions"></tbody>
-    </table>
+  <div class="beatbar" id="beatbar" style="margin-top:8px"></div>
+
+  <section id="sec-pred">
+    <div class="sec-head"><span class="zh">预测簿</span><span class="en">Predictions — on the record, scored in public</span>
+      <span class="note">待 open · 对 correct · 错 wrong · 废 void</span></div>
+    <div id="predictions"></div>
+  </section>
+
+  <section id="sec-audit">
+    <div class="sec-head"><span class="zh">审计处</span><span class="en">The Audit Desk — grading other analysts</span></div>
+    <div id="audit"></div>
+  </section>
+
+  <section id="sec-board">
+    <div class="sec-head"><span class="zh">形势板</span><span class="en">The Board — who's up, who's down</span></div>
+    <div class="grid" id="board"></div>
   </section>
 
   <section id="sec-wars">
-    <div class="sec-head">
-      <span class="zh">战况账簿</span>
-      <span class="en">The Wars Ledger</span>
-      <span class="note">material evidence only · belligerent claims filed as claims</span>
-    </div>
-    <table>
-      <thead>
-        <tr><th>Front</th><th>Material advantage</th><th>Trend</th><th>Basis</th></tr>
-      </thead>
-      <tbody id="wars"></tbody>
-    </table>
+    <div class="sec-head"><span class="zh">战况账簿</span><span class="en">The Wars Ledger</span>
+      <span class="note">material evidence only · belligerent claims filed as claims</span></div>
+    <div class="tbl-scroll"><table><thead><tr><th>Front</th><th>Material advantage</th><th>Trend</th><th>Basis</th></tr></thead><tbody id="wars"></tbody></table></div>
   </section>
 
-  <section id="sec-coverage">
-    <div class="sec-head">
-      <span class="zh">报道日志</span>
-      <span class="en">Coverage — what the desk has filed</span>
-    </div>
+  <section id="sec-cov">
+    <div class="sec-head"><span class="zh">报道日志</span><span class="en">Coverage — what the desk has filed</span></div>
     <div id="coverage"></div>
   </section>
 
-  <section id="sec-corrections">
-    <div class="sec-head">
-      <span class="zh">自我审计</span>
-      <span class="en">Corrections — the desk audits itself</span>
-    </div>
-    <div class="corrections" id="corrections"></div>
+  <section id="sec-corr">
+    <div class="sec-head"><span class="zh">自我审计</span><span class="en">Corrections — the desk audits itself</span></div>
+    <div id="corrections"></div>
+  </section>
+
+  <section id="sec-method">
+    <div class="sec-head"><span class="zh">方法论</span><span class="en">Methodology — how this ledger enforces honesty</span></div>
+    <div class="method"><dl>
+      <dt>Immutability <span class="zh">铁律</span></dt>
+      <dd>Once filed, a prediction's claim, date, resolution criterion and confidence never change. Amendments are new, dated entries in the corrections log; the original stands. The <code>filing</code> block is frozen by design.</dd>
+      <dt>Criteria at filing <span class="zh">立此存照</span></dt>
+      <dd>Every prediction states, at the moment it is filed, a <code>resolves_by</code> date and a one-line "resolves how" test. A claim with no falsification condition does not file.</dd>
+      <dt>Confidence + Brier <span class="zh">校准</span></dt>
+      <dd>Each call carries a probability. The Brier score is the mean squared error of those probabilities against outcomes — it punishes both cowardice (everything at 55%) and swagger (everything at 95%). Lower is better; a good record reads red, never green.</dd>
+      <dt>Dual grading <span class="zh">双栏评分</span></dt>
+      <dd>At resolution a call gets two marks: <b>outcome</b> (对 / 错) and <b>mechanism</b> (held / didn't). A prediction can be right for the wrong reason; the second column is where the learning lives.</dd>
+      <dt>Void <span class="zh">废</span></dt>
+      <dd>废 is reserved for a claim made genuinely ungradeable by events its criterion could not anticipate — never for a change of mind. Voids carry a dated reason and are excluded from the score.</dd>
+    </dl></div>
   </section>
 
   <footer>
     <span>晨报 morning briefings arrive by email at 04:00 Central. This board is the desk's running memory.</span>
     <span><a href="https://omatty123.github.io/life-dashboard/">← Life Dashboard</a></span>
   </footer>
-
 </div>
 
 <script>
-const TREND = {
-  up:     { cls: 'up',     label: '▲ 涨 RISING'  },
-  down:   { cls: 'down',   label: '▼ 跌 FALLING' },
-  steady: { cls: 'steady', label: '━ 平 HOLDING' }
-};
-const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const srcRow = srcs => (srcs && srcs.length)
-  ? `<div class="srcs">${srcs.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>`
-  : '';
-const STATUS = {
-  open: { cls: 'open', label: '待 OPEN' },
-  hit:  { cls: 'hit',  label: '中 HIT' },
-  miss: { cls: 'miss', label: '误 MISS' }
-};
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const TREND={up:{c:'up',t:'▲ 涨 RISING'},down:{c:'down',t:'▼ 跌 FALLING'},steady:{c:'steady',t:'━ 平 HOLDING'}};
+const trend=t=>TREND[t]||{c:'other',t:'● '+esc(t||'—').toUpperCase()};
+const srcRow=s=>(s&&s.length)?`<div class="srcs">${s.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.label)} ↗</a>`).join('')}</div>`:'';
 
-fetch('data/scorecard.json')
-  .then(r => r.json())
-  .then(d => {
-    document.getElementById('m-updated').textContent = d.updated;
-    document.getElementById('m-edition').textContent = 'No. ' + d.edition;
+// status → {label, class-suffix} ; 红涨绿跌: 对/hit=red, 错/miss=green, 待/open=gray
+function statusInfo(raw){
+  const m={'对':['对 CORRECT','red'],'错':['错 WRONG','green'],'待':['待 OPEN','gray'],'废':['废 VOID','void'],
+           'hit':['对 CORRECT','red'],'miss':['错 WRONG','green'],'open':['待 OPEN','gray']};
+  return m[raw]||['待 OPEN','gray'];
+}
+const outcomeOf=s=>({'对':1,'hit':1,'错':0,'miss':0}[s]);
 
-    document.getElementById('board').innerHTML = d.board.map(b => {
-      const t = TREND[b.trend] || TREND.steady;
-      return `<div class="card">
-        <div class="card-top">
-          <span class="en">${esc(b.name_en)}</span>
-          <span class="zh">${esc(b.name_zh)}</span>
-          <span class="trend ${t.cls}">${t.label}</span>
-        </div>
-        <div class="verdict">${esc(b.verdict)}</div>
-        <div class="watch">${esc(b.watching)}</div>
-        ${srcRow(b.sources)}
-      </div>`;
-    }).join('');
+let DATA=null, activeBeat='all';
 
-    document.getElementById('wars').innerHTML = d.wars.map(w => {
-      const t = TREND[w.trend] || TREND.steady;
-      const contested = /contested/i.test(w.advantage) ? ' contested' : '';
-      return `<tr>
-        <td class="front">${esc(w.name_en)}<span class="zh">${esc(w.name_zh)}</span></td>
-        <td class="adv${contested}">${esc(w.advantage)}</td>
-        <td class="adv"><span class="trend ${t.cls}">${t.label}</span></td>
-        <td class="basis">${esc(w.basis)}${srcRow(w.sources)}</td>
-      </tr>`;
-    }).join('');
+function beatName(id){const b=(DATA.beats||[]).find(x=>x.id===id);return b?`${b.name_zh} ${b.name_en}`:id;}
+function beatZh(id){const b=(DATA.beats||[]).find(x=>x.id===id);return b?b.name_zh:id;}
 
-    const preds = d.predictions || [];
-    const rec = preds.reduce((a, p) => { a[p.status] = (a[p.status] || 0) + 1; return a; }, {});
-    document.getElementById('pred-record').innerHTML =
-      `记录 track record · <span class="rec hit">${rec.hit || 0} 中 hit</span> · ` +
-      `<span class="rec miss">${rec.miss || 0} 误 miss</span> · ` +
-      `<span class="rec open">${rec.open || 0} 待 open</span>`;
-    // resolve date: schema drifted over time (resolves → horizon/resolved); accept all
-    const resolveOn = p => p.resolves || p.horizon || p.resolved || '—';
-    document.getElementById('predictions').innerHTML = preds.map((p, idx) => {
-      const s = STATUS[p.status] || STATUS.open;
-      const tea = p.kind === 'tea' ? '<span class="tea-tag">茶余</span>' : '';
-      // Prediction N = 1-based ledger position; anchor #pred-N is a permanent deep-link target
-      return `<tr id="pred-${idx + 1}">
-        <td class="adv">${esc(p.filed)}</td>
-        <td class="claim">${tea}${esc(p.claim)}</td>
-        <td class="adv">${esc(resolveOn(p))}</td>
-        <td><span class="status ${s.cls}">${s.label}</span></td>
-      </tr>`;
-    }).join('');
+// normalize a prediction (v1 flat or v2 nested) into one render shape
+function normPred(p,idx){
+  const v2=p.schema_version===2;
+  const f=v2?(p.filing||{}):p;
+  return {
+    n:idx+1, v2, beat:p.beat||'', kind:p.kind,
+    claim:f.claim, filed:f.filed, resolves_by:v2?f.resolves_by:null,
+    confidence:v2?f.confidence:null, resolution:v2?f.resolution:null,
+    status:p.status, outcome:p.outcome, mechanism:p.mechanism, resolved:p.resolved, note:p.note,
+    void_reason:p.void_reason
+  };
+}
 
-    document.getElementById('coverage').innerHTML = d.coverage.map(c => `
-      <div class="day">
-        <div class="date">${esc(c.date)}</div>
-        <div>
-          <ul>${c.items.map(i => {
-            if (typeof i === 'string') return `<li>${esc(i)}</li>`;
-            const links = (i.links || []).map(l => `<a class="art" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');
-            return `<li>${esc(i.text)}${links}</li>`;
-          }).join('')}</ul>
-          <div class="threads">${c.watching.map(esc).join(' · ')}</div>
-        </div>
-      </div>`).join('');
+function brier(preds){
+  const scored=preds.filter(p=>p.v2 && (p.status==='对'||p.status==='错'));
+  if(!scored.length) return {v:null,n:0};
+  const s=scored.reduce((a,p)=>{const o=p.status==='对'?1:0;const c=(p.confidence||0)/100;return a+(c-o)*(c-o);},0);
+  return {v:s/scored.length,n:scored.length};
+}
 
-    const corr = document.getElementById('corrections');
-    if (!d.corrections.length) {
-      corr.innerHTML = '<p class="none">No corrections on file. This is a fact about the record, not a claim about infallibility.</p>';
+function render(d){
+  DATA=d;
+  document.getElementById('m-updated').textContent=d.updated||'—';
+  document.getElementById('m-edition').textContent='No. '+(d.edition||'—');
+
+  const preds=(d.predictions||[]).map(normPred);
+
+  // ---- calibration ----
+  const bo=brier(preds);
+  document.getElementById('brier-overall').textContent=bo.v==null?'—':bo.v.toFixed(3);
+  document.getElementById('calib-note').textContent=bo.n?`n=${bo.n} scored`:'awaiting first resolution';
+  if(bo.v==null){
+    document.getElementById('brier-sub').innerHTML='No confidence-weighted prediction has resolved yet — the calibrated record opens with the Wisconsin primaries on <b>Aug 11</b>. '+document.getElementById('brier-sub').innerHTML;
+  }
+  // record over ALL predictions (legacy mapped)
+  const rc={red:0,green:0,gray:0};
+  preds.forEach(p=>{const c=statusInfo(p.status)[1];if(c==='red')rc.red++;else if(c==='green')rc.green++;else if(c==='void');else rc.gray++;});
+  document.getElementById('record').innerHTML=
+    `<div class="tk k-red"><span class="n">${rc.red}</span><span class="lb">对 correct</span></div>`+
+    `<div class="tk k-green"><span class="n">${rc.green}</span><span class="lb">错 wrong</span></div>`+
+    `<div class="tk k-gray"><span class="n">${rc.gray}</span><span class="lb">待 open</span></div>`;
+  // per-beat brier
+  const beats=(d.beats||[]);
+  document.getElementById('beat-brier').innerHTML=beats.map(b=>{
+    const bb=brier(preds.filter(p=>p.beat===b.id));
+    return `<div class="bb-row"><span class="bn">${esc(b.name_zh)} <small>${esc(b.name_en)}</small></span>`+
+      `<span class="bv ${bb.v==null?'none':''}">${bb.v==null?'—':bb.v.toFixed(3)+' · n'+bb.n}</span></div>`;
+  }).join('');
+
+  // ---- beat filter bar ----
+  const chips=[`<button class="chip active" data-beat="all">全部 All</button>`]
+    .concat(beats.map(b=>`<button class="chip" data-beat="${esc(b.id)}"><span class="zh">${esc(b.name_zh)}</span> ${esc(b.name_en)}</button>`));
+  document.getElementById('beatbar').innerHTML=chips.join('');
+  document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{activeBeat=c.dataset.beat;
+    document.querySelectorAll('.chip').forEach(x=>x.classList.toggle('active',x===c));applyFilter();});
+
+  // ---- predictions ----
+  document.getElementById('predictions').innerHTML=preds.map(p=>{
+    const [slabel,scls]=statusInfo(p.status);
+    const tea=p.kind==='tea'?'<span class="tea">茶余</span>':'';
+    const bchip=p.beat?`<span class="bchip">${esc(beatZh(p.beat))}</span>`:'';
+    const legacy=p.v2?'':'<span class="legacy-tag">legacy</span>';
+    let meta='';
+    if(p.v2){
+      const dates=`<span class="dates">filed <b>${esc(p.filed)}</b> → resolves <b>${esc(p.resolves_by)}</b></span>`;
+      const conf=`<span class="conf">conf <b>${p.confidence}%</b><span class="bar"><span class="fill" style="width:${Math.max(0,Math.min(100,p.confidence))}%"></span></span></span>`;
+      meta=`<div class="pred-meta">${dates}${conf}</div>`;
     } else {
-      corr.innerHTML = d.corrections.map(c => `
-        <div class="corr">
-          <div class="date">${esc(c.date)}</div>
-          <div>${esc(c.text)}</div>
-        </div>`).join('');
+      meta=`<div class="pred-meta"><span class="dates">filed <b>${esc(p.filed)}</b>${p.resolved?` · resolved <b>${esc(p.resolved)}</b>`:''}</span></div>`;
     }
+    // dual grade if resolved v2
+    let grade='';
+    if(p.v2 && (p.status==='对'||p.status==='错')){
+      const oc=p.outcome||p.status; const ocls=oc==='对'?'out-red':'out-green';
+      const mech=p.mechanism?`<span class="gtag mech">机制 ${esc(p.mechanism)}</span>`:'';
+      grade=`<div class="grade" style="margin-top:8px"><span class="gtag ${ocls}">结果 ${esc(oc)}</span>${mech}</div>`;
+    }
+    const res=p.resolution?`<div class="resline"><span class="lbl">resolves how</span> ${esc(p.resolution)}</div>`:'';
+    const note=p.note?`<div class="resline">${esc(p.note)}</div>`:'';
+    return `<div class="pred s-${scls}" id="pred-${p.n}" data-beat="${esc(p.beat)}">
+      <div class="pred-top"><span class="pnum">#${p.n}</span>${bchip}${tea}${legacy}<span class="status st-${scls}">${slabel}</span></div>
+      <div class="claim">${esc(p.claim)}</div>${grade}${meta}${res}${note}</div>`;
+  }).join('');
 
-    // Data renders after load, so a #pred-N link from a briefing can't scroll
-    // to its row until the table exists. Do it now, and flag it explicitly —
-    // Chrome doesn't reliably apply :target to a row inserted after navigation.
-    if (location.hash) {
-      const target = document.getElementById(location.hash.slice(1));
-      if (target) {
-        target.scrollIntoView({ block: 'center' });
-        target.classList.add('linked');
-      }
-    }
-  })
-  .catch(() => {
-    document.getElementById('board').innerHTML =
-      '<div class="err">scorecard.json failed to load — if previewing locally, serve with: python3 -m http.server</div>';
+  // ---- audit desk ----
+  const audits=(d.audit_predictions||[]);
+  document.getElementById('audit').innerHTML=audits.length?audits.map((a,i)=>{
+    const f=a.filing||{};const [slabel,scls]=statusInfo(a.status);
+    const vq=f.claim_verbatim?'<span class="vq">verbatim</span>':'<span class="vq">paraphrase</span>';
+    const oc=(a.status==='对'||a.status==='错')?`<span class="gtag ${a.status==='对'?'out-red':'out-green'}" style="font-size:11px">他们 ${esc(a.status)}</span>`:'';
+    const rh=a.reasoning_held?`<span class="gtag mech">reasoning ${esc(a.reasoning_held)}</span>`:'';
+    const link=f.where_filed?`<a href="${esc(f.where_filed.url)}" target="_blank" rel="noopener">${esc(f.where_filed.label)} ↗</a>`:'';
+    return `<div class="audit s-${scls}" id="audit-${i+1}">
+      <div class="pred-top"><span class="pnum">#audit-${i+1}</span><span class="status st-${scls}">${slabel}</span></div>
+      <div class="src">${esc(f.source)}</div>
+      <div class="aclaim">${esc(f.claim)}${vq}</div>
+      <div class="pred-meta"><span class="dates">their deadline <b>${esc(f.their_implied_date)}</b> · we filed <b>${esc(f.our_filing_date)}</b>${a.resolved?` · graded <b>${esc(a.resolved)}</b>`:''}</span></div>
+      <div class="grade" style="margin-top:6px">${oc}${rh}</div>
+      ${f.resolution?`<div class="resline"><span class="lbl">resolves how</span> ${esc(f.resolution)}</div>`:''}
+      ${a.note?`<div class="resline">${esc(a.note)}</div>`:''}
+      <div class="srcs" style="margin-top:8px">${link}</div></div>`;
+  }).join(''):'<div class="empty">No audited claims on file yet. The desk logs other analysts\' dated predictions here and grades them when they resolve.</div>';
+
+  // ---- board ----
+  document.getElementById('board').innerHTML=(d.board||[]).map(b=>{
+    const t=trend(b.trend);
+    return `<div class="bcard"><div class="bcard-top"><span class="en">${esc(b.name_en)}</span><span class="zh">${esc(b.name_zh)}</span><span class="trend ${t.c}">${t.t}</span></div>
+      <div class="verdict">${esc(b.verdict)}</div>${b.watching?`<div class="watch">${esc(b.watching)}</div>`:''}${srcRow(b.sources)}</div>`;
+  }).join('');
+
+  // ---- wars ----
+  document.getElementById('wars').innerHTML=(d.wars||[]).map(w=>{
+    const t=trend(w.trend);const contested=/contested/i.test(w.advantage||'');
+    return `<tr><td class="front">${esc(w.name_en)}<span class="zh">${esc(w.name_zh)}</span></td>
+      <td class="adv" style="${contested?'color:var(--gray)':''}">${esc(w.advantage)}</td>
+      <td class="adv"><span class="trend ${t.c}">${t.t}</span></td>
+      <td class="basis">${esc(w.basis)}${srcRow(w.sources)}</td></tr>`;
+  }).join('');
+
+  // ---- coverage ----
+  document.getElementById('coverage').innerHTML=(d.coverage||[]).map(c=>{
+    const items=(c.items||[]).map(i=>{
+      if(typeof i==='string')return `<li>${esc(i)}</li>`;
+      const links=(i.links||[]).map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');
+      return `<li data-beat="${esc(i.beat||'')}">${esc(i.text)}${links}</li>`;
+    }).join('');
+    return `<div class="day" data-beat="${esc(c.beat||'')}"><div class="date">${esc(c.date)}</div><div><ul>${items}</ul>${(c.watching&&c.watching.length)?`<div class="threads">${c.watching.map(esc).join(' · ')}</div>`:''}</div></div>`;
+  }).join('');
+
+  // ---- corrections ----
+  const corr=d.corrections||[];
+  document.getElementById('corrections').innerHTML=corr.length?corr.map(c=>
+    `<div class="corr"><div class="date">${esc(c.date)}</div><div class="txt">${esc(c.text)}</div></div>`).join('')
+    :'<div class="empty">No corrections on file. A fact about the record, not a claim about infallibility.</div>';
+
+  // deep-link scroll+highlight (data renders after load)
+  if(location.hash){const el=document.getElementById(location.hash.slice(1));if(el){el.scrollIntoView({block:'center'});el.classList.add('linked');}}
+}
+
+function applyFilter(){
+  const show=(el)=>{const b=el.dataset.beat||'';el.classList.toggle('hidden',activeBeat!=='all'&&b!==activeBeat);};
+  document.querySelectorAll('#predictions .pred').forEach(show);
+  // coverage: filter by day-beat or item-beat; if neither tagged, only show under All
+  document.querySelectorAll('#coverage .day').forEach(day=>{
+    if(activeBeat==='all'){day.classList.remove('hidden');day.querySelectorAll('li').forEach(li=>li.classList.remove('hidden'));return;}
+    let any=false;
+    day.querySelectorAll('li').forEach(li=>{const m=(li.dataset.beat||'')===activeBeat;li.classList.toggle('hidden',!m);if(m)any=true;});
+    const dayMatch=(day.dataset.beat||'')===activeBeat;
+    day.classList.toggle('hidden',!(any||dayMatch));
+    if(dayMatch)day.querySelectorAll('li').forEach(li=>li.classList.remove('hidden'));
   });
+}
+
+fetch('data/scorecard.json').then(r=>r.json()).then(render).catch(e=>{
+  document.getElementById('board').innerHTML='<div class="err">scorecard.json failed to load — if previewing locally, serve with: python3 -m http.server</div>';
+  console.error(e);
+});
 </script>
 </body>
 </html>
