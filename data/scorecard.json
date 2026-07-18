@@ -1,29 +1,21 @@
 {
-  "updated": "2026-07-17",
-  "edition": 39,
+  "updated": "2026-07-18",
+  "edition": 40,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "Qatar is now the only functioning diplomatic channel between the US and Iran — Switzerland and Doha closed, Qatari mediators flew to Mashhad on July 17 as the US concluded its sixth consecutive night of strikes. The MOU, twenty-three days old, has effectively dissolved; neither party has formally withdrawn but neither has met on the nuclear chapter since before the strikes resumed. This is what multipolarity looks like in its current register: a Gulf monarchy performing the diplomatic labor the Atlantic order cannot, for a conflict the Atlantic order helped produce. The AES unified-force statute from July 13 and Wang Huning's Pyongyang visit (concluding July 17) are the same structural logic in different theaters — relationships built outside the Western framework, doing the work the framework cannot.",
+      "verdict": "Qatar is the only functioning diplomatic channel between the US and Iran — Qatari PM Al Thani spoke with Araghchi after the sixth consecutive night of US strikes, and Qatari mediators have flown to Mashhad, the shrine city where Khamenei is buried. No next talks date has been announced; the nuclear chapter remains at working-group level; Mojtaba Khamenei has still not appeared publicly. Trump threatened to seize Kharg Island, crude crested $80, and the MOU — twenty-three days old — has effectively dissolved without formal withdrawal by either party. Mashhad is the new diplomatic geography: the only room still open is the one built around a burial shrine.",
       "watching": "Qatar Mashhad talks — standdown or further escalation; Hormuz commercial re-routing permanent or temporary; First joint AES cross-border operation under unified-force statute; July Politburo communique — domestic demand language; Kang Kon commissioning September 9; Kharg Island oil infrastructure — P6 watch.",
       "sources": [
         {
-          "label": "Pravda Burkina — AES defense ministers unified force statute",
-          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7291.html"
+          "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
+          "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
         },
         {
-          "label": "Africa Presse — Force unifiée statut juridique",
-          "url": "https://africapresse.com/aes-la-force-unifiee-se-dote-dun-statut-juridique-pour-muscler-sa-lutte-antiterroriste/"
-        },
-        {
-          "label": "UK GOV — UK-France-Oman Hormuz joint statement",
-          "url": "https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026"
-        },
-        {
-          "label": "Al Jazeera — US attacks Iran, IRGC claims Gulf strikes July 15",
-          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf"
+          "label": "TechTimes — Kharg seizure threat, crude past $80",
+          "url": "https://www.techtimes.com/articles/320753/20260716/kharg-island-seizure-threat-drives-crude-past-80-fifth-wave-iran-strikes.htm"
         }
       ]
     },
@@ -48,24 +40,20 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Wang Huning's three-day Pyongyang visit concluded July 17. Kim met Wang; joint statement: implement Xi-Kim June agreements, 'friendly and cooperative relations.' Beijing's public output on Kim's July 9 seven military orders — nuclear expansion, naval buildup, intelligence revolution — is now eleven consecutive silence cycles. The seniority of the visit (party chief ideologue, fourth-ranked official, first at this level in forty-four years) and the completeness of the nuclear silence are the same sentence read from two ends. Beijing is managing the DPRK relationship at full party-doctrine seriousness while maintaining nuclear-agnosticism as a sustained operational posture, not an oversight. The Kang Kon is on track for September 9 commissioning.",
+      "verdict": "Wang Huning toured the Wonsan Kalma Coastal Tourist Zone on July 18 before returning to Beijing — a resort stop appended to a three-day goodwill visit that produced a joint statement limited to implementing the Xi-Kim June agreements. Beijing has now registered twelve consecutive public silence cycles on Kim Jong Un's July 9 seven CMC military orders: nuclear expansion, naval buildup, intelligence revolution, military education. Satellite imagery shows activity at the Sohae space launch complex. The Kang Kon commissions September 9. The seniority of the visit — fourth-ranked official, party ideologue — is the real signal; what was not said about nuclear posture is the signal inside the signal.",
       "watching": "Whether any subsequent public language emerges on DPRK nuclear posture — twelfth cycle or first comment; Kang Kon commissioning September 9 and Kim's fleet-doctrine framing at the ceremony; Beijing's response to further CMC nuclear directives.",
       "sources": [
         {
-          "label": "Al Jazeera — Senior Chinese delegation visits North Korea",
-          "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks"
+          "label": "NK News — Wang Huning tours Wonsan resort",
+          "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/"
         },
         {
-          "label": "WHBL — Wang Huning meets Jo Yong Won",
-          "url": "https://whbl.com/2026/07/15/chinas-wang-huning-meets-a-top-north-korean-official-in-pyongyang-kcna-reports/"
+          "label": "People's Daily — Wang Huning DPRK visit",
+          "url": "http://en.people.cn/n3/2026/0718/c90000-20479263.html"
         },
         {
-          "label": "Daily NK — North Korea China directive",
-          "url": "https://www.dailynk.com/english/north-korea-china-directive/"
-        },
-        {
-          "label": "19FortyFive — Kang Kon heading into service",
-          "url": "https://www.19fortyfive.com/2026/07/north-koreas-new-destroyer-capsized-at-its-own-launch-a-year-later-its-heading-into-service-anyway/"
+          "label": "Xinhua — Wang Huning DPRK closer cooperation",
+          "url": "https://english.news.cn/20260717/7e97bacc7c72497aa42cb31e9ee57506/c.html"
         }
       ]
     },
@@ -94,24 +82,20 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "The desk moves this front to rising and says why plainly: the productive economy is the story, and it is winning. H1 growth 4.7%, industrial output +5.3%, exports +27%, semiconductors +66.5% YoY, and CXMT's $9.8B Shanghai IPO — capital routed straight into the choke-point industries Washington is trying to strangle. The 'slowdown / deflation / collapse' frame is the call the Western press has botched for fifteen straight years. As Han Feizi documents at Asia Times, China's 'deflation' is hedonic — cars, phones, appliances getting radically better as prices fall — and its subsidies create value rather than destroy it; the Pettis ledger is measuring the wrong quantity. The one real drag, fixed-asset investment at -5.7%, is a property bubble being deflated on purpose, not an economy failing. Nine of the world's top-ten research universities are now Chinese: the productive base compounds while the number the FT watches shrinks by design. Watch the July Politburo line, but the direction is set.",
+      "verdict": "The desk moves this front to rising and says why plainly: the productive economy is the story, and it is winning. H1 foreign trade reached 25.47 trillion yuan — +16.9% year-on-year, the first time this metric has exceeded 25 trillion in any first half. Semiconductor exports +66.5% YoY through June; trade surpluses at a first-half high; exports +27% in June alone. The adversary press calls Q2 GDP growth of 4.3% 'one of its weakest rates on record' — the same press that has called every quarter a slowdown for fifteen years. FAI at -5.7% YTD is a property bubble being deflated on purpose. The July Politburo meets July 30. The 'slowdown / deflation / collapse' frame is the call the Western press has botched consistently; the desk does not file it.",
       "watching": "July Politburo communique — demand stimulus language or technology-transition framing; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
       "sources": [
         {
-          "label": "Han Feizi — Asia Times (standing reference)",
+          "label": "BigNewsNetwork — China H1 trade growth",
+          "url": "https://www.bignewsnetwork.com/news/279186350/china-economy-foreign-trade-h1-growth-cn"
+        },
+        {
+          "label": "CommonWealth — China Q2 GDP",
+          "url": "https://english.cw.com.tw/article/article.action?id=4887"
+        },
+        {
+          "label": "Han Feizi — Asia Times standing reference",
           "url": "https://asiatimes.com/author/han-feizi/"
-        },
-        {
-          "label": "Han Feizi — In defense of Chinese deflation",
-          "url": "https://asiatimes.com/2025/01/in-defense-of-chinese-deflation/"
-        },
-        {
-          "label": "Han Feizi — University research at China speed",
-          "url": "https://asiatimes.com/2026/06/university-research-at-china-speed-brings-sea-changes-to-science/"
-        },
-        {
-          "label": "Xinhua — retail sales & H1 2026 data",
-          "url": "https://english.news.cn/20260715/331471c51510497b9ea32b3bb62a707e/c.html"
         }
       ]
     },
@@ -119,20 +103,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-four at Alekseyevo-Druzhkovka. Russian forces completed a breakthrough at Malinovka and Vasyutinsky (9km east of Kramatorsk) on July 16-17; stormtroopers are now flanking Alekseyevo-Druzhkovka from multiple axes while other units pin defenders inside the village. 'Surrounded' language appeared in open-source frontline reports by July 17 morning. September 1 prediction is accelerating. The Atlantic order's answer to this trajectory was Zelensky firing Defense Minister Fedorov — the architect of Ukraine's drone program — on July 16, replacing him with a conventional police general. The direction of personnel is away from the one asymmetric instrument Ukraine still had.",
+      "verdict": "Day twenty-five at Alekseyevo-Druzhkovka. Russian Center Group forces captured Kutuzovka and the southern outskirts of Kucherov Yar and Priyut; Torskoye is under pressure from the southwest simultaneously with the southeast approach from Konstantinovka. 'Surrounded' is now the operational word in frontline reporting, not the headline. Martyanov's July 17 post on the Black Sea Fleet: operationally effective, blocking 404 shipping routes, despite the Western press having filed its obituary several times over. September 1 prediction is accelerating. The Atlantic order's interceptor ceiling remains unchanged; NATO Ankara pledged EUR 140B and delivered no Patriots.",
       "watching": "Geolocated Russian fire-control transition to Druzhkovka city perimeter — September 1 prediction; Klymenko's first policy signals as defense minister vs. Fedorov's drone-production trajectory; NATO interceptor delivery timeline vs. Ankara pledge.",
       "sources": [
         {
-          "label": "Martyanov — Reminiscence of the Future",
+          "label": "Southfront — Druzhkovka surrounded, pincers close",
+          "url": "https://southfront.press/druzhkovka-surrounded-russian-pincers-close-on-key-stronghold/"
+        },
+        {
+          "label": "GlobalSecurity — Russo-Ukraine July 17",
+          "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-07-17.htm"
+        },
+        {
+          "label": "Martyanov — Reminiscence of the Future (standing reference)",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Pravda Ukraine — Russian MoD July 15",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/15/106356.html"
-        },
-        {
-          "label": "A Skeptic — Telegram reports July 15",
-          "url": "https://askeptic.substack.com/p/2026-07-15-telegram-reports-a-skeptic"
         }
       ]
     }
@@ -143,40 +127,36 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 17. Day twenty-four at Alekseyevo-Druzhkovka. Russian forces completed a breakthrough at Malinovka and Vasyutinsky (9km east of Kramatorsk); stormtroopers flanking Alekseyevo-Druzhkovka from multiple axes; 'surrounded' language in open-source frontline reporting. Zelensky dismissed Defense Minister Fedorov July 16 — architect of drone program — and named police general Klymenko as successor; protests in Kyiv and other cities. September 1 prediction accelerating. Russia-decisive holds.",
+      "basis": "July 18. Day twenty-five at Alekseyevo-Druzhkovka. Center Group captured Kutuzovka and southern outskirts of Kucherov Yar and Priyut; Torskoye under pressure from southwest simultaneously with southeast approach from Konstantinovka. 'Surrounded' confirmed in open-source frontline reporting. September 1 prediction accelerating. Russia-decisive holds.",
       "sources": [
         {
-          "label": "Martyanov — Reminiscence of the Future",
+          "label": "Southfront — Druzhkovka surrounded",
+          "url": "https://southfront.press/druzhkovka-surrounded-russian-pincers-close-on-key-stronghold/"
+        },
+        {
+          "label": "Martyanov — Sea Control post July 17",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Pravda Ukraine — Russian MoD July 15",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/15/106356.html"
-        },
-        {
-          "label": "A Skeptic — Telegram reports July 15",
-          "url": "https://askeptic.substack.com/p/2026-07-15-telegram-reports-a-skeptic"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — MOU effectively collapsed; sixth consecutive night of US strikes; Qatari mediation in Mashhad",
+      "advantage": "Escalated — MOU effectively collapsed; sixth consecutive night of US strikes; Qatari mediation at Mashhad; Kharg oil infrastructure intact but threatened",
       "trend": "escalating",
-      "basis": "July 17. US concluded sixth consecutive night of strikes against Iranian military targets. Iran continues retaliating against US infrastructure in Gulf states (Bahrain, Kuwait, Jordan, Qatar). Qatari mediators flew to Mashhad — the only functioning diplomatic channel. MOU twenty-three days old and effectively dissolved; both sides accuse each other of violations; nuclear working groups in abeyance. Prediction 16 grades as HIT: nuclear talks suspended before August 1 — trigger was US strikes on Iranian territory rather than IDF operations in Lebanon as specified, but the effect is the prediction.",
+      "basis": "July 18. US concluded sixth consecutive night of strikes through July 17. Iran retaliating against US infrastructure in Gulf states. Qatari mediators flew to Mashhad; PM Al Thani spoke with Araghchi; 'active conversations' but no next talks date, no direct meeting. Mojtaba Khamenei still not publicly visible. Nuclear chapter at working-group level; Kharg Island oil infrastructure intact — Trump threatening seizure, crude above $80. Prediction 6 (Kharg infrastructure not struck) still watching.",
       "sources": [
         {
-          "label": "CBS News — 6th consecutive night of Iran strikes",
+          "label": "Levantt Files — Qatar races to rescue ceasefire",
+          "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
+        },
+        {
+          "label": "TechTimes — Kharg seizure threat",
+          "url": "https://www.techtimes.com/articles/320753/20260716/kharg-island-seizure-threat-drives-crude-past-80-fifth-wave-iran-strikes.htm"
+        },
+        {
+          "label": "CBS News — Iran strikes day 6",
           "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/"
-        },
-        {
-          "label": "Wikipedia — 2026 Iran war",
-          "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
-        },
-        {
-          "label": "Arms Control Association — nuclear talks status",
-          "url": "https://www.armscontrol.org/act/2026-07/news/fighting-mars-us-iranian-pledges-end-war-restart-nuclear-talks"
         }
       ]
     },
@@ -203,6 +183,77 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-18",
+      "items": [
+        {
+          "text": "HORMUZ — QATAR HOLDS THE LAST PHONE LINE: Sixth consecutive night of US strikes; Qatari PM Al Thani spoke with Araghchi; mediators flew to Mashhad; no next talks date; nuclear chapter in abeyance; Mojtaba Khamenei invisible; Kharg oil infrastructure intact, Trump threatening seizure, crude above $80; Prediction 6 watching.",
+          "links": [
+            {
+              "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
+              "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
+            },
+            {
+              "label": "TechTimes — Kharg seizure threat, crude past $80",
+              "url": "https://www.techtimes.com/articles/320753/20260716/kharg-island-seizure-threat-drives-crude-past-80-fifth-wave-iran-strikes.htm"
+            },
+            {
+              "label": "CBS News — 6th night Iran strikes",
+              "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/"
+            }
+          ]
+        },
+        {
+          "text": "THE PINCERS TIGHTEN — DAY TWENTY-FIVE: Center Group captures Kutuzovka and southern outskirts Kucherov Yar/Priyut; Torskoye under pressure SW simultaneously with SE approach from Konstantinovka; 'surrounded' confirmed in open-source frontline reporting; Martyanov July 17 Black Sea Fleet blocks 404 routes; Prediction 14 accelerating.",
+          "links": [
+            {
+              "label": "Southfront — Druzhkovka surrounded, pincers close",
+              "url": "https://southfront.press/druzhkovka-surrounded-russian-pincers-close-on-key-stronghold/"
+            },
+            {
+              "label": "GlobalSecurity — Russo-Ukraine July 17",
+              "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-07-17.htm"
+            }
+          ]
+        },
+        {
+          "text": "WONSAN, AND THE TWELFTH SILENCE: Wang Huning tours Wonsan Kalma Coastal Tourist Zone July 18 before returning to Beijing; joint statement: implement Xi-Kim agreements; 12th consecutive Beijing silence on Kim's July 9 seven CMC nuclear/naval orders; Sohae activity; Kang Kon Sept 9.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NK News — Wang tours Wonsan resort",
+              "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/"
+            },
+            {
+              "label": "People's Daily — Wang Huning DPRK visit",
+              "url": "http://en.people.cn/n3/2026/0718/c90000-20479263.html"
+            }
+          ]
+        },
+        {
+          "text": "THE H1 FIGURE SPEAKS: China H1 foreign trade 25.47T yuan +16.9% YoY — first time exceeding 25T for any H1; Q2 GDP 4.3% (adversary frame: 'weakest on record'); FAI -5.7% YTD deliberate property deflation; semiconductor exports +66.5%; July Politburo July 30. Sahel thin day 22; France no measures; Prediction 15 accumulates.",
+          "links": [
+            {
+              "label": "BigNewsNetwork — China H1 foreign trade growth",
+              "url": "https://www.bignewsnetwork.com/news/279186350/china-economy-foreign-trade-h1-growth-cn"
+            },
+            {
+              "label": "CommonWealth — China Q2 GDP",
+              "url": "https://english.cw.com.tw/article/article.action?id=4887"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Qatar Mashhad — next talks date or ceasefire collapse; Mojtaba Khamenei first public appearance",
+        "Kharg Island oil infrastructure — Prediction 6 trigger (Trump threatening, not yet struck)",
+        "Druzhkovka geolocated fire control — Prediction 14 (Sept 1, day 25, accelerating)",
+        "Spain vs Argentina World Cup final July 19 — tea prediction (Prediction 5) resolves tomorrow",
+        "France measures — Prediction 15 (day 22, no measures)",
+        "July Politburo July 30 — domestic demand or technology framing",
+        "Kang Kon commissioning September 9; Wang Huning public output on DPRK nuclear (12th silence)"
+      ]
+    },
     {
       "date": "2026-07-17",
       "items": [
