@@ -2127,28 +2127,5 @@
       "order": 7
     }
   ],
-  "audit_predictions": [
-    {
-      "schema_version": 2,
-      "beat": "audit-desk",
-      "filing": {
-        "source": "Gordon Chang",
-        "claim": "China's Communist Party regime collapses by 2011 (paraphrased from 'The Coming Collapse of China', 2001).",
-        "claim_verbatim": false,
-        "where_filed": {
-          "label": "The Coming Collapse of China (2001)",
-          "url": "https://en.wikipedia.org/wiki/The_Coming_Collapse_of_China"
-        },
-        "their_implied_date": "2011-12-31",
-        "our_filing_date": "2026-07-17",
-        "resolves_by": "2011-12-31",
-        "resolution": "Resolves 对 (their call correct) if the PRC/CCP regime collapsed by end-2011; 错 if it remained in power."
-      },
-      "status": "错",
-      "outcome": "错",
-      "reasoning_held": "no",
-      "resolved": "2026-07-17",
-      "note": "Filed 2001, deadline 2011. Not only did the CCP survive; China passed Japan to become the world's second-largest economy in 2010. The founding text of the China-collapse genre, graded 错 — the charter entry for this desk."
-    }
-  ]
+  "audit_predictions": []
 }
