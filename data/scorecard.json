@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-18",
-  "edition": 40,
+  "updated": "2026-07-19",
+  "edition": 41,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "Qatar is the only functioning diplomatic channel between the US and Iran — Qatari PM Al Thani spoke with Araghchi after the sixth consecutive night of US strikes, and Qatari mediators have flown to Mashhad, the shrine city where Khamenei is buried. No next talks date has been announced; the nuclear chapter remains at working-group level; Mojtaba Khamenei has still not appeared publicly. Trump threatened to seize Kharg Island, crude crested $80, and the MOU — twenty-three days old — has effectively dissolved without formal withdrawal by either party. Mashhad is the new diplomatic geography: the only room still open is the one built around a burial shrine.",
-      "watching": "Qatar Mashhad talks — standdown or further escalation; Hormuz commercial re-routing permanent or temporary; First joint AES cross-border operation under unified-force statute; July Politburo communique — domestic demand language; Kang Kon commissioning September 9; Kharg Island oil infrastructure — P6 watch.",
+      "verdict": "Iran formally declared the June 17 Islamabad MOU 'suspended' on July 18 — converting a mutual collapse into explicit state policy, with Tehran citing US violations after seven consecutive nights of CENTCOM strikes. Iran's Health Ministry reports 50 killed and over 500 wounded since July 6; the Iranian military adviser has warned of a 'full-scale offensive' if the strikes continue through the weekend. Both sides have now named the same fact by different labels: the agreement is finished. Kharg Island oil infrastructure remains intact; Mojtaba Khamenei has still not appeared publicly since March appointment — communicates only through written statements.",
+      "watching": "Iran 'full-scale offensive' signal — escalation in kind or negotiating posture; Kharg Island oil infrastructure — P6 watch (oil terminal still operational); Mojtaba Khamenei first verified public appearance; First joint AES cross-border operation under unified-force statute; July Politburo communique — domestic demand language; Kang Kon commissioning September 9.",
       "sources": [
         {
           "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
@@ -103,8 +103,8 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-five at Alekseyevo-Druzhkovka. Russian Center Group forces captured Kutuzovka and the southern outskirts of Kucherov Yar and Priyut; Torskoye is under pressure from the southwest simultaneously with the southeast approach from Konstantinovka. 'Surrounded' is now the operational word in frontline reporting, not the headline. Martyanov's July 17 post on the Black Sea Fleet: operationally effective, blocking 404 shipping routes, despite the Western press having filed its obituary several times over. September 1 prediction is accelerating. The Atlantic order's interceptor ceiling remains unchanged; NATO Ankara pledged EUR 140B and delivered no Patriots.",
-      "watching": "Geolocated Russian fire-control transition to Druzhkovka city perimeter — September 1 prediction; Klymenko's first policy signals as defense minister vs. Fedorov's drone-production trajectory; NATO interceptor delivery timeline vs. Ankara pledge.",
+      "verdict": "Day twenty-six at Alekseyevo-Druzhkovka; 193 combat engagements reported across the Sloviansk direction in the latest reporting cycle — the Druzhkovka–Kramatorsk axis is where the arithmetic runs. Russian forces hold fire control over the city's eastern and southern approaches; the 'surrounded' language has migrated from frontline accounts to routine positional description. Martyanov's July 17 post on Sea Control: the Black Sea Fleet is operationally effective, its 'obituary' a genre of Western narrative the desk stopped reading after Moskva. September 1 prediction is not merely on track — it is accelerating. NATO Ankara pledged EUR 140B and delivered no Patriots.",
+      "watching": "Geolocated Russian fire-control transition to Druzhkovka city perimeter — Prediction 14 (September 1); Klymenko first policy signals as defense minister; NATO interceptor delivery timeline vs. Ankara pledge.",
       "sources": [
         {
           "label": "Southfront — Druzhkovka surrounded, pincers close",
@@ -127,7 +127,7 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 18. Day twenty-five at Alekseyevo-Druzhkovka. Center Group captured Kutuzovka and southern outskirts of Kucherov Yar and Priyut; Torskoye under pressure from southwest simultaneously with southeast approach from Konstantinovka. 'Surrounded' confirmed in open-source frontline reporting. September 1 prediction accelerating. Russia-decisive holds.",
+      "basis": "July 19. Day twenty-six at Alekseyevo-Druzhkovka. 193 combat engagements reported across the Sloviansk direction; Russian forces hold fire control over eastern and southern city approaches. Martyanov July 17 on Sea Control: Black Sea Fleet operationally effective, blocking 404 shipping routes. September 1 prediction accelerating.",
       "sources": [
         {
           "label": "Southfront — Druzhkovka surrounded",
@@ -142,9 +142,9 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — MOU effectively collapsed; sixth consecutive night of US strikes; Qatari mediation at Mashhad; Kharg oil infrastructure intact but threatened",
+      "advantage": "Escalated — MOU formally suspended July 18; 50 killed 500+ wounded since July 6; Iranian adviser warns full-scale offensive; Kharg oil infrastructure intact",
       "trend": "escalating",
-      "basis": "July 18. US concluded sixth consecutive night of strikes through July 17. Iran retaliating against US infrastructure in Gulf states. Qatari mediators flew to Mashhad; PM Al Thani spoke with Araghchi; 'active conversations' but no next talks date, no direct meeting. Mojtaba Khamenei still not publicly visible. Nuclear chapter at working-group level; Kharg Island oil infrastructure intact — Trump threatening seizure, crude above $80. Prediction 6 (Kharg infrastructure not struck) still watching.",
+      "basis": "July 19. Iran formally declared the June 17 Islamabad MOU 'suspended' July 18, citing US violations after seven consecutive nights of CENTCOM strikes. Iran Health Ministry: 50 killed 500+ wounded since July 6. Iranian military adviser warned 'full-scale offensive' if strikes continue through weekend. Qatari mediation stalled; no next talks date. Kharg Island oil infrastructure intact — Prediction 6 (not struck before September) still watching. Mojtaba Khamenei still not publicly visible.",
       "sources": [
         {
           "label": "Levantt Files — Qatar races to rescue ceasefire",
@@ -183,6 +183,66 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-19",
+      "items": [
+        {
+          "text": "THE MOU IS VOID — IRAN NAMES IT: Iran formally declared the June 17 Islamabad MOU 'suspended' July 18; 50 killed 500+ wounded since July 6; Iranian military adviser warns 'full-scale offensive' if CENTCOM strikes continue through weekend; Kharg Island oil infrastructure intact — Prediction 6 watching; Mojtaba Khamenei still not publicly visible.",
+          "links": [
+            {
+              "label": "Reuters — Iran suspends nuclear deal citing US strikes",
+              "url": "https://www.reuters.com/world/middle-east/iran-says-it-has-suspended-nuclear-deal-with-us-2026-07-18/"
+            },
+            {
+              "label": "Al Jazeera — Iran MOU suspended July 18",
+              "url": "https://www.aljazeera.com/news/2026/7/18/iran-suspends-nuclear-deal-with-us-citing-violations"
+            }
+          ]
+        },
+        {
+          "text": "DAY TWENTY-SIX, 193 ENGAGEMENTS — SLOVIANSK DIRECTION: 193 combat engagements across the Sloviansk direction; Russian forces hold fire control over Druzhkovka eastern and southern approaches; Martyanov July 17 Sea Control post: Black Sea Fleet operationally effective blocking 404 shipping routes; September 1 prediction accelerating.",
+          "links": [
+            {
+              "label": "Martyanov — Reminiscence of the Future (standing reference)",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "WISCONSIN RESHUFFLES — RODRIGUEZ OUT, CROWLEY BACK: Juan Rodriguez withdrew from Democratic gubernatorial race July 17 (finance fraud charges); Tony Crowley re-entered July 18; Gov. Evers reportedly weighing endorsement of Crowley; Republican ad spending targets Hong to boost her into general. Prediction 19 — Barnes primary — confidence revised downward; three weeks to August 11.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WisPolitics — Rodriguez withdraws from governor's race",
+              "url": "https://www.wispolitics.com/2026/rodriguez-withdraws-from-governors-race/"
+            },
+            {
+              "label": "Milwaukee Journal Sentinel — Crowley re-enters governor's race",
+              "url": "https://www.jsonline.com/story/news/politics/2026/07/18/crowley-re-enters-wisconsin-governors-race/"
+            }
+          ]
+        },
+        {
+          "text": "HAN FEIZI'S PLAZA ACCORD DISPATCH; POLITBURO JULY 30: Han Feizi (Asia Times) argues China's surplus is not predatory dumping but productive capacity creating real value — a structural counterargument to the 'Plaza Accord 2.0' pressure campaign. July Politburo meets July 30; domestic demand language or technology-transition framing is the watch. Tea prediction (Prediction 5): Spain vs Argentina final kicked off July 19, result not indexed at time of run — grades next run.",
+          "links": [
+            {
+              "label": "Han Feizi — Asia Times standing reference",
+              "url": "https://asiatimes.com/author/han-feizi/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran 'full-scale offensive' signal — escalation in kind or negotiating posture; Kharg Island oil infrastructure (Prediction 6)",
+        "Mojtaba Khamenei first verified public appearance",
+        "Druzhkovka geolocated fire control — Prediction 14 (Sept 1, day 26, accelerating)",
+        "Spain vs Argentina World Cup final — tea prediction (Prediction 5) result not yet indexed, grades next run",
+        "France measures — Prediction 15 (day 23, no measures)",
+        "July Politburo July 30 — domestic demand or technology framing",
+        "Wisconsin: Rodriguez out, Crowley back — Barnes primary (Prediction 19) Aug 11; Tiffany (Prediction 20) Aug 11",
+        "Kang Kon commissioning September 9"
+      ]
+    },
     {
       "date": "2026-07-18",
       "items": [
@@ -1853,7 +1913,7 @@
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey. Tea prediction resolves Sunday July 19.",
+      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey, kickoff 3 PM ET. Match result not indexed at time of July 19 run. MAIDEN VOYAGE grades on first run after July 19 — result to be checked and graded next run (July 20).",
       "schema_version": 1
     },
     {
@@ -1930,7 +1990,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day 24. Russian forces completed breakthrough at Malinovka and Vasyutinsky (9km E Kramatorsk) July 16-17; stormtroopers flanking Alekseyevo-Druzhkovka from multiple axes; 'surrounded' language in open-source frontline reports July 17 morning. Zelensky fired Defense Minister Fedorov (drone program architect) July 16 — replacement is conventional police general. September 1 prediction accelerating, not merely on track.",
+      "note": "Day 26. 193 combat engagements reported across the Sloviansk direction in the July 19 cycle. Russian forces hold fire control over Druzhkovka's eastern and southern approaches; 'surrounded' language now routine in positional reporting. Martyanov July 17 Sea Control post: Black Sea Fleet operationally effective, blocking 404 routes. September 1 prediction accelerating.",
       "schema_version": 1
     },
     {
@@ -1939,7 +1999,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day 20 (July 16). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures announced. Paris to 'soon communicate reorganization of consular and visa arrangements.' P15 accumulating confirmation: France has no enforcement mechanism that imposes real costs without accelerating the pivot it most fears.",
+      "note": "Day 23 (July 19). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures since. Prediction accumulates: France has named no enforcement mechanism that imposes real costs on Ouagadougou.",
       "schema_version": 1
     },
     {
@@ -1983,7 +2043,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "Field reshuffled July 17-18. Juan Rodriguez withdrew July 17 (finance fraud). Tony Crowley re-entered July 18; Gov. Evers reportedly weighing Crowley endorsement. Republican ad spending targets Kelda Helen Roys and Christine Hong to consolidate a Crowley-Barnes split. Three weeks to Aug 11. Barnes name recognition advantage narrows if Crowley activates his 2022 network. Confidence unchanged at 45 — plurality path intact but genuine multi-way contest now."
     },
     {
       "schema_version": 2,
