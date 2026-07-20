@@ -61,20 +61,24 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "July 13 is the single densest AES day since the confederation's founding. GATIA/MSA forces, operating alongside FAMa and Africa Corps, claimed Anefis district in Kidal — the first major territorial claim in a zone where JNIM had operated freely since 2023. Simultaneously, the AES defense ministers (Simpore, Mody, Diarra) validated a unified-force 'agreement' superseding the July 11 statute work — the legal scaffolding is being assembled in real time. AU Commission Chair Bamako visit July 12 signals continental normalization management. The SOPAMIB gold mine opening at Yako (Burkina Faso, July 9) is the economic revenue instrument underpinning the sovereignty architecture. France's 'reciprocal measures': the July 7 diplomatic expulsion is confirmed as the full content — Vienna Convention mirror-response only, no economic, no sanctions. Prediction 15 accumulates.",
-      "watching": "GATIA/MSA Anefis claim geolocated confirmation and JNIM response; AU Commission Chair Bamako deliverables — concrete aid commitments or framework only; AES unified-force first cross-border operation under the new statute; SOPAMIB gold mine output and revenue routing; France Prediction 15 — next French action, if any, before December 31; Algeria formal AES alignment trajectory.",
+      "verdict": "Two July 20 moves from Ouagadougou, both material, both the desk's signature beat: Traoré asserts 100% state control over a new ~$68M gold asset, extending the SOPAMIB nationalization from mine (Yako, July 9) toward full custody of the gold chain — sovereignty measured in ownership, not communiqués. Same day, in a nationwide broadcast, Traoré — himself Muslim — rules out sharia law and tells citizens studying it in Saudi Arabia to stay away and bring back technological skills instead: a secular-developmentalist state subordinating imported religious law to the productive program, of a piece with the gold posture. Behind it the July 13 architecture still stands — GATIA/MSA claimed Anefis in Kidal alongside FAMa and Africa Corps, the AES unified-force statute validated, France's 'reciprocal measures' confirmed as diplomatic mirror only, no economic content. Prediction 15 accumulates.",
+      "watching": "The $68M asset's place in the SOPAMIB structure — mine, refinery feed, or holding — and gold revenue routing to the unified force; whether Traoré's secular-developmentalist line hardens into policy on religious schooling; GATIA/MSA Anefis claim geolocated confirmation and JNIM response; AES unified-force first cross-border operation under the new statute; France Prediction 15 — next French action, if any, before December 31; Algeria formal AES alignment trajectory.",
       "sources": [
+        {
+          "label": "Business Insider Africa — 100% state control over new $68M gold asset",
+          "url": "https://africa.businessinsider.com/local/lifestyle/burkina-fasos-administration-asserts-100-state-control-over-the-new-dollar68-million/0rtz594"
+        },
+        {
+          "label": "MR Online — first public gold mine, Burkina's economic sovereignty",
+          "url": "https://mronline.org/2026/07/11/first-public-gold-mine-marks-new-chapter-for-burkina-fasos-economic-sovereignty/"
+        },
+        {
+          "label": "Daily Post — Traoré: no sharia law in Burkina Faso",
+          "url": "https://dailypost.ng/2026/07/20/sharia-law-cant-be-practiced-in-burkina-faso-president-traore/"
+        },
         {
           "label": "Pravda Burkina — AES defense ministers unified force statute",
           "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7291.html"
-        },
-        {
-          "label": "AIB — Opérationnalisation de la Force Unifiée de l'AES",
-          "url": "https://www.aib.media/operationnalisation-de-la-force-unifiee-de-laes-les-ministres-de-la-defense-renforcent-le-socle-juridique-de-la-cooperation-militaire-confederale"
-        },
-        {
-          "label": "Pravda Niger — Algeria-Mali aviation restoration",
-          "url": "https://niger.news-pravda.com/en/world/2026/07/11/4721.html"
         }
       ]
     },
@@ -2177,6 +2181,10 @@
     }
   ],
   "corrections": [
+    {
+      "date": "2026-07-20",
+      "text": "The desk went quiet on Burkina Faso the very week its signature beat delivered: Traoré's July 20 assertion of 100% state control over a new ~$68M gold asset — the SOPAMIB drive moving toward full custody of the gold chain — and his same-day secular-developmentalist broadcast ruling out sharia law and telling students of it to bring back technological skills instead. Both are exactly the material sovereignty indicators the Sahel beat exists to track, and the Iran escalation crowded them out. Filed to the board late, on a reader's catch. The standing order now: a week without a Traoré or gold item is itself a flag, not a quiet day."
+    },
     {
       "date": "2026-07-17",
       "text": "Prediction 16 specified that Iran would suspend nuclear working-group participation 'citing continued IDF operations in Lebanon as inconsistent with the Bürgenstock framework conditions.' The nuclear working groups are in abeyance as of July 17 and the suspension resolves before the August 1 deadline — but the trigger was US strikes on Iranian territory through six consecutive nights, not IDF Lebanon operations. The effect the desk called is correct; the mechanism it named was wrong. The desk records both the hit and the mechanism error: the Lebanon link was a live wire the desk over-weighted relative to the Iran-US direct-strike escalation that was already underway by July 8."
