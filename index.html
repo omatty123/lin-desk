@@ -374,6 +374,7 @@ function render(d){
     const oc=(a.status==='对'||a.status==='错')?`<span class="gtag ${a.status==='对'?'out-red':'out-green'}" style="font-size:11px">他们 ${esc(a.status)}</span>`:'';
     const rh=a.reasoning_held?`<span class="gtag mech">reasoning ${esc(a.reasoning_held)}</span>`:'';
     const link=f.where_filed?`<a href="${esc(f.where_filed.url)}" target="_blank" rel="noopener">${esc(f.where_filed.label)} ↗</a>`:'';
+    const counter=a.counter?`<a href="${esc(a.counter.url)}" target="_blank" rel="noopener" style="color:var(--red);border-bottom-color:var(--red)">⟂ ${esc(a.counter.label)} ↗</a>`:'';
     return `<div class="audit s-${scls}" id="audit-${i+1}">
       <div class="pred-top"><span class="pnum">#audit-${i+1}</span><span class="status st-${scls}">${slabel}</span></div>
       <div class="src">${esc(f.source)}</div>
@@ -382,7 +383,7 @@ function render(d){
       <div class="grade" style="margin-top:6px">${oc}${rh}</div>
       ${f.resolution?`<div class="resline"><span class="lbl">resolves how</span> ${esc(f.resolution)}</div>`:''}
       ${a.note?`<div class="resline">${esc(a.note)}</div>`:''}
-      <div class="srcs" style="margin-top:8px">${link}</div></div>`;
+      <div class="srcs" style="margin-top:8px">${link}${counter}</div></div>`;
   }).join(''):'<div class="empty">No audited claims on file yet. The desk logs other analysts\' dated predictions here and grades them when they resolve.</div>';
 
   // ---- board ----

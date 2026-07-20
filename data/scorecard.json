@@ -2270,5 +2270,58 @@
       "order": 7
     }
   ],
-  "audit_predictions": []
+  "audit_predictions": [
+    {
+      "schema_version": 2,
+      "beat": "audit-desk",
+      "filing": {
+        "source": "Michael Pettis",
+        "claim": "China cannot hold 4–5% growth: without lifting consumption to ~85–90% of GDP growth for a decade — which Beijing will not do — the investment-and-debt model forces a sharp slowdown. Expect 'lots of promises to rebalance but little actual rebalancing until debt levels force the issue.' (paraphrased)",
+        "claim_verbatim": false,
+        "where_filed": {
+          "label": "Carnegie — 'China Needs a Very High Consumption Share of GDP Growth' (2024)",
+          "url": "https://carnegieendowment.org/posts/2024/09/china-needs-a-very-high-consumption-share-of-gdp-growth?lang=en"
+        },
+        "their_implied_date": "2030-12-31",
+        "our_filing_date": "2026-07-18",
+        "resolves_by": "2030-12-31",
+        "resolution": "Resolves 对 (Pettis correct) if China's growth is forced sharply down — toward 2–3% — by a debt/rebalancing reckoning before 2031, absent the consumption shift he says won't come; 错 if China sustains roughly 4–5% growth through 2030 without the predicted debt-driven collapse."
+      },
+      "status": "待",
+      "outcome": null,
+      "reasoning_held": null,
+      "resolved": null,
+      "note": "The desk's standing counter is Han Feizi, who argues the Pettis frame measures the wrong quantity — booking investment in tech and choke-point industries as waste, and treating hedonic 'deflation' as failure. On the record now; the decade will grade it.",
+      "counter": {
+        "label": "Han Feizi rebuts Pettis — Asia Times",
+        "url": "https://asiatimes.com/2025/04/michael-pettis-misleading-the-american-zeitgeist-on-china/"
+      }
+    },
+    {
+      "schema_version": 2,
+      "beat": "audit-desk",
+      "filing": {
+        "source": "Brad Setser",
+        "claim": "China's external surplus does not fall as the IMF projects: the realized first-half pace (~$550B) reflects an undervalued yuan and stays elevated through 2026 rather than declining toward ~2.5% of GDP. (paraphrased)",
+        "claim_verbatim": false,
+        "where_filed": {
+          "label": "CFR — 'Time to Stop Forecasting China's Surplus Away'",
+          "url": "https://www.cfr.org/articles/time-to-stop-forecasting-chinas-surplus-away"
+        },
+        "their_implied_date": "2026-12-31",
+        "our_filing_date": "2026-07-18",
+        "resolves_by": "2027-03-31",
+        "resolution": "Resolves 对 (Setser correct) if China's full-year 2026 goods/current-account surplus holds at or above the H1 pace instead of falling to the IMF's projected level; 错 if it falls materially as the IMF forecast."
+      },
+      "status": "待",
+      "outcome": null,
+      "reasoning_held": null,
+      "resolved": null,
+      "note": "The desk expects Setser right on the magnitude — the surplus is real and large; a fair ledger says so. The contest Han Feizi presses is interpretive: 'undervaluation/manipulation,' or the productive competitiveness and quality gains of the world's manufacturing core? Filed to grade the factual call, interpretation contested.",
+      "counter": {
+        "label": "Han Feizi — Asia Times (standing counter)",
+        "url": "https://asiatimes.com/author/han-feizi/"
+      }
+    }
+  ]
 }
