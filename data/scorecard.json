@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-19",
-  "edition": 41,
+  "updated": "2026-07-20",
+  "edition": 42,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "Iran formally declared the June 17 Islamabad MOU 'suspended' on July 18 — converting a mutual collapse into explicit state policy, with Tehran citing US violations after seven consecutive nights of CENTCOM strikes. Iran's Health Ministry reports 50 killed and over 500 wounded since July 6; the Iranian military adviser has warned of a 'full-scale offensive' if the strikes continue through the weekend. Both sides have now named the same fact by different labels: the agreement is finished. Kharg Island oil infrastructure remains intact; Mojtaba Khamenei has still not appeared publicly since March appointment — communicates only through written statements.",
-      "watching": "Iran 'full-scale offensive' signal — escalation in kind or negotiating posture; Kharg Island oil infrastructure — P6 watch (oil terminal still operational); Mojtaba Khamenei first verified public appearance; First joint AES cross-border operation under unified-force statute; July Politburo communique — domestic demand language; Kang Kon commissioning September 9.",
+      "verdict": "Iran struck Camp Udairi and Ali Al Salem Air Base in Kuwait with kamikaze drones on July 19 — the first confirmed kinetic Iranian action against GCC territory in this cycle, targeting an ammunition depot and Patriot radar systems, alongside strikes on Kuwaiti water and petroleum infrastructure. Two US service members were also killed in an Iranian drone-and-missile strike on a military outpost in Jordan on July 17. The MOU is now explicitly void; the operational envelope has expanded from the Strait to the Gulf states. The multipolarity read: Iran absorbs a seventh (and eighth) consecutive night of US strikes and still opens new geographic theaters, while Qatar holds the last telephone line and the GCC mutual-defense architecture is untested under direct fire.",
+      "watching": "Whether Riyadh and Abu Dhabi invoke GCC mutual-defense provisions; Qatari mediation channel survival; Kharg Island oil infrastructure — Prediction 6 watching (Sept 1 horizon); Mojtaba Khamenei first public appearance.",
       "sources": [
         {
           "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
@@ -40,8 +40,8 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Wang Huning toured the Wonsan Kalma Coastal Tourist Zone on July 18 before returning to Beijing — a resort stop appended to a three-day goodwill visit that produced a joint statement limited to implementing the Xi-Kim June agreements. Beijing has now registered twelve consecutive public silence cycles on Kim Jong Un's July 9 seven CMC military orders: nuclear expansion, naval buildup, intelligence revolution, military education. Satellite imagery shows activity at the Sohae space launch complex. The Kang Kon commissions September 9. The seniority of the visit — fourth-ranked official, party ideologue — is the real signal; what was not said about nuclear posture is the signal inside the signal.",
-      "watching": "Whether any subsequent public language emerges on DPRK nuclear posture — twelfth cycle or first comment; Kang Kon commissioning September 9 and Kim's fleet-doctrine framing at the ceremony; Beijing's response to further CMC nuclear directives.",
+      "verdict": "Wang Huning returned to Beijing on July 18 after a three-day goodwill visit that included a tour of the Wonsan Kalma Coastal Tourist Zone and meetings with Kim Jong Un and Jo Yong Won — producing a joint statement limited to implementing the Xi-Kim June agreements. Beijing has now registered twelve consecutive public silence cycles on Kim's July 9 seven CMC military orders (nuclear expansion, naval buildup, intelligence revolution, military-education reform). Kang Kon commissioning holds September 9. The material read is unchanged: Beijing deepens the relationship on the schedule it controls, and the silence on the nuclear file is a posture, not an absence of attention.",
+      "watching": "Kang Kon commissioning September 9; Beijing public output on CMC nuclear orders (silence cycle 12); DPRK July 27 armistice anniversary mobilization signals.",
       "sources": [
         {
           "label": "NK News — Wang Huning tours Wonsan resort",
@@ -103,8 +103,8 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-six at Alekseyevo-Druzhkovka; 193 combat engagements reported across the Sloviansk direction in the latest reporting cycle — the Druzhkovka–Kramatorsk axis is where the arithmetic runs. Russian forces hold fire control over the city's eastern and southern approaches; the 'surrounded' language has migrated from frontline accounts to routine positional description. Martyanov's July 17 post on Sea Control: the Black Sea Fleet is operationally effective, its 'obituary' a genre of Western narrative the desk stopped reading after Moskva. September 1 prediction is not merely on track — it is accelerating. NATO Ankara pledged EUR 140B and delivered no Patriots.",
-      "watching": "Geolocated Russian fire-control transition to Druzhkovka city perimeter — Prediction 14 (September 1); Klymenko first policy signals as defense minister; NATO interceptor delivery timeline vs. Ankara pledge.",
+      "verdict": "Day twenty-seven at Alekseyevo-Druzhkovka. Fire control over the city's eastern and southern approaches has migrated from frontline claims to routine positional description — the same language shift that preceded the final phase at Konstantinovka. The Ukrainian General Staff's 193 combat engagements in the Sloviansk direction is the unit of measure; the force composition (6th MRD, airmobile brigades) and methodology (building-by-building infiltration into encirclement) are identical to every prior closure in this sector since 2025. Russia-decisive holds. September 1 is the prediction horizon; the pattern says it resolves before that.",
+      "watching": "Geolocated Russian position inside Druzhkovka city center (Prediction 14 accelerating, Sept 1); Sloviansk second-axis indicators.",
       "sources": [
         {
           "label": "Southfront — Druzhkovka surrounded, pincers close",
@@ -127,7 +127,7 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "July 19. Day twenty-six at Alekseyevo-Druzhkovka. 193 combat engagements reported across the Sloviansk direction; Russian forces hold fire control over eastern and southern city approaches. Martyanov July 17 on Sea Control: Black Sea Fleet operationally effective, blocking 404 shipping routes. September 1 prediction accelerating.",
+      "basis": "July 20. Day twenty-seven at Alekseyevo-Druzhkovka. 193 combat engagements in the Sloviansk direction. Fire control over eastern and southern approaches now routine positional description. Force composition (6th MRD, airmobile) and building-by-building methodology identical to Konstantinovka precedent. September 1 prediction accelerating.",
       "sources": [
         {
           "label": "Southfront — Druzhkovka surrounded",
@@ -142,9 +142,9 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — MOU formally suspended July 18; 50 killed 500+ wounded since July 6; Iranian adviser warns full-scale offensive; Kharg oil infrastructure intact",
+      "advantage": "Escalated — Iran strikes GCC territory July 19; two US service members killed Jordan July 17; MOU formally void; Kharg oil infrastructure intact",
       "trend": "escalating",
-      "basis": "July 19. Iran formally declared the June 17 Islamabad MOU 'suspended' July 18, citing US violations after seven consecutive nights of CENTCOM strikes. Iran Health Ministry: 50 killed 500+ wounded since July 6. Iranian military adviser warned 'full-scale offensive' if strikes continue through weekend. Qatari mediation stalled; no next talks date. Kharg Island oil infrastructure intact — Prediction 6 (not struck before September) still watching. Mojtaba Khamenei still not publicly visible.",
+      "basis": "July 20. Iran struck Camp Udairi (ammunition depot) and Ali Al Salem AB (Patriot radar) in Kuwait with kamikaze drones July 19; Kuwaiti water desalination plant and petroleum facility also hit. Two US service members killed in Iranian drone-and-missile strike on Jordan military outpost July 17 — missed in July 17-19 briefings, corrected today. Iran formally declared MOU void July 18. Kharg Island oil infrastructure intact — Prediction 6 watching. Operational envelope has expanded from Hormuz to GCC state infrastructure.",
       "sources": [
         {
           "label": "Levantt Files — Qatar races to rescue ceasefire",
@@ -183,6 +183,85 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-20",
+      "items": [
+        {
+          "text": "IRAN TARGETS KUWAIT; DESK CORRECTS JORDAN MISS: Iran kamikaze drone strikes on Camp Udairi ammunition depot and Ali Al Salem AB Patriot radar in Kuwait July 19 — first GCC-territory kinetic action this cycle; Kuwaiti water and petroleum infrastructure also struck. Two US service members killed Iranian strike Jordan July 17 — missed July 17-19 briefings, corrected. MOU void. Kharg oil infrastructure intact — Prediction 6 watching.",
+          "links": [
+            {
+              "label": "IRNA — Iran Army targets Kuwait bases",
+              "url": "https://en.irna.ir/news/86212934/Iran-s-Army-targets-two-major-US-bases-in-Kuwait-with-one-way"
+            },
+            {
+              "label": "Republic World — Kamikaze Camp Udairi",
+              "url": "https://www.republicworld.com/world-news/kamikaze-camp-udairi-tehran-says-it-targeted-us-bases-in-kuwait-using-drones-following-overnight-strikes-2026-07-19-132791"
+            },
+            {
+              "label": "Al Jazeera — MOU suspended July 18",
+              "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies"
+            }
+          ]
+        },
+        {
+          "text": "DAY TWENTY-SEVEN, DRUZHKOVKA — SURROUNDED NOW ROUTINE: 193 combat engagements Sloviansk direction; Russian fire control eastern and southern approaches now routine positional description (same language shift as pre-final Konstantinovka); 6th MRD + airmobile force composition unchanged; Prediction 14 accelerating toward Sept 1 horizon.",
+          "links": [
+            {
+              "label": "UNN.ua — 193 engagements Sloviansk direction",
+              "url": "https://unn.ua/en/news/193-combat-engagements-occurred-at-the-front-in-a-day-the-enemy-attacked-the-most-in-the-sloviansk-direction"
+            },
+            {
+              "label": "Martyanov — standing reference",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "EVERS BACKS CROWLEY; WISCONSIN FIELD RESHUFFLES: Crowley re-entered July 18 with Evers endorsement (Africa trade trip posting); Rodriguez out campaign finance fraud; Barnes 40K H1 leads fundraising — durable statewide base; Republicans buying Hong ads = Barnes stronger general-election opponent; 22 days to Aug 11 primary. Prediction 19 watches.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "PBS NewsHour — Crowley re-enters with Evers backing",
+              "url": "https://www.pbs.org/newshour/politics/david-crowley-reenters-battleground-wisconsins-democratic-governor-primary-with-gov-evers-backing"
+            },
+            {
+              "label": "The Hill — Evers endorses Crowley",
+              "url": "https://thehill.com/homenews/campaign/5976200-evers-endorses-crowley-wisconsin-governor/"
+            },
+            {
+              "label": "WPR — Barnes Hong lead fundraising",
+              "url": "https://www.wpr.org/news/fundraising-governor-tiffany-barnes-hong-rodriguez"
+            }
+          ]
+        },
+        {
+          "text": "PREDICTION 5 GRADES HIT — SPAIN 1-0 ARGENTINA: Spain won World Cup final July 19 MetLife Stadium; Ferran Torres extra time; Enzo Fernandez second yellow red; tea pick filed June 21 grades HIT. DPRK: Wang Huning returned Beijing July 18 after Wonsan Kalma tour; Beijing silence x12 on CMC nuclear orders; Kang Kon commissioning Sept 9. Sahel thin day. PRC: tariff baseline expires July 24; Politburo July 30.",
+          "links": [
+            {
+              "label": "FIFA — Spain v Argentina final",
+              "url": "https://www.fifa.com/en/match-centre/match/17/285023/289292/400021543"
+            },
+            {
+              "label": "ESPN — 1-0 final score",
+              "url": "https://www.espn.com/soccer/match/_/gameId/760517/argentina-spain"
+            },
+            {
+              "label": "Al Jazeera — Wang Huning Pyongyang visit",
+              "url": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran GCC escalation — mutual defense invocations or Doha channel survival",
+        "Kharg Island oil infrastructure (Prediction 6 watching, Sept 1 horizon)",
+        "Druzhkovka geolocated city-center position (Prediction 14 day 27, Sept 1)",
+        "First post-Crowley Wisconsin poll (Prediction 19 watching)",
+        "US-China tariff baseline July 24",
+        "July Politburo July 30",
+        "Kang Kon commissioning September 9"
+      ]
+    },
     {
       "date": "2026-07-19",
       "items": [
@@ -1908,12 +1987,12 @@
       "schema_version": 1
     },
     {
-      "status": "open",
+      "status": "hit",
       "kind": "tea",
       "claim": "Spain lifts the World Cup on July 19 in New Jersey. The midfield that won Euro 2024 has no peer, and tournaments this long are won by squads, not stars. The desk does not do sentimentality, even over tea.",
       "filed": "2026-06-21",
       "horizon": "2026-07-19",
-      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey, kickoff 3 PM ET. Match result not indexed at time of July 19 run. MAIDEN VOYAGE grades on first run after July 19 — result to be checked and graded next run (July 20).",
+      "note": "Spain 2-0 France July 14 (Oyarzabal pen + Porro 58'). Argentina 2-1 England. Final: Spain vs Argentina, July 19, MetLife Stadium, New Jersey, kickoff 3 PM ET. Match result not indexed at time of July 19 run. MAIDEN VOYAGE grades on first run after July 19 — result to be checked and graded next run (July 20). GRADES HIT July 20. Spain defeated Argentina 1-0 in extra time at MetLife Stadium July 19. Ferran Torres scored in the second half of extra time; Enzo Fernandez off on a second yellow. The midfield that won Euro 2024 won the World Cup. Squads beat stars; the tea held.",
       "schema_version": 1
     },
     {
@@ -2141,6 +2220,10 @@
     {
       "date": "2026-07-15",
       "text": "Prediction 10 — the desk predicted China's retail sales would not return to positive territory in June 2026 after May's -0.6% YoY decline. June data released July 15 shows retail +1.0% YoY, beating a -0.1% consensus. The prediction is a miss. The desk notes that the structural read — domestic demand weakness, FAI collapse (-5.7% YTD), Q2 GDP miss (4.3% vs 4.5%) — remains intact; the specific retail number was wrong."
+    },
+    {
+      "date": "2026-07-20",
+      "text": "The July 17, July 18, and July 19 briefings missed an Iran escalation item: two United States service members were killed in an Iranian drone-and-missile strike on a military outpost in Jordan on July 17. The Pentagon cited these deaths as the stated trigger for subsequent overnight US strikes on Iran. The miss spans three consecutive briefings. Corrected in the July 20 Iran item."
     }
   ],
   "beats": [
