@@ -1,21 +1,25 @@
 {
-  "updated": "2026-07-20",
-  "edition": 42,
+  "updated": "2026-07-21",
+  "edition": 43,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "Iran struck Camp Udairi and Ali Al Salem Air Base in Kuwait with kamikaze drones on July 19 — the first confirmed kinetic Iranian action against GCC territory in this cycle, targeting an ammunition depot and Patriot radar systems, alongside strikes on Kuwaiti water and petroleum infrastructure. Two US service members were also killed in an Iranian drone-and-missile strike on a military outpost in Jordan on July 17. The MOU is now explicitly void; the operational envelope has expanded from the Strait to the Gulf states. The multipolarity read: Iran absorbs a seventh (and eighth) consecutive night of US strikes and still opens new geographic theaters, while Qatar holds the last telephone line and the GCC mutual-defense architecture is untested under direct fire.",
-      "watching": "Whether Riyadh and Abu Dhabi invoke GCC mutual-defense provisions; Qatari mediation channel survival; Kharg Island oil infrastructure — Prediction 6 watching (Sept 1 horizon); Mojtaba Khamenei first public appearance.",
+      "verdict": "July 21: the United States conducted strikes on Kharg Island — more than 90 military targets, air defense and coastal infrastructure — but the oil export terminal (90% of Iranian crude) was not struck; Trump cited 'decency,' which is the economic arithmetic. Qatar, Egypt, and Pakistan presented both sides a 10-day ceasefire proposal; neither has accepted as of this morning. Ten consecutive nights of strikes, and the mediators are running low on new architectures. The desk reads the Kharg strike as the campaign reaching maximum geographic expansion at a deliberate self-imposed ceiling: the oil infrastructure is leverage, not yet a weapon. Prediction 6 continues to hold — military targets on Kharg do not constitute the trigger. The MOU is void; the operational envelope has expanded from the Strait to the Gulf states to Kharg Island itself, military tier only.",
+      "watching": "10-day ceasefire proposal — accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon); Kharg Island oil terminal status; Qatar mediation channel survival; GCC mutual-defense invocations; Mojtaba Khamenei first public appearance.",
       "sources": [
+        {
+          "label": "Axios — Iran mediators push new ceasefire as Trump eyes all-out war",
+          "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops"
+        },
+        {
+          "label": "CNBC — Five things to know after resumption of hostilities",
+          "url": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html"
+        },
         {
           "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
           "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
-        },
-        {
-          "label": "TechTimes — Kharg seizure threat, crude past $80",
-          "url": "https://www.techtimes.com/articles/320753/20260716/kharg-island-seizure-threat-drives-crude-past-80-fifth-wave-iran-strikes.htm"
         }
       ]
     },
@@ -107,16 +111,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-seven at Alekseyevo-Druzhkovka. Fire control over the city's eastern and southern approaches has migrated from frontline claims to routine positional description — the same language shift that preceded the final phase at Konstantinovka. The Ukrainian General Staff's 193 combat engagements in the Sloviansk direction is the unit of measure; the force composition (6th MRD, airmobile brigades) and methodology (building-by-building infiltration into encirclement) are identical to every prior closure in this sector since 2025. Russia-decisive holds. September 1 is the prediction horizon; the pattern says it resolves before that.",
-      "watching": "Geolocated Russian position inside Druzhkovka city center (Prediction 14 accelerating, Sept 1); Sloviansk second-axis indicators.",
+      "verdict": "Day twenty-eight at Alekseyevo-Druzhkovka. Martyanov's July 15 post confirmed Russian reconnaissance-and-raid groups (DRGs) already operating inside the city in reconnaissance capacity — the same signature that preceded Konstantinovka's final phase. No geolocated breakthrough announced; the September 1 prediction is on track and accelerating. Force composition (6th MRD, airmobile brigades) and building-by-building infiltration methodology unchanged. Russia-decisive holds.",
+      "watching": "Geolocated Russian operational control inside Druzhkovka city center (Prediction 14 accelerating, Sept 1); Sloviansk second-axis indicators.",
       "sources": [
+        {
+          "label": "Martyanov — Druzhkovka-Kramatorsk (July 15)",
+          "url": "https://smoothiex12.blogspot.com/2026/07/druzhkovka-kramatorsk.html"
+        },
         {
           "label": "Southfront — Druzhkovka surrounded, pincers close",
           "url": "https://southfront.press/druzhkovka-surrounded-russian-pincers-close-on-key-stronghold/"
-        },
-        {
-          "label": "GlobalSecurity — Russo-Ukraine July 17",
-          "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-07-17.htm"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -146,21 +150,21 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — Iran strikes GCC territory July 19; two US service members killed Jordan July 17; MOU formally void; Kharg oil infrastructure intact",
+      "advantage": "Escalated — US strikes Kharg Island military sites July 21; oil infrastructure spared; 10-day ceasefire proposal on table, unaccepted; Kharg oil infrastructure intact",
       "trend": "escalating",
-      "basis": "July 20. Iran struck Camp Udairi (ammunition depot) and Ali Al Salem AB (Patriot radar) in Kuwait with kamikaze drones July 19; Kuwaiti water desalination plant and petroleum facility also hit. Two US service members killed in Iranian drone-and-missile strike on Jordan military outpost July 17 — missed in July 17-19 briefings, corrected today. Iran formally declared MOU void July 18. Kharg Island oil infrastructure intact — Prediction 6 watching. Operational envelope has expanded from Hormuz to GCC state infrastructure.",
+      "basis": "July 21. US struck 90+ military targets on Kharg Island (air defense, coastal systems) — the oil export terminal, handling 90% of Iranian crude, was not struck; Trump cited 'decency.' Qatar, Egypt, and Pakistan presented a 10-day ceasefire proposal; neither side has accepted. Ten consecutive nights of strikes. The operational envelope now reaches Kharg Island militarily while the economic lever (oil terminal) remains unused. Prediction 6 watches.",
       "sources": [
+        {
+          "label": "Axios — Iran mediators push new ceasefire, July 21",
+          "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops"
+        },
+        {
+          "label": "CNBC — Five things after resumption of hostilities, July 21",
+          "url": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html"
+        },
         {
           "label": "Levantt Files — Qatar races to rescue ceasefire",
           "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
-        },
-        {
-          "label": "TechTimes — Kharg seizure threat",
-          "url": "https://www.techtimes.com/articles/320753/20260716/kharg-island-seizure-threat-drives-crude-past-80-fifth-wave-iran-strikes.htm"
-        },
-        {
-          "label": "CBS News — Iran strikes day 6",
-          "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/"
         }
       ]
     },
@@ -187,6 +191,83 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-21",
+      "items": [
+        {
+          "text": "KHARG STRUCK — MEDIATORS PROPOSE THE STANDDOWN: US conducted strikes on Kharg Island July 21 — 90+ military targets, air defense systems and coastal infrastructure — oil export terminal (90% of Iranian crude) not struck; Trump cited 'decency,' which is the economic arithmetic. Qatar, Egypt, Pakistan 10-day ceasefire proposal; neither side accepted. Prediction 6 holds — military targets on Kharg are not the trigger.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Axios — Iran mediators push new ceasefire as Trump eyes all-out war",
+              "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops"
+            },
+            {
+              "label": "CNBC — Five things to know after resumption of hostilities",
+              "url": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html"
+            }
+          ]
+        },
+        {
+          "text": "TRAORÉ NAMES THE STATE: NO GOD, JUST GOLD: Two July 20 moves from Ouagadougou, both missed yesterday and corrected now. First: 100% state control over a new ~$68M gold asset, SOPAMIB drive extending toward full custody of the production chain. Second: nationwide broadcast ruling out sharia law permanently, telling Burkinabè students in Saudi Arabia to stay away or return only with technological skills. AES defense ministers received same day. Secular-developmentalist state, gold sovereign.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Business Insider Africa — 100% state control over new $68M gold asset",
+              "url": "https://africa.businessinsider.com/local/lifestyle/burkina-fasos-administration-asserts-100-state-control-over-the-new-dollar68-million/0rtz594"
+            },
+            {
+              "label": "Daily Post — Traoré: no sharia law in Burkina Faso",
+              "url": "https://dailypost.ng/2026/07/20/sharia-law-cant-be-practiced-in-burkina-faso-president-traore/"
+            },
+            {
+              "label": "Pravda Burkina — AES defense ministers received by Traoré",
+              "url": "https://burkina-faso.news-pravda.com/burkina-faso/2026/07/20/70636.html"
+            }
+          ]
+        },
+        {
+          "text": "THE ODDS SPEAK — HONG LEADS; PREDICTION 19 REVISED: Polymarket odds — Hong 52%, Crowley 24%, Barnes 18%. Republican ad money targets Hong to force her into the general as a weaker Tiffany opponent; odds may not reflect actual Democratic primary support. Barnes leads fundraising ($840K H1); Crowley holds Evers endorsement and Milwaukee County network. Prediction 19 effective confidence lower than filed 45; genuine three-person race. Twenty-one days to August 11.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Political Polls X — Polymarket Wisconsin primary odds",
+              "url": "https://x.com/PpollingNumbers/status/2078219423521939794"
+            },
+            {
+              "label": "WisPolitics — Barnes: GOP buys Hong to face Tiffany",
+              "url": "https://www.wispolitics.com/2026/barnes-campaign-as-primary-turns-into-two-person-race-the-gop-tries-to-buy-the-candidate-tiffany-wants-to-face/"
+            }
+          ]
+        },
+        {
+          "text": "DAY TWENTY-EIGHT AND THREE DAYS TO THE TARIFF LINE: Druzhkovka day 28 — Martyanov July 15 confirmed DRGs operating inside city, same signature as pre-Konstantinovka final phase; September 1 on track. Section 122 (flat 10% tariff) reaches hard statutory sunset July 24, three days away; proposed replacement puts China above 35% combined rate. H1 GDP 4.7% — productive economy ahead; FAI -5.7% deliberate drag. July Politburo July 30.",
+          "links": [
+            {
+              "label": "Martyanov — Druzhkovka-Kramatorsk (July 15)",
+              "url": "https://smoothiex12.blogspot.com/2026/07/druzhkovka-kramatorsk.html"
+            },
+            {
+              "label": "TariffsTool — Section 122 expires July 24",
+              "url": "https://www.tariffstool.com/guides/section-122-expires-july-24-2026-importer-playbook"
+            },
+            {
+              "label": "CGTN — China H1 2026 GDP 4.7%",
+              "url": "https://news.cgtn.com/news/2026-07-15/China-s-economy-grows-4-7-in-first-half-of-2026-1ONgqNSZZqE/share_amp.html"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Kharg Island oil terminal — 10-day ceasefire proposal accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon)",
+        "Druzhkovka geolocated city-center control (Prediction 14, Sept 1, day 28)",
+        "First post-Evers-endorsement Wisconsin poll — does Crowley actualize the network? (Prediction 19)",
+        "Section 122 sunset July 24 — replacement tariff rate on China",
+        "July Politburo July 30",
+        "Kang Kon commissioning September 9",
+        "DPRK July 27 armistice anniversary mobilization signals"
+      ]
+    },
     {
       "date": "2026-07-20",
       "items": [
@@ -2005,6 +2086,7 @@
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
+      "note": "July 21: US struck 90+ military targets on Kharg Island (air defense systems, coastal infrastructure) — the oil export terminal, handling 90% of Iranian crude, was not struck. Military targets on the island do not constitute the trigger; this prediction requires the oil export terminal itself to be struck. Prediction holds. Qatar-Egypt-Pakistan ceasefire proposal on the table unaccepted; the terminal remains the economic lever not yet spent.",
       "schema_version": 1
     },
     {
@@ -2126,7 +2208,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "Field reshuffled July 17-18. Juan Rodriguez withdrew July 17 (finance fraud). Tony Crowley re-entered July 18; Gov. Evers reportedly weighing Crowley endorsement. Republican ad spending targets Kelda Helen Roys and Christine Hong to consolidate a Crowley-Barnes split. Three weeks to Aug 11. Barnes name recognition advantage narrows if Crowley activates his 2022 network. Confidence unchanged at 45 — plurality path intact but genuine multi-way contest now."
+      "note": "July 21: Polymarket odds — Hong 52%, Crowley 24%, Barnes 18%. A major reshuffling from the pre-Rodriguez field. Read with care: Republican ad spending targets Hong specifically to boost her as a weaker general-election opponent for Tiffany, meaning the Polymarket odds may reflect GOP money more than cross-section Democratic primary support. Barnes holds the fundraising lead ($840K H1 donations) and statewide name recognition; Crowley holds the Evers endorsement and Milwaukee County organizing network. Effective confidence lower than the filed 45 — this is a genuine three-person race. Twenty-one days to August 11."
     },
     {
       "schema_version": 2,
