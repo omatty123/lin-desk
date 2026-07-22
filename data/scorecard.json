@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-21",
-  "edition": 43,
+  "updated": "2026-07-22",
+  "edition": 44,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "July 21: the United States conducted strikes on Kharg Island — more than 90 military targets, air defense and coastal infrastructure — but the oil export terminal (90% of Iranian crude) was not struck; Trump cited 'decency,' which is the economic arithmetic. Qatar, Egypt, and Pakistan presented both sides a 10-day ceasefire proposal; neither has accepted as of this morning. Ten consecutive nights of strikes, and the mediators are running low on new architectures. The desk reads the Kharg strike as the campaign reaching maximum geographic expansion at a deliberate self-imposed ceiling: the oil infrastructure is leverage, not yet a weapon. Prediction 6 continues to hold — military targets on Kharg do not constitute the trigger. The MOU is void; the operational envelope has expanded from the Strait to the Gulf states to Kharg Island itself, military tier only.",
-      "watching": "10-day ceasefire proposal — accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon); Kharg Island oil terminal status; Qatar mediation channel survival; GCC mutual-defense invocations; Mojtaba Khamenei first public appearance.",
+      "verdict": "July 22: Iran claimed a drone-and-missile strike on a US military base in Kuwait — the morning after the eleventh consecutive night of US strikes against Iran. Iranian Foreign Ministry spokesperson Baghaei stated the June memorandum of understanding has become “practically impossible to implement” — a declaratory withdrawal, not a negotiating position. Ghalibaf is blunter: Iran is “ready to face the United States.” The Qatar-Egypt-Pakistan 10-day ceasefire proposal from July 21 remains unanswered by both parties. The MOU's structural logic of death is simple: Washington requires Iran to stop enriching; Tehran requires Washington to stop striking; neither has the political latitude to go first. What is left is managed escalation with a ceiling not yet tested at the oil terminal. Kharg Island oil export terminal (90% of Iranian crude) intact — Prediction 6 holds.",
+      "watching": "Kharg Island oil terminal — ceasefire proposal accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon); whether any party moves to resurrect a framework after MOU void; GCC mutual-defense invocations; Mojtaba Khamenei first public appearance.",
       "sources": [
         {
-          "label": "Axios — Iran mediators push new ceasefire as Trump eyes all-out war",
+          "label": "ABC News — Iran live updates, Kuwait attack",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987&entryId=134911726"
+        },
+        {
+          "label": "Axios — Iran mediators push new ceasefire",
           "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops"
         },
         {
-          "label": "CNBC — Five things to know after resumption of hostilities",
-          "url": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html"
-        },
-        {
-          "label": "Levantt Files — Qatar races to rescue US-Iran ceasefire",
-          "url": "https://www.thelevantfiles.org/2026/07/qatar-races-to-rescue-crumbling-us-iran.html"
+          "label": "Wikipedia — 2026 Iran war ceasefire",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
         }
       ]
     },
@@ -44,20 +44,24 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Wang Huning returned to Beijing on July 18 after a three-day goodwill visit that included a tour of the Wonsan Kalma Coastal Tourist Zone and meetings with Kim Jong Un and Jo Yong Won — producing a joint statement limited to implementing the Xi-Kim June agreements. Beijing has now registered twelve consecutive public silence cycles on Kim's July 9 seven CMC military orders (nuclear expansion, naval buildup, intelligence revolution, military-education reform). Kang Kon commissioning holds September 9. The material read is unchanged: Beijing deepens the relationship on the schedule it controls, and the silence on the nuclear file is a posture, not an absence of attention.",
-      "watching": "Kang Kon commissioning September 9; Beijing public output on CMC nuclear orders (silence cycle 12); DPRK July 27 armistice anniversary mobilization signals.",
+      "verdict": "July 22: North Korean Foreign Minister Choe Son Hui met Vladimir Putin at the Kremlin on July 19 and held strategic talks with Foreign Minister Lavrov on July 20 — the third DPRK-Russia strategic dialogue in Moscow this year. A Russian military jet landed in Pyongyang while Choe’s plane departed for Moscow — NK News reads this as a logistics-coordination signal. KCNA issued a July 22 statement: the DPRK “expressed invariable support for all the internal and external policies of the Russian Federation to eliminate the root cause of the Ukrainian dispute.” Korean JoongAng Daily reports Choe’s visit, arriving with no multilateral occasion or state anniversary, may be preparing a Kim-Putin summit — the pattern of a pre-summit coordination mission. July 27 is in five days: the DPRK armistice anniversary, when Pyongyang schedules force demonstrations. Beijing has now registered thirteen consecutive silence cycles on Kim’s seven CMC military orders. Kang Kon commissioning holds September 9.",
+      "watching": "Kim-Putin summit announcement (pre-summit coordination signal established); July 27 DPRK armistice anniversary force demonstrations; Kang Kon commissioning September 9; Beijing public output on CMC nuclear orders (silence cycle 13).",
       "sources": [
         {
-          "label": "NK News — Wang Huning tours Wonsan resort",
-          "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/"
+          "label": "Manila Times — DPRK reaffirms support for Russia over Ukraine",
+          "url": "https://www.manilatimes.net/2026/07/22/world/asia-oceania/north-korea-reaffirms-support-for-moscow-over-ukraine/2388317"
         },
         {
-          "label": "People's Daily — Wang Huning DPRK visit",
-          "url": "http://en.people.cn/n3/2026/0718/c90000-20479263.html"
+          "label": "NPR — Putin meets North Korean foreign minister",
+          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
         },
         {
-          "label": "Xinhua — Wang Huning DPRK closer cooperation",
-          "url": "https://english.news.cn/20260717/7e97bacc7c72497aa42cb31e9ee57506/c.html"
+          "label": "NK News — Russian military jet lands in Pyongyang as Choe flies to Moscow",
+          "url": "https://www.nknews.org/2026/07/russian-military-jet-lands-in-pyongyang-as-choe-son-hui-flies-to-moscow/"
+        },
+        {
+          "label": "JoongAng Daily — Kim-Putin summit speculation",
+          "url": "https://www.koreajoongangdaily.com/korea/north-korean-foreign-ministers-russia-visit-fuels-speculation-of-kimputin-summit/12779931"
         }
       ]
     },
@@ -65,24 +69,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Two July 20 moves from Ouagadougou, both material, both the desk's signature beat: Traoré asserts 100% state control over a new ~$68M gold asset, extending the SOPAMIB nationalization from mine (Yako, July 9) toward full custody of the gold chain — sovereignty measured in ownership, not communiqués. Same day, in a nationwide broadcast, Traoré — himself Muslim — rules out sharia law and tells citizens studying it in Saudi Arabia to stay away and bring back technological skills instead: a secular-developmentalist state subordinating imported religious law to the productive program, of a piece with the gold posture. Behind it the July 13 architecture still stands — GATIA/MSA claimed Anefis in Kidal alongside FAMa and Africa Corps, the AES unified-force statute validated, France's 'reciprocal measures' confirmed as diplomatic mirror only, no economic content. Prediction 15 accumulates.",
-      "watching": "The $68M asset's place in the SOPAMIB structure — mine, refinery feed, or holding — and gold revenue routing to the unified force; whether Traoré's secular-developmentalist line hardens into policy on religious schooling; GATIA/MSA Anefis claim geolocated confirmation and JNIM response; AES unified-force first cross-border operation under the new statute; France Prediction 15 — next French action, if any, before December 31; Algeria formal AES alignment trajectory.",
+      "verdict": "July 22: Traoré addressed community leaders in Ouahigouya — “There can’t be two captains on one ship. If anyone screws up, I’ll take you down without a second thought.” The speech was not abstract. The junta’s second-in-command, Oumarou Yabre — head of intelligence — has not appeared publicly since late May. The third-in-command and government spokesman, Farouk Azaria Sorgho, disappeared mid-May; security sources describe the episode as an “abduction” by Traoré associates. This is a legible purge: a leader eliminating rivals before the contradictions of the program — three-front security war, accelerating gold nationalization, the secular-developmentalist line hardened in the July 20 broadcast — produce organized opposition at the top. The Western press will call this instability; the correct read is the reverse. Leaders who purge are usually winning. The material watch: whether JNIM can exploit the intelligence and communications gaps left by Yabre’s and Sorgho’s removal before they are refilled. The July 20 secular-developmentalist and gold-nationalization moves stand; Prediction 15 accumulates.",
+      "watching": "JNIM exploitation of intelligence and communications structure gaps post-Yabre/Sorgho removal; successor appointments to head-of-intelligence and government-spokesman roles; whether the secular-developmentalist line extends into policy on religious schooling; AES unified-force first cross-border operation; France Prediction 15 — next French action, if any, before December 31.",
       "sources": [
+        {
+          "label": "Vanguard — Traoré warns challengers: I’ll take you down",
+          "url": "https://www.vanguardngr.com/2026/07/ill-take-you-down-without-a-second-thought-burkina-fasos-traore-warns-challengers/"
+        },
         {
           "label": "Business Insider Africa — 100% state control over new $68M gold asset",
           "url": "https://africa.businessinsider.com/local/lifestyle/burkina-fasos-administration-asserts-100-state-control-over-the-new-dollar68-million/0rtz594"
-        },
-        {
-          "label": "MR Online — first public gold mine, Burkina's economic sovereignty",
-          "url": "https://mronline.org/2026/07/11/first-public-gold-mine-marks-new-chapter-for-burkina-fasos-economic-sovereignty/"
-        },
-        {
-          "label": "Daily Post — Traoré: no sharia law in Burkina Faso",
-          "url": "https://dailypost.ng/2026/07/20/sharia-law-cant-be-practiced-in-burkina-faso-president-traore/"
-        },
-        {
-          "label": "Pravda Burkina — AES defense ministers unified force statute",
-          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/07/11/7291.html"
         }
       ]
     },
@@ -111,7 +107,7 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-eight at Alekseyevo-Druzhkovka. Martyanov's July 15 post confirmed Russian reconnaissance-and-raid groups (DRGs) already operating inside the city in reconnaissance capacity — the same signature that preceded Konstantinovka's final phase. No geolocated breakthrough announced; the September 1 prediction is on track and accelerating. Force composition (6th MRD, airmobile brigades) and building-by-building infiltration methodology unchanged. Russia-decisive holds.",
+      "verdict": "Day twenty-nine at Alekseyevo-Druzhkovka. The September 1 prediction tracks forward unchanged: Russian DRG activity inside the city established July 15, force composition (6th MRD, airmobile brigades) and building-by-building methodology unchanged, no geolocated breakthrough announced. Russia-decisive holds.",
       "watching": "Geolocated Russian operational control inside Druzhkovka city center (Prediction 14 accelerating, Sept 1); Sloviansk second-axis indicators.",
       "sources": [
         {
@@ -150,9 +146,9 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — US strikes Kharg Island military sites July 21; oil infrastructure spared; 10-day ceasefire proposal on table, unaccepted; Kharg oil infrastructure intact",
+      "advantage": "Escalated — Iran claims drone-and-missile strike on US Kuwait base July 22; 11th consecutive night US strikes July 21; Baghaei MOU “practically impossible”; Kharg oil terminal intact",
       "trend": "escalating",
-      "basis": "July 21. US struck 90+ military targets on Kharg Island (air defense, coastal systems) — the oil export terminal, handling 90% of Iranian crude, was not struck; Trump cited 'decency.' Qatar, Egypt, and Pakistan presented a 10-day ceasefire proposal; neither side has accepted. Ten consecutive nights of strikes. The operational envelope now reaches Kharg Island militarily while the economic lever (oil terminal) remains unused. Prediction 6 watches.",
+      "basis": "July 22. Iran claimed a drone-and-missile strike on a US military base in Kuwait on the morning of July 22 — a GCC-territory escalation following the eleventh consecutive night of US strikes against Iran (July 21). Iranian Foreign Ministry spokesperson Baghaei stated the June MOU has become “practically impossible to implement” — declaratory withdrawal, not a negotiating position. Ghalibaf: Iran is “ready to face the United States.” The Qatar-Egypt-Pakistan 10-day ceasefire proposal (July 21) remains unanswered by both sides. Kharg Island oil export terminal (90% of Iranian crude) intact — Prediction 6 holds. The structural ceiling has not yet been tested at the oil infrastructure layer.",
       "sources": [
         {
           "label": "Axios — Iran mediators push new ceasefire, July 21",
@@ -191,6 +187,85 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-22",
+      "items": [
+        {
+          "text": "THE MOU CALLS ITS OWN TIME OF DEATH — IRAN STRIKES KUWAIT, ELEVENTH NIGHT: Iran claimed drone-and-missile strike on US military base in Kuwait July 22. United States completed eleventh consecutive night of strikes against Iran July 21. Baghaei: MOU “practically impossible to implement” — declaratory withdrawal. Ghalibaf: “ready to face the United States.” Qatar-Egypt-Pakistan 10-day ceasefire proposal unanswered. Kharg Island oil terminal intact — Prediction 6 holds. Managed escalation; the ceiling at the oil infrastructure layer not yet tested.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "ABC News — Iran live updates, Kuwait attack",
+              "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987&entryId=134911726"
+            },
+            {
+              "label": "Axios — Iran ceasefire proposal",
+              "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops"
+            },
+            {
+              "label": "Wikipedia — 2026 Iran war ceasefire",
+              "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
+            }
+          ]
+        },
+        {
+          "text": "TWO CAPTAINS — TRAORÉ MOVES AGAINST THE MEN WHO DISAPPEARED: Traoré addressed community leaders in Ouahigouya July 22: “There can’t be two captains on one ship.” The junta’s second-in-command Oumarou Yabre (head of intelligence) missing since late May; third-in-command Farouk Azaria Sorgho disappeared mid-May — security sources say abducted by Traoré associates. Legible purge before organized opposition forms. Western press: instability. Correct read: reverse. Watch: JNIM exploitation of intelligence gaps post-removal. Prediction 15 accumulates.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Vanguard — Traoré warns challengers",
+              "url": "https://www.vanguardngr.com/2026/07/ill-take-you-down-without-a-second-thought-burkina-fasos-traore-warns-challengers/"
+            },
+            {
+              "label": "Business Insider Africa — 100% state control gold asset",
+              "url": "https://africa.businessinsider.com/local/lifestyle/burkina-fasos-administration-asserts-100-state-control-over-the-new-dollar68-million/0rtz594"
+            }
+          ]
+        },
+        {
+          "text": "CHOE IN MOSCOW — THE ARMISTICE VISIT; KIM MAY FOLLOW: Choe Son Hui met Putin Kremlin July 19; Lavrov July 20 — third DPRK-Russia dialogue in Moscow this year. Russian military jet landed Pyongyang while Choe’s plane departed — logistics signal. KCNA July 22: DPRK “invariable support for all internal and external policies of the Russian Federation.” JoongAng Daily: visit pattern suggests Kim-Putin summit preparation. July 27 armistice anniversary in five days. Beijing CMC silence cycle 13.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NPR — Putin meets Choe Son Hui",
+              "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
+            },
+            {
+              "label": "NK News — Russian jet lands Pyongyang",
+              "url": "https://www.nknews.org/2026/07/russian-military-jet-lands-in-pyongyang-as-choe-son-hui-flies-to-moscow/"
+            },
+            {
+              "label": "JoongAng Daily — Kim-Putin summit speculation",
+              "url": "https://www.koreajoongangdaily.com/korea/north-korean-foreign-ministers-russia-visit-fuels-speculation-of-kimputin-summit/12779931"
+            }
+          ]
+        },
+        {
+          "text": "THE GOP BUYS THE PRIMARY — BARNES CAMP NAMES THE PLAY: Wisconsin Democratic gubernatorial primary narrows to two — Barnes and Hong (Rodriguez out, Crowley collapsed). Republican Governors Association channeled $2.2M into independent expenditures promoting Hong in Madison and Milwaukee — Democratic primary terrain. Barnes camp names the play: Republicans buying the candidate Tiffany wants to face. All general-election polling shows Barnes leading Tiffany +2 to +6; Hong trails Tiffany. Polymarket Hong 52%, Barnes 18% — reflects GOP money, not Democratic primary support distribution. Twenty days to August 11. Prediction 19 under pressure.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WisPolitics — Two-person race, GOP play",
+              "url": "https://www.wispolitics.com/2026/barnes-campaign-as-primary-turns-into-two-person-race-the-gop-tries-to-buy-the-candidate-tiffany-wants-to-face/"
+            },
+            {
+              "label": "WPR — Marquette poll: Hong, Barnes top field",
+              "url": "https://www.wpr.org/news/marquette-poll-hong-barnes-democratic-primary-governor-supreme-court-undecided"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Kharg Island oil terminal — ceasefire proposal accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon)",
+        "JNIM exploitation of Burkina intelligence gaps post-Yabre/Sorgho removal",
+        "Kim-Putin summit announcement (pre-summit coordination signal established)",
+        "July 27 DPRK armistice anniversary force demonstrations",
+        "Druzhkovka geolocated city-center control (Prediction 14, Sept 1, day 29)",
+        "Section 122 sunset July 24 — replacement tariff rate on China",
+        "July Politburo July 30",
+        "Barnes organizing vs GOP-funded Hong momentum (Prediction 19, 20 days to Aug 11)"
+      ]
+    },
     {
       "date": "2026-07-21",
       "items": [
@@ -2086,7 +2161,7 @@
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
-      "note": "July 21: US struck 90+ military targets on Kharg Island (air defense systems, coastal infrastructure) — the oil export terminal, handling 90% of Iranian crude, was not struck. Military targets on the island do not constitute the trigger; this prediction requires the oil export terminal itself to be struck. Prediction holds. Qatar-Egypt-Pakistan ceasefire proposal on the table unaccepted; the terminal remains the economic lever not yet spent.",
+      "note": "July 22: Iran claimed a drone-and-missile strike on a US military base in Kuwait — GCC-territory kinetic action, not a Kharg oil terminal strike. The terminal remains intact; no US strike on oil export infrastructure reported. MOU now “practically impossible to implement” per Baghaei (declaratory withdrawal). Eleventh night of US strikes against Iran. Prediction holds — oil export terminal not struck is the trigger; military targets on Kharg and GCC-theater strikes do not constitute it.",
       "schema_version": 1
     },
     {
@@ -2155,7 +2230,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day 26. 193 combat engagements reported across the Sloviansk direction in the July 19 cycle. Russian forces hold fire control over Druzhkovka's eastern and southern approaches; 'surrounded' language now routine in positional reporting. Martyanov July 17 Sea Control post: Black Sea Fleet operationally effective, blocking 404 routes. September 1 prediction accelerating.",
+      "note": "Day 29. September 1 on track. No geolocated city-center position announced. Russian DRG presence inside city confirmed July 15 (Martyanov); force composition (6th MRD, airmobile) and building-by-building methodology unchanged. Prediction accelerating.",
       "schema_version": 1
     },
     {
@@ -2164,7 +2239,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day 23 (July 19). France implemented diplomatic mirror measures July 7 (expelled Burkinabe diplomatic staff; all French diplomats departed Burkina Faso). No economic, financial, aid-suspension, or operational measures since. Prediction accumulates: France has named no enforcement mechanism that imposes real costs on Ouagadougou.",
+      "note": "Day 24 (July 22). No economic, financial, aid-suspension, or operational measures from France since diplomatic mirror action July 7 (expelled Burkinabè staff; all French diplomats departed). Prediction accumulates: France names no enforcement mechanism that imposes real costs on Ouagadougou.",
       "schema_version": 1
     },
     {
@@ -2208,7 +2283,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 21: Polymarket odds — Hong 52%, Crowley 24%, Barnes 18%. A major reshuffling from the pre-Rodriguez field. Read with care: Republican ad spending targets Hong specifically to boost her as a weaker general-election opponent for Tiffany, meaning the Polymarket odds may reflect GOP money more than cross-section Democratic primary support. Barnes holds the fundraising lead ($840K H1 donations) and statewide name recognition; Crowley holds the Evers endorsement and Milwaukee County organizing network. Effective confidence lower than the filed 45 — this is a genuine three-person race. Twenty-one days to August 11."
+      "note": "July 22: Race consolidates to two candidates — Rodriguez out (campaign finance fraud), Crowley campaign collapsed post-Evers endorsement; WisPolitics frames explicitly as Barnes vs. Hong. Republican Governors Association channeled $2.2 million into independent expenditures promoting Hong on television in Madison and Milwaukee — Democratic primary terrain. Barnes camp names the play: Republicans buying the candidate Tiffany wants to face. All available general-election polling shows Barnes leading Tiffany by two to six points; Hong trails Tiffany in the same polls. Polymarket (July 21): Hong 52%, Barnes 18% — reflects GOP money and progressive enthusiasm simultaneously, neither of which translates cleanly into primary-day turnout. Twenty days to August 11."
     },
     {
       "schema_version": 2,
