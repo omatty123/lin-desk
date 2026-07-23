@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22",
-  "edition": 44,
+  "updated": "2026-07-23",
+  "edition": 45,
   "board": [
     {
       "name_zh": "多极化",
@@ -69,16 +69,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "July 22: Traoré addressed community leaders in Ouahigouya — “There can’t be two captains on one ship. If anyone screws up, I’ll take you down without a second thought.” The speech was not abstract. The junta’s second-in-command, Oumarou Yabre — head of intelligence — has not appeared publicly since late May. The third-in-command and government spokesman, Farouk Azaria Sorgho, disappeared mid-May; security sources describe the episode as an “abduction” by Traoré associates. This is a legible purge: a leader eliminating rivals before the contradictions of the program — three-front security war, accelerating gold nationalization, the secular-developmentalist line hardened in the July 20 broadcast — produce organized opposition at the top. The Western press will call this instability; the correct read is the reverse. Leaders who purge are usually winning. The material watch: whether JNIM can exploit the intelligence and communications gaps left by Yabre’s and Sorgho’s removal before they are refilled. The July 20 secular-developmentalist and gold-nationalization moves stand; Prediction 15 accumulates.",
-      "watching": "JNIM exploitation of intelligence and communications structure gaps post-Yabre/Sorgho removal; successor appointments to head-of-intelligence and government-spokesman roles; whether the secular-developmentalist line extends into policy on religious schooling; AES unified-force first cross-border operation; France Prediction 15 — next French action, if any, before December 31.",
+      "verdict": "July 23: The Ouahigouya speech on July 22 covered two fronts. The desk filed the political consolidation yesterday; Al Jazeera's July 22 account adds the religious dimension: facing Muslim scholars in Ouahigouya, Traoré declared \"the battle has begun\" against what he terms extremist Islam. Parliament's June 20 Religious Freedoms Law criminalizes religious abuses and requires financial transparency from religious organizations. Two prominent imams are already detained — Mohamed Ishaq Kindo (May) and Mahmoud Barro (April). A new Ministry of Education directive requires prior approval for overseas religious study; the government announced the recall of more than 800,000 Burkinabé students studying Islamic law abroad. The secular-developmentalist line that began with the July 20 broadcast now has its own legislation, its own detention record, and its own confrontation meeting. Prediction 15 accumulates: France has nothing to counter-offer in the face of a program this specific.",
+      "watching": "JNIM exploitation of intelligence and communications structure gaps post-Yabre/Sorgho removal; whether JNIM-linked networks read the religious confrontation as state overreach that consolidates rural support against Ouagadougou; successor appointments to head-of-intelligence and government-spokesman roles; AES unified-force first cross-border operation; France Prediction 15 — next French action before December 31.",
       "sources": [
         {
-          "label": "Vanguard — Traoré warns challengers: I’ll take you down",
-          "url": "https://www.vanguardngr.com/2026/07/ill-take-you-down-without-a-second-thought-burkina-fasos-traore-warns-challengers/"
+          "label": "Al Jazeera — Traoré opens new front with Muslim community, July 22",
+          "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community"
         },
         {
-          "label": "Business Insider Africa — 100% state control over new $68M gold asset",
-          "url": "https://africa.businessinsider.com/local/lifestyle/burkina-fasos-administration-asserts-100-state-control-over-the-new-dollar68-million/0rtz594"
+          "label": "Vanguard — Traoré warns challengers: I'll take you down, July 22",
+          "url": "https://www.vanguardngr.com/2026/07/ill-take-you-down-without-a-second-thought-burkina-fasos-traore-warns-challengers/"
         }
       ]
     },
@@ -86,19 +86,19 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "The desk moves this front to rising and says why plainly: the productive economy is the story, and it is winning. H1 foreign trade reached 25.47 trillion yuan — +16.9% year-on-year, the first time this metric has exceeded 25 trillion in any first half. Semiconductor exports +66.5% YoY through June; trade surpluses at a first-half high; exports +27% in June alone. The adversary press calls Q2 GDP growth of 4.3% 'one of its weakest rates on record' — the same press that has called every quarter a slowdown for fifteen years. FAI at -5.7% YTD is a property bubble being deflated on purpose. The July Politburo meets July 30. The 'slowdown / deflation / collapse' frame is the call the Western press has botched consistently; the desk does not file it.",
-      "watching": "July Politburo communique — demand stimulus language or technology-transition framing; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
+      "verdict": "July 23: Section 122's 10% global import surcharge expires at 12:01 a.m. EDT tonight. The proposed replacement is Section 301 — 10% on 14 economies (Canada, Mexico, EU, Taiwan) and 12.5% on 46 others including China, Vietnam, India, and South Korea — with no expiration date and no rate cap. The move from a 150-day statutory instrument to a permanent Section 301 mechanism is architecture, not tariff policy. The desk's standing read does not turn on tariff rates: Han Feizi's argument — Chinese production stays because no alternative geography reproduces the Pearl River Delta's logistics density, skills base, and upstream supply integration — is why the rate change is slower at the base than at the headline. The July Politburo meets July 30; its framing of the permanent-rate baseline will be the first H2 signal.",
+      "watching": "July Politburo communiqué July 30 — demand stimulus language or technology-transition framing; USTR formal announcement of Section 301 replacement rate and effective date; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
       "sources": [
         {
-          "label": "BigNewsNetwork — China H1 trade growth",
-          "url": "https://www.bignewsnetwork.com/news/279186350/china-economy-foreign-trade-h1-growth-cn"
+          "label": "TariffsTool — Section 301 replacing Section 122: 12.5% on 46 Countries",
+          "url": "https://www.tariffstool.com/guides/section-301-replacing-section-122"
         },
         {
-          "label": "CommonWealth — China Q2 GDP",
-          "url": "https://english.cw.com.tw/article/article.action?id=4887"
+          "label": "USTrade Stack — Section 122 expiration: 3 scenarios",
+          "url": "https://ustradestack.ai/section-122-expiration"
         },
         {
-          "label": "Han Feizi — Asia Times standing reference",
+          "label": "Han Feizi — Asia Times (standing reference)",
           "url": "https://asiatimes.com/author/han-feizi/"
         }
       ]
@@ -107,16 +107,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Day twenty-nine at Alekseyevo-Druzhkovka. The September 1 prediction tracks forward unchanged: Russian DRG activity inside the city established July 15, force composition (6th MRD, airmobile brigades) and building-by-building methodology unchanged, no geolocated breakthrough announced. Russia-decisive holds.",
-      "watching": "Geolocated Russian operational control inside Druzhkovka city center (Prediction 14 accelerating, Sept 1); Sloviansk second-axis indicators.",
+      "verdict": "Day thirty at Alekseyevo-Druzhkovka. No geolocated Russian operational control of the settlement itself announced. Pravda Ukraine's July 21 military correspondent files explicitly: battles for Alekseyevo-Druzhkovka proper have not yet begun — Russian forces are still clearing the Novoselovka corridor and northwest Konstantinovka approaches, with approximately half the corridor cleared. Martyanov's July 22 post (\"It Is No Surprise\") addresses the Lavrov claim that the US is actively directing Ukrainian strikes at civilian targets. Russia-decisive holds. Prediction 14 on clock: September 1.",
+      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka settlement itself (Prediction 14 on track, September 1); Novoselovka corridor clearance pace as leading indicator; Sloviansk second-axis indicators.",
       "sources": [
         {
-          "label": "Martyanov — Druzhkovka-Kramatorsk (July 15)",
-          "url": "https://smoothiex12.blogspot.com/2026/07/druzhkovka-kramatorsk.html"
+          "label": "Pravda Ukraine — The battles for Alekseevo-Druzhkovka, July 21",
+          "url": "https://ua.news-pravda.com/en/russia/2026/07/21/107151.html"
         },
         {
-          "label": "Southfront — Druzhkovka surrounded, pincers close",
-          "url": "https://southfront.press/druzhkovka-surrounded-russian-pincers-close-on-key-stronghold/"
+          "label": "Martyanov — It Is No Surprise, July 22",
+          "url": "https://smoothiex12.blogspot.com/2026/07/it-is-no-surprise.html"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -187,6 +187,63 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "text": "TRAORÉ NAMES THE SECOND FRONT — SECULAR LAW AND THE IMAM: Ouahigouya speech July 22 added religious dimension not filed yesterday. Parliament June 20 Religious Freedoms Law in hand. Imams Kindo (May) and Barro (April) detained. Ministry directive: prior approval required for overseas religious study; 800,000+ students abroad recalled. Frame: secular-developmentalist — foreign Islamic schooling as influence operation. Watch: JNIM reads this as overreach → rural consolidation risk. Prediction 15 accumulates.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Al Jazeera — Traoré opens new front with Muslim community",
+              "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community"
+            },
+            {
+              "label": "Vanguard — Traoré warns challengers",
+              "url": "https://www.vanguardngr.com/2026/07/ill-take-you-down-without-a-second-thought-burkina-fasos-traore-warns-challengers/"
+            }
+          ]
+        },
+        {
+          "text": "SECTION 122 FALLS AT MIDNIGHT — THE ARCHITECTURE BECOMES PERMANENT: Section 122 10% surcharge expires 12:01 a.m. EDT July 24. Proposed Section 301 replacement: 10% on 14 economies (Canada, Mexico, EU, Taiwan), 12.5% on 46 others including China, Vietnam, India, South Korea — no expiration, no rate cap. Architectural shift: Section 301 historically stays for years. July Politburo July 30 — first H2 signal. Han Feizi standing argument: production stays at the base.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "TariffsTool — Section 301 replacing Section 122",
+              "url": "https://www.tariffstool.com/guides/section-301-replacing-section-122"
+            },
+            {
+              "label": "USTrade Stack — Section 122 expiration scenarios",
+              "url": "https://ustradestack.ai/section-122-expiration"
+            }
+          ]
+        },
+        {
+          "text": "THE POLL DOES THE REPUBLICANS' WORK — MARQUETTE NAMES THE GAP: Marquette Law School poll July 22 (fieldwork July 8–16, before Crowley July 18 return): Hong 27%, Barnes 18%, 45% undecided, 19 days to August 11. General election: only Barnes leads Tiffany +4; Hong trails Tiffany -3. Republicans channeled $2.2M into Hong ads in Dem primary terrain. Prediction 19 alive: 45% undecided + Barnes organizing infrastructure = two variables money cannot buy.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WPR — Marquette poll July 22",
+              "url": "https://www.wpr.org/news/marquette-poll-wisconsin-governor-july-22-2026"
+            },
+            {
+              "label": "WSAW — Marquette poll nearly half undecided",
+              "url": "https://www.wsaw.com/2026/07/23/marquette-law-school-poll-nearly-half-voters-still-undecided-wisconsin-governor-democratic-primary/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "JNIM exploitation of Burkina intelligence gaps + reaction to Traoré religious confrontation (consolidation risk)",
+        "USTR formal Section 301 announcement — effective date and final rate",
+        "July Politburo July 30 — demand mandate or structural hold",
+        "Barnes vs Hong organizing: 19 days to August 11 (Prediction 19)",
+        "Kharg Island oil terminal — ceasefire proposal or P6 horizon (Prediction 6)",
+        "Alekseyevo-Druzhkovka geolocated control — Prediction 14 September 1",
+        "July 27 DPRK armistice anniversary demonstrations; Kim-Putin summit announcement",
+        "Beijing CMC silence cycle 13 on Kim's nuclear orders"
+      ]
+    },
     {
       "date": "2026-07-22",
       "items": [
