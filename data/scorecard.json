@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-24",
-  "edition": 46,
+  "updated": "2026-07-25",
+  "edition": 47,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "July 24: Day thirteen consecutive nights of US strikes against Iran. Bahrain activated air-raid sirens July 23 — the first GCC territory to enter the alert perimeter. Houthis struck a Red Sea vessel and announced expanded targeting. Crude oil hit $100 per barrel, first time since 2022. Kharg Island oil export terminal intact; Prediction 6 holds. Trump: not ready to negotiate. The Iran front is the multipolar stress test in real time — every day the Atlantic order cannot deliver a ceasefire costs its GCC partners visibly.",
-      "watching": "Kharg Island oil terminal — ceasefire proposal accepted or US escalation to oil infrastructure (Prediction 6, Sept 1 horizon); whether any party moves to resurrect a framework after MOU void; GCC mutual-defense invocations; Mojtaba Khamenei first public appearance.",
+      "verdict": "July 25: Day fourteen of US strikes against Iran. US strikes near Ahvaz (Khuzestan Province) killed four civilians and wounded five; provincial deputy governor Valiollah Hayati confirmed; Shahid Baghaei Hospital struck and rendered inoperable, 200+ patients evacuated. A ceasefire signal drove crude below $98 — a retreat from Thursday's $100 peak — but no framework has been formalized. Kharg Island oil export terminal intact; Prediction 6 holds at September 1 horizon. The Ahvaz hospital and civilian casualty pattern is the multipolar information windfall the desk has been watching for.",
+      "watching": "Kharg Island oil terminal — P6 Sept 1 horizon ($98 crude, ceasefire signal not formalized); whether any formal ceasefire proposal is tabled and accepted; Ahvaz civilian/hospital strike as multipolar information operation; GCC mutual-defense invocations; Mojtaba Khamenei first public appearance.",
       "sources": [
         {
-          "label": "Reuters: Bahrain air-raid sirens activated",
-          "url": "https://www.reuters.com/world/middle-east/bahrain-activates-air-raid-sirens-houthi-threat-2026-07-23/"
+          "label": "RT: Heavy explosions rock Ahvaz, 4 killed 5 wounded near city",
+          "url": "https://www.rt.com/news/643407-us-strikes-iran-ahvaz/"
         },
         {
-          "label": "AP: Crude oil tops $100 on Iran escalation",
-          "url": "https://apnews.com/article/oil-prices-100-iran-us-strikes-2026-07-24"
+          "label": "Al Jazeera: What are 'civilian' sites and where have US and Iran hit?",
+          "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit"
         },
         {
-          "label": "Reuters: Houthis expand Red Sea targeting",
-          "url": "https://www.reuters.com/world/middle-east/houthis-strike-red-sea-vessel-2026-07-23/"
+          "label": "CBS News: US carries out more strikes as Trump threatens Iran and Houthis",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/"
         }
       ]
     },
@@ -44,16 +44,20 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "July 24: Bloomberg reported July 21 that PRC-DPRK H1 2026 trade reached $1.5 billion, up 19.6% year-on-year — the highest since the 2017 sanctions peak. Panghyon Aviation Complex drone display preparations confirmed ahead of July 27 armistice anniversary. Choe Son Hui met Putin July 19 with no stated occasion: pre-summit protocol coordination is the desk's read. July 27 is three days out. Prediction 23 (new) files on the Kim-Putin summit before August 15, confidence 62.",
-      "watching": "Kim-Putin summit announcement (pre-summit coordination signal established); July 27 DPRK armistice anniversary force demonstrations; Kang Kon commissioning September 9; Beijing public output on CMC nuclear orders (silence cycle 13).",
+      "verdict": "July 25: The Kremlin confirmed Kim Jong Un will visit Russia — July 27, the DPRK armistice anniversary, is the named window; Prediction 23 advances toward resolution. PRC-DPRK H1 2026 trade $1.5 billion (+19.6% YoY, record since 2017) confirms material integration trajectory. A Kim-Putin summit formalizes the Russia-DPRK security architecture and sets the frame for the Kang Kon commissioning (September 9). The desk watches the joint statement for bilateral security guarantee language.",
+      "watching": "Kim-Putin summit joint statement — bilateral security guarantee language? (Prediction 23, resolves by Aug 15); Kang Kon commissioning September 9; Beijing CMC public output on Kim's nuclear/naval orders (silence cycle rising).",
       "sources": [
+        {
+          "label": "Deccan Herald: Kim-Putin meet on the cards as Kremlin confirms Kim's visit to Russia",
+          "url": "https://www.deccanherald.com/amp/story/world%2Fkim-putin-meet-on-the-cards-as-kremlin-confirms-n-korean-leaders-visit-to-russia-2681625"
+        },
         {
           "label": "Bloomberg: PRC-DPRK H1 2026 trade $1.5B +19.6% YoY",
           "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-north-korea-trade-highest-since-2017"
         },
         {
-          "label": "NK News: Panghyon drone display preparation confirmed",
-          "url": "https://www.nknews.org/2026/07/north-korea-prepares-panghyon-drone-display-july-27/"
+          "label": "NPR/KPBS: Putin meets North Korean foreign minister in diplomatic push",
+          "url": "https://www.kpbs.org/news/international/2026/07/20/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
         }
       ]
     },
@@ -61,16 +65,20 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "July 24: The Council of Ministers convened July 23 and passed a supplementary budget alongside an NPO registry decree requiring all non-profit organizations to register with the state. Read alongside the Religious Freedoms Law (June 20), imam detentions (Kindo May, Barro April), and the student recall: Ouagadougou is constructing an architecture of state-mediated associational life, closing the foreign-funded civil society channel. The desk reads this as state-building — the JNIM overreach risk is the counter-signal to watch.",
-      "watching": "JNIM exploitation of intelligence and communications structure gaps post-Yabre/Sorgho removal; whether JNIM-linked networks read the religious confrontation as state overreach that consolidates rural support against Ouagadougou; successor appointments to head-of-intelligence and government-spokesman roles; AES unified-force first cross-border operation; France Prediction 15 — next French action before December 31.",
+      "verdict": "July 25: Burkina Faso announced $18 billion in gold revenue generated since Traoré took power in 2022 — external accounting of the resource-sovereignty program. Six active industrial mines are now majority locally owned; three under direct state control via SOPAMIB; Yako state mine inaugurated July 9. The NPO registry decree (July 23) is operational: all non-profits have 15 days to register, foreign-funded organizations included. The desk's risk flag: JNIM's renewed offensive in Soum Province targets the harvest corridor the Faso Mêbo belt route serves — state-building and state security must advance together.",
+      "watching": "JNIM Soum Province harvest corridor exploitation — Faso Mêbo belt route at stake; NPO 15-day registration clock (deadline early August); JNIM reads on religious confrontation as rural consolidation opportunity; successor appointments post-Yabre/Sorgho; France Prediction 15 — no measures day 26.",
       "sources": [
         {
-          "label": "Agence d'Information du Burkina: Conseil des ministres 23 juillet",
-          "url": "https://www.aib.bf/actualite/compte-rendu-conseil-des-ministres-23-juillet-2026/"
+          "label": "Africa Briefing: Burkina Faso reaps $18bn gold windfall",
+          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         },
         {
-          "label": "RFI: Burkina Faso decret enregistrement ONG",
-          "url": "https://www.rfi.fr/fr/afrique/20260724-burkina-faso-decret-organisations-non-gouvernementales"
+          "label": "Garowe Online: Burkina Faso says it has earned $18 billion from gold since Traoré took power",
+          "url": "https://www.garoweonline.com/en/world/africa/burkina-faso-says-it-has-earned-18-billion-from-gold-since-traor-took-power"
+        },
+        {
+          "label": "African Security Analysis: Renewed JNIM Offensive in Soum Province",
+          "url": "https://www.africansecurityanalysis.org/updates/burkina-faso-renewed-jnim-offensive-in-soum-province"
         }
       ]
     },
@@ -95,16 +103,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "July 24: Ukraine struck the Kerch thermal power plant and Voronezh semiconductor production facilities this week — an infrastructure campaign reaching Russian territory proper, not forward positions. The technology and targeting data enabling these strikes is the material question for Beijing and Pyongyang. Day thirty at Alekseyevo-Druzhkovka: no geolocated Russian city-center control, Prediction 14 on track. Martyanov's attrition arithmetic unchanged. Atlantic contribution to Ukraine — in precision targeting and systems — is accelerating even as volume plateaus.",
-      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka settlement itself (Prediction 14 on track, September 1); Novoselovka corridor clearance pace as leading indicator; Sloviansk second-axis indicators.",
+      "verdict": "July 25: First Russian assault units entered the outskirts of Alekseyevo-Druzhkovka on July 25 — day thirty-one of operations. No geolocated city-center control yet; the settlement's outskirts are the current operational boundary. Prediction 14 is advancing ahead of original schedule. Russia set a daily drone launch record of 538 on July 25. The technology and targeting data flowing from Ukraine's Kerch thermal plant and Voronezh semiconductor strikes remains the desk's watch item for Beijing and Pyongyang.",
+      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka settlement itself (Prediction 14 advancing ahead of schedule, September 1 horizon); whether outskirts entry converts to city-center fire control before August; Novoselovka corridor clearance pace as leading indicator.",
       "sources": [
         {
-          "label": "Reuters: Ukraine strikes Kerch thermal power plant",
-          "url": "https://www.reuters.com/world/europe/ukraine-strikes-kerch-power-plant-2026-07-23/"
+          "label": "Southfront: Russian Army Reaches Outskirts of Druzhkovka",
+          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
         },
         {
-          "label": "Reuters: Ukraine drone attack Voronezh semiconductor plant",
-          "url": "https://www.reuters.com/world/europe/ukraine-drone-attack-voronezh-chip-plant-2026-07-24/"
+          "label": "Pravda Ukraine: Situation and main events as of July 25",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/25/107630.html"
         },
         {
           "label": "Martyanov: Reminiscence of the Future",
@@ -119,15 +127,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Day thirty at Alekseyevo-Druzhkovka (July 24). September 1 prediction on track (Prediction 14). Ukrainian infrastructure campaign deepening: Kerch thermal power plant and Voronezh semiconductor facility struck July 23-24. Technology and targeting data enabling these operations is the desk's watch item — what flows to Beijing and Pyongyang. Attrition arithmetic unchanged; Russian advance measured at city-block level. Martyanov standing reference.",
+      "basis": "Day thirty-one at Alekseyevo-Druzhkovka (July 25). First Russian assault units entered outskirts on July 25 — qualitative acceleration ahead of the September 1 prediction horizon (Prediction 14). No geolocated city-center control yet. Russia set a daily drone launch record of 538. Kerch thermal plant and Voronezh semiconductor facility strikes this week — technology and targeting data transfer to Beijing and Pyongyang is the desk's watch item. Martyanov standing reference.",
       "sources": [
         {
-          "label": "Reuters: Kerch thermal plant strike",
-          "url": "https://www.reuters.com/world/europe/ukraine-strikes-kerch-power-plant-2026-07-23/"
+          "label": "Southfront: Russian Army Reaches Outskirts of Druzhkovka",
+          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
         },
         {
-          "label": "Reuters: Voronezh semiconductor plant hit",
-          "url": "https://www.reuters.com/world/europe/ukraine-drone-attack-voronezh-chip-plant-2026-07-24/"
+          "label": "Pravda Ukraine: July 25 situation report",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/25/107630.html"
         },
         {
           "label": "Martyanov: Reminiscence of the Future",
@@ -138,21 +146,17 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Escalated — day 13; Bahrain air-raid sirens; crude at $100",
+      "advantage": "Escalated — day 14; Ahvaz civilian casualties; $98 crude on ceasefire signal",
       "trend": "escalating",
-      "basis": "July 24. Day thirteen consecutive nights of US strikes. Bahrain activated air-raid sirens July 23 — first GCC territory in the alert perimeter. Houthis expanded Red Sea targeting. Crude at $100, first time since 2022. Kharg Island oil export terminal intact; Prediction 6 holds at September 1 horizon. Trump: not ready to negotiate. No ceasefire proposal accepted by either side.",
+      "basis": "July 25. Day fourteen consecutive nights of US strikes. Strikes near Ahvaz (Khuzestan Province) killed four civilians and wounded five; Shahid Baghaei Hospital struck and rendered inoperable, 200+ patients evacuated. A ceasefire signal drove crude from $100 to $98 — no ceasefire formalized. Kharg Island oil export terminal intact; Prediction 6 holds at September 1 horizon.",
       "sources": [
         {
-          "label": "Reuters: Bahrain air-raid sirens",
-          "url": "https://www.reuters.com/world/middle-east/bahrain-activates-air-raid-sirens-houthi-threat-2026-07-23/"
+          "label": "RT: Heavy explosions rock Ahvaz, 4 killed 5 wounded near city",
+          "url": "https://www.rt.com/news/643407-us-strikes-iran-ahvaz/"
         },
         {
-          "label": "AP: Crude oil $100 no ceasefire",
-          "url": "https://apnews.com/article/oil-prices-100-iran-us-strikes-2026-07-24"
-        },
-        {
-          "label": "Reuters: Houthis Red Sea targeting",
-          "url": "https://www.reuters.com/world/middle-east/houthis-strike-red-sea-vessel-2026-07-23/"
+          "label": "CBS News: US carries out more strikes, Trump threatens Iran and Houthis",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/"
         }
       ]
     },
@@ -179,6 +183,84 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "text": "FOURTEEN NIGHTS IN TEHRAN; THE OIL ARITHMETIC SHIFTS: US strikes near Ahvaz killed four civilians and wounded five on day fourteen; Shahid Baghaei Hospital struck and inoperable, 200+ patients evacuated. A ceasefire signal drove crude to $98 — a retreat from Thursday's $100 — but no framework formalized. Kharg Island oil export terminal intact; Prediction 6 holds at September 1 horizon. The Ahvaz hospital and civilian casualty pattern is the multipolar information windfall the desk has been watching for.",
+          "beat": "multipolarity",
+          "links": [
+            {
+              "label": "RT: Heavy explosions rock Ahvaz, 4 killed 5 wounded near city",
+              "url": "https://www.rt.com/news/643407-us-strikes-iran-ahvaz/"
+            },
+            {
+              "label": "CBS News: US carries out more strikes as Trump threatens Iran",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU'S GOLD, EIGHTEEN BILLION DEEP — AND THE BILL FROM SOUM: Burkina Faso announced $18 billion in gold revenue since Traoré took power in 2022 — external accounting of the resource-sovereignty program, six mines majority locally owned, three directly state-controlled via SOPAMIB. NPO registry decree now operational; all non-profits have 15 days to register, foreign-funded organizations included. JNIM's renewed offensive in Soum Province targets the harvest corridor the Faso Mêbo belt route serves — state-building and state security must advance together.",
+          "links": [
+            {
+              "label": "Africa Briefing: Burkina Faso reaps $18bn gold windfall",
+              "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
+            },
+            {
+              "label": "Garowe Online: Burkina Faso says it has earned $18 billion from gold since Traoré",
+              "url": "https://www.garoweonline.com/en/world/africa/burkina-faso-says-it-has-earned-18-billion-from-gold-since-traor-took-power"
+            },
+            {
+              "label": "African Security Analysis: Renewed JNIM Offensive in Soum Province",
+              "url": "https://www.africansecurityanalysis.org/updates/burkina-faso-renewed-jnim-offensive-in-soum-province"
+            }
+          ]
+        },
+        {
+          "text": "FIRST UNITS AT THE OUTSKIRTS; SEPTEMBER 1 IN VIEW: First Russian assault units entered the outskirts of Alekseyevo-Druzhkovka on July 25 — day thirty-one. No geolocated city-center control yet; Prediction 14 advancing ahead of schedule at September 1 horizon. Russia set a daily drone launch record of 538. The operational signature matches pre-final phases at Konstantinovka.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront: Russian Army Reaches Outskirts of Druzhkovka",
+              "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+            },
+            {
+              "label": "Pravda Ukraine: July 25 situation report",
+              "url": "https://ua.news-pravda.com/en/world/2026/07/25/107630.html"
+            }
+          ]
+        },
+        {
+          "text": "THREE CLOCKS: PYONGYANG, BEIJING, MADISON: Kremlin confirmed Kim Jong Un will visit Russia — July 27 armistice anniversary is the named window; Prediction 23 advances toward resolution. PRC-DPRK H1 trade $1.5B (+19.6% YoY) confirms material integration trajectory. Wisconsin: post-Crowley-scandal dynamics consolidate around Barnes; 17 days to August 11 primary; Prediction 19 alive.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Deccan Herald: Kim-Putin meet on the cards as Kremlin confirms Kim's visit",
+              "url": "https://www.deccanherald.com/amp/story/world%2Fkim-putin-meet-on-the-cards-as-kremlin-confirms-n-korean-leaders-visit-to-russia-2681625"
+            },
+            {
+              "label": "Bloomberg: PRC-DPRK H1 2026 trade $1.5B +19.6% YoY",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-north-korea-trade-highest-since-2017"
+            },
+            {
+              "label": "WPR: Marquette poll July 22 — Barnes, Hong, Crowley scandal dynamics",
+              "url": "https://www.wpr.org/news/marquette-poll-wisconsin-governor-july-22-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Kharg Island oil terminal — P6 Sept 1 horizon ($98 crude, ceasefire signal not formalized)",
+        "Kim-Putin summit joint statement — bilateral security guarantee language? (P23)",
+        "Alekseyevo-Druzhkovka geolocated city-center control (P14 advancing ahead of schedule, Sept 1)",
+        "JNIM Soum Province harvest corridor — Faso Mêbo belt route",
+        "NPO 15-day registration clock — deadline early August",
+        "July Politburo July 30",
+        "Barnes commanding position — 17 days to Aug 11 (P19)",
+        "Kang Kon commissioning September 9"
+      ]
+    },
     {
       "date": "2026-07-24",
       "items": [
@@ -2280,7 +2362,7 @@
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
-      "note": "July 24: Crude oil reached $100 per barrel on day 13 of US strikes, with Bahrain air-raid sirens and Houthis expanding Red Sea targeting. Kharg Island oil export terminal remains intact — no US strike on oil export infrastructure. Prediction holds at September 1 horizon. The terminal is the single remaining constraint; military targets on Kharg and GCC-theater strikes do not trigger it.",
+      "note": "July 25: Day fourteen of US strikes. Ahvaz civilian casualties (4 dead, 5 wounded near city; Shahid Baghaei Hospital struck and inoperable). A ceasefire signal drove crude from $100 to $98 — no framework formalized. Kharg Island oil export terminal intact — no US strike on oil infrastructure. Prediction holds at September 1 horizon. The terminal is the single remaining constraint; civilian-casualty escalation and hospital strikes are not the trigger.",
       "schema_version": 1
     },
     {
@@ -2349,7 +2431,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day 30 (July 24). September 1 on track. No geolocated Russian operational control of Alekseyevo-Druzhkovka city center announced. DRG presence inside city confirmed July 15 (Martyanov). Ukrainian deep-strike operations this week — Kerch thermal plant and Voronezh semiconductor facility — are a parallel development: technology and intelligence transfer signal to watch for Beijing and Pyongyang. Prediction accelerating.",
+      "note": "Day thirty-one (July 25). First Russian assault units entered Alekseyevo-Druzhkovka outskirts July 25 — qualitative acceleration ahead of original schedule. No geolocated city-center control yet; outskirts entry is the current operational boundary. Russia set daily drone record 538 on July 25. September 1 horizon advancing ahead of schedule. DRG presence inside city confirmed July 15 (Martyanov); outskirts entry July 25 = the pattern is tracking.",
       "schema_version": 1
     },
     {
@@ -2402,7 +2484,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 24: NBC News reported July 23 that Rep. Mark Crowley is linked to a \"Dirt McGirk\" burner Twitter account posting homophobic and sexist content 2010-14. Evers endorsee raised $550K in 5 days post-endorsement. Barnes remains the only Democrat beating Tiffany (+4, Marquette July 22). GOP spending $2.2M on Hong ads = honest fear signal about Barnes. Crowley scandal 18 days before Aug 11 primary compounds consolidation dynamics. Prediction alive."
+      "note": "July 25: Post-Crowley-scandal consolidation favors Barnes. Crowley's July 23 NBC 'Dirt McGirk' burner revelation (homophobic/sexist posts 2010–14) effectively ended his viability; Evers endorsee raised $550K in 5 days but the scandal absorbed the momentum. Barnes remains the only Democrat beating Tiffany (+4, Marquette July 22). Seventeen days to August 11. Prediction advancing toward resolution."
     },
     {
       "schema_version": 2,
@@ -2470,7 +2552,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "Filed July 24. Choe Son Hui met Putin at the Kremlin July 19 with no stated occasion — pre-summit protocol coordination is the desk's read. July 27 DPRK armistice anniversary is the named window. PRC-DPRK H1 trade $1.5B +19.6% YoY (Bloomberg July 21, record since 2017) confirms material integration trajectory. A Kim-Putin summit would formalize the Russia-DPRK security architecture and provide the framework for the Kang Kon commissioning (Sept 9). Confidence 62: signal present; timing confirmation absent."
+      "note": "July 25: Kremlin confirmed Kim Jong Un will visit Russia. July 27 DPRK armistice anniversary is the named window. Prediction advancing toward resolution — the summit confirmation is the pre-resolution signal; the actual face-to-face meeting is the resolution criterion. Watching: joint statement language — does it name a bilateral security guarantee? That is the quality of the outcome, not the resolution criterion itself."
     }
   ],
   "corrections": [
