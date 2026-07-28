@@ -1,29 +1,25 @@
 {
-  "updated": "2026-07-27",
-  "edition": 49,
+  "updated": "2026-07-28",
+  "edition": 50,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "July 27: The US-Iran strike pause extended to a second night (July 26) and Iran signaled through Oman a conditional reciprocal halt. Brent fell as much as 7.4%, settling near $88 — the market discounting the US-Iran escalation channel even as Houthis struck Aramco's Jizan refinery (400,000 bpd, visibly burning) and Yanbu, Saudi Arabia's only functioning crude-export route after Hormuz closed; Greek-operated Patriot batteries intercepted two ballistic missiles at Yanbu's port. The desk's read: the US-Iran pause has overridden the Yanbu attack in price terms, but the Houthis have expanded the war's geography. Kharg Island intact; Prediction 6 holds at September 1. Section 301 permanent floor (July 24) is the structural backdrop. Politburo July 30 is the next quality signal.",
-      "watching": "Kim-Putin joint statement — bilateral security guarantee language? (P23, resolves by Aug 15); Kharg Island — P6 Sept 1 (pause day 2, Brent $88); Yanbu oil hub under Houthi threat — Saudi export corridor risk; Politburo July 30 — Beijing's H2 posture read; NPO clock day 4 of 15.",
+      "verdict": "July 28: The US-Iran fighting pause holds a third consecutive day. Brent crude fell further to $86.53 (WTI $82.19), the market pricing de-escalation without any signed instrument — Iran has not agreed to a formal ceasefire and denies active negotiations. Kharg Island intact; Prediction 6 holds at September 1. The Houthis continue to attack Yanbu and threaten Bab al-Mandeb; the corridor war has expanded geography even as the headline oil price falls. Politburo July 30 is two days away.",
+      "watching": "Kim-Putin joint statement — bilateral security guarantee language? (P23, resolves by Aug 15); Kharg Island — P6 Sept 1 (pause day 3, Brent $86.53); Yanbu / Bab al-Mandeb Houthi threat to Saudi export corridor; Politburo July 30 — Beijing's H2 posture read; NPO clock day 5 of 15.",
       "sources": [
         {
-          "label": "Fox News: US-Iran strikes on hold, July 26",
-          "url": "https://www.foxnews.com/live-news/us-iran-peace-strait-hormuz-talks-strikes-hold-july-26"
+          "label": "CNBC: US-Iran pause holds, oil July 28",
+          "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
         },
         {
-          "label": "The National: Oil prices slump on pause in US-Iran hostilities",
-          "url": "https://www.thenationalnews.com/business/energy/2026/07/27/oil-prices-slump-on-pause-in-us-iran-hostilities-despite-houthi-threats/"
-        },
-        {
-          "label": "Al Jazeera: New front — Houthis fire at Saudi oil facilities",
+          "label": "Al Jazeera: Houthis fire at Saudi oil facilities",
           "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities"
         },
         {
-          "label": "TechTimes: Jizan refinery burns; Yanbu attack",
-          "url": "https://www.techtimes.com/articles/321583/20260725/houthi-strike-burns-jizan-aramco-refinery-yanbu-attack-seals-saudi-arabias-oil-trap.htm"
+          "label": "The National: Oil prices slump on US-Iran pause",
+          "url": "https://www.thenationalnews.com/business/energy/2026/07/27/oil-prices-slump-on-pause-in-us-iran-hostilities-despite-houthi-threats/"
         }
       ]
     },
@@ -48,16 +44,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "July 27: Today is the 73rd Korean War armistice anniversary — DPRK Victory Day. The Kremlin confirmed Kim Jong Un's visit to Russia for this window; Panghyon Air Base was prepared with VIP stands and Saetbyol-series drones for a major demonstration. Prediction 23 (Kim meets Putin before August 15, confidence 62) is at its resolution day; the desk is watching for confirmed reporting from Yonhap, Reuters, or KCNA. The quality question remains the joint statement: bilateral security guarantee language, and whether Russia publicly acknowledges Kim's July 9 CMC nuclear and naval expansion orders — the sequence Beijing has silenced for fourteen cycles.",
-      "watching": "Kim-Putin joint statement confirmed — bilateral security guarantee language? (Prediction 23, resolves by Aug 15); Panghyon drone demonstration confirmed results; Beijing CMC response to any joint statement language on Kim's nuclear/naval orders; Kang Kon commissioning September 9.",
+      "verdict": "July 28: Kim Jong Un marked the 73rd Korean War armistice anniversary in Pyongyang — not Moscow. He visited the Fatherland Liberation War Martyrs Cemetery with his daughter Kim Ju Ae (her first public appearance at the armistice commemorations) and his wife Ri Sol-ju; he also visited the Chinese Volunteer Soldiers' Cemetery and honored Mao Anying's grave. The Kremlin had confirmed Kim's upcoming visit to Russia; Panghyon Air Base was dressed for a drone demonstration; but on July 27 Kim was in Pyongyang paying tribute to Beijing's blood contribution to the war. Prediction 23 (Kim meets Putin before August 15) passed its named resolution window without confirmation; eighteen days remain. The Chinese cemetery visit is deliberate calibration — not a slight to Moscow, but a statement of the triangle's internal accounting.",
+      "watching": "Kim-Putin summit confirmed — bilateral security guarantee language? (Prediction 23, resolves by Aug 15 — eighteen days remain); Kim Ju Ae succession consolidation sequence; Kang Kon commissioning September 9; Beijing public response to any Russia joint statement on Kim's nuclear/naval orders.",
       "sources": [
         {
-          "label": "Korea JoongAng Daily: NK prepares major Victory Day drone demonstration (satellite imagery, July 18)",
-          "url": "https://www.koreajoongangdaily.com/korea/north-korea-may-stage-major-victory-day-drone-show/12777845"
+          "label": "NBC News: Kim marks war anniversary with daughter",
+          "url": "https://www.nbcnews.com/world/north-korea/kim-jong-un-marks-war-anniversary-daughter-side-rcna589390"
         },
         {
-          "label": "NPR: Putin meets North Korean foreign minister in diplomatic push",
-          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
+          "label": "NK News: Kim leads V-Day events, highlights Chinese help in Korean War",
+          "url": "https://www.nknews.org/2026/07/kim-leads-v-day-events-as-north-korea-highlights-chinese-help-in-korean-war/"
         }
       ]
     },
@@ -103,16 +99,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "July 27: Day thirty-three at Alekseyevo-Druzhkovka. Russian Yuzhnaya Group reported July 26 operations against six mechanized brigades, a motorized infantry brigade, an aeromobile brigade, and a mountain assault brigade near Druzhkovka, Alekseyevo-Druzhkovka, Krasny Molochar, Nikolayevka, and Kramatorsk — 160 troops, four armored vehicles, two field guns in the day's account. No geolocated city-center control; outskirts entry of July 25 remains the operational boundary. Prediction 14 advancing ahead of schedule toward the September 1 horizon. The force composition and methodology match the pre-final phase at Konstantinovka.",
-      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka city center (Prediction 14, September 1 horizon, advancing ahead of schedule); Kramatorsk as next named objective after Druzhkovka; Ukrainian brigade rotation capacity in the Sloviansk-Kramatorsk envelope.",
+      "verdict": "July 28: Torskoye (Donetsk People's Republic) liberated by Center Group on July 27 — eight kilometers southeast of Druzhkovka, opening the western approach. Combined with Yuzhnaya Group fighting in Osykovo and Alekseyevo-Druzhkovka from the south (outskirts entry July 25), Druzhkovka now faces double coverage from south and west simultaneously. Martyanov confirms Russian units are already fighting inside Druzhkovka. Prediction 14 (operational control before September 1) advancing ahead of schedule; force methodology and double-jaw pattern identical to the Konstantinovka sequence that resolved in June. Kramatorsk (15 km north) is the next named objective.",
+      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka city center (Prediction 14, September 1 horizon, now ahead of schedule); Torskoye — western axis confirmed; Center Group advance toward Kramatorsk after Druzhkovka resolution.",
       "sources": [
         {
-          "label": "Southfront: Russian Army Reaches Outskirts of Druzhkovka",
-          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+          "label": "Pravda Germany: Torskoye captured, flanking Druzhkovka",
+          "url": "https://germany.news-pravda.com/en/world/2026/07/27/147153.html"
         },
         {
-          "label": "Pravda Ukraine: Situation and main events as of July 25",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/25/107630.html"
+          "label": "Pravda EN: Morning digest July 28",
+          "url": "https://news-pravda.com/world/2026/07/28/2475082.html"
         },
         {
           "label": "Martyanov: Reminiscence of the Future",
@@ -127,15 +123,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Day thirty-three at Alekseyevo-Druzhkovka (July 26 reporting). Yuzhnaya Group operating against six mechanized, one motorized infantry, one aeromobile, and one mountain assault brigade — 160+ troops, four AFVs, two guns in the July 26 account. No geolocated city-center control yet; outskirts entry (July 25) is the operational boundary. Prediction 14 advancing ahead of September 1 schedule. Force composition and methodology identical to pre-final Konstantinovka phase.",
+      "basis": "Day thirty-four (July 28). Torskoye (DPR) liberated by Center Group July 27, eight kilometers southeast of Druzhkovka — opens western approach. Yuzhnaya Group fighting in Osykovo and Alekseyevo-Druzhkovka from the south (outskirts entry July 25). Double coverage from south and west: same jaw-closing pattern as Konstantinovka. Martyanov (July 27): Russian units already fighting inside Druzhkovka. Prediction 14 advancing ahead of September 1 schedule.",
       "sources": [
         {
-          "label": "Southfront: Russian Army Reaches Outskirts of Druzhkovka",
-          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+          "label": "Pravda Germany: Torskoye captured, flanking Druzhkovka",
+          "url": "https://germany.news-pravda.com/en/world/2026/07/27/147153.html"
         },
         {
-          "label": "Pravda Ukraine: July 25 situation report",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/25/107630.html"
+          "label": "Pravda EN: Morning digest July 28",
+          "url": "https://news-pravda.com/world/2026/07/28/2475082.html"
         },
         {
           "label": "Martyanov: Reminiscence of the Future",
@@ -146,17 +142,13 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "De-escalating — pause day 2; $88 Brent; Iran conditional halt via Oman; Yanbu under Houthi attack",
+      "advantage": "De-escalating — pause day 3; $86.53 Brent; no formal ceasefire; Houthis still threatening Yanbu / Bab al-Mandeb",
       "trend": "de-escalating",
-      "basis": "July 27. US strikes paused for a second consecutive night (July 26); Iran signaled through Oman a conditional halt — no attacks while Washington refrains. Brent crude fell as much as 7.4% to $88, reversing the $100+ ceiling. The Houthis struck Aramco Jizan refinery (400K bpd, burning) and Yanbu (Saudi's only crude export corridor after Hormuz closed) on July 25; Greek-operated Patriot batteries intercepted two Yanbu missiles. Kharg Island intact; Prediction 6 holds at September 1. The market has overridden the Yanbu attack — but Saudi Arabia's sole export route is now under active Houthi targeting.",
+      "basis": "July 28. US-Iran fighting pause holds a third consecutive day. Brent $86.53 (WTI $82.19). Iran denies agreeing to a 10-day halt and denies active negotiations — standdown is practical, not written. Kharg intact; Prediction 6 holds September 1. Houthis continue attacking Yanbu and threatening Bab al-Mandeb, expanding the corridor war's geography.",
       "sources": [
         {
-          "label": "Fox News: US-Iran strikes on hold, July 26",
-          "url": "https://www.foxnews.com/live-news/us-iran-peace-strait-hormuz-talks-strikes-hold-july-26"
-        },
-        {
-          "label": "The National: Oil prices slump on US-Iran pause",
-          "url": "https://www.thenationalnews.com/business/energy/2026/07/27/oil-prices-slump-on-pause-in-us-iran-hostilities-despite-houthi-threats/"
+          "label": "CNBC: US-Iran pause holds, oil July 28",
+          "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
         },
         {
           "label": "Al Jazeera: Houthis fire at Saudi oil facilities",
@@ -187,6 +179,84 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "text": "TORSKOYE FALLS — THE WESTERN JAW CLOSES ON DRUZHKOVKA: Center Group liberated Torskoye (DPR) July 27, 8km SE of Druzhkovka on Kazennyi Torets River. Yuzhnaya Group fighting in Osykovo/Alekseyevo-Druzhkovka from south since July 25. Double coverage from south and west — same double-jaw pattern as Konstantinovka. Martyanov: Russian units already fighting inside Druzhkovka. Prediction 14 ahead of September 1 schedule.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Pravda Germany: Torskoye captured, flanking Druzhkovka",
+              "url": "https://germany.news-pravda.com/en/world/2026/07/27/147153.html"
+            },
+            {
+              "label": "Pravda EN: Morning digest July 28",
+              "url": "https://news-pravda.com/world/2026/07/28/2475082.html"
+            },
+            {
+              "label": "Martyanov: Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "THE PAUSE TESTS EIGHTY-SIX; KHARG STILL HOLDS: US-Iran pause day 3. Brent $86.53 (WTI $82.19) — market pricing de-escalation without ceasefire document. Iran denies agreeing to halt. Kharg intact; Prediction 6 holds September 1. Prediction 17 (no written corridor agreement before mid-August) on course. Houthis still attacking Yanbu and threatening Bab al-Mandeb. Politburo July 30 in two days.",
+          "beat": "multipolarity",
+          "links": [
+            {
+              "label": "CNBC: US-Iran pause holds, oil July 28",
+              "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
+            },
+            {
+              "label": "Al Jazeera: Houthis fire at Saudi oil facilities",
+              "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities"
+            }
+          ]
+        },
+        {
+          "text": "THE DAUGHTER AT THE MARTYR GRAVE — KIM READS HIS OWN CALENDAR: Kim Jong Un marked 73rd armistice anniversary in Pyongyang (not Moscow). Daughter Kim Ju Ae's first public appearance at armistice commemorations. Visited Chinese Volunteer Soldiers' Cemetery, honored Mao Anying's grave. July 27 passed without confirmed Kim-Putin face-to-face. Prediction 23 resolves by Aug 15 — eighteen days remain. Chinese cemetery tribute on Russia Day: deliberate triangle calibration.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NBC News: Kim marks war anniversary with daughter",
+              "url": "https://www.nbcnews.com/world/north-korea/kim-jong-un-marks-war-anniversary-daughter-side-rcna589390"
+            },
+            {
+              "label": "NK News: Kim leads V-Day events, highlights Chinese help in Korean War",
+              "url": "https://www.nknews.org/2026/07/kim-leads-v-day-events-as-north-korea-highlights-chinese-help-in-korean-war/"
+            }
+          ]
+        },
+        {
+          "text": "FOURTEEN DAYS, ONE STAGE; OUAGADOUGOU'S NPO CLOCK AT FIVE: Wisconsin Democratic gubernatorial debate tonight. Marquette July 22: Hong 27%, Barnes 18%, 45% undecided. Crowley 21 points behind Hong in own internal poll. Barnes commands general-election matchup (+4 vs Tiffany); Hong trails (-3). Desk correction: 'Barnes commanding' was general election, not primary. Prediction 19 under pressure. NPO registration clock day 5 of 15; Prediction 15 day twenty-nine without French economic content.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WisPolitics: Hong leads Dem primary field",
+              "url": "https://www.wispolitics.com/2026/hong-leads-dem-primary-field-amid-close-race-for-governor-marquette-poll-shows/"
+            },
+            {
+              "label": "NBC News: Wisconsin Democrats hurtle toward uncertain finish",
+              "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-democrats-hurtle-uncertain-finish-governor-primary-rcna588403"
+            },
+            {
+              "label": "WUWM: Democratic gubernatorial debate July 28",
+              "url": "https://www.wuwm.com/wisconsins-democratic-gubernatorial-candidates-debate"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Kim-Putin summit confirmation (P23, Aug 15)",
+        "Druzhkovka geolocated city-center control (P14, Sept 1, ahead of schedule)",
+        "Politburo July 30 communiqué",
+        "NPO clock (day 5 of 15)",
+        "Wisconsin debate outcome (P19, Aug 11)",
+        "Yanbu/Bab al-Mandeb Houthi threat to Saudi exports",
+        "Kharg Island (P6, Sept 1)"
+      ]
+    },
     {
       "date": "2026-07-27",
       "items": [
@@ -2593,7 +2663,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day thirty-three (July 26 reporting). Yuzhnaya Group: 6 mech + motorized infantry + aeromobile + mountain assault brigades engaged near Druzhkovka/Alekseyevo-Druzhkovka/Krasny Molochar/Nikolayevka/Kramatorsk — 160 troops, 4 AFVs, 2 guns. No geolocated city-center control; outskirts entry (July 25) is operational boundary. September 1 prediction advancing ahead of schedule. Force composition and methodology match pre-final Konstantinovka phase.",
+      "note": "Day thirty-four (July 28). Torskoye liberated by Center Group July 27 — western jaw opens. Yuzhnaya Group fighting in Osykovo/Alekseyevo-Druzhkovka from south (outskirts entry July 25). Double coverage threat from south and west. Martyanov: Russian units already fighting inside Druzhkovka. September 1 prediction advancing ahead of schedule.",
       "schema_version": 1
     },
     {
@@ -2602,7 +2672,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day 28 (July 27). No economic, financial, aid-suspension, or operational measures from France since diplomatic mirror action July 7. Burkina NPO registry decree (July 23) closes French-funded civil society channel structurally — day 4 of 15-day registration clock. Prediction accumulates; likely to resolve HIT.",
+      "note": "Day twenty-nine (July 28). No economic, financial, aid-suspension, or operational measures from France since diplomatic mirror action July 7. Burkina NPO registry decree (July 23) closes foreign-funded civil society channel structurally — day 5 of 15-day registration clock. Prediction accumulating toward HIT.",
       "schema_version": 1
     },
     {
@@ -2646,7 +2716,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 27: Fifteen days to August 11. Crowley campaign did not survive 'Dirt McGirk' revelation; Barnes commanding position as only Dem beating Tiffany (+4 Marquette July 22). Hong trails Tiffany (-3); Republicans have spent $2.2M buying Hong ads in Dem primary terrain — honest fear signal on general election. Prediction advancing toward resolution."
+      "note": "July 28: Fourteen days to August 11. Wisconsin Democratic debate tonight. Marquette July 22: Hong 27%, Barnes 18%, 45% undecided; Crowley internal poll 21 points behind Hong. The desk corrects prior shorthand — 'Barnes commanding' referred to the general-election matchup (+4 vs Tiffany); in the primary, Hong leads polling. Tonight's debate is the undecideds' last clean look before early voting. Prediction 19 under increasing pressure — the 45% undecided is the only mechanism that can deliver it."
     },
     {
       "schema_version": 2,
@@ -2714,7 +2784,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 27: Today is the named resolution day — DPRK Victory Day, 73rd armistice anniversary. Kremlin confirmed Kim's visit; Panghyon VIP stands + Saetbyol drones on flight line. The desk is watching for confirmed reporting from Yonhap, Reuters, or KCNA. Actual face-to-face meeting is the resolution criterion. Quality question: bilateral security guarantee language in the joint statement; whether Russia acknowledges Kim's July 9 CMC nuclear/naval orders (Beijing silence cycle 14). Resolution pending confirmation."
+      "note": "July 28: Kim Jong Un was in Pyongyang for the 73rd armistice anniversary — not Moscow. He visited the Fatherland Liberation War Martyrs Cemetery with daughter Ju Ae (first public appearance at armistice commemorations) and his wife. He also visited the Chinese Volunteer Soldiers' Cemetery and honored Mao Anying's grave. Kremlin confirmed Kim's upcoming Russia visit; Panghyon Air Base was dressed for a drone demonstration; but July 27 passed without confirmed face-to-face meeting. Prediction 23 resolves_by August 15 — eighteen days remain. Chinese cemetery tribute on Russia's preferred day is a signal worth watching."
     }
   ],
   "corrections": [
