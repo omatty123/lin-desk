@@ -1,25 +1,29 @@
 {
-  "updated": "2026-07-28",
-  "edition": 50,
+  "updated": "2026-07-29",
+  "edition": 51,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "July 28: The US-Iran fighting pause holds a third consecutive day. Brent crude fell further to $86.53 (WTI $82.19), the market pricing de-escalation without any signed instrument — Iran has not agreed to a formal ceasefire and denies active negotiations. Kharg Island intact; Prediction 6 holds at September 1. The Houthis continue to attack Yanbu and threaten Bab al-Mandeb; the corridor war has expanded geography even as the headline oil price falls. Politburo July 30 is two days away.",
-      "watching": "Kim-Putin joint statement — bilateral security guarantee language? (P23, resolves by Aug 15); Kharg Island — P6 Sept 1 (pause day 3, Brent $86.53); Yanbu / Bab al-Mandeb Houthi threat to Saudi export corridor; Politburo July 30 — Beijing's H2 posture read; NPO clock day 5 of 15.",
+      "verdict": "July 29: The three-day pause ended with IRGC ballistic missiles fired at US forces at 5:45 PM ET — all intercepted. The US and Saudi Arabia then struck Tehran-backed sites in Iraq. Brent surged back to $87–88, paring the 16% drop from the prior three sessions. The pause was never a formal agreement; Iran had publicly denied any halt was in place. Kharg Island remains intact. Prediction 6 holds. Ouagadougou arrested the head of INSO — the NGO safety body for the Sahel — on espionage charges; the NPO registry clock is now at day 6 of 15. Both developments point in the same direction: the institutions the Atlantic order built to manage the periphery are being dismantled or arrested.",
+      "watching": "Whether the US now escalates beyond Iraq or Iran targets oil infrastructure; Kharg Island — Prediction 6 (Sept 1); INSO operational status / NPO registration deadline (day 6 of 15); Kim-Putin summit — Prediction 23 (Aug 15, 17 days); Politburo July 30 communiqué; Wisconsin Aug 11 primary — Prediction 19.",
       "sources": [
         {
-          "label": "CNBC: US-Iran pause holds, oil July 28",
-          "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
+          "label": "CNBC: Iran launches surprise ballistic missile attack on US forces",
+          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
         },
         {
-          "label": "Al Jazeera: Houthis fire at Saudi oil facilities",
-          "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities"
+          "label": "Bloomberg: Oil Surges After Three-Day Drop as US Repels Iran Attack",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29"
         },
         {
-          "label": "The National: Oil prices slump on US-Iran pause",
-          "url": "https://www.thenationalnews.com/business/energy/2026/07/27/oil-prices-slump-on-pause-in-us-iran-hostilities-despite-houthi-threats/"
+          "label": "CNBC: Oil jumps as US-Iran resume strikes after brief pause",
+          "url": "https://www.cnbc.com/amp/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
+        },
+        {
+          "label": "INSO Statement: detention of staff in Burkina Faso",
+          "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
         }
       ]
     },
@@ -61,20 +65,20 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "July 25: Burkina Faso announced $18 billion in gold revenue generated since Traoré took power in 2022 — external accounting of the resource-sovereignty program. Six active industrial mines are now majority locally owned; three under direct state control via SOPAMIB; Yako state mine inaugurated July 9. The NPO registry decree (July 23) is operational: all non-profits have 15 days to register, foreign-funded organizations included. The desk's risk flag: JNIM's renewed offensive in Soum Province targets the harvest corridor the Faso Mêbo belt route serves — state-building and state security must advance together.",
-      "watching": "JNIM Soum Province harvest corridor exploitation — Faso Mêbo belt route at stake; NPO 15-day registration clock (deadline early August); JNIM reads on religious confrontation as rural consolidation opportunity; successor appointments post-Yabre/Sorgho; France Prediction 15 — no measures day 26.",
+      "verdict": "July 28: Burkina Faso intelligence services arrested Jean-Christophe Pégon — French national, head of the International NGO Safety Organisation — on charges of espionage. His deputy director and a Czech national were also detained. INSO is the coordinating body that distributes security information to humanitarian agencies in conflict zones: it is the logistical spine of Western NGO presence in the Sahel. The charge is collecting data on military convoys, deployment zones, and explosive incidents — activities INSO frames as standard safety coordination. The NPO registry decree (July 23) is at day 6 of its 15-day window; this arrest is the enforcement architecture made visible. INSO's closure would remove the safety infrastructure that makes foreign NGO operations viable.",
+      "watching": "INSO operational status — suspension or expulsion of operations; NPO registration deadline (day 6 of 15; early August); JNIM Soum Province harvest corridor exploitation; successor appointments post-Yabre/Sorgho; France Prediction 15 — no economic measures day 30.",
       "sources": [
         {
-          "label": "Africa Briefing: Burkina Faso reaps $18bn gold windfall",
-          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
+          "label": "INSO Statement: detention of staff in Burkina Faso",
+          "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
         },
         {
-          "label": "Garowe Online: Burkina Faso says it has earned $18 billion from gold since Traoré took power",
-          "url": "https://www.garoweonline.com/en/world/africa/burkina-faso-says-it-has-earned-18-billion-from-gold-since-traor-took-power"
+          "label": "WAVN: Burkina Faso dismantles alleged espionage network linked to NGO",
+          "url": "https://www.wavn.org/burkina-faso-dismantles-alleged-espionage-network-linked-to-international-ngo/"
         },
         {
-          "label": "African Security Analysis: Renewed JNIM Offensive in Soum Province",
-          "url": "https://www.africansecurityanalysis.org/updates/burkina-faso-renewed-jnim-offensive-in-soum-province"
+          "label": "The New Humanitarian: Arrests and red tape — junta throttling humanitarian aid",
+          "url": "https://www.thenewhumanitarian.org/analysis/2026/02/04/arrests-red-tape-how-burkina-faso-junta-throttling-humanitarian-aid"
         }
       ]
     },
@@ -99,20 +103,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "July 28: Torskoye (Donetsk People's Republic) liberated by Center Group on July 27 — eight kilometers southeast of Druzhkovka, opening the western approach. Combined with Yuzhnaya Group fighting in Osykovo and Alekseyevo-Druzhkovka from the south (outskirts entry July 25), Druzhkovka now faces double coverage from south and west simultaneously. Martyanov confirms Russian units are already fighting inside Druzhkovka. Prediction 14 (operational control before September 1) advancing ahead of schedule; force methodology and double-jaw pattern identical to the Konstantinovka sequence that resolved in June. Kramatorsk (15 km north) is the next named objective.",
-      "watching": "Geolocated Russian operational control inside Alekseyevo-Druzhkovka city center (Prediction 14, September 1 horizon, now ahead of schedule); Torskoye — western axis confirmed; Center Group advance toward Kramatorsk after Druzhkovka resolution.",
+      "verdict": "July 29: Russian forces entered the town of Druzhkovka itself — not just the outer suburb Alekseyevo-Druzhkovka where contact opened July 25, but the town between Konstantinovka and Slavyansk. UAV operators confirmed engagements in the western part of the town; geolocated imagery shows Russian soldiers at the town entrance. Druzhkovka's operational control would place Russian forces at the threshold of the Slavyansk–Kramatorsk agglomeration — Ukraine's last significant defensive cluster in western Donetsk. Prediction 14 called for operational control before September 1; entry was confirmed thirty-three days early. Entry is not yet fire control.",
+      "watching": "Geolocated city-center fire control in Druzhkovka — the resolution test for Prediction 14 (Sept 1); NATO interceptor supply timeline; Slavyansk–Kramatorsk defensive preparation.",
       "sources": [
         {
-          "label": "Pravda Germany: Torskoye captured, flanking Druzhkovka",
-          "url": "https://germany.news-pravda.com/en/world/2026/07/27/147153.html"
+          "label": "Pravda EN: Russian forces have entered the town of Druzhkovka",
+          "url": "https://news-pravda.com/world/2026/07/29/2477856.html"
         },
         {
-          "label": "Pravda EN: Morning digest July 28",
-          "url": "https://news-pravda.com/world/2026/07/28/2475082.html"
+          "label": "Pravda Ukraine: Russian Defence Ministry report July 28",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/28/108095.html"
         },
         {
-          "label": "Martyanov: Reminiscence of the Future",
-          "url": "https://smoothiex12.blogspot.com/"
+          "label": "Pravda EN: Russian soldier spotted at entrance of Alekseevo-Druzhkovka",
+          "url": "https://news-pravda.com/russia/2026/07/29/2477730.html"
         }
       ]
     }
@@ -123,36 +127,36 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Day thirty-four (July 28). Torskoye (DPR) liberated by Center Group July 27, eight kilometers southeast of Druzhkovka — opens western approach. Yuzhnaya Group fighting in Osykovo and Alekseyevo-Druzhkovka from the south (outskirts entry July 25). Double coverage from south and west: same jaw-closing pattern as Konstantinovka. Martyanov (July 27): Russian units already fighting inside Druzhkovka. Prediction 14 advancing ahead of September 1 schedule.",
+      "basis": "Day thirty-five (July 29). Russian forces entered the town of Druzhkovka itself on July 29 — not just Alekseyevo-Druzhkovka where contact opened July 25, but the town proper between Konstantinovka and Slavyansk. UAV operators confirmed engagements in the western part of the town. Prediction 14 (operational control before September 1) is advancing thirty-three days early. Entry is not yet geolocated fire control. Russia-decisive holds; tempo as weapon confirmed.",
       "sources": [
         {
-          "label": "Pravda Germany: Torskoye captured, flanking Druzhkovka",
-          "url": "https://germany.news-pravda.com/en/world/2026/07/27/147153.html"
+          "label": "Pravda EN: Russian forces entered Druzhkovka",
+          "url": "https://news-pravda.com/world/2026/07/29/2477856.html"
         },
         {
-          "label": "Pravda EN: Morning digest July 28",
-          "url": "https://news-pravda.com/world/2026/07/28/2475082.html"
+          "label": "Pravda Ukraine: MoD report July 28",
+          "url": "https://ua.news-pravda.com/en/world/2026/07/28/108095.html"
         },
         {
-          "label": "Martyanov: Reminiscence of the Future",
-          "url": "https://smoothiex12.blogspot.com/"
+          "label": "Pravda EN: Russian soldier spotted at entrance of Alekseevo-Druzhkovka",
+          "url": "https://news-pravda.com/russia/2026/07/29/2477730.html"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "De-escalating — pause day 3; $86.53 Brent; no formal ceasefire; Houthis still threatening Yanbu / Bab al-Mandeb",
-      "trend": "de-escalating",
-      "basis": "July 28. US-Iran fighting pause holds a third consecutive day. Brent $86.53 (WTI $82.19). Iran denies agreeing to a 10-day halt and denies active negotiations — standdown is practical, not written. Kharg intact; Prediction 6 holds September 1. Houthis continue attacking Yanbu and threatening Bab al-Mandeb, expanding the corridor war's geography.",
+      "advantage": "Active — pause ended; Brent ~$88; Kharg intact; Houthis operational",
+      "trend": "escalating",
+      "basis": "July 29. IRGC launched ballistic missiles at US forces in the Middle East at 5:45 PM ET — all intercepted. US and Saudi Arabia then struck Tehran-backed sites in Iraq. Brent surged 4% back to ~$87–88 a barrel. The three-day pause (July 26–28) was not a ceasefire — Iran had denied any halt agreement throughout. Kharg Island remains intact; Prediction 6 (not struck before September) holds.",
       "sources": [
         {
-          "label": "CNBC: US-Iran pause holds, oil July 28",
-          "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
+          "label": "CNBC: Iran launches surprise ballistic missile attack on US forces",
+          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
         },
         {
-          "label": "Al Jazeera: Houthis fire at Saudi oil facilities",
-          "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities"
+          "label": "Bloomberg: Oil Surges After Three-Day Drop as US Repels Iran Attack",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29"
         }
       ]
     },
@@ -179,6 +183,87 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-29",
+      "items": [
+        {
+          "text": "IRAN ENDS THE PAUSE — THE IRGC FIRES, BRENT CLIMBS BACK: IRGC launched ballistic missiles at US forces July 29 at 5:45 PM ET; all intercepted. US and Saudi Arabia struck Tehran-backed sites in Iraq. Brent +4% back to ~$88. Three-day pause over. Kharg intact; Prediction 6 holds.",
+          "beat": "multipolarity",
+          "links": [
+            {
+              "label": "CNBC: Iran launches surprise ballistic missile attack",
+              "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
+            },
+            {
+              "label": "Bloomberg: Oil Surges After Three-Day Drop",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29"
+            },
+            {
+              "label": "CNBC: Oil jumps as US-Iran resume strikes",
+              "url": "https://www.cnbc.com/amp/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
+            }
+          ]
+        },
+        {
+          "text": "RUSSIAN FORCES ENTER DRUZHKOVKA — PREDICTION 14 ADVANCING: Russian forces entered the town of Druzhkovka itself July 29 — not just Alekseyevo-Druzhkovka suburbs. UAV geolocated engagements in western part of town. P14 (operational control before Sept 1) confirmed entry 33 days early; entry ≠ fire control yet.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Pravda EN: Russian forces entered Druzhkovka",
+              "url": "https://news-pravda.com/world/2026/07/29/2477856.html"
+            },
+            {
+              "label": "Pravda Ukraine: MoD report July 28",
+              "url": "https://ua.news-pravda.com/en/world/2026/07/28/108095.html"
+            },
+            {
+              "label": "Pravda EN: Russian soldier spotted at Alekseevo-Druzhkovka entrance",
+              "url": "https://news-pravda.com/russia/2026/07/29/2477730.html"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU ARRESTS THE SAFETY DESK — INSO DOWN: INSO head Jean-Christophe Pégon (French national) arrested July 28 with deputy + Czech national on espionage charges. INSO is the NGO safety coordination body. NPO registry clock day 6 of 15. P15 accumulates.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "INSO Statement: detention of staff in Burkina Faso",
+              "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
+            },
+            {
+              "label": "WAVN: Burkina Faso dismantles alleged espionage network linked to NGO",
+              "url": "https://www.wavn.org/burkina-faso-dismantles-alleged-espionage-network-linked-to-international-ngo/"
+            }
+          ]
+        },
+        {
+          "text": "THE DEBATE WAS AMICABLE; THE RACE IS NOT: Wisconsin Democratic primary debate July 28 — amicable, no attacks on front-runner Hong; early voting began through Aug 9; 13 days to Aug 11 primary; P19 open. Only Barnes beats Tiffany in general election. GOP $2.2M behind Hong ads.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "NBC News: Hong avoids attacks in amicable governor debate",
+              "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
+            },
+            {
+              "label": "WPR: Democrats find consensus, avoid attacks in debate",
+              "url": "https://www.wpr.org/news/democrats-primary-debate-governor-2026"
+            },
+            {
+              "label": "Washington Post: Wisconsin voters begin casting ballots",
+              "url": "https://www.washingtonpost.com/politics/2026/07/28/wisconsin-early-voting-democratic-primary-governor/518869ae-8a3b-11f1-8912-d71e69d679d7_story.html"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Druzhkovka geolocated city-center fire control — P14 (Sept 1)",
+        "INSO operational status / NPO registration deadline (day 6 of 15)",
+        "Kim-Putin summit — P23 (Aug 15, 17 days)",
+        "Kharg Island — P6 (Sept 1, pause ended, $88 Brent)",
+        "Politburo July 30 communiqué",
+        "Wisconsin Aug 11 primary — P19"
+      ]
+    },
     {
       "date": "2026-07-28",
       "items": [
