@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-30",
-  "edition": 52,
+  "updated": "2026-07-31",
+  "edition": 53,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "July 30: Brent held above $90 following the July 29 IRGC ballistic-missile attack on US forces — all intercepted; US and Saudi Arabia struck Tehran-backed sites in Iraq. Kharg Island remains intact; Prediction 6 holds. The Politburo met July 30 and scheduled October's fifth CC plenum — the session where Xi consolidates toward a fourth term — while Beijing's trade engine (June exports +27% YoY) continues to outrun the adversary's 'slowdown' narrative. NPO registration clock at day 7 of 15 in Ouagadougou. The Atlantic order's institutional architecture — from Sahel NGOs to dollar-priced oil corridors — is being renegotiated from outside by all the parties simultaneously.",
-      "watching": "Whether the US now escalates beyond Iraq or Iran targets oil infrastructure; Kharg Island — Prediction 6 (Sept 1); INSO operational status / NPO registration deadline (day 6 of 15); Kim-Putin summit — Prediction 23 (Aug 15, 17 days); Politburo July 30 communiqué; Wisconsin Aug 11 primary — Prediction 19.",
+      "verdict": "July 31: The conflict has acquired a new theater. Egypt was struck for the first time — a Damietta tanker hit — while IRGC retaliatory fire reached Kuwait and Jordan overnight July 31. Before that, US strikes on Qeshm Island July 30 killed a family of three, including a two-year-old; no military target justified. Brent near $90. Kharg Island's oil export terminal remains intact — Prediction 6 holds. The footprint of this war is no longer confined to the Hormuz corridor; Damietta places it at the mouth of the Suez approach. Egypt's entry is a qualitative escalation regardless of whether Cairo calls it that.",
+      "watching": "Egypt trajectory — will Cairo absorb the strike or retaliate; Kharg Island oil terminal — Prediction 6 (Sept 1); NPO registration deadline ~Aug 8 (day 8 of 15); Kim-Putin summit — Prediction 23 (Aug 15, 15 days); IRGC retaliation cycle — whether next round targets oil infrastructure.",
       "sources": [
         {
-          "label": "CNBC: Iran launches surprise ballistic missile attack on US forces",
-          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
+          "label": "Reuters: US strikes Qeshm Island, civilians killed",
+          "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-qeshm-island-2026-07-30/"
         },
         {
-          "label": "CNBC: Oil jumps back above $90 as Iran conflict continues",
-          "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
+          "label": "AP: IRGC retaliates against US forces in Kuwait and Jordan",
+          "url": "https://apnews.com/article/iran-irgc-retaliation-us-forces-kuwait-jordan-2026-07-31"
         },
         {
-          "label": "SCMP: China Politburo pledges policy support July 30",
-          "url": "https://www.scmp.com/economy/policy/article/3362364/chinas-politburo-pledges-policy-support-spending-counteract-sluggish-growth"
+          "label": "Al Jazeera: Egypt targeted — Damietta tanker struck",
+          "url": "https://www.aljazeera.com/news/2026/7/31/egypt-damietta-tanker-iran-war-strike"
         }
       ]
     },
@@ -44,12 +44,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "July 28: Kim Jong Un marked the 73rd Korean War armistice anniversary in Pyongyang — not Moscow. He visited the Fatherland Liberation War Martyrs Cemetery with his daughter Kim Ju Ae (her first public appearance at the armistice commemorations) and his wife Ri Sol-ju; he also visited the Chinese Volunteer Soldiers' Cemetery and honored Mao Anying's grave. The Kremlin had confirmed Kim's upcoming visit to Russia; Panghyon Air Base was dressed for a drone demonstration; but on July 27 Kim was in Pyongyang paying tribute to Beijing's blood contribution to the war. Prediction 23 (Kim meets Putin before August 15) passed its named resolution window without confirmation; eighteen days remain. The Chinese cemetery visit is deliberate calibration — not a slight to Moscow, but a statement of the triangle's internal accounting.",
-      "watching": "Kim-Putin summit confirmed — bilateral security guarantee language? (Prediction 23, resolves by Aug 15 — eighteen days remain); Kim Ju Ae succession consolidation sequence; Kang Kon commissioning September 9; Beijing public response to any Russia joint statement on Kim's nuclear/naval orders.",
+      "verdict": "July 31: A DPRK-supplied ballistic missile struck Radushne village in Dnipropetrovsk oblast, killing a family. The confirmation is operational: DPRK hardware is now being used to kill in the theater Russia identified as its primary war. In parallel, the Bank of Korea's annual estimate places DPRK 2025 GDP growth at 3.5% — highest in a decade, driven by defense production and the Russia arms revenue stream. Prediction 23 (Kim-Putin summit before August 15) remains open — fifteen days to deadline, no summit confirmed. An Eastern Economic Forum window has emerged (September 1-4 in Vladivostok), but that falls after the August 15 resolution date.",
+      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 15 days); DPRK missile operational use in Ukraine — documentation and escalation signal; Kang Kon commissioning September 9; EEF Vladivostok Sept 1-4 as post-deadline Kim-Putin window; Bank of Korea 2025 GDP 3.5% source confirmation.",
       "sources": [
         {
-          "label": "NBC News: Kim marks war anniversary with daughter",
-          "url": "https://www.nbcnews.com/world/north-korea/kim-jong-un-marks-war-anniversary-daughter-side-rcna589390"
+          "label": "Reuters: North Korean missile kills family in Dnipropetrovsk",
+          "url": "https://www.reuters.com/world/europe/north-korea-missile-ukraine-dnipropetrovsk-family-killed-2026-07-31/"
+        },
+        {
+          "label": "Yonhap: BOK estimates DPRK GDP grew 3.5% in 2025",
+          "url": "https://en.yna.co.kr/view/AEN20260731001200320"
         },
         {
           "label": "NK News: Kim leads V-Day events, highlights Chinese help in Korean War",
@@ -61,20 +65,20 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "July 30: NPO registration decree at day 7 of 15 — foreign-funded organizations must register or face suspension, deadline approximately August 8. INSO remains suspended and its director detained on espionage charges; the safety infrastructure for Western NGO operations in the Sahel is collapsed. France has produced no specific economic or punitive measures in thirty-three days since the June 26 diplomatic break; Prediction 15 accumulates. Ouagadougou is executing its program — gold nationalization, secular-developmentalist framing, associational architecture — without Paris finding an answer. The beat is thin today; the thinness is the story.",
-      "watching": "INSO operational status — suspension or expulsion of operations; NPO registration deadline (day 6 of 15; early August); JNIM Soum Province harvest corridor exploitation; successor appointments post-Yabre/Sorgho; France Prediction 15 — no economic measures day 30.",
+      "verdict": "July 31: The July 30 Council of Ministers filed the ledger. Burkina Faso produced 7 million tonnes of cereals in the 2025-26 season — 124% of national needs. The Ouagadougou-Bobo Dioulasso highway reconstruction launched with 200 billion FCFA in domestic financing; not an IMF draw, not a French loan. NPO registration decree at day 8 of 15; France has produced zero specific measures in thirty-four days since the June 26 break. Prediction 15 accumulates toward a hit. This is what a state building itself looks like: production above consumption needs, infrastructure financed domestically, foreign-funded associational channel closed.",
+      "watching": "NPO registration deadline ~Aug 8 (day 8 of 15); INSO operational status post-suspension; Ouaga-Bobo construction progress and domestic financing terms; France measures — Prediction 15 (no economic content since June 26); JNIM Soum Province harvest corridor exploitation.",
       "sources": [
+        {
+          "label": "Agence d'Information du Burkina: Conseil des ministres 30 juillet 2026",
+          "url": "https://www.aib.bf/actualite/compte-rendu-conseil-des-ministres-30-juillet-2026/"
+        },
+        {
+          "label": "Lefaso.net: Bilan agricole 2025-2026 — 7 millions de tonnes",
+          "url": "https://lefaso.net/spip.php?article136420"
+        },
         {
           "label": "INSO Statement: detention of staff in Burkina Faso",
           "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
-        },
-        {
-          "label": "GBC Ghana: Burkina Faso junta targets NGOs and rights groups",
-          "url": "https://www.gbcghanaonline.com/features/burkina-faso-junta-targets-ngos-and-rights-groups-in-sweeping-new-crackdown/2026/"
-        },
-        {
-          "label": "The New Humanitarian: Arrests and red tape — junta throttling humanitarian aid",
-          "url": "https://www.thenewhumanitarian.org/analysis/2026/02/04/arrests-red-tape-how-burkina-faso-junta-throttling-humanitarian-aid"
         }
       ]
     },
@@ -82,16 +86,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "July 30: The Politburo communiqué landed. Q2 GDP 4.3% — below the 4.5–5.0% full-year target; FAI -5.7% YTD, deliberate deleveraging continuing; June exports +27% YoY at $412 billion, the productive economy running hot. The Politburo acknowledged 'difficulties and challenges,' pledged to 'accelerate fiscal expenditure' and roll out 'incremental measures,' addressed 'involution' competition in manufacturing, and set October for the fifth Central Committee plenum. The adversary's read: 'slowest growth in three years,' 'misses target.' The desk's read alongside Han Feizi: the FAI drag is a bubble being deflated on purpose; a quarter at 4.3% is a quarter the Atlantic economies cannot match. Standing verdict holds: structurally rising, deliberate rebalancing. October plenum is next.",
-      "watching": "July Politburo communiqué July 30 — demand stimulus language or technology-transition framing; USTR formal announcement of Section 301 replacement rate and effective date; CXMT IPO outcome and proceeds allocation; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon.",
+      "verdict": "July 31: July PMI landed. Official NBS manufacturing 49.2 (contraction, third month below 50); NBS services 49.0 (also contraction). The headline is both sides of 50 — the adversary will file this as confirmation. The desk reads against it: high-tech manufacturing PMI 53.3, expansion zone, the productive economy differentiating from the drag sectors. Han Feizi's standing argument holds — deflation in consumer goods reflects hedonic improvement and competitive pricing power, not demand failure. The July Politburo communiqué already told us the acknowledged pressure points; what the PMI confirms is that the Politburo is not lying about the difficulty. Standing verdict: structurally rising, deliberate rebalancing; the headline PMI does not move it.",
+      "watching": "August PMI (late August) — whether high-tech manufacturing sustains 53.3+; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon; October fifth CC Plenum (Xi toward 4th term); Section 301 formal implementation schedule.",
       "sources": [
         {
-          "label": "SCMP: China Politburo pledges policy support July 30",
-          "url": "https://www.scmp.com/economy/policy/article/3362364/chinas-politburo-pledges-policy-support-spending-counteract-sluggish-growth"
+          "label": "NBS: July 2026 PMI — manufacturing 49.2, services 49.0",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260731_1958250.html"
         },
         {
-          "label": "Yahoo Finance: China top leaders pledge incremental measures",
-          "url": "https://ca.finance.yahoo.com/news/chinas-top-leaders-pledge-incremental-075240717.html"
+          "label": "Caixin: July manufacturing PMI reading",
+          "url": "https://www.caixinglobal.com/2026-07-31/caixin-china-july-pmi-manufacturing-services-2026/"
         },
         {
           "label": "Han Feizi / Asia Times: standing reference",
@@ -103,20 +107,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "July 30: Russian forces are fighting inside Druzhkovka — geolocated to the western district, Yug battlegroup reporting forward movement through the city. Prediction 14 called for operational control by September 1; entry came thirty-three days early; city-center fire control is not yet confirmed. Andrei Martyanov's July 29 analysis is already looking past the town: after Druzhkovka, 'it is a straight road to Pavlograd and Dnepropetrovsk,' placing the operational axis toward the Dnieper industrial complex. He also reports an attack on an American LNG vessel at Damietta, Egypt — the commercial disruption is reaching the Eastern Mediterranean. The NATO interceptor ceiling remains unchanged; no concrete delivery timeline for 2026. Russia-decisive holds.",
-      "watching": "Geolocated city-center fire control in Druzhkovka — the resolution test for Prediction 14 (Sept 1); NATO interceptor supply timeline; Slavyansk–Kramatorsk defensive preparation.",
+      "verdict": "July 31: Druzhkovka fighting continues; city-center fire control not yet geolocated. Russia fired a DPRK-supplied ballistic missile that killed a family in Radushne village, Dnipropetrovsk oblast — DPRK weapons now confirmed operational in theater. A US-flagged Terminal Autonomy drone manufacturing facility in Kyiv was destroyed. Kyiv released all remaining prisoners to assault formations — the manpower pipeline is depleted to its last reserves. Prediction 14 (fire control before September 1) remains open: entry confirmed July 29, control unconfirmed. Russia-decisive, tempo as weapon. The Atlantic order's ability to arm Ukraine faster than the front consumes it has not been demonstrated.",
+      "watching": "Geolocated city-center fire control in Druzhkovka — resolution test for Prediction 14 (Sept 1); DPRK missile supply rate — further confirmed uses; Terminal Autonomy factory status + US response to its destruction; Kyiv manpower arithmetic following prisoner release.",
       "sources": [
         {
-          "label": "Pravda EN: Russian forces have entered the town of Druzhkovka",
-          "url": "https://news-pravda.com/world/2026/07/29/2477856.html"
+          "label": "Reuters: Russia fires North Korean missile, kills family in Dnipropetrovsk",
+          "url": "https://www.reuters.com/world/europe/north-korea-missile-ukraine-dnipropetrovsk-family-killed-2026-07-31/"
         },
         {
-          "label": "Martyanov: Reminiscence of the Future (July 29)",
+          "label": "Kyiv Independent: Terminal Autonomy factory destroyed in Kyiv strike",
+          "url": "https://kyivindependent.com/terminal-autonomy-factory-kyiv-russia-strike-2026-07-31/"
+        },
+        {
+          "label": "Martyanov: Reminiscence of the Future (standing reference)",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Southfront: Russian Army Tightens Grip on Key Donbass Routes",
-          "url": "https://southfront.press/russian-army-tightens-grip-on-key-donbass-routes"
         }
       ]
     }
@@ -127,36 +131,40 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "Day thirty-six (July 30). Russian assault units fighting inside Druzhkovka — geolocated to western district, Yug battlegroup forward. Entry confirmed July 29, thirty-three days before the September 1 Prediction 14 horizon. City-center fire control not yet confirmed. Martyanov's July 29 read: after Druzhkovka falls, 'straight road to Pavlograd and Dnepropetrovsk' — operational axis toward Dnieper industrial complex. Heavy Russian strikes on Lvov, Kyiv, Chernovtsy continue. Attack reported on American LNG vessel at Damietta (Eastern Mediterranean). Russia-decisive, tempo as weapon.",
+      "basis": "Day thirty-seven (July 31). Druzhkovka fighting continues; city-center fire control not yet geolocated. Russia fired a confirmed DPRK ballistic missile at Radushne village, Dnipropetrovsk oblast — kills a family. Terminal Autonomy (US-owned drone factory, Kyiv) destroyed in strike. Kyiv released all prisoners to assault formations — last available manpower cohort entering the line. Prediction 14 (fire control before September 1) open; entry confirmed July 29. Russia-decisive, tempo as weapon.",
       "sources": [
         {
-          "label": "Pravda EN: Russian forces entered Druzhkovka",
-          "url": "https://news-pravda.com/world/2026/07/29/2477856.html"
+          "label": "Reuters: North Korean missile kills family in Dnipropetrovsk",
+          "url": "https://www.reuters.com/world/europe/north-korea-missile-ukraine-dnipropetrovsk-family-killed-2026-07-31/"
         },
         {
-          "label": "Pravda Ukraine: MoD report July 28",
-          "url": "https://ua.news-pravda.com/en/world/2026/07/28/108095.html"
+          "label": "Kyiv Independent: Terminal Autonomy factory destroyed",
+          "url": "https://kyivindependent.com/terminal-autonomy-factory-kyiv-russia-strike-2026-07-31/"
         },
         {
-          "label": "Pravda EN: Russian soldier spotted at entrance of Alekseevo-Druzhkovka",
-          "url": "https://news-pravda.com/russia/2026/07/29/2477730.html"
+          "label": "Martyanov: Reminiscence of the Future (standing reference)",
+          "url": "https://smoothiex12.blogspot.com/"
         }
       ]
     },
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Active — Brent above $90; Kharg intact; Houthis operational",
+      "advantage": "Active — Egypt enters; Brent ~$90; Kharg intact",
       "trend": "escalating",
-      "basis": "July 30. Brent held above $90 following IRGC July 29 ballistic-missile attack on US forces (all intercepted); US and Saudi Arabia struck Tehran-backed sites in Iraq. Oil at $90–91, up from $88 the prior day. Kharg Island remains intact. P6 (Kharg intact before Sept 1) holds. No ceasefire formalized.",
+      "basis": "July 31. US strikes Qeshm Island July 30 — kills family of three including two-year-old. IRGC retaliates July 31 with strikes on US forces in Kuwait and Jordan. Egypt struck for the first time — Damietta tanker hit. Brent approximately $90. Kharg Island oil export terminal intact; Prediction 6 holds. The conflict has a new geographic footprint: Damietta places it at the Suez approach, Egypt in the kill chain for the first time.",
       "sources": [
         {
-          "label": "CNBC: Iran launches surprise ballistic missile attack on US forces",
-          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
+          "label": "Reuters: US strikes Qeshm Island, family killed",
+          "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-qeshm-island-2026-07-30/"
         },
         {
-          "label": "Bloomberg: Oil Surges After Three-Day Drop as US Repels Iran Attack",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29"
+          "label": "AP: IRGC retaliates in Kuwait and Jordan",
+          "url": "https://apnews.com/article/iran-irgc-retaliation-us-forces-kuwait-jordan-2026-07-31"
+        },
+        {
+          "label": "Al Jazeera: Egypt targeted — Damietta tanker",
+          "url": "https://www.aljazeera.com/news/2026/7/31/egypt-damietta-tanker-iran-war-strike"
         }
       ]
     },
@@ -183,6 +191,88 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-07-31",
+      "items": [
+        {
+          "text": "QESHM BLEEDS; EGYPT ENTERS THE WAR: US strikes Qeshm Island July 30 killed a family of three — parents and a two-year-old. IRGC retaliated July 31, striking US forces in Kuwait and Jordan. Egypt was struck for the first time: a Damietta tanker hit. Brent approximately $90. Kharg Island oil export terminal intact; Prediction 6 holds. New geographic theater: Damietta places this conflict at the Suez approach.",
+          "beat": "multipolarity",
+          "links": [
+            {
+              "label": "Reuters: US strikes Qeshm Island, family killed",
+              "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-qeshm-island-2026-07-30/"
+            },
+            {
+              "label": "AP: IRGC retaliates — Kuwait and Jordan",
+              "url": "https://apnews.com/article/iran-irgc-retaliation-us-forces-kuwait-jordan-2026-07-31"
+            },
+            {
+              "label": "Al Jazeera: Egypt targeted — Damietta tanker struck",
+              "url": "https://www.aljazeera.com/news/2026/7/31/egypt-damietta-tanker-iran-war-strike"
+            }
+          ]
+        },
+        {
+          "text": "PYONGYANG'S MISSILE KILLS IN DNIPROPETROVSK; WASHINGTON'S DRONE FACTORY BURNS: Russia fired a confirmed DPRK ballistic missile at Radushne village, Dnipropetrovsk oblast — family killed. Terminal Autonomy (US-owned drone factory, Kyiv) destroyed in a separate Russian strike. Kyiv released all prisoners to assault formations — last available manpower cohort. Druzhkovka fighting continues; city-center fire control unconfirmed. P14 open.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Reuters: North Korean missile kills family in Dnipropetrovsk",
+              "url": "https://www.reuters.com/world/europe/north-korea-missile-ukraine-dnipropetrovsk-family-killed-2026-07-31/"
+            },
+            {
+              "label": "Kyiv Independent: Terminal Autonomy factory destroyed in Kyiv strike",
+              "url": "https://kyivindependent.com/terminal-autonomy-factory-kyiv-russia-strike-2026-07-31/"
+            },
+            {
+              "label": "Martyanov: Reminiscence of the Future (standing reference)",
+              "url": "https://smoothiex12.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "text": "BOTH SIDES OF FIFTY: THE DESK READS AGAINST THE PMI — AND OUAGADOUGOU FILES ITS LEDGER: July PMI manufacturing 49.2, services 49.0 — both contraction; high-tech manufacturing 53.3 (expansion). The productive core differentiates from the drag sectors; Han Feizi's read holds. Burkina July 30 Council of Ministers: 7 million tonnes cereals (124% national needs); 200 billion FCFA domestic financing for Ouagadougou-Bobo Dioulasso highway. NPO clock day 8 of 15. France: 34 days, zero economic measures since June 26 break. P15 accumulating.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "NBS: July 2026 PMI — manufacturing 49.2, services 49.0",
+              "url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260731_1958250.html"
+            },
+            {
+              "label": "Agence d'Information du Burkina: Conseil des ministres 30 juillet 2026",
+              "url": "https://www.aib.bf/actualite/compte-rendu-conseil-des-ministres-30-juillet-2026/"
+            },
+            {
+              "label": "Lefaso.net: Bilan agricole 2025-2026 — 7 millions de tonnes",
+              "url": "https://lefaso.net/spip.php?article136420"
+            }
+          ]
+        },
+        {
+          "text": "BARNES FOLDS; PREDICTION 19 GOES TO THE RECORD: Mandela Barnes dropped out of the Wisconsin Democratic gubernatorial primary July 30, citing the polling gap and endorsing Francesca Hong. Hong now polls 38–46%; 43% of Barnes's supporters listed Hong as second choice. Prediction 19's mechanism — 45% undecided delivering Barnes — has collapsed. The desk declines to grade before August 11 vote count; the call was wrong on outcome before the ballot closed.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Milwaukee Journal Sentinel: Barnes drops out, endorses Hong",
+              "url": "https://www.jsonline.com/story/news/politics/elections/2026/07/30/mandela-barnes-drops-out-wisconsin-governor-race-endorses-hong/74890012007/"
+            },
+            {
+              "label": "NBC News: Barnes exits Wisconsin Democratic primary",
+              "url": "https://www.nbcnews.com/politics/2026-election/mandela-barnes-drops-out-wisconsin-governor-primary-rcna589711"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Egypt trajectory — will Cairo absorb the Damietta strike or retaliate; next IRGC retaliation cycle",
+        "Kharg Island oil terminal — Prediction 6 (Sept 1)",
+        "Druzhkovka city-center fire control — Prediction 14 (Sept 1)",
+        "NPO registration deadline ~Aug 8 (day 8 of 15)",
+        "Kim-Putin summit — Prediction 23 (Aug 15, 15 days)",
+        "Wisconsin Aug 11 primary — Prediction 19 grades after vote count",
+        "Terminal Autonomy factory debris + US response"
+      ]
+    },
     {
       "date": "2026-07-30",
       "items": [
@@ -2760,7 +2850,7 @@
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
-      "note": "July 27: Day sixteen. Strike pause extended to second night (July 26); Iran signaled conditional halt via Oman; Brent fell 7.4% to $88. Houthis struck Aramco Jizan (burning) and Yanbu (Saudi's only export corridor) July 25 — Greek Patriot intercepts at Yanbu. Market overriding Yanbu attack on US-Iran de-escalation signal. Kharg Island oil export terminal intact. Prediction holds at September 1 horizon.",
+      "note": "July 31: Day twenty (from first pause day 12). US strikes Qeshm Island July 30 — kills family of three incl. two-year-old. IRGC retaliates July 31 in Kuwait and Jordan. Egypt struck for first time (Damietta tanker). Brent approximately $90. Kharg Island oil export terminal: intact. Prediction holds at September 1 horizon. New theaters do not change the prediction's core; Kharg specifically remains the test.",
       "schema_version": 1
     },
     {
@@ -2829,7 +2919,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "Day thirty-six (July 30). Russian assault units fighting inside Druzhkovka — geolocated western district, Yug battlegroup reporting forward movement through city. Entry confirmed July 29, thirty-three days ahead of September 1 horizon. City-center fire control not yet geolocated. Martyanov July 29: after Druzhkovka, 'straight road to Pavlograd and Dnepropetrovsk.' P14 remains open; entry ≠ operational control.",
+      "note": "Day thirty-seven (July 31). Fighting continues inside Druzhkovka; city-center fire control not yet geolocated. Russia fired a confirmed DPRK ballistic missile at Radushne village in Dnipropetrovsk oblast (kills a family) — operational pace unchanged. Kyiv released all prisoners to assault formations. P14 open: entry confirmed, control unconfirmed. September 1 horizon remains live.",
       "schema_version": 1
     },
     {
@@ -2838,7 +2928,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "Day thirty-four (July 30). France: no specific economic, financial, aid-suspension, or operational measures since June 26 diplomatic break — thirty-three days and counting. NPO registration decree at day 7 of 15; INSO suspended. Ouagadougou executing its program undisturbed. Prediction accumulating toward HIT.",
+      "note": "Day thirty-five (July 31). France: zero specific economic, financial, aid-suspension, or operational measures — thirty-four days since June 26 break. NPO registration decree day 8 of 15 (deadline ~Aug 8). INSO suspended; director detained. Burkina July 30 Council of Ministers: 7M tonnes cereals (124% national needs), 200B FCFA domestic Ouaga-Bobo highway. Ouagadougou executing its program; Paris has found no answer. Prediction accumulating toward HIT.",
       "schema_version": 1
     },
     {
@@ -2882,7 +2972,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 30: Twelve days to August 11. Marquette poll July 22–27 (released July 29): Hong 38%, Barnes 16%, undecideds 34% (down from 45%); State Navigate poll: Hong +29 points. First and only debate July 29 in Milwaukee: amicable, no attacks on Hong. P19's mechanism — 45% undecided delivering Barnes — has collapsed. Desk declines to grade before the vote; the record is: Hong leads by 22 points with twelve days remaining."
+      "note": "July 31: Barnes dropped out July 30 and endorsed Francesca Hong. Hong polling 38–46%; 43% of Barnes supporters list Hong as second choice. The prediction's mechanism — 45% undecided delivering Barnes — collapsed before the ballot closed. The desk declines to grade before August 11 vote count; the outcome is not yet formally recorded, but the call was wrong. Grades after August 11."
     },
     {
       "schema_version": 2,
@@ -2950,7 +3040,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 30: Kim Jong Un was in Pyongyang on July 27 for armistice commemorations — not Moscow. No confirmed face-to-face Kim-Putin meeting as of today. Kremlin had confirmed Kim's upcoming Russia visit; sixteen days remain before the August 15 resolution deadline. Choe Son Hui coordinated at the Kremlin July 18–20."
+      "note": "July 31: No confirmed Kim-Putin face-to-face meeting. Kim was in Pyongyang July 27 for armistice commemorations. Fifteen days remain before the August 15 resolution deadline. An Eastern Economic Forum window in Vladivostok (September 1-4) has emerged as a potential meeting venue — but that falls after this prediction's resolution date. DPRK missile confirmed operational in Ukraine (Radushne, July 31); the military relationship is active regardless of summit timing."
     }
   ],
   "corrections": [
