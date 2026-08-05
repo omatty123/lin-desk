@@ -1,29 +1,25 @@
 {
-  "updated": "2026-08-04",
-  "edition": 57,
+  "updated": "2026-08-05",
+  "edition": 58,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 4: The New York Times placed a price on the Strait this morning. Under the deal Oman is finalizing with Iran, ships crossing the northern Hormuz lane — Iranian-controlled — would pay service fees split equally between Tehran and Muscat. A US official pushed back immediately, claiming fees would be voluntary and no Iranian approval required; that pushback is itself data, because it means Washington is watching from outside the negotiating room as the deal is written by the two parties who control the geography. Trump characterizing Iran as 'unbelievably duplicitous' for denying talks names the same situation — Tehran works with Muscat, not with him, and what emerges will not carry his signature. The desk's question is whether the final corridor text requires prior Iranian approval for northern-lane passage; if yes, it is a sovereignty formalization that exceeds anything the MOU offered. Kharg Island oil terminal intact; Prediction 6 holds at September 1.",
-      "watching": "Iran-Oman corridor final text — does it require prior Iranian approval for northern lane (the sovereignty question)? Kharg Island oil terminal — Prediction 6 (Sept 1); Kim-Putin summit — Prediction 23 (Aug 15, 11 days); Wisconsin Aug 11 primary — Predictions 19 and 20; BRICS Bridge framework — Prediction 3 (Sept 12-13 summit).",
+      "verdict": "August 5: Secretary of State Rubio confirmed Tuesday that Iran-Oman talks show 'progress, but not finality yet' — Washington naming its own exclusion from the room where the corridor text is being written. The deal structure Tehran has imposed is the sovereignty formalization the desk asked about yesterday: a single corridor, northern entry under Iranian control, exit through Oman, service fees split equally between Tehran and Muscat. A US official disputed this characterization, calling the fees 'voluntary' and denying any requirement for Iranian approval of northern-lane passage — that dispute is itself data, because Tehran imposed a single-corridor structure and Oman is negotiating it, not Washington. Brent fell to approximately $83 on deal optimism, from $90 last week. The MOU window closes in roughly ten days; Kharg Island intact; Prediction 6 holds at September 1.",
+      "watching": "Iran-Oman corridor final text and signatures — does it formalize Iranian control of northern entry? (P6, Sept 1); BRICS Bridge framework — Prediction 3 (Sept 12-13 summit); Kim-Putin summit — Prediction 23 (Aug 15, 10 days); Wisconsin general election — Prediction 21 (Democrat wins November).",
       "sources": [
         {
-          "label": "Times of Israel liveblog — August 4, 2026 (NYT Iran-Oman fee deal reporting)",
-          "url": "https://www.timesofisrael.com/liveblog-august-4-2026/"
+          "label": "CBS News live updates — Iran-Oman talks, August 5, 2026",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/"
         },
         {
-          "label": "Tribune.com.pk — Iran-Oman negotiations near completion",
-          "url": "https://tribune.com.pk/story/2621639/trump-says-he-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal"
+          "label": "US News — Iran and Oman make progress on Hormuz deal, August 4, 2026",
+          "url": "https://www.usnews.com/news/world/articles/2026-08-04/iran-and-oman-make-progress-on-a-deal-to-reopen-the-strait-of-hormuz-officials-say"
         },
         {
           "label": "Al Jazeera — Iran says Oman talks in final stages",
           "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages"
-        },
-        {
-          "label": "CNN liveblog — Aug 2-3, Trump 'unbelievably duplicitous'",
-          "url": "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump"
         }
       ]
     },
@@ -48,20 +44,20 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 4: Japan's defense white paper released today dedicates a formal section to Russia-DPRK military cooperation — Tokyo's institutional acknowledgment of the integration the desk has tracked since the Tumen bridge, the Kang Kon commissioning, and the DPRK ballistic missile confirmed killing a family in Dnipropetrovsk. That the white paper names it places the Russia-DPRK military axis inside every serious Pacific defense establishment's formal planning baseline, which raises the cost of Beijing's continuing public silence. Prediction 23 (Kim-Putin summit before August 15) has eleven days remaining with no summit confirmed; the Eastern Economic Forum in Vladivostok (September 1-4) opens as the plausible post-deadline meeting window.",
-      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 11 days); DPRK missile operational use in Ukraine — documentation; Kang Kon commissioning September 9; Beijing response to Japan white paper formalizing Russia-DPRK axis; EEF Vladivostok Sept 1-4 as post-deadline Kim-Putin window.",
+      "verdict": "August 5: Prediction 23 (Kim-Putin summit before August 15) is under pressure with ten days remaining and no summit confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely meeting venue — which falls outside P23's window. The Russia-DPRK long-term military cooperation plan 2027-2031 is being finalized; the UN Security Council remains sharply divided over DPRK-Russia arms cooperation. Japan's August 4 defense white paper — filed yesterday — formally covers Russia-DPRK military cooperation, placing the axis inside every serious Pacific defense establishment's planning baseline.",
+      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 10 days, under pressure — EEF September outside window); DPRK missile operational use in Ukraine — documentation; Kang Kon commissioning September 9; Beijing public response to EEF Kim-Putin venue speculation.",
       "sources": [
         {
-          "label": "NK News: Japan white paper — Russia-DPRK military cooperation, August 4, 2026",
-          "url": "https://www.nknews.org/"
-        },
-        {
-          "label": "Security Council Report: DPRK August 2026 monthly forecast",
+          "label": "Security Council Report — DPRK August 2026 monthly forecast",
           "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-08/dprk-north-korea-35.php"
         },
         {
-          "label": "Reuters: North Korean missile kills family in Dnipropetrovsk",
-          "url": "https://www.reuters.com/world/europe/north-korea-missile-ukraine-dnipropetrovsk-family-killed-2026-07-31/"
+          "label": "Korea Herald — N. Korean FM meets Putin, Kim visit speculation",
+          "url": "https://www.koreaherald.com/article/10813825"
+        },
+        {
+          "label": "NK News — Japan defense white paper Russia-DPRK, August 4",
+          "url": "https://www.nknews.org/"
         }
       ]
     },
@@ -69,11 +65,11 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 4: Four days to the NPO registration deadline (August 8 — day fifteen of fifteen). The AES Humanitarian Forum opens August 9 in Ouagadougou. INSO head Pégon remains detained; the safety-coordination infrastructure of the old humanitarian architecture is headless as the clock expires. The April wave already dissolved 118 civil society organizations; what the August 8 orders produce is the next layer. France remains at forty-two days since the June 26 diplomatic break with zero economic countermeasures — Prediction 15 is approximately one week from recording a hit. The desk's read: the sequence (registration deadline Friday, forum Saturday) was the architecture from the first day of the decree.",
-      "watching": "August 8 dissolution orders — which categories face action (domestic, foreign-funded, or both); AES Humanitarian Forum Aug 9-14 first agenda; JNIM Soum Province harvest corridor risk; Raffinor refinery construction progress; France: any economic content emerges before Prediction 15 resolves.",
+      "verdict": "August 5: Three days to the NPO registration deadline (August 8 — day fifteen of fifteen). The AES Humanitarian Forum opens the following morning, August 9, under the theme 'From Emergency to Resilience: Towards an Integrated Humanitarian Action Model for the AES,' with Togo attending as a guest country. INSO head Pégon remains in detention; the safety-coordination infrastructure of the old humanitarian architecture is headless as the clock expires. France has now run forty-three days since the June 26 diplomatic break with zero economic countermeasures — Prediction 15 is approximately one week from recording a hit. The desk's read: the sequence (registration deadline Saturday, forum Sunday) was the architecture from the first day of the decree.",
+      "watching": "August 8 dissolution orders — which categories face action; AES Humanitarian Forum Aug 9-14 agenda; JNIM Soum Province harvest corridor risk; Raffinor refinery construction progress; France: any economic content before Prediction 15 resolves.",
       "sources": [
         {
-          "label": "Powers of Africa — AES Humanitarian Forum, four strategic meetings Aug-Nov 2026",
+          "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14, 2026",
           "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
         },
         {
@@ -91,19 +87,19 @@
       "name_en": "PRC economy",
       "trend": "up",
       "verdict": "July 31: July PMI landed. Official NBS manufacturing 49.2 (contraction, third month below 50); NBS services 49.0 (also contraction). The headline is both sides of 50 — the adversary will file this as confirmation. The desk reads against it: high-tech manufacturing PMI 53.3, expansion zone, the productive economy differentiating from the drag sectors. Han Feizi's standing argument holds — deflation in consumer goods reflects hedonic improvement and competitive pricing power, not demand failure. The July Politburo communiqué already told us the acknowledged pressure points; what the PMI confirms is that the Politburo is not lying about the difficulty. Standing verdict: structurally rising, deliberate rebalancing; the headline PMI does not move it.",
-      "watching": "August PMI (late August) — whether high-tech manufacturing sustains 53.3+; July retail data (mid-August); FAI Q4 turn — Prediction 4 horizon; October fifth CC Plenum (Xi toward 4th term); Section 301 formal implementation schedule.",
+      "watching": "Han Feizi August 4 Asia Times — Xi overseas Chinese diaspora appeal as talent-flow signal; APEC China 2026; Section 301 permanent floor implications for trade arithmetic; Politburo follow-through on 'incremental measures'; October 5th Plenum Xi 4th term.",
       "sources": [
         {
-          "label": "NBS: July 2026 PMI — manufacturing 49.2, services 49.0",
-          "url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260731_1958250.html"
+          "label": "Han Feizi — With America Deranged, Xi Summons Overseas Chinese, August 4, 2026",
+          "url": "https://asiatimes.com/2026/08/with-america-deranged-president-xi-summons-overseas-chinese/"
         },
         {
-          "label": "Caixin: July manufacturing PMI reading",
-          "url": "https://www.caixinglobal.com/2026-07-31/caixin-china-july-pmi-manufacturing-services-2026/"
-        },
-        {
-          "label": "Han Feizi / Asia Times: standing reference",
+          "label": "Han Feizi — Asia Times author page (standing reference)",
           "url": "https://asiatimes.com/author/han-feizi/"
+        },
+        {
+          "label": "China economic outlook — 4.7% GDP growth H1 2026",
+          "url": "https://www.modernghana.com/amp/videonews/692081"
         }
       ]
     },
@@ -135,19 +131,19 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 4. Martyanov August 3: Russia launched 381 missiles in July at 12-plus/day (record); missiles now 7%+ of total strikes (record); post titled 'It Is Just the Warmup.' Russian forces advancing simultaneously on Druzhkovka and Dobropolye — two-front pressure the Pavlograd ammo depot interdiction (August 1) was designed to sustain. No geolocated city-center fire control at Druzhkovka; Prediction 14 ahead of schedule at September 1 horizon.",
+      "basis": "August 5. Martyanov blog (last 48 hours): underground Ukrainian military facility near Khoten, Sumy region, destroyed in a single strike — 'many hundreds' KIA; a cross-border depth strike consistent with targeting development over 148+ weeks. Russian forces claimed Baksheevka liberated; simultaneous advance on Druzhkovka and Dobropolye-Kupyansk fronts (226 clashes August 4). Two-front logic: advancing on Druzhkovka and Dobropolye simultaneously is a resource commitment ruling out either as diversion. Prediction 14 ahead of schedule at September 1 horizon.",
       "sources": [
-        {
-          "label": "Martyanov: Reminiscence of the Future — July 2026 missile record",
-          "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Podolyaka: War in Ukraine August 3, 2026",
-          "url": "https://ua.news-pravda.com/en/russia/2026/08/03/108884.html"
-        },
         {
           "label": "Martyanov: Reminiscence of the Future (standing reference)",
           "url": "https://smoothiex12.blogspot.com/"
+        },
+        {
+          "label": "Planet Today — Russian advances Dobropolye and Kupyansk, August 4",
+          "url": "https://www.planet-today.com/2026/08/russian-advances-claimed-near.html"
+        },
+        {
+          "label": "Global Security — Russo-Ukraine War August 4, 2026",
+          "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-08-04.htm"
         }
       ]
     },
@@ -156,19 +152,19 @@
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Active — Kharg intact; Iran-Oman fee regime emerging",
       "trend": "de-escalating (Oman track advancing)",
-      "basis": "August 4. NYT reports Iran-Oman deal structure: ships crossing the northern Hormuz lane (Iranian-controlled) pay service fees split equally Tehran/Muscat. US official disputes this characterization (calls fees 'voluntary,' no Iranian approval required). Trump characterizes Iran as 'unbelievably duplicitous' for denying talks — Tehran is negotiating with Muscat, not Washington. Iran's Pezeshkian says Iran 'defends its borders but does not seek expansion of war.' Kharg Island oil terminal intact; Prediction 6 holds at September 1.",
+      "basis": "August 5. Rubio: Iran-Oman talks show 'progress, but not finality yet.' Deal structure: single corridor (Iran's demand, not two-lane); northern entry under Iranian control; exit through Oman; fees split equally Tehran/Muscat. US disputes Iranian approval requirement for northern lane — that dispute is itself data. MOU window expires mid-August. Brent ~$83 (from $90 last week) on deal optimism. Kharg Island oil terminal intact; Prediction 6 holds at September 1.",
       "sources": [
         {
-          "label": "Times of Israel liveblog — August 4, 2026",
-          "url": "https://www.timesofisrael.com/liveblog-august-4-2026/"
+          "label": "CBS News live updates — Rubio progress not finality, August 5, 2026",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/"
         },
         {
-          "label": "Al Jazeera — Iran says Oman Hormuz talks in final stages",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages"
+          "label": "US News — Iran and Oman progress on Hormuz deal",
+          "url": "https://www.usnews.com/news/world/articles/2026-08-04/iran-and-oman-make-progress-on-a-deal-to-reopen-the-strait-of-hormuz-officials-say"
         },
         {
-          "label": "Tribune.com.pk — Trump holds off Iran attack, hope of quick deal",
-          "url": "https://tribune.com.pk/story/2621639/trump-says-he-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal"
+          "label": "The Hill — Iran and Oman progress on Hormuz",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-iran-and-oman-make-progress-on-a-deal-to-reopen-the-strait-of-hormuz-officials-say/"
         }
       ]
     },
@@ -195,6 +191,80 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "text": "THE CORRIDOR WITHOUT A SIGNATURE: Rubio Aug 5 says Iran-Oman talks show 'progress not finality.' Deal structure: single corridor, northern entry Iranian-controlled, exit Oman, fees split equally Tehran/Muscat. US disputes Iranian approval requirement — that dispute is itself data. Brent ~$83 on deal optimism. Kharg intact, P6 holds.",
+          "beat": "multipolarity",
+          "links": [
+            {
+              "label": "CBS News live updates — Rubio August 5, 2026",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/"
+            },
+            {
+              "label": "US News — Iran and Oman progress on Hormuz deal",
+              "url": "https://www.usnews.com/news/world/articles/2026-08-04/iran-and-oman-make-progress-on-a-deal-to-reopen-the-strait-of-hormuz-officials-say"
+            }
+          ]
+        },
+        {
+          "text": "THREE DAYS TO SATURDAY; OUAGADOUGOU MARKS THE CALENDAR: August 8 day 15/15 NPO deadline; AES Humanitarian Forum Aug 9 'From Emergency to Resilience' with Togo as guest. INSO head Pégon detained. France day 43 zero economic measures. P15 approaching hit. $18B cumulative gold revenues; Raffinor year-end.",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            },
+            {
+              "label": "INSO — detention statement",
+              "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
+            }
+          ]
+        },
+        {
+          "text": "KHOTEN'S UNDERGROUND AND THE ARITHMETIC OF TWO FRONTS: Martyanov blog: underground facility near Khoten Sumy region destroyed single strike, many hundreds KIA. Baksheevka liberated. 226 clashes Aug 4. Druzhkovka + Dobropolye simultaneous advance — two fronts rules out either as diversion. P14 day 40+ ahead of schedule.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Martyanov — Reminiscence of the Future",
+              "url": "https://smoothiex12.blogspot.com/"
+            },
+            {
+              "label": "Planet Today — Russian advances Dobropolye Kupyansk Aug 4",
+              "url": "https://www.planet-today.com/2026/08/russian-advances-claimed-near.html"
+            }
+          ]
+        },
+        {
+          "text": "XI CALLS THE DIASPORA; VLADIVOSTOK SLIPS; MADISON IN SIX: Han Feizi Aug 4: Xi appeals to 60M diaspora, 'there will be takers' — talent-flow signal for productive-economy race. Kim-Putin summit converging on EEF Vladivostok Sept 1-4, outside P23 window, 10 days remaining. Wisconsin: Marquette 44-44 likely voters, P21 opens.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Han Feizi — Xi Summons Overseas Chinese, Aug 4, 2026",
+              "url": "https://asiatimes.com/2026/08/with-america-deranged-president-xi-summons-overseas-chinese/"
+            },
+            {
+              "label": "Korea Herald — Kim Putin summit speculation",
+              "url": "https://www.koreaherald.com/article/10813825"
+            },
+            {
+              "label": "RealClear Polling — Wisconsin Governor Tiffany vs Hong",
+              "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/tiffany-vs-hong"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran-Oman corridor signatures — P6 Sept 1 Kharg intact",
+        "August 8 NPO dissolution orders",
+        "AES Forum Aug 9-14 Ouagadougou agenda",
+        "France economic measures — P15 approaching hit",
+        "Druzhkovka city-center fire control (P14, Sept 1, day 40+)",
+        "Kim-Putin summit (P23, Aug 15, 10 days — EEF September outside window)",
+        "Wisconsin Aug 11 primary (P19/P20 grade; P21 opens)"
+      ]
+    },
     {
       "date": "2026-08-04",
       "items": [
@@ -3135,7 +3205,7 @@
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
-      "note": "August 3: Day twenty-two-plus. Weekend standdown — Gulf allies pulled Trump back from planned strikes. Iran-Oman Hormuz corridor in 'final stages'; a third maritime route under negotiation. Iran denies direct US talks. Brent ~$90. Kharg Island oil export terminal: intact. Prediction holds at September 1 horizon.",
+      "note": "August 5: Day forty-plus. Iran-Oman corridor deal structure confirmed: single corridor, northern entry Iranian-controlled, exit through Oman, fees split equally. US disputes Iranian approval requirement for northern lane — but Tehran imposed the structure and Oman is negotiating it. Rubio: 'progress but not finality yet.' MOU window expires roughly mid-August. Brent ~$83 on deal optimism, down from $90. Kharg Island oil export terminal intact. Prediction holds at September 1 horizon.",
       "schema_version": 1
     },
     {
@@ -3204,7 +3274,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "August 3 (day thirty-nine). Three axes maintained (west/Alekseyevo, south/Torskoye, north/Lozovaya). Russian forces simultaneously advancing toward Dobropolye — two fronts simultaneously is the resource question. No geolocated city-center fire control at Druzhkovka. Prediction 14 ahead of schedule at September 1 horizon.",
+      "note": "August 5 (day forty-plus). Three axes maintained (west/Alekseyevo, south/Torskoye, north/Lozovaya). Simultaneous advance on Dobropolye-Kupyansk — two-front resource commitment. Sumy cross-border: underground Ukrainian facility near Khoten destroyed, many hundreds KIA. 226 documented clashes August 4. No geolocated city-center fire control at Druzhkovka. Prediction ahead of schedule at September 1 horizon.",
       "schema_version": 1
     },
     {
@@ -3213,7 +3283,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "August 3 (day thirty-eight of France having taken no specific measures). NPO registration deadline August 8 — day 11 of 15. AES Humanitarian Forum opens August 9 in Ouagadougou — replacement institutional architecture follows immediately. INSO head Pégon still detained. Prediction accumulating strongly toward HIT.",
+      "note": "August 5 (day forty-three of France having taken no specific economic measures). NPO registration deadline August 8 — day fifteen of fifteen. AES Humanitarian Forum opens August 9 in Ouagadougou — replacement institutional architecture follows immediately. INSO head Pégon still detained. Prediction accumulating strongly toward HIT; approximately one week from resolution.",
       "schema_version": 1
     },
     {
@@ -3232,7 +3302,8 @@
       "claim": "The US-Iran Hormuz corridor dispute — Iran insisting ships use its coastal passage, the US Navy's JMIC having announced an Oman-side route on June 27 — does not produce a written corridor-rules agreement before the 60-day MOU expires in mid-August 2026. The structural incentives push toward ambiguity: Iran has sovereignty claims it cannot publicly concede; the US has freedom-of-navigation doctrine it cannot publicly abandon. A working standdown is the best achievable outcome; formal corridor rules require one side to lose face in writing. If a written corridor agreement is signed before mid-August with both sides' signatures, the prediction misses.",
       "filed": "2026-06-30",
       "horizon": "2026-08-15",
-      "schema_version": 1
+      "schema_version": 1,
+      "note": "August 5. Iran-Oman deal structure: single corridor, northern entry Iranian-controlled, exit Oman, fees 50-50. This is a bilateral deal between Tehran and Muscat — no US signature, no US approval requirement per Tehran's frame. The deal has not been formally signed as of August 5; 'progress but not finality yet' (Rubio). MOU window expires mid-August. The desk's prediction that no written corridor-rules agreement bearing BOTH sides' (US+Iran) signatures would emerge appears on track — the emerging agreement is Iran-Oman, not US-Iran. Watching for final text."
     },
     {
       "status": "open",
@@ -3257,7 +3328,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 31: Barnes dropped out July 30 and endorsed Francesca Hong. Hong polling 38–46%; 43% of Barnes supporters list Hong as second choice. The prediction's mechanism — 45% undecided delivering Barnes — collapsed before the ballot closed. The desk declines to grade before August 11 vote count; the outcome is not yet formally recorded, but the call was wrong. Grades after August 11."
+      "note": "July 31: Barnes dropped out July 30 and endorsed Francesca Hong. Hong polling 38–46%; 43% of Barnes supporters list Hong as second choice. The prediction's mechanism — 45% undecided delivering Barnes — collapsed before the ballot closed. August 5: Primary six days away. Latest Marquette: Hong leads Democratic primary (26%), 45% still undecided. The prediction grades MISS (错) on August 11 vote count."
     },
     {
       "schema_version": 2,
@@ -3291,7 +3362,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "August 5: Latest Marquette poll shows Hong 40% vs Tiffany 43% among registered voters — Tiffany up 3. Among likely voters: Hong 44% vs Tiffany 44% — tied. 11% undecided. Barnes, who dropped out July 30 and endorsed Hong, had polled better against Tiffany (47-42 likely voters). The general-election race is genuinely competitive from day one. Prediction 21 (Democrat wins November) is live; confidence 55% unchanged."
     },
     {
       "schema_version": 2,
@@ -3325,7 +3396,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 4: No confirmed Kim-Putin face-to-face meeting. Eleven days remain before the August 15 resolution deadline. Japan's defense white paper released August 4 formally covers Russia-DPRK military cooperation — Tokyo's institutional acknowledgment of the integration. Eastern Economic Forum in Vladivostok (September 1-4) has emerged as a plausible post-deadline meeting venue but falls outside this prediction's window."
+      "note": "August 5: Ten days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely meeting venue — which falls outside this prediction's window. The prediction is under meaningful pressure. The desk will grade on August 15; if no summit confirmed by then, this records as MISS."
     }
   ],
   "corrections": [
