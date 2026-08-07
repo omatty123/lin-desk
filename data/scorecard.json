@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-06",
-  "edition": 59,
+  "updated": "2026-08-07",
+  "edition": 60,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 6: Iran and Oman confirmed this morning that a Hormuz navigation agreement has been reached — Iranian-controlled northern lane, Oman exit, fees split 50-50, joint statement in final drafting. Brent fell to $79, from $83 Monday and $90 last week. No US signature. Prediction 17 is confirmed on structure: this is an Iran-Oman bilateral, not a US-Iran deal. The question now is whether Washington inserts itself into the joint statement before the seal goes down.",
-      "watching": "Whether Washington inserts itself into the joint statement text before signing — which would transform a bilateral into a trilateral; Kharg Island P6 Sept 1 (intact, Brent $79); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
+      "verdict": "August 7: The Iran-Oman joint statement remains in final drafting; no US signature. Washington’s objection — no fees, no approvals, no impediments — is not a negotiating position. It is a doctrine. Iran’s position is that service fees are sovereignty in practice: the northern lane runs through Iranian coastal waters. A bilateral Oman-Iran text that Washington cannot sign is exactly what Prediction 17 called. Brent fell to 9 from 0 last week; Kharg remains intact. The structural read: a bilateral corridor deal sealed without US signature is a more durable multipolarity signal than a trilateral that requires Tehran to publicly concede a sovereign claim.",
+      "watching": "Whether Washington inserts itself into the Iran-Oman joint statement text before the seal goes down — that move transforms an Iranian sovereignty win into a multilateral concession; Kharg Island P6 Sept 1 (intact, Brent 9); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
         {
-          "label": "CBS News live updates — Iran-Oman talks, August 5, 2026",
+          "label": "Bloomberg — Iran-Oman deal agreed in principle, August 6, 2026",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-06/iran-says-deal-with-oman-on-strait-of-hormuz-agreed-in-principle"
+        },
+        {
+          "label": "CNN — Hormuz deal analysis, August 5, 2026",
+          "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
+        },
+        {
+          "label": "CBS News live updates — Iran-Oman talks",
           "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/"
-        },
-        {
-          "label": "US News — Iran and Oman make progress on Hormuz deal, August 4, 2026",
-          "url": "https://www.usnews.com/news/world/articles/2026-08-04/iran-and-oman-make-progress-on-a-deal-to-reopen-the-strait-of-hormuz-officials-say"
-        },
-        {
-          "label": "Al Jazeera — Iran says Oman talks in final stages",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 6: Prediction 23 (Kim-Putin summit before August 15) is under meaningful pressure with nine days remaining. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — which falls outside this prediction's window. The desk will grade on August 15.",
-      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 9 days, under pressure — EEF September outside window); DPRK-Russia arms/manpower flow via Ukraine battlefield reports",
+      "verdict": "August 7: Prediction 23 (Kim-Putin summit before August 15) has eight days remaining. No face-to-face summit has been confirmed. Reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — which falls outside this prediction’s window. The desk will grade on August 15; if no summit confirmed by then, this records as MISS.",
+      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 8 days, heading to MISS — EEF September outside window); DPRK-Russia arms and manpower flow via Ukraine battlefield reports",
       "sources": [
         {
           "label": "Security Council Report — DPRK August 2026 monthly forecast",
@@ -65,20 +65,24 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 6: The NPO registration deadline falls tomorrow — August 8, day fifteen of fifteen. The AES Humanitarian Forum opens the day after in Ouagadougou under the theme 'From Emergency to Resilience.' Approximately 1,174 civil society organizations have been suspended or dissolved. INSO's head Pégon remains detained at day 45. France has issued zero economic countermeasures. Prediction 15 is approximately one week from resolution as a hit.",
-      "watching": "August 8 dissolution orders — which categories face action; AES Humanitarian Forum Aug 9-14 in Ouagadougou; France economic response timeline — Prediction 15 approaching HIT",
+      "verdict": "August 7: The 15-day NPO registration deadline falls today (August 8). Approximately 1,174 civil society organizations have been suspended or dissolved since the decree; INSO head Pégon remains detained at day 46. The AES Humanitarian Forum opens tomorrow under the theme “From Emergency to Resilience.” The Al Jazeera “reality test” piece (August 4) — Traoré symbolic victories outrunning material record — is the adversary’s frame, not the desk’s. The material indicators: 8 billion in cumulative gold revenues since 2022, the Yako state-owned mine inaugurated July 9, Raffinor’s first bars expected before year-end. France has issued zero economic countermeasures since the June 26 diplomatic break (day 42). Prediction 15 is on track for resolution as a hit.",
+      "watching": "August 8 dissolution orders — which categories face formal dissolution today; AES Humanitarian Forum Aug 9-14 Ouagadougou deliverables; France economic response timeline — Prediction 15 approaching HIT",
       "sources": [
         {
-          "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14, 2026",
+          "label": "Al Jazeera — Traoré reality test, August 4, 2026",
+          "url": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test"
+        },
+        {
+          "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
           "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
         },
         {
-          "label": "INSO — statement on ongoing detention of staff in Burkina Faso",
-          "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
+          "label": "Africa Briefing — Burkina Faso \\8B gold windfall",
+          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         },
         {
-          "label": "Amnesty International — Burkina Faso dissolution of 100+ NGOs, April 2026",
-          "url": "https://www.amnesty.org/en/latest/news/2026/04/burkina-faso-dissolution-ngos/"
+          "label": "INSO — statement on detention of staff in Burkina Faso",
+          "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
         }
       ]
     },
@@ -107,20 +111,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 6: Russian forces advanced near Stenki on the Druzhkovka axis and entered Matyashevo on the Dobropolye axis as of August 3. Martyanov's August 5 post alleges Ukrainian supply depots are being labeled civilian facilities — if accurate, the targeting question becomes a Western political problem, not only a Ukrainian logistics one. Two simultaneous active fronts at this scale rules out diversion; the resource commitment is real. Prediction 14 holds: no geolocated fire control over Druzhkovka city center yet.",
-      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1); Dobropolye front depth — Matyashevo entered; Martyanov warehouse allegation — whether Western media picks up the targeting question; Wisconsin Aug 11 primary (P19/P20 grade after vote)",
+      "verdict": "August 7: Russian forces captured Krasnoyarskoye and severed the Dobropolye–Kramatorsk road on the Dobropolye axis (Southfront, August 6), while advancing in the southern portion of Alekseyevo-Druzhkovka simultaneously. Two active fronts at this operational scale rules out diversion. Martyanov’s August 7 post dismisses Zaluzhny’s claim that NATO needs twelve years to approach half of Russia’s military capability, arguing the gap is structural and will not close in twelve or twenty years. Prediction 14 holds: no geolocated city-center fire control over Druzhkovka yet, ahead of the September 1 schedule.",
+      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Dobropolye front: geolocated Krasnoyarskoye confirmation and road-cut holding; Wisconsin Aug 11 primary (P19 MISS, P20 grades after vote)",
       "sources": [
         {
-          "label": "Martyanov: Reminiscence of the Future — July missile record, Aug 3, 2026",
-          "url": "https://smoothiex12.blogspot.com/"
+          "label": "Southfront — Military situation Ukraine, August 6, 2026",
+          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
         },
         {
-          "label": "Podolyaka: War in Ukraine overview, August 3, 2026",
-          "url": "https://ua.news-pravda.com/en/russia/2026/08/03/108884.html"
+          "label": "Martyanov — “Aah, No!”, August 2026",
+          "url": "https://smoothiex12.blogspot.com/2026/08/aah-no.html"
         },
         {
-          "label": "Newsweek: Republicans now favorites to win Wisconsin governor",
-          "url": "https://www.newsweek.com/republicans-now-favorites-to-win-wisconsin-governor-election-amid-dem-chaos-12276257"
+          "label": "FOX6 — Wisconsin primary final week",
+          "url": "https://www.fox6now.com/news/wisconsin-democratic-governor-primary-4-candidates-remain-final-week"
         }
       ]
     }
@@ -131,19 +135,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 6. Russian forces advanced near Stenki on the Druzhkovka axis and entered Matyashevo on the Dobropolye axis (August 3). Martyanov (August 5): alleges Ukrainian military supply depots being labeled civilian facilities — potential Western political problem. Two simultaneous active fronts at this scale rules out diversion. Druzhkovka city-center fire control not yet geolocated. Prediction 14 (Druzhkovka operational control, Sept 1) holds and is ahead of schedule.",
+      "basis": "August 7: Russian forces captured Krasnoyarskoye and severed the Dobropolye-Kramatorsk road (Southfront, August 6). Two simultaneous active fronts — Druzhkovka and Dobropolye — at operational scale rules out diversion. Ukrainian losses: approximately 1,395 per day (Southfront). Druzhkovka city-center fire control not yet geolocated; Dobropolye–Kramatorsk road interdiction confirmed.",
       "sources": [
         {
-          "label": "Martyanov: Reminiscence of the Future (standing reference)",
+          "label": "Southfront — Military situation Ukraine August 6, 2026",
+          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
+        },
+        {
+          "label": "Martyanov — Reminiscence of the Future (standing reference)",
           "url": "https://smoothiex12.blogspot.com/"
-        },
-        {
-          "label": "Southfront — Ukraine military situation August 3, 2026",
-          "url": "https://southfront.press/military-situation-in-ukraine-on-august-3-2026-maps-update/"
-        },
-        {
-          "label": "Planet Today — Russian advances Druzhkovka and Dobropolye, August 3",
-          "url": "https://www.planet-today.com/2026/08/russian-advances-claimed-near.html"
         }
       ]
     },
@@ -191,6 +191,73 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-07",
+      "items": [
+        {
+          "text": "DOBROPOLYE: THE ROAD SEVERED, TWO FRONTS ONE ARITHMETIC — Krasnoyarskoye captured, Dobropolye-Kramatorsk road cut; Alekseyevo-Druzhkovka southern sector expanding; Martyanov dismisses Zaluzhny 12-year NATO gap as structural underestimate; P14 ahead of schedule",
+          "links": [
+            {
+              "label": "Southfront — Military situation Ukraine, August 6, 2026",
+              "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
+            },
+            {
+              "label": "Martyanov — Aah, No!, August 2026",
+              "url": "https://smoothiex12.blogspot.com/2026/08/aah-no.html"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU AT ZERO: THE FORUM OPENS AND THE CLOCK STOPS — Aug 8 NPO deadline today; ~1,174 CSOs suspended/dissolved; Pégon detained day 46; AES Humanitarian Forum Aug 9; Al Jazeera reality-test = adversary frame; \\8B gold revenues, Yako mine, Raffinor year-end; France zero measures; P15 on track HIT",
+          "links": [
+            {
+              "label": "Al Jazeera — Traoré reality test, August 4, 2026",
+              "url": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test"
+            },
+            {
+              "label": "Africa Briefing — Burkina Faso \\8B gold windfall",
+              "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
+            }
+          ]
+        },
+        {
+          "text": "THE FEE IS THE POINT: WASHINGTON’S HORMUZ OBJECTION — Iran-Oman deal final drafting; US no-fees position = doctrine; bilateral Oman-Iran = P17 on track; Brent \\9; Kharg intact P6",
+          "links": [
+            {
+              "label": "Bloomberg — Iran-Oman deal agreed in principle, August 6, 2026",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-06/iran-says-deal-with-oman-on-strait-of-hormuz-agreed-in-principle"
+            },
+            {
+              "label": "CNN — Hormuz deal analysis, August 5, 2026",
+              "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
+            }
+          ]
+        },
+        {
+          "text": "MADISON IN FOUR: FOXCONN COUNTRY — Hong 38% Marquette; Tiffany +2.8 general; P19 grades MISS Aug 11; P20 grades Aug 11; Foxconn graveyard material frame",
+          "links": [
+            {
+              "label": "Pollsmax — Wisconsin governor polls, August 6, 2026",
+              "url": "https://www.pollsmax.com/governor/wisconsin/"
+            },
+            {
+              "label": "FOX6 — Wisconsin primary final week",
+              "url": "https://www.fox6now.com/news/wisconsin-democratic-governor-primary-4-candidates-remain-final-week"
+            }
+          ],
+          "beat": "wisconsin"
+        }
+      ],
+      "watching": [
+        "Iran-Oman joint statement — Washington insertion? (P17, Aug 15)",
+        "NPO dissolution orders — categories of Aug 8 action",
+        "AES Humanitarian Forum Aug 9-14 Ouagadougou",
+        "France economic measures (P15 approaching HIT)",
+        "Druzhkovka city-center fire control (P14, Sept 1)",
+        "Kim-Putin summit (P23, Aug 15, 8 days — heading to MISS)",
+        "Wisconsin Aug 11 primary (P19 MISS, P20 grades after vote)"
+      ]
+    },
     {
       "date": "2026-08-06",
       "items": [
@@ -3356,7 +3423,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "August 6. Russian forces advanced near Stenki on the Druzhkovka axis; entered Matyashevo on the Dobropolye axis (August 3). Martyanov August 5: alleges Ukrainian supply depots labeled as civilian facilities. Two simultaneous active fronts rules out diversion. No geolocated city-center fire control at Druzhkovka. Prediction holds ahead of schedule at September 1 horizon.",
+      "note": "August 7. Russian forces captured Krasnoyarskoye on the Dobropolye axis and severed the Dobropolye-Kramatorsk road (Southfront, August 6); southern sector of Alekseyevo-Druzhkovka expanding simultaneously. Two simultaneous active fronts at this operational scale rules out diversion. No geolocated city-center fire control at Druzhkovka. Prediction holds ahead of schedule at September 1 horizon.",
       "schema_version": 1
     },
     {
@@ -3365,7 +3432,7 @@
       "claim": "France's announced 'reciprocal measures' against Burkina Faso do not include anything Ouagadougou cannot absorb with Russian and Chinese bridging support. The Elysée has no enforcement mechanism that imposes real costs on the AES without accelerating the very pivot Paris most wants to prevent — sanctions or aid suspension produce the outcome France most fears. The measures, when announced, will be largely symbolic. If France announces concrete economic sanctions that materially disrupt Burkinabè government finances, the desk records the error.",
       "filed": "2026-06-29",
       "horizon": "2026-12-31",
-      "note": "August 6 (day forty-five of France having taken no specific economic measures). NPO registration deadline falls TOMORROW — August 8, day fifteen of fifteen. AES Humanitarian Forum opens August 9 in Ouagadougou. ~1,174 civil society organizations suspended or dissolved. INSO head Pégon still detained. Prediction approximately one week from resolution as HIT.",
+      "note": "August 7 (day forty-six of France having taken no specific economic measures). The NPO registration deadline falls today — August 8, day fifteen of fifteen. AES Humanitarian Forum opens tomorrow in Ouagadougou. Approximately 1,174 civil society organizations suspended or dissolved. INSO head Pégon still detained. Prediction on track for resolution as HIT at December 31 horizon.",
       "schema_version": 1
     },
     {
@@ -3385,7 +3452,7 @@
       "filed": "2026-06-30",
       "horizon": "2026-08-15",
       "schema_version": 1,
-      "note": "August 6. Iran and Oman confirmed an agreement — single corridor, northern entry Iranian-controlled, exit Oman, fees 50-50. This is a bilateral deal between Tehran and Muscat; no US signature, no US-Iran joint text. Joint statement in final drafting. The desk's prediction that no written corridor-rules agreement bearing both US and Iranian signatures would emerge appears on track. Watching whether Washington inserts itself into the final text before the seal goes down."
+      "note": "August 7. Iran-Oman corridor agreement in final joint-statement drafting — single corridor, northern entry Iranian-controlled, fees 50-50 Oman-Iran, no US signature. Washington’s objection: no fees, no approvals, no impediments. The prediction that no written corridor agreement bearing both US and Iranian signatures would emerge before mid-August appears on track. Eight days to resolution (August 15)."
     },
     {
       "status": "open",
@@ -3410,7 +3477,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "July 31: Barnes dropped out July 30 and endorsed Francesca Hong. Hong polling 38–46%; 43% of Barnes supporters list Hong as second choice. The prediction's mechanism — 45% undecided delivering Barnes — collapsed before the ballot closed. August 5: Primary six days away. Latest Marquette: Hong leads Democratic primary (26%), 45% still undecided. The prediction grades MISS (错) on August 11 vote count."
+      "note": "August 7: Primary four days out. Latest Marquette: Hong leads Democratic primary (38%); the prediction’s mechanism — Barnes winning a fragmented field — collapsed when Barnes dropped out July 30 and endorsed Hong. Prediction grades MISS (错) on August 11 vote count."
     },
     {
       "schema_version": 2,
@@ -3427,7 +3494,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "August 7: Primary four days out. Tiffany expected to win easily; Manske has no infrastructure. Prediction grades on August 11 vote count. Confidence 92 unchanged."
     },
     {
       "schema_version": 2,
@@ -3444,7 +3511,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 5: Latest Marquette poll shows Hong 40% vs Tiffany 43% among registered voters — Tiffany up 3. Among likely voters: Hong 44% vs Tiffany 44% — tied. 11% undecided. Barnes, who dropped out July 30 and endorsed Hong, had polled better against Tiffany (47-42 likely voters). The general-election race is genuinely competitive from day one. Prediction 21 (Democrat wins November) is live; confidence 55% unchanged."
+      "note": "August 7: Pollsmax general-election average (August 6): Hong 42.2% vs Tiffany 45.0%, Republican margin +2.8. Tied among likely voters at 44-44 (Marquette). Race genuinely competitive from day one. Prediction 21 (Democrat wins November) live; confidence 55% unchanged."
     },
     {
       "schema_version": 2,
@@ -3478,7 +3545,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 6: Nine days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — outside this prediction's window. The prediction is under meaningful pressure. The desk will grade on August 15; if no summit confirmed by then, this records as MISS."
+      "note": "August 7: Eight days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — outside this prediction’s window. Prediction heading to MISS. The desk will grade on August 15."
     }
   ],
   "corrections": [
