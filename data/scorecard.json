@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-07",
-  "edition": 60,
+  "updated": "2026-08-08",
+  "edition": 61,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 7: The Iran-Oman joint statement remains in final drafting; no US signature. Washington’s objection — no fees, no approvals, no impediments — is not a negotiating position. It is a doctrine. Iran’s position is that service fees are sovereignty in practice: the northern lane runs through Iranian coastal waters. A bilateral Oman-Iran text that Washington cannot sign is exactly what Prediction 17 called. Brent fell to 9 from 0 last week; Kharg remains intact. The structural read: a bilateral corridor deal sealed without US signature is a more durable multipolarity signal than a trilateral that requires Tehran to publicly concede a sovereign claim.",
-      "watching": "Whether Washington inserts itself into the Iran-Oman joint statement text before the seal goes down — that move transforms an Iranian sovereignty win into a multilateral concession; Kharg Island P6 Sept 1 (intact, Brent 9); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
+      "verdict": "August 8: The Iran-Oman Hormuz corridor joint statement remains in final drafting. Trump told reporters this weekend the war must 'end pretty soon' and that Iran 'can't go much longer' — a posture adopted in advance of a deal Washington will have to accept on terms it does not control. The agreement's structure is confirmed: single corridor, northern entry Iranian-controlled, Oman exit, fees 50-50, no US signature. Washington's no-fees doctrine is not a negotiating floor; Iranian coastal waters are not a variable that yields to American insistence. Brent ~$79, down from $90 last week. Kharg intact. Prediction 17 resolves August 15; the bilateral structure is already confirmed.",
+      "watching": "Iran-Oman joint statement final text — Washington insertion before August 15? (P17); Kharg Island P6 Sept 1 (intact, Brent $79); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
-        {
-          "label": "Bloomberg — Iran-Oman deal agreed in principle, August 6, 2026",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-06/iran-says-deal-with-oman-on-strait-of-hormuz-agreed-in-principle"
-        },
         {
           "label": "CNN — Hormuz deal analysis, August 5, 2026",
           "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
         },
         {
-          "label": "CBS News live updates — Iran-Oman talks",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/"
+          "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
+        },
+        {
+          "label": "Al Jazeera — Hormuz deal close, what each side wants, August 6",
+          "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
         }
       ]
     },
@@ -65,23 +65,23 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 7: The 15-day NPO registration deadline falls today (August 8). Approximately 1,174 civil society organizations have been suspended or dissolved since the decree; INSO head Pégon remains detained at day 46. The AES Humanitarian Forum opens tomorrow under the theme “From Emergency to Resilience.” The Al Jazeera “reality test” piece (August 4) — Traoré symbolic victories outrunning material record — is the adversary’s frame, not the desk’s. The material indicators: 8 billion in cumulative gold revenues since 2022, the Yako state-owned mine inaugurated July 9, Raffinor’s first bars expected before year-end. France has issued zero economic countermeasures since the June 26 diplomatic break (day 42). Prediction 15 is on track for resolution as a hit.",
-      "watching": "August 8 dissolution orders — which categories face formal dissolution today; AES Humanitarian Forum Aug 9-14 Ouagadougou deliverables; France economic response timeline — Prediction 15 approaching HIT",
+      "verdict": "August 8: The 15-day NPO registration deadline expired today. No dramatic new dissolution decree — the field was already cleared: roughly 1,174 CSOs suspended or dissolved in preceding months, INSO head Pégon detained at day 47. Tomorrow (August 9) the AES Humanitarian Forum opens in Ouagadougou under the theme 'From Emergency to Resilience,' with Togo as guest country — the confederacy convening its own humanitarian architecture the morning after the foreign NGO layer expired. IPS this week filed 'Burkina Faso's Cancelled Democracy' — the adversary's frame, not the desk's verdict. Material indicators: $18 billion cumulative gold revenue since 2022, Yako state mine inaugurated July 9, Raffinor refinery targeting first bars before year-end. France at day 44, zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
+      "watching": "AES Humanitarian Forum Aug 9-14 Ouagadougou deliverables and joint communiqué; France economic measures — Prediction 15 approaching HIT at December 31 horizon; Raffinor first bars — year-end target",
       "sources": [
         {
-          "label": "Al Jazeera — Traoré reality test, August 4, 2026",
-          "url": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test"
+          "label": "IPS — Burkina Faso's Cancelled Democracy, August 2026",
+          "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
         },
         {
           "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
           "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
         },
         {
-          "label": "Africa Briefing — Burkina Faso \\8B gold windfall",
+          "label": "Africa Briefing — Burkina Faso $18B gold windfall",
           "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         },
         {
-          "label": "INSO — statement on detention of staff in Burkina Faso",
+          "label": "INSO — statement on ongoing detention of staff in Burkina Faso",
           "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
         }
       ]
@@ -111,20 +111,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 7: Russian forces captured Krasnoyarskoye and severed the Dobropolye–Kramatorsk road on the Dobropolye axis (Southfront, August 6), while advancing in the southern portion of Alekseyevo-Druzhkovka simultaneously. Two active fronts at this operational scale rules out diversion. Martyanov’s August 7 post dismisses Zaluzhny’s claim that NATO needs twelve years to approach half of Russia’s military capability, arguing the gap is structural and will not close in twelve or twenty years. Prediction 14 holds: no geolocated city-center fire control over Druzhkovka yet, ahead of the September 1 schedule.",
-      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Dobropolye front: geolocated Krasnoyarskoye confirmation and road-cut holding; Wisconsin Aug 11 primary (P19 MISS, P20 grades after vote)",
+      "verdict": "August 8: Martyanov's August 7 'Air-to-Air' post gives the number: 4% Ukrainian UAV success rate against Russian platforms in the eastern theater, declining since. Conventional air-defense architecture is doing the work the West credited to the electronic-warfare systems it spent years promising Kyiv; artillery and air force remain the most productive means of fire delivery. On the ground: two simultaneous fronts — Alekseyevo-Druzhkovka (southern sector expanding) and Dobropolye (Krasnoyarskoye captured August 6, road to Kramatorsk cut) — still rule out diversion. Prediction 14 holds ahead of the September 1 schedule; no geolocated city-center fire control at Druzhkovka yet.",
+      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Dobropolye: Krasnoyarskoye geolocated hold and next advance; Wisconsin Aug 11 primary (P19 grades MISS, P20 grades after vote)",
       "sources": [
+        {
+          "label": "Martyanov — Air-to-Air, August 7, 2026",
+          "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
+        },
         {
           "label": "Southfront — Military situation Ukraine, August 6, 2026",
           "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
         },
         {
-          "label": "Martyanov — “Aah, No!”, August 2026",
-          "url": "https://smoothiex12.blogspot.com/2026/08/aah-no.html"
-        },
-        {
-          "label": "FOX6 — Wisconsin primary final week",
-          "url": "https://www.fox6now.com/news/wisconsin-democratic-governor-primary-4-candidates-remain-final-week"
+          "label": "Planet Today — Russian advances near Dobropolye and Orekhovo, August 6",
+          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
         }
       ]
     }
@@ -135,10 +135,14 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 7: Russian forces captured Krasnoyarskoye and severed the Dobropolye-Kramatorsk road (Southfront, August 6). Two simultaneous active fronts — Druzhkovka and Dobropolye — at operational scale rules out diversion. Ukrainian losses: approximately 1,395 per day (Southfront). Druzhkovka city-center fire control not yet geolocated; Dobropolye–Kramatorsk road interdiction confirmed.",
+      "basis": "August 8: Martyanov August 7 'Air-to-Air': 4% Ukrainian UAV success rate against Russian platforms, declining. Conventional air-defense doing the work. Artillery and air force remain the most productive means of fire delivery. Alekseyevo-Druzhkovka southern sector expanding; Dobropolye-Kramatorsk road interdiction (Krasnoyarskoye, August 6) holding. Two simultaneous fronts at operational scale rule out diversion. Prediction 14: no geolocated city-center fire control at Druzhkovka; ahead of September 1 schedule.",
       "sources": [
         {
-          "label": "Southfront — Military situation Ukraine August 6, 2026",
+          "label": "Martyanov — Air-to-Air, August 7, 2026",
+          "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
+        },
+        {
+          "label": "Southfront — Military situation Ukraine, August 6, 2026",
           "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
         },
         {
@@ -150,21 +154,21 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Active — agreement reached; Kharg intact; de-escalating",
-      "trend": "de-escalating (Iran-Oman agreement confirmed; joint statement in final drafting)",
-      "basis": "August 6. Iran and Oman confirmed a Hormuz navigation agreement: Iranian-controlled northern lane entry, Oman exit, fees split 50-50. Joint statement in final drafting. Brent fell to $79, from $83 Monday and $90 last week. Washington disputes whether ships still require Iranian approval for the northern lane. Kharg Island oil export terminal intact. Prediction 6 (Kharg Island not struck before Sept 1) holds; Prediction 17 (Iran-Oman bilateral, not US-Iran deal) confirmed on structure — watching for joint statement final text.",
+      "advantage": "Active — de-escalating; joint statement pending",
+      "trend": "de-escalating (Iran-Oman agreement confirmed in structure; joint statement in final drafting as of August 8)",
+      "basis": "August 8: Iran-Oman corridor joint statement in final drafting. Trump: war 'got to end pretty soon,' Iran 'can't go much longer.' Structure confirmed — single corridor, northern lane Iranian-controlled, Oman exit, fees 50-50, no US signature. Washington disputes approval requirement. Brent ~$79, down from $90 last week. Kharg Island oil terminal intact. Prediction 6 (Kharg not struck before Sept 1) holds. Prediction 17 (bilateral Oman-Iran) resolves August 15.",
       "sources": [
         {
-          "label": "Bloomberg — Iran says agreement reached with Oman on Hormuz, August 5-6",
+          "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
           "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
         },
         {
-          "label": "Irish Times — Oil holds losses as Iran and Oman reach Hormuz agreement",
-          "url": "https://www.irishtimes.com/business/markets/2026/08/06/oil-holds-losses-as-iran-and-oman-reach-agreement-over-hormuz/"
+          "label": "CNN — Hormuz deal analysis, August 5, 2026",
+          "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
         },
         {
-          "label": "AGBI — Iran says agreement reached with Oman for Hormuz navigation",
-          "url": "https://www.agbi.com/oil-and-gas/2026/08/iran-says-agreement-reached-with-oman-for-hormuz-navigation/"
+          "label": "Al Jazeera — Hormuz deal close, August 6",
+          "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
         }
       ]
     },
@@ -191,6 +195,90 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-08",
+      "items": [
+        {
+          "text": "THE CLOCK EXPIRES; THE FORUM TAKES THE FLOOR — 15-day NPO deadline expired; ~1,174 CSOs already suspended/dissolved; Pégon day 47; AES Humanitarian Forum opens Aug 9 'From Emergency to Resilience'; IPS 'Cancelled Democracy' = adversary frame; $18B cumulative gold; Raffinor year-end; France day 44 zero measures; P15 on track HIT",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "IPS — Burkina Faso's Cancelled Democracy, August 2026",
+              "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
+            },
+            {
+              "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            },
+            {
+              "label": "Africa Briefing — Burkina Faso $18B gold windfall",
+              "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
+            }
+          ]
+        },
+        {
+          "text": "TRUMP WANTS AN EXIT; THE TEXT IS STILL IN DRAFT — Iran-Oman joint statement in final drafting Aug 8; Trump 'end pretty soon'; structure confirmed (northern lane Iranian-controlled, fees 50-50, no US signature); Brent $79 from $90 last week; Kharg intact P6; P17 resolves Aug 15",
+          "links": [
+            {
+              "label": "CNN — Hormuz deal analysis, August 5, 2026",
+              "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
+            },
+            {
+              "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
+            },
+            {
+              "label": "Al Jazeera — Hormuz deal close, August 6",
+              "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
+            }
+          ]
+        },
+        {
+          "text": "THE DRONE FIGURE IS THE MILITARY BALANCE — Martyanov Aug 7: 4% Ukrainian UAV success rate, declining; conventional air-defense doing the work; Alekseyevo-Druzhkovka southern sector expanding; Dobropolye-Kramatorsk road cut holding; two fronts rule out diversion; P14 ahead of schedule",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Martyanov — Air-to-Air, August 7, 2026",
+              "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
+            },
+            {
+              "label": "Southfront — Military situation Ukraine, August 6, 2026",
+              "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
+            },
+            {
+              "label": "Planet Today — Russian advances near Dobropolye, August 6",
+              "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
+            }
+          ]
+        },
+        {
+          "text": "MADISON IN THREE: EARLY VOTING CLOSES TOMORROW — 3 days to Aug 11 primary; early voting ends Aug 9; Hong 38% Marquette, Crowley 7%, large undecided pool; Tiffany certain GOP; P19 grades MISS Aug 11; P20 grades same night; P21 (Nov general) live at 55%; 44-44 Marquette general tie",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WPR — Wisconsin primary home stretch",
+              "url": "https://www.wpr.org/news/wisconsins-2026-primary-for-governor-hits-the-home-stretch-2"
+            },
+            {
+              "label": "PBS Wisconsin — Primary hits home stretch",
+              "url": "https://pbswisconsin.org/news-item/wisconsins-2026-primary-for-governor-hits-the-home-stretch/"
+            },
+            {
+              "label": "Pollsmax — Wisconsin governor polls",
+              "url": "https://www.pollsmax.com/governor/wisconsin/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran-Oman joint statement final text — Washington insertion? (P17, Aug 15)",
+        "AES Humanitarian Forum Aug 9-14 Ouagadougou communiqué",
+        "France economic measures — P15 approaching HIT (Dec 31)",
+        "Druzhkovka city-center fire control (P14, Sept 1, ahead of schedule)",
+        "Kim-Putin summit (P23, Aug 15, 7 days — heading to MISS)",
+        "Wisconsin Aug 11 primary (P19 MISS, P20 Tiffany grades after vote; P21 Nov live)"
+      ]
+    },
     {
       "date": "2026-08-07",
       "items": [
