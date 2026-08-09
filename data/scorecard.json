@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08",
-  "edition": 61,
+  "updated": "2026-08-09",
+  "edition": 62,
   "board": [
     {
       "name_zh": "多极化",
@@ -44,20 +44,20 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 7: Prediction 23 (Kim-Putin summit before August 15) has eight days remaining. No face-to-face summit has been confirmed. Reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — which falls outside this prediction’s window. The desk will grade on August 15; if no summit confirmed by then, this records as MISS.",
-      "watching": "Kim-Putin summit — Prediction 23 (Aug 15, 8 days, heading to MISS — EEF September outside window); DPRK-Russia arms and manpower flow via Ukraine battlefield reports",
+      "verdict": "August 9: The Tumen River road bridge Russian customs complex is nearing exterior completion (38North, August imagery); September remains the revised target, down from the original June. The North Korean customs area was reportedly complete since June; construction materials remain stockpiled but the pace has accelerated. Against this infrastructure materialization, DPRK-PRC bilateral trade reached .5 billion in H1 2026 — the highest since 2017 — confirming North Korea economic reintegration is trilateral, not bilateral. Prediction 23 (Kim-Putin before August 15) has six days remaining; summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4), outside this window. The desk expects to record MISS on August 15.",
+      "watching": "Tumen bridge first cargo crossing (September, operative milestone); Kim-Putin summit — Prediction 23 (Aug 15, 6 days — heading to MISS, EEF September outside window); DPRK-PRC trade H2 2026",
       "sources": [
         {
-          "label": "Security Council Report — DPRK August 2026 monthly forecast",
-          "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-08/dprk-north-korea-35.php"
+          "label": "38North — Russian construction progress toward bridge opening, August 2026",
+          "url": "https://www.38north.org/2026/08/russian-construction-makes-progress-toward-bridge-opening/"
         },
         {
-          "label": "Korea Herald — N. Korean FM meets Putin, Kim visit speculation",
-          "url": "https://www.koreaherald.com/article/10813825"
+          "label": "NK News — Russia seeks September car bridge opening, July 2026",
+          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
         },
         {
-          "label": "NK News — Japan defense white paper Russia-DPRK, August 4",
-          "url": "https://www.nknews.org/"
+          "label": "Bloomberg — North Korea economy expands on Russia arms, China trade, July 31",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/north-korea-s-economy-expands-on-russia-arms-deals-china-trade"
         }
       ]
     },
@@ -65,24 +65,24 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 8: The 15-day NPO registration deadline expired today. No dramatic new dissolution decree — the field was already cleared: roughly 1,174 CSOs suspended or dissolved in preceding months, INSO head Pégon detained at day 47. Tomorrow (August 9) the AES Humanitarian Forum opens in Ouagadougou under the theme 'From Emergency to Resilience,' with Togo as guest country — the confederacy convening its own humanitarian architecture the morning after the foreign NGO layer expired. IPS this week filed 'Burkina Faso's Cancelled Democracy' — the adversary's frame, not the desk's verdict. Material indicators: $18 billion cumulative gold revenue since 2022, Yako state mine inaugurated July 9, Raffinor refinery targeting first bars before year-end. France at day 44, zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
-      "watching": "AES Humanitarian Forum Aug 9-14 Ouagadougou deliverables and joint communiqué; France economic measures — Prediction 15 approaching HIT at December 31 horizon; Raffinor first bars — year-end target",
+      "verdict": "August 9: The AES Humanitarian Forum opened this morning in Ouagadougou — day one after the fifteen-day NPO registration deadline expired and roughly 1,174 CSOs were suspended or dissolved. Mali is sending a full delegation; Togo participates as a guest country, the confederation expanding its soft-power radius beyond the three founding states. IPS filed \"Cancelled Democracy\" this week — the adversary frame for a table being cleared for sovereign humanitarian architecture. Material indicators unchanged: 8 billion cumulative gold revenue since 2022, Yako state mine operating since July 9, Raffinor first bars targeting year-end. France at day 45 with zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
+      "watching": "AES Humanitarian Forum Aug 9-14 joint communiqué deliverables; France economic measures — Prediction 15 approaching HIT (Dec 31); Raffinor first bars — year-end target",
       "sources": [
-        {
-          "label": "IPS — Burkina Faso's Cancelled Democracy, August 2026",
-          "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
-        },
         {
           "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
           "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
         },
         {
-          "label": "Africa Briefing — Burkina Faso $18B gold windfall",
-          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
+          "label": "Bamada.net — Mali delegation AES Forum 2026",
+          "url": "https://bamada.net/forum-humanitaire-de-laes-2026-le-mali-se-mobilise-pour-porter-la-voix-des-populations-vulnerables"
         },
         {
-          "label": "INSO — statement on ongoing detention of staff in Burkina Faso",
-          "url": "https://ngosafety.org/latest/inso-statement-burkina-faso-ongoing-detention-of-staff/"
+          "label": "IPS — Burkina Faso Cancelled Democracy, August 2026",
+          "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
+        },
+        {
+          "label": "Africa Briefing — Burkina Faso \\8B gold windfall",
+          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         }
       ]
     },
@@ -111,20 +111,24 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 8: Martyanov's August 7 'Air-to-Air' post gives the number: 4% Ukrainian UAV success rate against Russian platforms in the eastern theater, declining since. Conventional air-defense architecture is doing the work the West credited to the electronic-warfare systems it spent years promising Kyiv; artillery and air force remain the most productive means of fire delivery. On the ground: two simultaneous fronts — Alekseyevo-Druzhkovka (southern sector expanding) and Dobropolye (Krasnoyarskoye captured August 6, road to Kramatorsk cut) — still rule out diversion. Prediction 14 holds ahead of the September 1 schedule; no geolocated city-center fire control at Druzhkovka yet.",
-      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Dobropolye: Krasnoyarskoye geolocated hold and next advance; Wisconsin Aug 11 primary (P19 grades MISS, P20 grades after vote)",
+      "verdict": "August 9: Martyanov August 8 reports Russian forces liberated Malaya Tochmachka and commenced operations near Orekhov — a third axis in Zaporizhzhia while Alekseyevo-Druzhkovka and Dobropolye-Kramatorsk continue simultaneously. His central claim: Russia produces long-range precision weapons \"orders of magnitude larger\" than US capacity — the stockpile-exhaustion narrative measures Soviet inheritance, not current production. Three simultaneous fronts at operational scale. Prediction 14 holds ahead of schedule at the September 1 horizon.",
+      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov axis — third simultaneous front; Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT after vote)",
       "sources": [
+        {
+          "label": "Martyanov — US Intelligence Community, August 8, 2026",
+          "url": "https://smoothiex12.blogspot.com/2026/08/us-intelligence-community.html"
+        },
         {
           "label": "Martyanov — Air-to-Air, August 7, 2026",
           "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
         },
         {
-          "label": "Southfront — Military situation Ukraine, August 6, 2026",
-          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
+          "label": "Planet Today — Russian forces near Orekhovo and Dobropolye, August 6",
+          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
         },
         {
-          "label": "Planet Today — Russian advances near Dobropolye and Orekhovo, August 6",
-          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
+          "label": "Martyanov — Reminiscence of the Future (standing reference)",
+          "url": "https://smoothiex12.blogspot.com/"
         }
       ]
     }
@@ -135,15 +139,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 8: Martyanov August 7 'Air-to-Air': 4% Ukrainian UAV success rate against Russian platforms, declining. Conventional air-defense doing the work. Artillery and air force remain the most productive means of fire delivery. Alekseyevo-Druzhkovka southern sector expanding; Dobropolye-Kramatorsk road interdiction (Krasnoyarskoye, August 6) holding. Two simultaneous fronts at operational scale rule out diversion. Prediction 14: no geolocated city-center fire control at Druzhkovka; ahead of September 1 schedule.",
+      "basis": "August 9: Martyanov August 8: Russian forces liberated Malaya Tochmachka, commenced Orekhov operations — third axis extending into Zaporizhzhia simultaneously with Alekseyevo-Druzhkovka and Dobropolye-Kramatorsk. Russia produces long-range precision weapons at volumes \"orders of magnitude larger\" than US capacity — the stockpile-exhaustion narrative measures inheritance, not production. Three simultaneous operational-scale fronts. Prediction 14 (Druzhkovka before September 1) holds ahead of schedule.",
       "sources": [
         {
-          "label": "Martyanov — Air-to-Air, August 7, 2026",
-          "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
+          "label": "Martyanov — US Intelligence Community, August 8, 2026",
+          "url": "https://smoothiex12.blogspot.com/2026/08/us-intelligence-community.html"
         },
         {
-          "label": "Southfront — Military situation Ukraine, August 6, 2026",
-          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-6-2026-maps-update/"
+          "label": "Planet Today — Russian forces near Orekhovo and Dobropolye, August 6",
+          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -195,6 +199,87 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-09",
+      "items": [
+        {
+          "text": "OUAGADOUGOU BUILDS ITS OWN FLOOR — AES Humanitarian Forum opens day 1 (Aug 9); 1,174 CSOs cleared; Mali full delegation; Togo guest country; IPS \"Cancelled Democracy\" = adversary frame; \\8B cumulative gold; Raffinor year-end; France day 45 zero measures; P15 on track HIT",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            },
+            {
+              "label": "Bamada.net — Mali delegation AES Forum 2026",
+              "url": "https://bamada.net/forum-humanitaire-de-laes-2026-le-mali-se-mobilise-pour-porter-la-voix-des-populations-vulnerables"
+            },
+            {
+              "label": "IPS — Burkina Faso Cancelled Democracy August 2026",
+              "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
+            }
+          ]
+        },
+        {
+          "text": "THE TUMEN CUSTOMS HOUSE TAKES SHAPE — 38North August imagery: Russian customs complex nearing completion; N Korean side done since June; September target holds; DPRK-PRC trade \\.5B H1 2026 record since 2017; P23 (Kim-Putin Aug 15) heading MISS — EEF September outside window",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "38North — Russian construction progress toward bridge opening",
+              "url": "https://www.38north.org/2026/08/russian-construction-makes-progress-toward-bridge-opening/"
+            },
+            {
+              "label": "NK News — Russia seeks September opening",
+              "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
+            },
+            {
+              "label": "Bloomberg — North Korea economy expands, July 31",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-31/north-korea-s-economy-expands-on-russia-arms-deals-china-trade"
+            }
+          ]
+        },
+        {
+          "text": "MALAYA TOCHMACHKA: THE PRODUCTION GAP — Martyanov Aug 8: Malaya Tochmachka liberated; Orekhov operations; Russia produces long-range weapons orders of magnitude above US; third axis Zaporizhzhia + Druzhkovka + Dobropolye = three simultaneous fronts; P14 holds ahead of schedule",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Martyanov — US Intelligence Community, August 8, 2026",
+              "url": "https://smoothiex12.blogspot.com/2026/08/us-intelligence-community.html"
+            },
+            {
+              "label": "Planet Today — Russian forces near Orekhovo, August 6",
+              "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
+            }
+          ]
+        },
+        {
+          "text": "FORTY-EIGHT HOURS: WISCONSIN CLEARS ITS FIELD, NOT ITS PROBLEM — early voting closes today; Hong 38% Marquette (Barnes dropped July 30, endorsed Hong); Tiffany certain Republican; Foxconn Mount Pleasant monument unremarked by either candidate; P19 grades MISS Aug 11; P20 grades HIT; P21 (Nov Democrat wins) live 55% confidence, 44-44 general",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WisPolitics — Hong leads Dem primary field, Marquette poll",
+              "url": "https://www.wispolitics.com/2026/hong-leads-dem-primary-field-amid-close-race-for-governor-marquette-poll-shows/"
+            },
+            {
+              "label": "StateNavigate — Final poll Hong 22-point lead",
+              "url": "https://statenavigate.org/wi/final-poll-shows-francesca-hong-with-22-point-lead-in-wisconsins-democratic-governor-primary/"
+            },
+            {
+              "label": "PBS NewsHour — Barnes drops out",
+              "url": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "AES Humanitarian Forum Aug 9-14 communiqué deliverables",
+        "France economic measures — P15 approaching HIT (Dec 31)",
+        "Tumen bridge first cargo crossing (September operative milestone)",
+        "Kim-Putin summit (P23, Aug 15 — heading to MISS)",
+        "Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT)",
+        "Druzhkovka city-center fire control (P14, Sept 1, ahead of schedule)"
+      ]
+    },
     {
       "date": "2026-08-08",
       "items": [
