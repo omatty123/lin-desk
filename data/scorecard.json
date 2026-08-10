@@ -1,14 +1,26 @@
 {
-  "updated": "2026-08-09",
-  "edition": 62,
+  "updated": "2026-08-10",
+  "edition": 63,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 8: The Iran-Oman Hormuz corridor joint statement remains in final drafting. Trump told reporters this weekend the war must 'end pretty soon' and that Iran 'can't go much longer' — a posture adopted in advance of a deal Washington will have to accept on terms it does not control. The agreement's structure is confirmed: single corridor, northern entry Iranian-controlled, Oman exit, fees 50-50, no US signature. Washington's no-fees doctrine is not a negotiating floor; Iranian coastal waters are not a variable that yields to American insistence. Brent ~$79, down from $90 last week. Kharg intact. Prediction 17 resolves August 15; the bilateral structure is already confirmed.",
-      "watching": "Iran-Oman joint statement final text — Washington insertion before August 15? (P17); Kharg Island P6 Sept 1 (intact, Brent $79); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
+      "verdict": "August 10: The Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan), signed August 7, is the day's dominant multipolarity signal — mutual defence clause, each party's distinct asset (Turkey: NATO's second-largest military and defence manufacturing; Pakistan: the only Muslim-majority nuclear power; Saudi Arabia: the oil anchor), all motivated by doubts about US reliability as a guarantor following the Iran war. The desk missed it in the August 8 and August 9 briefings; correction filed today. The Iran-Oman Hormuz corridor joint statement remains in final drafting — structure confirmed bilateral (no US signature), Prediction 17 resolves August 15 as expected HIT. BRICS New Delhi summit September 12-13 is 33 days out; Prediction 3 watching BRICS Bridge framework adoption.",
+      "watching": "Mecca pact operational content — intelligence sharing, defence-industrial cooperation, joint exercises: does 'normative deterrence' materialise? Iran-Oman joint statement final text — P17 resolves Aug 15; Kharg Island P6 Sept 1 (intact, Brent ~$79); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
+        {
+          "label": "Al Jazeera — What's in the Mecca Joint Defence Agreement, Aug 7, 2026",
+          "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it"
+        },
+        {
+          "label": "Al Jazeera — What the Mecca pact means for US role in Middle East, Aug 8",
+          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east"
+        },
+        {
+          "label": "Jerusalem Post — Saudi Arabia, Turkey, Pakistan sign major defence pact, Aug 7",
+          "url": "https://www.jpost.com/international/article-904851"
+        },
         {
           "label": "CNN — Hormuz deal analysis, August 5, 2026",
           "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
@@ -16,10 +28,6 @@
         {
           "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
           "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
-        },
-        {
-          "label": "Al Jazeera — Hormuz deal close, what each side wants, August 6",
-          "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
         }
       ]
     },
@@ -44,9 +52,21 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 9: The Tumen River road bridge Russian customs complex is nearing exterior completion (38North, August imagery); September remains the revised target, down from the original June. The North Korean customs area was reportedly complete since June; construction materials remain stockpiled but the pace has accelerated. Against this infrastructure materialization, DPRK-PRC bilateral trade reached .5 billion in H1 2026 — the highest since 2017 — confirming North Korea economic reintegration is trilateral, not bilateral. Prediction 23 (Kim-Putin before August 15) has six days remaining; summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4), outside this window. The desk expects to record MISS on August 15.",
-      "watching": "Tumen bridge first cargo crossing (September, operative milestone); Kim-Putin summit — Prediction 23 (Aug 15, 6 days — heading to MISS, EEF September outside window); DPRK-PRC trade H2 2026",
+      "verdict": "August 10: Bloomberg reported August 7 that North Korea generated up to $22 billion in foreign revenue from 2022 to 2025 — nearly four times its pre-war haul — primarily from supplying Russia with roughly 50 percent of its 122mm and 152mm artillery shell requirements and deploying 16,000-22,000 soldiers at $2,000 per troop per month; DPRK GDP grew 3.5 percent in 2025, third consecutive year of expansion. The Choe Hyon-class destroyer programme and Kang Kon's expected September commissioning are war dividends: North Korea converted sanctions-era isolation into a captive arms market and poured the margin into the naval buildup Kim called 'the first page of maritime sovereignty.' Prediction 23 (Kim-Putin before August 15) has five days remaining; no summit confirmed; MISS expected.",
+      "watching": "Kang Kon commissioning — September target; Bloomberg $22B windfall — DPRK H2 2026 revenue trajectory; Kim-Putin summit — Prediction 23 (Aug 15, 5 days — heading to MISS, EEF September outside window); Tumen bridge first cargo crossing (September operative milestone)",
       "sources": [
+        {
+          "label": "Bloomberg — North Korea $22B windfall, Aug 7, 2026",
+          "url": "https://www.bloomberg.com/graphics/2026-north-korea-windfall/"
+        },
+        {
+          "label": "Euromaidan Press — $22B nearly four times pre-war haul, Aug 7",
+          "url": "https://euromaidanpress.com/2026/08/07/north-korea-made-22-billion-arming-russia-nearly-four-times-its-haul-before-the-war/"
+        },
+        {
+          "label": "Kyiv Post — North Korea earns $22B from arms cooperation with Russia",
+          "url": "https://www.kyivpost.com/post/81965"
+        },
         {
           "label": "38North — Russian construction progress toward bridge opening, August 2026",
           "url": "https://www.38north.org/2026/08/russian-construction-makes-progress-toward-bridge-opening/"
@@ -54,10 +74,6 @@
         {
           "label": "NK News — Russia seeks September car bridge opening, July 2026",
           "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
-        },
-        {
-          "label": "Bloomberg — North Korea economy expands on Russia arms, China trade, July 31",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-31/north-korea-s-economy-expands-on-russia-arms-deals-china-trade"
         }
       ]
     },
@@ -65,9 +81,13 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 9: The AES Humanitarian Forum opened this morning in Ouagadougou — day one after the fifteen-day NPO registration deadline expired and roughly 1,174 CSOs were suspended or dissolved. Mali is sending a full delegation; Togo participates as a guest country, the confederation expanding its soft-power radius beyond the three founding states. IPS filed \"Cancelled Democracy\" this week — the adversary frame for a table being cleared for sovereign humanitarian architecture. Material indicators unchanged: 8 billion cumulative gold revenue since 2022, Yako state mine operating since July 9, Raffinor first bars targeting year-end. France at day 45 with zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
-      "watching": "AES Humanitarian Forum Aug 9-14 joint communiqué deliverables; France economic measures — Prediction 15 approaching HIT (Dec 31); Raffinor first bars — year-end target",
+      "verdict": "August 10: AES Humanitarian Forum in day two (Ouagadougou, August 9-14, 'From Emergency to Resilience'). On August 8, Burkina Faso's Foreign Minister Jean-Marie Traore formally replied to Nigerian President Tinubu's claim that Sahel security failures were 'adding fuel' to Nigeria's challenges — the AES would have preferred 'a more accurate presentation' and named Nigerien sacrifice against Boko Haram specifically. The exchange maps the fault line in West Africa's diplomatic geography: ECOWAS and Abuja see the AES states as a destabilising defection; the AES sees ECOWAS as a platform for neocolonial intervention. Material indicators unchanged: $18 billion cumulative gold revenue since 2022, Yako state mine operating since July 9, Raffinor first bars targeting year-end. France at day 46 with zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
+      "watching": "AES Humanitarian Forum Aug 9-14 joint communique deliverables; Nigeria-AES diplomatic trajectory; France economic measures — Prediction 15 approaching HIT (Dec 31); Raffinor first bars — year-end target",
       "sources": [
+        {
+          "label": "Pravda Burkina — AES responds to Nigeria's Tinubu remarks, Aug 8",
+          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/08/08/7666.html"
+        },
         {
           "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
           "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
@@ -77,11 +97,7 @@
           "url": "https://bamada.net/forum-humanitaire-de-laes-2026-le-mali-se-mobilise-pour-porter-la-voix-des-populations-vulnerables"
         },
         {
-          "label": "IPS — Burkina Faso Cancelled Democracy, August 2026",
-          "url": "https://www.ipsnews.net/2026/08/burkina-fasos-cancelled-democracy/"
-        },
-        {
-          "label": "Africa Briefing — Burkina Faso \\8B gold windfall",
+          "label": "Africa Briefing — Burkina Faso $18B gold windfall",
           "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         }
       ]
@@ -111,20 +127,20 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 9: Martyanov August 8 reports Russian forces liberated Malaya Tochmachka and commenced operations near Orekhov — a third axis in Zaporizhzhia while Alekseyevo-Druzhkovka and Dobropolye-Kramatorsk continue simultaneously. His central claim: Russia produces long-range precision weapons \"orders of magnitude larger\" than US capacity — the stockpile-exhaustion narrative measures Soviet inheritance, not current production. Three simultaneous fronts at operational scale. Prediction 14 holds ahead of schedule at the September 1 horizon.",
-      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov axis — third simultaneous front; Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT after vote)",
+      "verdict": "August 10: Russian forces confirmed inside Orekhov city (Zaporizhzhia) on August 9 — Dnepr Group, Ukrainian mechanized and mountain assault brigades engaged. Three simultaneous operational-scale fronts: Alekseyevo-Druzhkovka, Dobropolye (road severed), and now Orekhov. Prediction 14 (Druzhkovka before September 1) continues ahead of schedule. Desk has filed Prediction 24 on Orekhov fire control before October 15. The Mecca pact (Saudi Arabia, Turkey, Pakistan — see Multipolarity) is simultaneously the clearest signal of Atlantic-order institutional erosion: a NATO member and a key US arms client constructing a collective defence architecture that does not require Washington's approval.",
+      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15, filed today); Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT after vote); Mecca pact operational content",
       "sources": [
         {
-          "label": "Martyanov — US Intelligence Community, August 8, 2026",
-          "url": "https://smoothiex12.blogspot.com/2026/08/us-intelligence-community.html"
+          "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
+          "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
         },
         {
-          "label": "Martyanov — Air-to-Air, August 7, 2026",
-          "url": "https://smoothiex12.blogspot.com/2026/08/air-to-air.html"
+          "label": "Russian MoD summary, Aug 9",
+          "url": "https://news-pravda.com/world/2026/08/09/2502732.html"
         },
         {
-          "label": "Planet Today — Russian forces near Orekhovo and Dobropolye, August 6",
-          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
+          "label": "Southfront maps — Military situation Ukraine Aug 9, 2026",
+          "url": "https://maps.southfront.press/military-situation-in-ukraine-on-august-9-2026-maps-update"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -139,15 +155,19 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 9: Martyanov August 8: Russian forces liberated Malaya Tochmachka, commenced Orekhov operations — third axis extending into Zaporizhzhia simultaneously with Alekseyevo-Druzhkovka and Dobropolye-Kramatorsk. Russia produces long-range precision weapons at volumes \"orders of magnitude larger\" than US capacity — the stockpile-exhaustion narrative measures inheritance, not production. Three simultaneous operational-scale fronts. Prediction 14 (Druzhkovka before September 1) holds ahead of schedule.",
+      "basis": "August 10: Russian forces confirmed inside Orekhov city (Zaporizhzhia) on August 9 — Dnepr Group, Ukrainian mechanized and mountain assault brigades engaged. Three simultaneous operational-scale fronts: Alekseyevo-Druzhkovka, Dobropolye (road severed), Orekhov. Prediction 14 (Druzhkovka before September 1) holds ahead of schedule. Desk has filed Prediction 24 on Orekhov operational control before October 15.",
       "sources": [
         {
-          "label": "Martyanov — US Intelligence Community, August 8, 2026",
-          "url": "https://smoothiex12.blogspot.com/2026/08/us-intelligence-community.html"
+          "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
+          "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
         },
         {
-          "label": "Planet Today — Russian forces near Orekhovo and Dobropolye, August 6",
-          "url": "https://www.planet-today.com/2026/08/russian-forces-claim-advances-near.html"
+          "label": "Russian MoD summary Aug 9",
+          "url": "https://news-pravda.com/world/2026/08/09/2502732.html"
+        },
+        {
+          "label": "Southfront — Military situation Aug 9",
+          "url": "https://maps.southfront.press/military-situation-in-ukraine-on-august-9-2026-maps-update"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -160,19 +180,19 @@
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Active — de-escalating; joint statement pending",
       "trend": "de-escalating (Iran-Oman agreement confirmed in structure; joint statement in final drafting as of August 8)",
-      "basis": "August 8: Iran-Oman corridor joint statement in final drafting. Trump: war 'got to end pretty soon,' Iran 'can't go much longer.' Structure confirmed — single corridor, northern lane Iranian-controlled, Oman exit, fees 50-50, no US signature. Washington disputes approval requirement. Brent ~$79, down from $90 last week. Kharg Island oil terminal intact. Prediction 6 (Kharg not struck before Sept 1) holds. Prediction 17 (bilateral Oman-Iran) resolves August 15.",
+      "basis": "August 10: Iran-Oman corridor joint statement still in final drafting — structure confirmed (single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature); IRGC says Hormuz opens only after US accepts conditions. Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan, signed August 7) reflects region-wide doubts about US reliability and is partly an Iran-war product — Saudi Arabia and Pakistan hedging against US security guarantees. Kharg Island oil terminal intact. Prediction 6 (Kharg not struck before Sept 1) holds. Prediction 17 (bilateral structure) resolves August 15.",
       "sources": [
         {
-          "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
-        },
-        {
-          "label": "CNN — Hormuz deal analysis, August 5, 2026",
-          "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
-        },
-        {
-          "label": "Al Jazeera — Hormuz deal close, August 6",
+          "label": "Al Jazeera — Hormuz deal, what each side wants, Aug 6",
           "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
+        },
+        {
+          "label": "NPR — Iran says Hormuz deal prohibits US and Israeli vessels, Aug 7",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5923962/iran-says-agreement-with-oman-for-strait-of-hormuz-prohibits-u-s-and-israeli-vessels"
+        },
+        {
+          "label": "Jerusalem Post — Mecca defence pact, Aug 7",
+          "url": "https://www.jpost.com/international/article-904851"
         }
       ]
     },
@@ -199,6 +219,89 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-10",
+      "items": [
+        {
+          "text": "MECCA, AUGUST 7: THE DESK FILES THE PACT IT MISSED — Saudi Arabia, Turkey, Pakistan sign Mecca Joint Defence Agreement Aug 7; mutual defence clause; Turkey NATO 2nd largest military + defence manufacturing; Pakistan only Muslim nuclear power; Saudi Arabia oil anchor; motivated by US reliability doubts post-Iran war; desk missed Aug 8-9; correction filed; multipolarity made architectural",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Al Jazeera — What's in the Mecca Joint Defence Agreement, Aug 7",
+              "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it"
+            },
+            {
+              "label": "Al Jazeera — Implications for US role, Aug 8",
+              "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east"
+            },
+            {
+              "label": "Jerusalem Post — Saudi Arabia, Turkey, Pakistan sign defence pact, Aug 7",
+              "url": "https://www.jpost.com/international/article-904851"
+            }
+          ]
+        },
+        {
+          "text": "THE FORUM CONTINUES; ABUJA OBJECTS — AES Humanitarian Forum day 2 Ouagadougou (Aug 9-14, From Emergency to Resilience); FM Jean-Marie Traore replied formally to Nigeria Tinubu Aug 8 ('adding fuel' = adversary frame); named Nigerien sacrifice against Boko Haram; ECOWAS vs AES fault line; communique Aug 14; France day 46 zero measures; P15 on track HIT",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Pravda Burkina — AES responds to Nigeria, Aug 8",
+              "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/08/08/7666.html"
+            },
+            {
+              "label": "Powers of Africa — AES Forum Aug 9-14",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            }
+          ]
+        },
+        {
+          "text": "INSIDE OREKHOV: THE THIRD FRONT CONFIRMS ITSELF — Russian forces inside Orekhov Aug 9; Dnepr Group; Ukrainian mechanized and mountain assault brigades; simultaneously Alekseyevo-Druzhkovka + Dobropolye road severed = three fronts; P14 ahead of schedule; P24 filed Orekhov fire control Oct 15",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
+              "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
+            },
+            {
+              "label": "Russian MoD summary Aug 9",
+              "url": "https://news-pravda.com/world/2026/08/09/2502732.html"
+            },
+            {
+              "label": "Southfront — Military situation Aug 9",
+              "url": "https://maps.southfront.press/military-situation-in-ukraine-on-august-9-2026-maps-update"
+            }
+          ]
+        },
+        {
+          "text": "TWENTY-TWO BILLION: WHAT THE SANCTIONS DID NOT STOP — Bloomberg Aug 7: $22B DPRK foreign revenue 2022-2025, 4x pre-war; ~50% Russian 122/152mm shells; 16-22K soldiers at $2K/month; GDP 3.5% 2025 3rd year expansion; Choe Hyon destroyers + Kang Kon September = war dividends; P23 (Kim-Putin Aug 15) heading MISS; EEF September outside window",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Bloomberg — North Korea $22B windfall, Aug 7",
+              "url": "https://www.bloomberg.com/graphics/2026-north-korea-windfall/"
+            },
+            {
+              "label": "Euromaidan Press — $22B nearly four times pre-war, Aug 7",
+              "url": "https://euromaidanpress.com/2026/08/07/north-korea-made-22-billion-arming-russia-nearly-four-times-its-haul-before-the-war/"
+            },
+            {
+              "label": "Kyiv Post — DPRK earns $22B arms sales",
+              "url": "https://www.kyivpost.com/post/81965"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "AES Humanitarian Forum Aug 9-14 communique deliverables",
+        "France economic measures — P15 approaching HIT (Dec 31)",
+        "Mecca pact operational content — exercises, intel sharing, defence industrial",
+        "Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT)",
+        "Kim-Putin summit (P23, Aug 15 — heading to MISS)",
+        "Druzhkovka city-center fire control (P14, Sept 1, ahead of schedule)",
+        "Orekhov fire control (P24, Oct 15 — filed today)",
+        "Iran-Oman joint statement (P17, Aug 15 — heading HIT)"
+      ]
+    },
     {
       "date": "2026-08-09",
       "items": [
@@ -3596,7 +3699,7 @@
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "August 7. Russian forces captured Krasnoyarskoye on the Dobropolye axis and severed the Dobropolye-Kramatorsk road (Southfront, August 6); southern sector of Alekseyevo-Druzhkovka expanding simultaneously. Two simultaneous active fronts at this operational scale rules out diversion. No geolocated city-center fire control at Druzhkovka. Prediction holds ahead of schedule at September 1 horizon.",
+      "note": "August 10. Russian forces confirmed inside Orekhov on August 9 (Dnepr Group, Zaporizhzhia) — third simultaneous operational front alongside Alekseyevo-Druzhkovka and Dobropolye. No geolocated city-center fire control at Druzhkovka yet. Prediction holds ahead of schedule at September 1 horizon. Desk has filed Prediction 24 on Orekhov.",
       "schema_version": 1
     },
     {
@@ -3625,7 +3728,7 @@
       "filed": "2026-06-30",
       "horizon": "2026-08-15",
       "schema_version": 1,
-      "note": "August 7. Iran-Oman corridor agreement in final joint-statement drafting — single corridor, northern entry Iranian-controlled, fees 50-50 Oman-Iran, no US signature. Washington’s objection: no fees, no approvals, no impediments. The prediction that no written corridor agreement bearing both US and Iranian signatures would emerge before mid-August appears on track. Eight days to resolution (August 15)."
+      "note": "August 10. Five days to resolution (August 15). Iran-Oman corridor joint statement in final drafting — structure confirmed: single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature. IRGC says Hormuz opens only after US accepts conditions. No US-Iran signed agreement. Prediction on track for HIT: what was predicted (no US-Iran written agreement before mid-August) is consistent with all reporting. Grades August 15."
     },
     {
       "status": "open",
@@ -3650,7 +3753,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 7: Primary four days out. Latest Marquette: Hong leads Democratic primary (38%); the prediction’s mechanism — Barnes winning a fragmented field — collapsed when Barnes dropped out July 30 and endorsed Hong. Prediction grades MISS (错) on August 11 vote count."
+      "note": "August 10: Primary tomorrow. Hong leads Democratic primary at 38% (Marquette); Barnes dropped July 30, endorsed Hong; mechanism collapsed. Prediction grades MISS (wrong) on August 11 vote count."
     },
     {
       "schema_version": 2,
@@ -3667,7 +3770,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 7: Primary four days out. Tiffany expected to win easily; Manske has no infrastructure. Prediction grades on August 11 vote count. Confidence 92 unchanged."
+      "note": "August 10: Primary tomorrow. Tiffany expected to win easily against Andrew Manske. Prediction grades HIT on August 11 vote count. Confidence 92 unchanged."
     },
     {
       "schema_version": 2,
@@ -3718,7 +3821,24 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 7: Eight days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) as the most likely venue — outside this prediction’s window. Prediction heading to MISS. The desk will grade on August 15."
+      "note": "August 10: Five days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) — outside this prediction's window. Prediction heading to MISS. Grades August 15."
+    },
+    {
+      "schema_version": 2,
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russian forces establish operational fire control over Orekhov (Orikhiv) before October 15, 2026. Russian forces advanced inside the city on August 9 using the same infiltration-encirclement-attrition methodology that preceded Konstantinovka (resolved June 23, twelve days early) and Druzhkovka (Prediction 14, September 1 horizon, ahead of schedule). The desk commits to the pattern.",
+        "filed": "2026-08-10",
+        "resolves_by": "2026-10-15",
+        "resolution": "Resolves correct if Russian forces establish geolocated operational fire control over Orekhov's city center by October 15, 2026; wrong if the city remains contested beyond that date.",
+        "confidence": 68
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
@@ -3773,6 +3893,10 @@
     {
       "date": "2026-07-20",
       "text": "The July 17, July 18, and July 19 briefings missed an Iran escalation item: two United States service members were killed in an Iranian drone-and-missile strike on a military outpost in Jordan on July 17. The Pentagon cited these deaths as the stated trigger for subsequent overnight US strikes on Iran. The miss spans three consecutive briefings. Corrected in the July 20 Iran item."
+    },
+    {
+      "date": "2026-08-10",
+      "text": "The August 8 and August 9 briefings missed the Mecca Joint Defence Agreement, signed August 7, 2026 in Mecca by Saudi Arabia, Turkey, and Pakistan. The agreement establishes a mutual defence clause (an attack on one is an attack on all), builds on the September 2025 Saudi-Pakistan bilateral, and was explicitly motivated by doubts about US reliability as a security guarantor following the Iran war. The desk's August 8 briefing covered the Iran-Oman deal and NPO deadline; the August 9 briefing covered Malaya Tochmachka and the AES Forum. Both missed a major regional security architecture event on the same day. Filed today as the lead item with correction noted."
     }
   ],
   "beats": [
