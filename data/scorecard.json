@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-10",
-  "edition": 63,
+  "updated": "2026-08-11",
+  "edition": 64,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 10: The Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan), signed August 7, is the day's dominant multipolarity signal — mutual defence clause, each party's distinct asset (Turkey: NATO's second-largest military and defence manufacturing; Pakistan: the only Muslim-majority nuclear power; Saudi Arabia: the oil anchor), all motivated by doubts about US reliability as a guarantor following the Iran war. The desk missed it in the August 8 and August 9 briefings; correction filed today. The Iran-Oman Hormuz corridor joint statement remains in final drafting — structure confirmed bilateral (no US signature), Prediction 17 resolves August 15 as expected HIT. BRICS New Delhi summit September 12-13 is 33 days out; Prediction 3 watching BRICS Bridge framework adoption.",
-      "watching": "Mecca pact operational content — intelligence sharing, defence-industrial cooperation, joint exercises: does 'normative deterrence' materialise? Iran-Oman joint statement final text — P17 resolves Aug 15; Kharg Island P6 Sept 1 (intact, Brent ~$79); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
+      "verdict": "August 11: Mojtaba Khamenei made his first major political act since the February 28 strike: six senior military appointments August 10, including Ahmad Vahidi as IRGC commander-in-chief and Ali Abdollahi as armed forces chief of staff. New IRGC command immediately hardened the Hormuz posture — reopening 'not imminent,' demanding full US sanctions relief, naval withdrawal, war reparations, and frozen-asset release. Brent returned to $84.11. Iran-Oman bilateral deal in final drafting but bilateral only (no US signature). Prediction 17 — the desk's call that no formal US-Iran written corridor agreement emerges before mid-August — heads to correct. The Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan, Aug 7) remains the structural multipolarity signal of the week. AES Forum running in parallel (Declaration of Ouagadougou expected Aug 12). BRICS New Delhi Sept 12-13 — 32 days.",
+      "watching": "Vahidi IRGC posture — longer military horizon than Oman framework can hold? P17 Aug 15 heading HIT; Kharg Island P6 Sept 1 intact (Brent $84); Mecca pact operational content (exercises, intel-sharing); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
+        {
+          "label": "Al Jazeera — Oil prices climb, Iranian demands Aug 10",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+        },
+        {
+          "label": "CNN — Iran war liveblog Aug 10",
+          "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+        },
         {
           "label": "Al Jazeera — What's in the Mecca Joint Defence Agreement, Aug 7, 2026",
           "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it"
@@ -81,9 +89,17 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 10: AES Humanitarian Forum in day two (Ouagadougou, August 9-14, 'From Emergency to Resilience'). On August 8, Burkina Faso's Foreign Minister Jean-Marie Traore formally replied to Nigerian President Tinubu's claim that Sahel security failures were 'adding fuel' to Nigeria's challenges — the AES would have preferred 'a more accurate presentation' and named Nigerien sacrifice against Boko Haram specifically. The exchange maps the fault line in West Africa's diplomatic geography: ECOWAS and Abuja see the AES states as a destabilising defection; the AES sees ECOWAS as a platform for neocolonial intervention. Material indicators unchanged: $18 billion cumulative gold revenue since 2022, Yako state mine operating since July 9, Raffinor first bars targeting year-end. France at day 46 with zero specific economic countermeasures. Prediction 15 on track for HIT before December 31.",
-      "watching": "AES Humanitarian Forum Aug 9-14 joint communique deliverables; Nigeria-AES diplomatic trajectory; France economic measures — Prediction 15 approaching HIT (Dec 31); Raffinor first bars — year-end target",
+      "verdict": "August 11: AES Humanitarian Forum day three (Ouagadougou, Aug 9–14, 'From Emergency to Resilience'). Prime Minister Kyelem called for a 'Sahelian model founded on sovereignty and resilience' — institutional architecture, not crisis response. Mali delegation committed to integrated humanitarian coordination; Togo attended as guest. Declaration of Ouagadougou consolidating the inter-AES humanitarian framework expected August 12. France on day 47 with zero economic countermeasures — Prediction 15 accumulates toward its December 31 resolution. Three registers in motion in parallel: Raffinor gold refinery on track for year-end, $18 billion cumulative gold revenue since 2022, formalized inter-AES humanitarian architecture.",
+      "watching": "Declaration of Ouagadougou — August 12; France economic measures — Prediction 15 (Dec 31, approaching HIT); Raffinor first bars — year-end target; Nigeria-AES diplomatic trajectory (communiqué watch)",
       "sources": [
+        {
+          "label": "NetAfrique — PM Kyelem sovereignty speech Aug 10",
+          "url": "https://netafrique.net/forum-humanitaire-de-laes-le-premier-ministre-appelle-a-construire-un-modele-sahelien-fonde-sur-la-souverainete-et-la-resilience/"
+        },
+        {
+          "label": "FasoAmazone — AES Forum day 3 Aug 11",
+          "url": "https://www.fasoamazone.net/2026/08/11/aes-de-lurgence-a-la-resilience-le-burkina-faso-veut-renforcer-laction-humanitaire-et-le-leadership-des-femmes/"
+        },
         {
           "label": "Pravda Burkina — AES responds to Nigeria's Tinubu remarks, Aug 8",
           "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/08/08/7666.html"
@@ -127,9 +143,17 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 10: Russian forces confirmed inside Orekhov city (Zaporizhzhia) on August 9 — Dnepr Group, Ukrainian mechanized and mountain assault brigades engaged. Three simultaneous operational-scale fronts: Alekseyevo-Druzhkovka, Dobropolye (road severed), and now Orekhov. Prediction 14 (Druzhkovka before September 1) continues ahead of schedule. Desk has filed Prediction 24 on Orekhov fire control before October 15. The Mecca pact (Saudi Arabia, Turkey, Pakistan — see Multipolarity) is simultaneously the clearest signal of Atlantic-order institutional erosion: a NATO member and a key US arms client constructing a collective defence architecture that does not require Washington's approval.",
-      "watching": "Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15, filed today); Wisconsin Aug 11 primary (P19 grades MISS, P20 grades HIT after vote); Mecca pact operational content",
+      "verdict": "August 11: Wisconsin primary day. Prediction 19 (Barnes wins Democratic primary) grades 错 — Barnes withdrew July 30, endorsed Hong; the mechanism collapsed before the vote. Prediction 20 (Tiffany wins Republican primary) grades 对 — Trump-endorsed congressman with token opposition. November general election: Francesca Hong (DSA) vs Tom Tiffany (MAGA), Prediction 21 (Democratic nominee wins) open at 44-44. Three simultaneous operational fronts (Druzhkovka, Dobropolye, Orekhov) continue. Prediction 14 (Druzhkovka Sept 1) ahead of schedule. Prediction 24 (Orekhov Oct 15) running — Russian forces inside Orekhov southeastern outskirts. Kim-Putin summit (Prediction 23, Aug 15) heading to MISS — no confirmation of summit.",
+      "watching": "Wisconsin Nov 3 general — Prediction 21 (Hong vs Tiffany, 44-44); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); Kim-Putin — Prediction 23 (Aug 15, heading MISS)",
       "sources": [
+        {
+          "label": "Time — Wisconsin Democratic Primary Aug 10",
+          "url": "https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/"
+        },
+        {
+          "label": "Newsweek — GOP now favored Wisconsin governor",
+          "url": "https://www.newsweek.com/republicans-now-favorites-to-win-wisconsin-governor-election-amid-dem-chaos-12276257"
+        },
         {
           "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
           "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
@@ -179,9 +203,17 @@
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Active — de-escalating; joint statement pending",
-      "trend": "de-escalating (Iran-Oman agreement confirmed in structure; joint statement in final drafting as of August 8)",
-      "basis": "August 10: Iran-Oman corridor joint statement still in final drafting — structure confirmed (single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature); IRGC says Hormuz opens only after US accepts conditions. Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan, signed August 7) reflects region-wide doubts about US reliability and is partly an Iran-war product — Saudi Arabia and Pakistan hedging against US security guarantees. Kharg Island oil terminal intact. Prediction 6 (Kharg not struck before Sept 1) holds. Prediction 17 (bilateral structure) resolves August 15.",
+      "trend": "de-escalating (Iran-Oman bilateral in final drafting; new IRGC leadership hardens Hormuz posture)",
+      "basis": "August 11: Mojtaba Khamenei August 10 announced six military appointments including Ahmad Vahidi as IRGC commander-in-chief and Ali Abdollahi as armed forces chief of staff — first major political act since being severely injured February 28. New IRGC command declared Hormuz reopening 'not imminent'; SNSC demands full sanctions relief, US naval withdrawal, war reparations, frozen-asset release. Iran-Oman bilateral joint statement in final drafting — structure confirmed: single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature. Brent $84.11 (up from $79). Kharg intact, P6 holds. Prediction 17 (no formal US-Iran corridor agreement before mid-August) heading to correct.",
       "sources": [
+        {
+          "label": "Al Jazeera — Oil prices and Iranian demands Aug 10",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+        },
+        {
+          "label": "CNN — Iran war liveblog Aug 10 (Mojtabi appointments)",
+          "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+        },
         {
           "label": "Al Jazeera — Hormuz deal, what each side wants, Aug 6",
           "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
@@ -219,6 +251,101 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-11",
+      "beat": "wisconsin",
+      "items": [
+        {
+          "text": "FOXCONN COUNTRY VOTES — TWO PREDICTIONS GRADE: P19 records miss (Barnes withdrew July 30, endorsed Hong; mechanism collapsed; Hong wins Democratic primary); P20 records hit (Tiffany wins Republican primary, Trump-endorsed, token Manske opposition); Nov general: Hong (DSA) vs Tiffany (MAGA), 44-44 likely voters; P21 open",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Time — Wisconsin Democratic Primary Aug 10",
+              "url": "https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/"
+            },
+            {
+              "label": "Newsweek — GOP now favored",
+              "url": "https://www.newsweek.com/republicans-now-favorites-to-win-wisconsin-governor-election-amid-dem-chaos-12276257"
+            },
+            {
+              "label": "WPR — Primary home stretch",
+              "url": "https://www.wpr.org/news/wisconsins-2026-primary-for-governor-hits-the-home-stretch-2"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU BUILDS ITS SOVEREIGN MODEL: AES Humanitarian Forum day 3; PM Kyelem 'sovereign Sahelian model'; Mali integrated humanitarian commitment; Togo guest country; Declaration of Ouagadougou Aug 12; France day 47 zero measures; P15 accumulates",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "NetAfrique — PM sovereignty speech Aug 10",
+              "url": "https://netafrique.net/forum-humanitaire-de-laes-le-premier-ministre-appelle-a-construire-un-modele-sahelien-fonde-sur-la-souverainete-et-la-resilience/"
+            },
+            {
+              "label": "FasoAmazone — AES Forum day 3",
+              "url": "https://www.fasoamazone.net/2026/08/11/aes-de-lurgence-a-la-resilience-le-burkina-faso-veut-renforcer-laction-humanitaire-et-le-leadership-des-femmes/"
+            },
+            {
+              "label": "Malijet — Mali delegation",
+              "url": "https://malijet.com/actualite-sur-aes/311111-forum-humanitaire-de-laes-le-mali-sengage-pour-une-repons.html"
+            },
+            {
+              "label": "Sidwaya — AES Forum cooperation",
+              "url": "https://www.sidwaya.info/2e-forum-humanitaire-et-reunion-ministerielle-du-genre-lalliance-des-etats-du-sahel-renforce-sa-cooperation-a-ouagadougou/"
+            }
+          ]
+        },
+        {
+          "text": "MOJTABI MAKES HIS APPOINTMENTS: NEW IRGC COMMAND, HARDER HORMUZ LINE: Aug 10 six military appointments incl Vahidi IRGC CinC + Abdollahi AFCOS; SNSC demands full sanctions relief/naval withdrawal/reparations/frozen assets; IRGC reopening 'not imminent'; Brent $84.11; Iran-Oman bilateral final drafting; P17 heading HIT Aug 15",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "Al Jazeera — Oil prices, Iranian demands Aug 10",
+              "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+            },
+            {
+              "label": "CNN — Iran war liveblog Aug 10",
+              "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+            },
+            {
+              "label": "Just Security — Early Edition Aug 10",
+              "url": "https://www.justsecurity.org/152976/early-edition-august-10-2026/"
+            }
+          ]
+        },
+        {
+          "text": "OREKHOV: THE POCKET TAKES SHAPE: Russian forces inside SE outskirts Aug 9 (Dnepr Group); Zarnitsa capture opens N envelopment arc; Druzhkovka anti-drone nets + robotic resupply platforms; three simultaneous fronts (Druzhkovka, Dobropolye, Orekhov) = methodology not diversion; P24 running; P14 ahead of schedule",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Pravda EN — Russia advances inside Orekhov Aug 9",
+              "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
+            },
+            {
+              "label": "Southfront — Orekhov encirclement Aug 5",
+              "url": "https://southfront.press/russian-encirclement-threatens-orekhov-pocket/"
+            },
+            {
+              "label": "GlobalSecurity — Russo-Ukraine war Aug 10",
+              "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-08-10.htm"
+            },
+            {
+              "label": "Martyanov — August 2026",
+              "url": "https://smoothiex12.blogspot.com/2026/08/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Declaration of Ouagadougou Aug 12",
+        "France economic measures — P15 Dec 31",
+        "Kim-Putin — P23 Aug 15, heading MISS",
+        "Druzhkovka city-center fire control — P14 Sept 1 ahead of schedule",
+        "Orekhov — P24 Oct 15",
+        "P17 Aug 15 heading HIT (Vahidi IRGC posture on Hormuz)",
+        "Wisconsin Nov 3 general — P21 (Hong vs Tiffany, 44-44)"
+      ]
+    },
     {
       "date": "2026-08-10",
       "items": [
@@ -3749,11 +3876,11 @@
         "resolution": "Resolves 对 if Barnes takes the most votes in the Aug 11 Democratic primary for governor; 错 if any other Democrat wins.",
         "confidence": 45
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "August 10: Primary tomorrow. Hong leads Democratic primary at 38% (Marquette); Barnes dropped July 30, endorsed Hong; mechanism collapsed. Prediction grades MISS (wrong) on August 11 vote count."
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-08-11",
+      "note": "Barnes withdrew July 30 and endorsed Francesca Hong. The mechanism — statewide name recognition carrying a fragmented field — collapsed when the named candidate withdrew before the vote. Hong wins the Democratic primary."
     },
     {
       "schema_version": 2,
@@ -3766,11 +3893,11 @@
         "resolution": "Resolves 对 if Tiffany takes the most votes in the Aug 11 Republican primary for governor; 错 otherwise.",
         "confidence": 92
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "August 10: Primary tomorrow. Tiffany expected to win easily against Andrew Manske. Prediction grades HIT on August 11 vote count. Confidence 92 unchanged."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-08-11",
+      "note": "Tiffany wins Republican primary as expected. Trump-endorsed congressman with no credible opposition; faced only token competition from Andrew Manske."
     },
     {
       "schema_version": 2,
