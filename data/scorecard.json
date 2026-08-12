@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11",
-  "edition": 64,
+  "updated": "2026-08-12",
+  "edition": 65,
   "board": [
     {
       "name_zh": "多极化",
@@ -89,32 +89,28 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 11: AES Humanitarian Forum day three (Ouagadougou, Aug 9–14, 'From Emergency to Resilience'). Prime Minister Kyelem called for a 'Sahelian model founded on sovereignty and resilience' — institutional architecture, not crisis response. Mali delegation committed to integrated humanitarian coordination; Togo attended as guest. Declaration of Ouagadougou consolidating the inter-AES humanitarian framework expected August 12. France on day 47 with zero economic countermeasures — Prediction 15 accumulates toward its December 31 resolution. Three registers in motion in parallel: Raffinor gold refinery on track for year-end, $18 billion cumulative gold revenue since 2022, formalized inter-AES humanitarian architecture.",
-      "watching": "Declaration of Ouagadougou — August 12; France economic measures — Prediction 15 (Dec 31, approaching HIT); Raffinor first bars — year-end target; Nigeria-AES diplomatic trajectory (communiqué watch)",
+      "verdict": "August 12: The second AES Humanitarian Forum concluded today in Ouagadougou with adoption of the Declaration of Ouagadougou — the formal humanitarian architecture the three states have been building since France's diplomatic relationship collapsed in June. The sequence reads as design: NGO sector reorganized under state authority (15-day clock expired August 8), foreign-funded civil society cleared or dissolved (~1,174 organizations), Forum convened (August 9-12), Declaration adopted today. Simultaneously, AES states met in Ouagadougou to harmonize energy and mining policies — the material architecture alongside the humanitarian. France is on day 49 with zero punitive economic countermeasures — Prediction 15 accumulates toward its December 31 resolution. Raffinor (state gold refinery, 150-tonne annual capacity) expected to produce first commercial bars before year-end.",
+      "watching": "Declaration of Ouagadougou full text content; France economic measures — Prediction 15 (Dec 31, approaching HIT); Raffinor first bars — year-end target; AES energy/mining harmonization implementation",
       "sources": [
+        {
+          "label": "FasoAmazone — AES Forum closing session Aug 11",
+          "url": "https://www.fasoamazone.net/2026/08/11/2%E1%B5%89-forum-humanitaire-de-laes-de-lurgence-a-la-resilience-lonu-appelle-a-placer-les-femmes-au-coeur-de-laction/"
+        },
+        {
+          "label": "Maliweb — Mali at the AES Humanitarian Forum",
+          "url": "https://www.maliweb.net/politique/forum-humanitaire-de-laes-le-mali-plaide-pour-une-reponse-integree-et-resiliente-aux-crises-3119085.html"
+        },
+        {
+          "label": "Bamada.net — Mali delegation AES Forum",
+          "url": "https://bamada.net/forum-humanitaire-de-laes-le-mali-engage-pour-une-reponse-humanitaire-integree-et-resiliente"
+        },
+        {
+          "label": "WAVN — AES states move to harmonize energy and mining policies",
+          "url": "https://www.wavn.org/aes-states-move-to-harmonize-energy-and-mining-policies/"
+        },
         {
           "label": "NetAfrique — PM Kyelem sovereignty speech Aug 10",
           "url": "https://netafrique.net/forum-humanitaire-de-laes-le-premier-ministre-appelle-a-construire-un-modele-sahelien-fonde-sur-la-souverainete-et-la-resilience/"
-        },
-        {
-          "label": "FasoAmazone — AES Forum day 3 Aug 11",
-          "url": "https://www.fasoamazone.net/2026/08/11/aes-de-lurgence-a-la-resilience-le-burkina-faso-veut-renforcer-laction-humanitaire-et-le-leadership-des-femmes/"
-        },
-        {
-          "label": "Pravda Burkina — AES responds to Nigeria's Tinubu remarks, Aug 8",
-          "url": "https://burkina-faso.news-pravda.com/en/burkina-faso/2026/08/08/7666.html"
-        },
-        {
-          "label": "Powers of Africa — AES Humanitarian Forum Aug 9-14",
-          "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
-        },
-        {
-          "label": "Bamada.net — Mali delegation AES Forum 2026",
-          "url": "https://bamada.net/forum-humanitaire-de-laes-2026-le-mali-se-mobilise-pour-porter-la-voix-des-populations-vulnerables"
-        },
-        {
-          "label": "Africa Briefing — Burkina Faso $18B gold windfall",
-          "url": "https://africabriefing.com/burkina-faso-gold-windfall-18bn-traore/"
         }
       ]
     },
@@ -143,28 +139,24 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 11: Wisconsin primary day. Prediction 19 (Barnes wins Democratic primary) grades 错 — Barnes withdrew July 30, endorsed Hong; the mechanism collapsed before the vote. Prediction 20 (Tiffany wins Republican primary) grades 对 — Trump-endorsed congressman with token opposition. November general election: Francesca Hong (DSA) vs Tom Tiffany (MAGA), Prediction 21 (Democratic nominee wins) open at 44-44. Three simultaneous operational fronts (Druzhkovka, Dobropolye, Orekhov) continue. Prediction 14 (Druzhkovka Sept 1) ahead of schedule. Prediction 24 (Orekhov Oct 15) running — Russian forces inside Orekhov southeastern outskirts. Kim-Putin summit (Prediction 23, Aug 15) heading to MISS — no confirmation of summit.",
-      "watching": "Wisconsin Nov 3 general — Prediction 21 (Hong vs Tiffany, 44-44); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); Kim-Putin — Prediction 23 (Aug 15, heading MISS)",
+      "verdict": "August 12: The desk corrects its August 11 pre-call. Milwaukee County Executive David Crowley won the Wisconsin Democratic gubernatorial primary on August 11 by less than one percentage point over Francesca Hong — an upset. Every late poll had shown Hong ahead; the desk filed 'Hong wins' on August 11 before the results arrived; that was wrong. Crowley, who had dropped out and re-entered with Governor Evers' endorsement, ran on electability and won by a hair. The general-election picture is now more favorable for Democrats: RMG Research (July 24, last pre-primary poll) showed Crowley 46%, Tiffany 43% — a reversal from Hong-versus-Tiffany numbers that had Republicans favored. Prediction 21 (Democratic nominee wins November 3) was filed at 55% confidence assuming a difficult candidate; Crowley's stronger numbers warrant watching. Three simultaneous operational fronts in Ukraine (Druzhkovka, Dobropolye, Orekhov) continue. Novoye Pole (Zaporizhia) and Shcherbakovka (Kharkiv direction) liberated August 12.",
+      "watching": "Wisconsin Nov 3 general — Prediction 21 (Crowley vs Tiffany; first post-primary poll); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); Kim-Putin — Prediction 23 (Aug 15, grading MISS next run)",
       "sources": [
         {
-          "label": "Time — Wisconsin Democratic Primary Aug 10",
-          "url": "https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/"
+          "label": "Washington Post — Crowley defeats Hong in upset, Aug 11",
+          "url": "https://www.washingtonpost.com/elections/2026/08/11/wisconsin-governor-primary-election-results-live-francesca-hong-david-crowley-run/"
         },
         {
-          "label": "Newsweek — GOP now favored Wisconsin governor",
-          "url": "https://www.newsweek.com/republicans-now-favorites-to-win-wisconsin-governor-election-amid-dem-chaos-12276257"
+          "label": "PBS Wisconsin — Crowley wins in photo finish",
+          "url": "https://pbswisconsin.org/news-item/crowley-wins-wisconsins-2026-democratic-primary-for-governor-in-a-photo-finish/"
         },
         {
-          "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
-          "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
+          "label": "NBC News — Crowley pulls off upset over Hong",
+          "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056"
         },
         {
-          "label": "Russian MoD summary, Aug 9",
-          "url": "https://news-pravda.com/world/2026/08/09/2502732.html"
-        },
-        {
-          "label": "Southfront maps — Military situation Ukraine Aug 9, 2026",
-          "url": "https://maps.southfront.press/military-situation-in-ukraine-on-august-9-2026-maps-update"
+          "label": "RealClearPolling — Crowley vs Tiffany general election",
+          "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -179,15 +171,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 10: Russian forces confirmed inside Orekhov city (Zaporizhzhia) on August 9 — Dnepr Group, Ukrainian mechanized and mountain assault brigades engaged. Three simultaneous operational-scale fronts: Alekseyevo-Druzhkovka, Dobropolye (road severed), Orekhov. Prediction 14 (Druzhkovka before September 1) holds ahead of schedule. Desk has filed Prediction 24 on Orekhov operational control before October 15.",
+      "basis": "August 12: Russian forces liberated Novoye Pole (Zaporizhia region, north of Kommunarovka) and Shcherbakovka (Kharkiv direction) today. Three simultaneous operational fronts continue: Alekseyevo-Druzhkovka, Dobropolye (road to Kramatorsk severed), and the Orekhov pocket. Prediction 14 (Druzhkovka before September 1) tracks ahead of schedule. Prediction 24 (Orekhov before October 15) running. Martyanov blog August 11 post 'Obsolete' signals his standing read on the Atlantic order's production deficit.",
       "sources": [
         {
-          "label": "Pravda EN — Russia advances inside Orekhov, Aug 9",
-          "url": "https://news-pravda.com/world/2026/08/09/2502785.html"
+          "label": "Pravda Ukraine — Morning summary Aug 12",
+          "url": "https://ua.news-pravda.com/en/russia/2026/08/12/109991.html"
         },
         {
-          "label": "Russian MoD summary Aug 9",
-          "url": "https://news-pravda.com/world/2026/08/09/2502732.html"
+          "label": "Podolyaka — Storming of Orekhov Aug 9",
+          "url": "https://ua.news-pravda.com/en/russia/2026/08/09/109637.html"
         },
         {
           "label": "Southfront — Military situation Aug 9",
@@ -251,6 +243,98 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-12",
+      "items": [
+        {
+          "text": "THE DESK CORRECTS THE CALL: CROWLEY WINS WISCONSIN IN A PHOTO FINISH — Crowley beats Hong by <1 percentage point Aug 11; desk correction (Aug 11 pre-call 'Hong wins' was wrong); Crowley ran on electability with Evers endorsement; RMG Research Crowley 46% Tiffany 43%; P21 now opens with more daylight; first Black governor of Wisconsin if he wins in November",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Washington Post — In upset, Crowley defeats Hong",
+              "url": "https://www.washingtonpost.com/elections/2026/08/11/wisconsin-governor-primary-election-results-live-francesca-hong-david-crowley-run/"
+            },
+            {
+              "label": "PBS Wisconsin — Photo finish",
+              "url": "https://pbswisconsin.org/news-item/crowley-wins-wisconsins-2026-democratic-primary-for-governor-in-a-photo-finish/"
+            },
+            {
+              "label": "NBC News — Crowley pulls off upset",
+              "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056"
+            },
+            {
+              "label": "RealClearPolling — Crowley vs Tiffany",
+              "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU DECLARES: THE AES FORUM CLOSES ITS ARCHITECTURE — Declaration of Ouagadougou adopted Aug 12 at close of 2nd AES Humanitarian Forum; sequence: NPO clock expired Aug 8, 1,174 CSOs cleared, Forum Aug 9-12, Declaration today; simultaneous energy/mining harmonization meeting; France day 49 zero economic countermeasures; P15 accumulates; Raffinor year-end",
+          "beat": "audit-desk",
+          "links": [
+            {
+              "label": "FasoAmazone — AES Forum closing session Aug 11",
+              "url": "https://www.fasoamazone.net/2026/08/11/2%E1%B5%89-forum-humanitaire-de-laes-de-lurgence-a-la-resilience-lonu-appelle-a-placer-les-femmes-au-coeur-de-laction/"
+            },
+            {
+              "label": "Maliweb — Mali at AES Forum",
+              "url": "https://www.maliweb.net/politique/forum-humanitaire-de-laes-le-mali-plaide-pour-une-reponse-integree-et-resiliente-aux-crises-3119085.html"
+            },
+            {
+              "label": "WAVN — AES energy and mining harmonization",
+              "url": "https://www.wavn.org/aes-states-move-to-harmonize-energy-and-mining-policies/"
+            }
+          ]
+        },
+        {
+          "text": "NOVOYE POLE AND THE THREE-FRONT CLOCK — Russian forces liberate Novoye Pole (Zaporizhia, N of Kommunarovka) + Shcherbakovka (Kharkiv direction) Aug 12; simultaneous operations Druzhkovka + Orekhov + Dobropolye; Martyanov Aug 11 'Obsolete' — production-gap standing read; P14 (Druzhkovka Sept 1) and P24 (Orekhov Oct 15) both tracking",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Pravda Ukraine — Morning summary Aug 12",
+              "url": "https://ua.news-pravda.com/en/russia/2026/08/12/109991.html"
+            },
+            {
+              "label": "Martyanov — Obsolete, Aug 11",
+              "url": "https://smoothiex12.blogspot.com/2026/08/macabre-dreams.html"
+            },
+            {
+              "label": "Podolyaka — Orekhov storming Aug 9",
+              "url": "https://ua.news-pravda.com/en/russia/2026/08/09/109637.html"
+            }
+          ]
+        },
+        {
+          "text": "FORTY-EIGHT HOURS: P17 AND P23 AT THE LINE — Iran-Oman joint statement in final draft; structure confirmed (N lane Iranian-controlled, fees 50-50, no US signature); P17 heading HIT Aug 15; no Kim-Putin summit confirmed; P23 heading MISS Aug 15 (grade next run); Tumen bridge opens early September EEF Vladivostok — P25 filed (Kim-Putin at EEF, confidence 65)",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Al Jazeera — IRGC says Hormuz to open after US accepts conditions, Aug 8",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms"
+            },
+            {
+              "label": "Security Council Report — DPRK August 2026",
+              "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-08/dprk-north-korea-35.php"
+            },
+            {
+              "label": "Daily NK — Tumen bridge delay",
+              "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Declaration of Ouagadougou full text content",
+        "France economic measures — P15 Dec 31 (approaching HIT)",
+        "P17 Aug 15 — grade HIT (Iran-Oman bilateral, no US-Iran agreement)",
+        "P23 Aug 15 — grade MISS (no Kim-Putin summit confirmed)",
+        "P25 Kim-Putin at EEF Sept 1-4 Vladivostok",
+        "Druzhkovka city-center fire control — P14 (Sept 1)",
+        "Orekhov fire control — P24 (Oct 15)",
+        "Wisconsin Nov 3 general — P21 (Crowley vs Tiffany; first post-primary poll)",
+        "Raffinor first commercial gold bars — year-end"
+      ]
+    },
     {
       "date": "2026-08-11",
       "beat": "wisconsin",
@@ -3880,7 +3964,7 @@
       "outcome": "错",
       "mechanism": "didn't hold",
       "resolved": "2026-08-11",
-      "note": "Barnes withdrew July 30 and endorsed Francesca Hong. The mechanism — statewide name recognition carrying a fragmented field — collapsed when the named candidate withdrew before the vote. Hong wins the Democratic primary."
+      "note": "Barnes withdrew July 30 and endorsed Francesca Hong. The mechanism — statewide name recognition carrying a fragmented field — collapsed when the named candidate withdrew before the vote. CORRECTION (filed Aug 12): The Aug 11 entry stated 'Hong wins Democratic primary' before results arrived; Crowley actually won the primary in a photo finish by less than one percentage point."
     },
     {
       "schema_version": 2,
@@ -3914,7 +3998,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "August 7: Pollsmax general-election average (August 6): Hong 42.2% vs Tiffany 45.0%, Republican margin +2.8. Tied among likely voters at 44-44 (Marquette). Race genuinely competitive from day one. Prediction 21 (Democrat wins November) live; confidence 55% unchanged."
+      "note": "Democratic nominee now confirmed as David Crowley (Milwaukee County Executive), who defeated Francesca Hong by less than one percentage point on August 11 in an upset — Crowley had dropped out and re-entered with Governor Evers' endorsement. RMG Research (July 24) showed Crowley 46%, Tiffany 43% — better than pre-primary Hong-Tiffany polling where Republicans were favored. P21's 55% confidence filed on assumption of a difficult Democratic nominee; Crowley's stronger general-election position shifts the picture; watch the first post-primary Crowley-Tiffany poll."
     },
     {
       "schema_version": 2,
@@ -3960,6 +4044,23 @@
         "resolves_by": "2026-10-15",
         "resolution": "Resolves correct if Russian forces establish geolocated operational fire control over Orekhov's city center by October 15, 2026; wrong if the city remains contested beyond that date.",
         "confidence": 68
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "peninsula",
+      "kind": "desk",
+      "filing": {
+        "claim": "Kim Jong Un meets Vladimir Putin at the Eastern Economic Forum in Vladivostok (September 1-4, 2026) — the summit that was not August 15.",
+        "filed": "2026-08-12",
+        "resolves_by": "2026-09-05",
+        "resolution": "Resolves 对 if Kim Jong Un is confirmed to have met Vladimir Putin in person at or around the Eastern Economic Forum (September 1-4, Vladivostok) per credible reporting (Yonhap, Reuters, KCNA, Kremlin). Resolves 错 if no Kim-Putin face-to-face meeting occurs before September 5.",
+        "confidence": 65
       },
       "status": "待",
       "outcome": null,
@@ -4024,6 +4125,10 @@
     {
       "date": "2026-08-10",
       "text": "The August 8 and August 9 briefings missed the Mecca Joint Defence Agreement, signed August 7, 2026 in Mecca by Saudi Arabia, Turkey, and Pakistan. The agreement establishes a mutual defence clause (an attack on one is an attack on all), builds on the September 2025 Saudi-Pakistan bilateral, and was explicitly motivated by doubts about US reliability as a security guarantor following the Iran war. The desk's August 8 briefing covered the Iran-Oman deal and NPO deadline; the August 9 briefing covered Malaya Tochmachka and the AES Forum. Both missed a major regional security architecture event on the same day. Filed today as the lead item with correction noted."
+    },
+    {
+      "date": "2026-08-12",
+      "text": "The August 11 briefing pre-called 'Hong wins Democratic primary' before results were in — the prediction was filed as an expected outcome alongside the P19 grading. The actual result: David Crowley won the Wisconsin Democratic gubernatorial primary by less than one percentage point in an upset. Every late poll had shown Hong ahead. Crowley had dropped out in late July, re-entered with Governor Evers' endorsement, and ran on electability. The August 11 scorecard P19 note has been corrected; P21's note updated to reflect Crowley as the Democratic nominee with stronger general-election polling (RMG: Crowley 46%, Tiffany 43%)."
     }
   ],
   "beats": [
