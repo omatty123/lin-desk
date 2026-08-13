@@ -1,41 +1,25 @@
 {
-  "updated": "2026-08-12",
-  "edition": 65,
+  "updated": "2026-08-13",
+  "edition": 66,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 11: Mojtaba Khamenei made his first major political act since the February 28 strike: six senior military appointments August 10, including Ahmad Vahidi as IRGC commander-in-chief and Ali Abdollahi as armed forces chief of staff. New IRGC command immediately hardened the Hormuz posture — reopening 'not imminent,' demanding full US sanctions relief, naval withdrawal, war reparations, and frozen-asset release. Brent returned to $84.11. Iran-Oman bilateral deal in final drafting but bilateral only (no US signature). Prediction 17 — the desk's call that no formal US-Iran written corridor agreement emerges before mid-August — heads to correct. The Mecca Joint Defence Agreement (Saudi Arabia, Turkey, Pakistan, Aug 7) remains the structural multipolarity signal of the week. AES Forum running in parallel (Declaration of Ouagadougou expected Aug 12). BRICS New Delhi Sept 12-13 — 32 days.",
+      "verdict": "August 13: The Hormuz lane is now an Oman-Iran bilateral from which Washington is excluded by design — northern lane Iranian-controlled, fees 50-50 Oman-Iran, US and Israeli vessels banned with 20% cargo penalty. Simultaneously, Beijing is constructing a symmetric counter to US chip-denial: MoC draft restricts overseas downloads of Chinese AI model weights and prohibits domestic firms from using TSMC/Qualcomm for advanced-chip manufacturing. Two structurally consequential moves in 48 hours, one from each anchor state of the emerging order. The multipolar trend line has not changed; the pace has. [Aug 11: Vahidi IRGC appointment, Hormuz hardened. Mecca Joint Defence Agreement, Brent from $90 to $84.]",
       "watching": "Vahidi IRGC posture — longer military horizon than Oman framework can hold? P17 Aug 15 heading HIT; Kharg Island P6 Sept 1 intact (Brent $84); Mecca pact operational content (exercises, intel-sharing); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
         {
-          "label": "Al Jazeera — Oil prices climb, Iranian demands Aug 10",
-          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+          "label": "US News: Hormuz final stages Aug 9",
+          "url": "https://www.usnews.com/news/world/articles/2026-08-09/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz"
         },
         {
-          "label": "CNN — Iran war liveblog Aug 10",
-          "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+          "label": "NPR: US/Israeli vessels banned Aug 7",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5923962/iran-says-agreement-with-oman-for-strait-of-hormuz-prohibits-u-s-and-israeli-vessels"
         },
         {
-          "label": "Al Jazeera — What's in the Mecca Joint Defence Agreement, Aug 7, 2026",
-          "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it"
-        },
-        {
-          "label": "Al Jazeera — What the Mecca pact means for US role in Middle East, Aug 8",
-          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east"
-        },
-        {
-          "label": "Jerusalem Post — Saudi Arabia, Turkey, Pakistan sign major defence pact, Aug 7",
-          "url": "https://www.jpost.com/international/article-904851"
-        },
-        {
-          "label": "CNN — Hormuz deal analysis, August 5, 2026",
-          "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
-        },
-        {
-          "label": "Bloomberg — Iran-Oman Hormuz agreement, August 5",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
+          "label": "China AI export controls",
+          "url": "https://finance.biggo.com/news/ebbd7214-d572-4daa-b14a-675fa214afe5"
         }
       ]
     },
@@ -43,16 +27,16 @@
       "name_zh": "美元霸权",
       "name_en": "Dollar hegemony",
       "trend": "down",
-      "verdict": "The BIS 2025 Triennial Survey — dollar on 89.2 percent of FX transactions — remains the adversary's strongest current argument. The structural dedollarization indicators are unchanged: the Hormuz corridor dispute has both the US and Iran operating inside the dollar-denominated oil-pricing system while arguing about passage fees. Rome round 6 (Israel-Lebanon implementation, July 14) and the Iran nuclear working groups are proceeding in USD-denominated frameworks. The FIMA RMB facility and mBridge/CIPS architecture remain the relevant watching items; no new data today.",
+      "verdict": "The BIS 2025 Triennial Survey — dollar on 89.2 percent of FX transactions — remains the adversary's strongest current argument. The structural dedollarization indicators continue: the Hormuz bilateral (50-50 fee split Oman-Iran, US excluded from text) sets a precedent for oil-corridor management outside dollar norms. Brent has moved from $90 to $84 on reopening probability — the market is pricing a partial reopening, not a full one, which is itself a measurement of Iran's leverage. BRICS digital settlement currency pilot running in 2026; no reserve-currency displacement yet, but the architecture accumulates.",
       "watching": "Whether Iran Hormuz fee criteria formally map onto yuan-settlement partners — the 'friendly nation' tier; FIMA RMB drawdown data when available; Burkina-Israel intelligence channel operational confirmation — Prediction 18 live; BRICS Bridge India summit September — Prediction 3 live.",
       "sources": [
         {
-          "label": "Crypto Briefing — China FIMA RMB repo facility, June 17",
-          "url": "https://cryptobriefing.com/china-yuan-liquidity-facility-overseas-central-banks/"
+          "label": "Fortune: Hormuz shipping agreement",
+          "url": "https://fortune.com/2026/08/07/iran-agreement-oman-strait-of-hormuz-shipping/"
         },
         {
-          "label": "The Block — mBridge, BIS context",
-          "url": "https://www.theblock.co/post/386057/china-led-cross-border-cbdc-platform-mbridge-surges-past-55-billion-in-transaction-volume-reuters"
+          "label": "BRICS de-dollarization 2026 prep",
+          "url": "https://www.academicjobs.com/global-news/brics-trade-summit-preparations-de-dollarization-strategies-2026-938"
         }
       ]
     },
@@ -60,28 +44,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 10: Bloomberg reported August 7 that North Korea generated up to $22 billion in foreign revenue from 2022 to 2025 — nearly four times its pre-war haul — primarily from supplying Russia with roughly 50 percent of its 122mm and 152mm artillery shell requirements and deploying 16,000-22,000 soldiers at $2,000 per troop per month; DPRK GDP grew 3.5 percent in 2025, third consecutive year of expansion. The Choe Hyon-class destroyer programme and Kang Kon's expected September commissioning are war dividends: North Korea converted sanctions-era isolation into a captive arms market and poured the margin into the naval buildup Kim called 'the first page of maritime sovereignty.' Prediction 23 (Kim-Putin before August 15) has five days remaining; no summit confirmed; MISS expected.",
+      "verdict": "August 13: Prediction 23 (Kim-Putin in person before August 15) heads to MISS — summit reporting has converged on the Eastern Economic Forum (Vladivostok, September 1–4), which is Prediction 25's window. The diplomatic calendar is a scheduling note; the strategic relationship is not. DPRK is restructuring its supply chains toward Russian trade routes for essential supplies, away from China — a structural shift in the peninsula's dependency architecture. $22 billion in foreign revenue (2022–2025), four times pre-war haul, primarily from artillery shells and 16,000+ troops. Prediction 23 grades August 15. Prediction 25 (EEF, September 1–4) live.",
       "watching": "Kang Kon commissioning — September target; Bloomberg $22B windfall — DPRK H2 2026 revenue trajectory; Kim-Putin summit — Prediction 23 (Aug 15, 5 days — heading to MISS, EEF September outside window); Tumen bridge first cargo crossing (September operative milestone)",
       "sources": [
         {
-          "label": "Bloomberg — North Korea $22B windfall, Aug 7, 2026",
-          "url": "https://www.bloomberg.com/graphics/2026-north-korea-windfall/"
+          "label": "Daily NK: DPRK trade pivot to Russia",
+          "url": "https://www.dailynk.com/english/n-korea-pivots-to-russian-trade-routes-for-essential-supplies/"
         },
         {
-          "label": "Euromaidan Press — $22B nearly four times pre-war haul, Aug 7",
-          "url": "https://euromaidanpress.com/2026/08/07/north-korea-made-22-billion-arming-russia-nearly-four-times-its-haul-before-the-war/"
-        },
-        {
-          "label": "Kyiv Post — North Korea earns $22B from arms cooperation with Russia",
+          "label": "Kyiv Post: $22B arms revenue",
           "url": "https://www.kyivpost.com/post/81965"
-        },
-        {
-          "label": "38North — Russian construction progress toward bridge opening, August 2026",
-          "url": "https://www.38north.org/2026/08/russian-construction-makes-progress-toward-bridge-opening/"
-        },
-        {
-          "label": "NK News — Russia seeks September car bridge opening, July 2026",
-          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
         }
       ]
     },
@@ -89,28 +61,20 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 12: The second AES Humanitarian Forum concluded today in Ouagadougou with adoption of the Declaration of Ouagadougou — the formal humanitarian architecture the three states have been building since France's diplomatic relationship collapsed in June. The sequence reads as design: NGO sector reorganized under state authority (15-day clock expired August 8), foreign-funded civil society cleared or dissolved (~1,174 organizations), Forum convened (August 9-12), Declaration adopted today. Simultaneously, AES states met in Ouagadougou to harmonize energy and mining policies — the material architecture alongside the humanitarian. France is on day 49 with zero punitive economic countermeasures — Prediction 15 accumulates toward its December 31 resolution. Raffinor (state gold refinery, 150-tonne annual capacity) expected to produce first commercial bars before year-end.",
+      "verdict": "August 12 (filed yesterday): The Declaration of Ouagadougou was formally adopted at the close of the second AES Humanitarian Forum — joint architecture for humanitarian response, AES Women's Platform launch, common roadmap with consultations in Niamey and Bamako. Traoré received AES ministers and issued directives for the confederation's second year. The material context: $18B gold revenue since 2022, 94-tonne production record, SOPAMIB Yako state mine open since July. France day 50 of zero economic measures. Prediction 15 (France economic measures before Dec 31) accumulates toward HIT. August 13: No fresh AES item in the 48-hour window; Declaration implementation schedule to watch.",
       "watching": "Declaration of Ouagadougou full text content; France economic measures — Prediction 15 (Dec 31, approaching HIT); Raffinor first bars — year-end target; AES energy/mining harmonization implementation",
       "sources": [
         {
-          "label": "FasoAmazone — AES Forum closing session Aug 11",
-          "url": "https://www.fasoamazone.net/2026/08/11/2%E1%B5%89-forum-humanitaire-de-laes-de-lurgence-a-la-resilience-lonu-appelle-a-placer-les-femmes-au-coeur-de-laction/"
+          "label": "Burkina24: Traoré receives AES ministers Aug 12",
+          "url": "https://burkina24.com/2026/08/12/confederation-aes-le-capitaine-ibrahim-traore-reaffirme-son-soutien-aux-initiatives-humanitaires-et-de-promotion-du-genre/"
         },
         {
-          "label": "Maliweb — Mali at the AES Humanitarian Forum",
-          "url": "https://www.maliweb.net/politique/forum-humanitaire-de-laes-le-mali-plaide-pour-une-reponse-integree-et-resiliente-aux-crises-3119085.html"
+          "label": "Africa News Desk: 94 tonnes gold production record",
+          "url": "https://africanewsdesk.net/news/burkina-faso-gold-production-hits-record-94-tonnes-as-nationalization-drive-accelerates/"
         },
         {
-          "label": "Bamada.net — Mali delegation AES Forum",
-          "url": "https://bamada.net/forum-humanitaire-de-laes-le-mali-engage-pour-une-reponse-humanitaire-integree-et-resiliente"
-        },
-        {
-          "label": "WAVN — AES states move to harmonize energy and mining policies",
-          "url": "https://www.wavn.org/aes-states-move-to-harmonize-energy-and-mining-policies/"
-        },
-        {
-          "label": "NetAfrique — PM Kyelem sovereignty speech Aug 10",
-          "url": "https://netafrique.net/forum-humanitaire-de-laes-le-premier-ministre-appelle-a-construire-un-modele-sahelien-fonde-sur-la-souverainete-et-la-resilience/"
+          "label": "Uchumi360: $18B gold windfall",
+          "url": "https://uchumi360.com/i/mining/burkina-faso-earned-billion"
         }
       ]
     },
@@ -118,20 +82,20 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "July 31: July PMI landed. Official NBS manufacturing 49.2 (contraction, third month below 50); NBS services 49.0 (also contraction). The headline is both sides of 50 — the adversary will file this as confirmation. The desk reads against it: high-tech manufacturing PMI 53.3, expansion zone, the productive economy differentiating from the drag sectors. Han Feizi's standing argument holds — deflation in consumer goods reflects hedonic improvement and competitive pricing power, not demand failure. The July Politburo communiqué already told us the acknowledged pressure points; what the PMI confirms is that the Politburo is not lying about the difficulty. Standing verdict: structurally rising, deliberate rebalancing; the headline PMI does not move it.",
+      "verdict": "August 13: China's Ministry of Commerce is consulting industry on a package that would restrict overseas downloads of AI model weights (Alibaba, ByteDance), prohibit domestic firms from contracting advanced-chip manufacturing to TSMC and Qualcomm, and block foreign acquisitions of Chinese AI startups. The adversary's chip-denial assumed asymmetry; Beijing is constructing the symmetric constraint from a position of 28% global manufacturing output (more than US, Japan, Germany combined). EVs, industrial robots, and batteries posting 26–49% export growth. [Standing read: structurally rising, not in decline. July PMI 49.2 manufacturing/49.0 services reflects deliberate property deleveraging and demand-side management, not productive-economy weakness. High-tech manufacturing PMI 53.3.]",
       "watching": "Han Feizi August 4 Asia Times — Xi overseas Chinese diaspora appeal as talent-flow signal; APEC China 2026; Section 301 permanent floor implications for trade arithmetic; Politburo follow-through on 'incremental measures'; October 5th Plenum Xi 4th term.",
       "sources": [
         {
-          "label": "Han Feizi — With America Deranged, Xi Summons Overseas Chinese, August 4, 2026",
-          "url": "https://asiatimes.com/2026/08/with-america-deranged-president-xi-summons-overseas-chinese/"
+          "label": "China AI export controls",
+          "url": "https://finance.biggo.com/news/ebbd7214-d572-4daa-b14a-675fa214afe5"
         },
         {
-          "label": "Han Feizi — Asia Times author page (standing reference)",
+          "label": "China manufacturing global lead",
+          "url": "https://www.hokanews.com/2026/08/china-expands-global-manufacturing-lead.html"
+        },
+        {
+          "label": "Han Feizi — Asia Times (standing counter)",
           "url": "https://asiatimes.com/author/han-feizi/"
-        },
-        {
-          "label": "China economic outlook — 4.7% GDP growth H1 2026",
-          "url": "https://www.modernghana.com/amp/videonews/692081"
         }
       ]
     },
@@ -139,28 +103,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 12: The desk corrects its August 11 pre-call. Milwaukee County Executive David Crowley won the Wisconsin Democratic gubernatorial primary on August 11 by less than one percentage point over Francesca Hong — an upset. Every late poll had shown Hong ahead; the desk filed 'Hong wins' on August 11 before the results arrived; that was wrong. Crowley, who had dropped out and re-entered with Governor Evers' endorsement, ran on electability and won by a hair. The general-election picture is now more favorable for Democrats: RMG Research (July 24, last pre-primary poll) showed Crowley 46%, Tiffany 43% — a reversal from Hong-versus-Tiffany numbers that had Republicans favored. Prediction 21 (Democratic nominee wins November 3) was filed at 55% confidence assuming a difficult candidate; Crowley's stronger numbers warrant watching. Three simultaneous operational fronts in Ukraine (Druzhkovka, Dobropolye, Orekhov) continue. Novoye Pole (Zaporizhia) and Shcherbakovka (Kharkiv direction) liberated August 12.",
+      "verdict": "August 13: First post-primary polls have Crowley leading Tiffany 44–42 (RealClearPolling average), D+3.5 in the composite (PollingSource, 4 polls last 30 days). Prediction 21 (Democratic nominee wins November 3) was filed at 55% confidence on assumption of a difficult nominee; Crowley's general-election positioning is better than pre-primary Hong-Tiffany projections. The Foxconn graveyard near Racine — $4B in public subsidy, a fraction of promised manufacturing jobs — is the deindustrialization backdrop. Neither candidate has addressed it in structural terms. Wisconsin remains the desk's core sample of a declining hegemon's heartland politics.",
       "watching": "Wisconsin Nov 3 general — Prediction 21 (Crowley vs Tiffany; first post-primary poll); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); Kim-Putin — Prediction 23 (Aug 15, grading MISS next run)",
       "sources": [
         {
-          "label": "Washington Post — Crowley defeats Hong in upset, Aug 11",
-          "url": "https://www.washingtonpost.com/elections/2026/08/11/wisconsin-governor-primary-election-results-live-francesca-hong-david-crowley-run/"
-        },
-        {
-          "label": "PBS Wisconsin — Crowley wins in photo finish",
-          "url": "https://pbswisconsin.org/news-item/crowley-wins-wisconsins-2026-democratic-primary-for-governor-in-a-photo-finish/"
-        },
-        {
-          "label": "NBC News — Crowley pulls off upset over Hong",
-          "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056"
-        },
-        {
-          "label": "RealClearPolling — Crowley vs Tiffany general election",
+          "label": "RealClearPolling WI governor race",
           "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
         },
         {
-          "label": "Martyanov — Reminiscence of the Future (standing reference)",
-          "url": "https://smoothiex12.blogspot.com/"
+          "label": "Washington Examiner: Crowley-Tiffany poll",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
         }
       ]
     }
@@ -171,19 +123,19 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 12: Russian forces liberated Novoye Pole (Zaporizhia region, north of Kommunarovka) and Shcherbakovka (Kharkiv direction) today. Three simultaneous operational fronts continue: Alekseyevo-Druzhkovka, Dobropolye (road to Kramatorsk severed), and the Orekhov pocket. Prediction 14 (Druzhkovka before September 1) tracks ahead of schedule. Prediction 24 (Orekhov before October 15) running. Martyanov blog August 11 post 'Obsolete' signals his standing read on the Atlantic order's production deficit.",
+      "basis": "August 13: The Kharkiv cauldron closed further overnight. Shcherbakovka and Vodyanoye taken August 11; as of August 12, the encirclement gap stands at 13.6 km near Chirne. The 121st Ukrainian Brigade published an open plea — no water, no food, fully encircled — exceeding command authority to suppress it. Southfront (MoD-adjacent; floor) reports 1,320 Ukrainian losses in the August 11 24-hour window. Three simultaneous operational fronts: Kharkiv, Zaporizhia (Novoye Pole confirmed Aug 11-12), and Druzhkovka — preventing reserve redeployment. The multi-front tempo is the method. Prediction 14 (Druzhkovka city-center fire control, September 1) ahead of schedule. Prediction 24 (Orekhov fire control, October 15) advancing.",
       "sources": [
         {
-          "label": "Pravda Ukraine — Morning summary Aug 12",
-          "url": "https://ua.news-pravda.com/en/russia/2026/08/12/109991.html"
+          "label": "Southfront Aug 11 sitrep",
+          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-11-2026-maps-update"
         },
         {
-          "label": "Podolyaka — Storming of Orekhov Aug 9",
-          "url": "https://ua.news-pravda.com/en/russia/2026/08/09/109637.html"
+          "label": "Pravda EN Aug 12 war overview",
+          "url": "https://news-pravda.com/ukraine/2026/08/12/2509947.html"
         },
         {
-          "label": "Southfront — Military situation Aug 9",
-          "url": "https://maps.southfront.press/military-situation-in-ukraine-on-august-9-2026-maps-update"
+          "label": "121st Brigade encirclement",
+          "url": "https://militarywar.whatfinger.com/kharkiv-front-collapses-double-cauldron-in-zaporizhzhia-121st-brigade-trapped-ms-2026-08-11/"
         },
         {
           "label": "Martyanov — Reminiscence of the Future (standing reference)",
@@ -243,6 +195,82 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-13",
+      "items": [
+        {
+          "text": "KHARKIV: THE 121ST GOES DARK — Shcherbakovka and Vodyanoye taken Aug 11; 13.6km cauldron gap at Chirne; 121st Brigade open plea (no water, food, encircled); 1,320 Ukrainian losses in 24h (Southfront floor); Kazacha Lopan corridor threatened; three fronts rule out reserve redeployment; P14 ahead, P24 advancing; P26 filed",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront Aug 11 sitrep",
+              "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-11-2026-maps-update"
+            },
+            {
+              "label": "Pravda EN Aug 12 war overview",
+              "url": "https://news-pravda.com/ukraine/2026/08/12/2509947.html"
+            },
+            {
+              "label": "121st Brigade encirclement report",
+              "url": "https://militarywar.whatfinger.com/kharkiv-front-collapses-double-cauldron-in-zaporizhzhia-121st-brigade-trapped-ms-2026-08-11/"
+            }
+          ]
+        },
+        {
+          "text": "BEIJING DRAWS THE SYMMETRIC LINE — MoC consulting industry on AI/semiconductor export controls: restrict model weights (Alibaba, ByteDance), ban TSMC/Qualcomm contracts for advanced-chip manufacturing, block foreign AI startup acquisitions; 28% global manufacturing; EVs +26%, robots +49%; counter-escalation from position of strength",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "China AI export controls",
+              "url": "https://finance.biggo.com/news/ebbd7214-d572-4daa-b14a-675fa214afe5"
+            },
+            {
+              "label": "China manufacturing global lead",
+              "url": "https://www.hokanews.com/2026/08/china-expands-global-manufacturing-lead.html"
+            }
+          ]
+        },
+        {
+          "text": "THE BILATERAL HOLDS; P17 AND P23 AT THE CLOCK — Iran-Oman final draft: northern lane Iranian-controlled, 50-50 fees, US/Israeli vessels banned (20% cargo penalty); Brent $84 from $90; P17 heads HIT Aug 15; P23 heads MISS Aug 15 (EEF Sept 1-4 — P25 live); DPRK trade pivots to Russian routes, $22B arms revenue 2022-25",
+          "links": [
+            {
+              "label": "US News: Hormuz final stages",
+              "url": "https://www.usnews.com/news/world/articles/2026-08-09/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz"
+            },
+            {
+              "label": "NPR: US/Israeli vessels banned",
+              "url": "https://www.npr.org/2026/08/07/nx-s1-5923962/iran-says-agreement-with-oman-for-strait-of-hormuz-prohibits-u-s-and-israeli-vessels"
+            },
+            {
+              "label": "Daily NK: DPRK trade pivot",
+              "url": "https://www.dailynk.com/english/n-korea-pivots-to-russian-trade-routes-for-essential-supplies/"
+            }
+          ]
+        },
+        {
+          "text": "FOXCONN COUNTRY DAY ONE: CROWLEY IN THE GENERAL — RCP average Crowley 44% Tiffany 42%; D+3.5 composite (4 polls); P21 improves without resolving (filed at 55% confidence assuming difficult nominee; Crowley polls better than Hong vs Tiffany); Foxconn graveyard material frame (Racine, $4B subsidy)",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "RealClearPolling WI governor",
+              "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
+            },
+            {
+              "label": "Washington Examiner: Crowley poll lead",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Iran-Oman joint statement text — P17 grades Aug 15 (heading HIT)",
+        "Kim-Putin — P23 grades Aug 15 (heading MISS); P25 EEF Sept 1-4 live",
+        "Kazacha Lopan corridor — Kharkiv cauldron closing; P26 filed Sept 15",
+        "China AI/semiconductor export catalog — formal publication timeline",
+        "France economic measures — P15 Dec 31 (day 50, approaching HIT)",
+        "Wisconsin: first independent post-primary Crowley-Tiffany poll; P21 Nov 3"
+      ]
+    },
     {
       "date": "2026-08-12",
       "items": [
@@ -4061,6 +4089,23 @@
         "resolves_by": "2026-09-05",
         "resolution": "Resolves 对 if Kim Jong Un is confirmed to have met Vladimir Putin in person at or around the Eastern Economic Forum (September 1-4, Vladivostok) per credible reporting (Yonhap, Reuters, KCNA, Kremlin). Resolves 错 if no Kim-Putin face-to-face meeting occurs before September 5.",
         "confidence": 65
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russian forces sever the Kazacha Lopan logistics corridor (northern Kharkiv region) and operationally complete the encirclement of Ukrainian forces in the northern Kharkiv pocket before September 15, 2026. The mechanism: simultaneous three-front pressure (Kharkiv, Zaporizhia, Druzhkovka) prevents reserve redeployment; the 121st Brigade's public plea of encirclement on August 12 — no water, no food, fully surrounded — is the leading indicator of imminent operational collapse. The corridor to Kazacha Lopan is the last logistics line; Russian forces at Goptivka are the arm reaching for it.",
+        "filed": "2026-08-13",
+        "resolves_by": "2026-09-15",
+        "resolution": "Resolves 对 if credible geolocated reporting (Southfront maps, objective ISW or equivalent) confirms that Russian forces hold both sides of the Kazacha Lopan road, severing the corridor, and Ukrainian forces in the northern pocket have surrendered, withdrawn, or been operationally defeated; 错 if the corridor remains open or the pocket is relieved before September 15",
+        "confidence": 68
       },
       "status": "待",
       "outcome": null,
