@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-13",
-  "edition": 66,
+  "updated": "2026-08-14",
+  "edition": 67,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 13: The Hormuz lane is now an Oman-Iran bilateral from which Washington is excluded by design — northern lane Iranian-controlled, fees 50-50 Oman-Iran, US and Israeli vessels banned with 20% cargo penalty. Simultaneously, Beijing is constructing a symmetric counter to US chip-denial: MoC draft restricts overseas downloads of Chinese AI model weights and prohibits domestic firms from using TSMC/Qualcomm for advanced-chip manufacturing. Two structurally consequential moves in 48 hours, one from each anchor state of the emerging order. The multipolar trend line has not changed; the pace has. [Aug 11: Vahidi IRGC appointment, Hormuz hardened. Mecca Joint Defence Agreement, Brent from $90 to $84.]",
+      "verdict": "August 14: Prediction 17 grades HIT — the Iran-Oman bilateral corridor (no US signature) is exactly the structural ambiguity the desk predicted: sovereignty claims and freedom-of-navigation doctrine cannot coexist in writing, so neither side signs the other's terms. The corridor functions; the doctrine war continues. AES mining harmonization (Bamako Aug 12) adds another pillar to the multipolar resource architecture.",
       "watching": "Vahidi IRGC posture — longer military horizon than Oman framework can hold? P17 Aug 15 heading HIT; Kharg Island P6 Sept 1 intact (Brent $84); Mecca pact operational content (exercises, intel-sharing); BRICS Bridge framework at New Delhi Sept 12-13 (P3)",
       "sources": [
         {
-          "label": "US News: Hormuz final stages Aug 9",
-          "url": "https://www.usnews.com/news/world/articles/2026-08-09/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz"
+          "label": "Oman FM Joint Statement on Strait of Hormuz",
+          "url": "https://www.fm.gov.om/en/48943/"
         },
         {
-          "label": "NPR: US/Israeli vessels banned Aug 7",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5923962/iran-says-agreement-with-oman-for-strait-of-hormuz-prohibits-u-s-and-israeli-vessels"
+          "label": "Bloomberg: Iran-Oman Hormuz Agreement",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
         },
         {
-          "label": "China AI export controls",
-          "url": "https://finance.biggo.com/news/ebbd7214-d572-4daa-b14a-675fa214afe5"
+          "label": "CapMad: AES moves to harmonise mining policies",
+          "url": "https://www.capmad.com/post/aes-moves-to-harmonise-mining-policies-in-mali-niger-and-burkina-faso"
         }
       ]
     },
@@ -44,16 +44,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 13: Prediction 23 (Kim-Putin in person before August 15) heads to MISS — summit reporting has converged on the Eastern Economic Forum (Vladivostok, September 1–4), which is Prediction 25's window. The diplomatic calendar is a scheduling note; the strategic relationship is not. DPRK is restructuring its supply chains toward Russian trade routes for essential supplies, away from China — a structural shift in the peninsula's dependency architecture. $22 billion in foreign revenue (2022–2025), four times pre-war haul, primarily from artillery shells and 16,000+ troops. Prediction 23 grades August 15. Prediction 25 (EEF, September 1–4) live.",
+      "verdict": "August 14: Prediction 23 (Kim-Putin before August 15) grades MISS — timing wrong, trajectory intact. No summit before August 15; EEF (September 1–4) is the new operative window under Prediction 25. The DPRK-Russia axis — trade, military cooperation, DPRK artillery supply — is deepening regardless of summit optics.",
       "watching": "Kang Kon commissioning — September target; Bloomberg $22B windfall — DPRK H2 2026 revenue trajectory; Kim-Putin summit — Prediction 23 (Aug 15, 5 days — heading to MISS, EEF September outside window); Tumen bridge first cargo crossing (September operative milestone)",
       "sources": [
         {
-          "label": "Daily NK: DPRK trade pivot to Russia",
-          "url": "https://www.dailynk.com/english/n-korea-pivots-to-russian-trade-routes-for-essential-supplies/"
-        },
-        {
-          "label": "Kyiv Post: $22B arms revenue",
-          "url": "https://www.kyivpost.com/post/81965"
+          "label": "Reuters: Putin meets North Korean foreign minister",
+          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
         }
       ]
     },
@@ -61,20 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 12 (filed yesterday): The Declaration of Ouagadougou was formally adopted at the close of the second AES Humanitarian Forum — joint architecture for humanitarian response, AES Women's Platform launch, common roadmap with consultations in Niamey and Bamako. Traoré received AES ministers and issued directives for the confederation's second year. The material context: $18B gold revenue since 2022, 94-tonne production record, SOPAMIB Yako state mine open since July. France day 50 of zero economic measures. Prediction 15 (France economic measures before Dec 31) accumulates toward HIT. August 13: No fresh AES item in the 48-hour window; Declaration implementation schedule to watch.",
+      "verdict": "August 14: The AES moves from declarations to code. Mining ministers of Burkina Faso, Mali, and Niger met in Bamako through August 12 to launch formal harmonization of mining codes — common fiscal regimes, local-content provisions, unified dispute mechanisms. This is architecture, not rhetoric: three countries are building the legal skeleton that will allow them to renegotiate non-Western contracts from a unified position. France has taken zero specific economic countermeasures through day 51 of Prediction 15.",
       "watching": "Declaration of Ouagadougou full text content; France economic measures — Prediction 15 (Dec 31, approaching HIT); Raffinor first bars — year-end target; AES energy/mining harmonization implementation",
       "sources": [
         {
-          "label": "Burkina24: Traoré receives AES ministers Aug 12",
-          "url": "https://burkina24.com/2026/08/12/confederation-aes-le-capitaine-ibrahim-traore-reaffirme-son-soutien-aux-initiatives-humanitaires-et-de-promotion-du-genre/"
+          "label": "Pravda Burkina Faso: AGS Harmonizes Mining Policy",
+          "url": "https://burkina-faso.news-pravda.com/en/world/2026/08/12/7703.html"
         },
         {
-          "label": "Africa News Desk: 94 tonnes gold production record",
-          "url": "https://africanewsdesk.net/news/burkina-faso-gold-production-hits-record-94-tonnes-as-nationalization-drive-accelerates/"
-        },
-        {
-          "label": "Uchumi360: $18B gold windfall",
-          "url": "https://uchumi360.com/i/mining/burkina-faso-earned-billion"
+          "label": "CapMad: AES moves to harmonise mining policies",
+          "url": "https://www.capmad.com/post/aes-moves-to-harmonise-mining-policies-in-mali-niger-and-burkina-faso"
         }
       ]
     },
@@ -103,16 +95,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 13: First post-primary polls have Crowley leading Tiffany 44–42 (RealClearPolling average), D+3.5 in the composite (PollingSource, 4 polls last 30 days). Prediction 21 (Democratic nominee wins November 3) was filed at 55% confidence on assumption of a difficult nominee; Crowley's general-election positioning is better than pre-primary Hong-Tiffany projections. The Foxconn graveyard near Racine — $4B in public subsidy, a fraction of promised manufacturing jobs — is the deindustrialization backdrop. Neither candidate has addressed it in structural terms. Wisconsin remains the desk's core sample of a declining hegemon's heartland politics.",
+      "verdict": "August 14: First post-primary polls (Wisconsin): Crowley leads Tiffany 47-44 (DGA-backed Protect Our Wisconsin), RealClear average Crowley +2. More daylight than Hong would have had. The open-seat race is the declinist heartland's first reckoning; neither campaign has named the Foxconn graveyard plainly.",
       "watching": "Wisconsin Nov 3 general — Prediction 21 (Crowley vs Tiffany; first post-primary poll); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); Kim-Putin — Prediction 23 (Aug 15, grading MISS next run)",
       "sources": [
         {
-          "label": "RealClearPolling WI governor race",
-          "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
+          "label": "Washington Examiner: Wisconsin polling has Crowley up against Tiffany",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
         },
         {
-          "label": "Washington Examiner: Crowley-Tiffany poll",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
+          "label": "PBS Wisconsin: Crowley's victory sets up general election match",
+          "url": "https://pbswisconsin.org/news-item/crowleys-victory-sets-up-a-general-election-match-with-tiffany-in-wisconsins-2026-race-for-governor/"
         }
       ]
     }
@@ -123,22 +115,18 @@
       "name_en": "Ukraine",
       "advantage": "Russia — decisive",
       "trend": "up",
-      "basis": "August 13: The Kharkiv cauldron closed further overnight. Shcherbakovka and Vodyanoye taken August 11; as of August 12, the encirclement gap stands at 13.6 km near Chirne. The 121st Ukrainian Brigade published an open plea — no water, no food, fully encircled — exceeding command authority to suppress it. Southfront (MoD-adjacent; floor) reports 1,320 Ukrainian losses in the August 11 24-hour window. Three simultaneous operational fronts: Kharkiv, Zaporizhia (Novoye Pole confirmed Aug 11-12), and Druzhkovka — preventing reserve redeployment. The multi-front tempo is the method. Prediction 14 (Druzhkovka city-center fire control, September 1) ahead of schedule. Prediction 24 (Orekhov fire control, October 15) advancing.",
+      "basis": "August 14: Russia's 150th Division captured Petrovka (August 13) and is now less than two kilometers from Druzhkovka — the last major Ukrainian stronghold before the Sloviansk-Kramatorsk agglomeration. Prediction 14 (fire control over Alekseyevo-Druzhkovka before September 1) is running three weeks ahead of schedule. Orekhov (Prediction 24) continues with heavy fighting. Three simultaneous fronts remain the methodology: Druzhkovka, Dobropolye, Zaporizhzhia. Russia-decisive holds; the tempo is the weapon.",
       "sources": [
         {
-          "label": "Southfront Aug 11 sitrep",
-          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-11-2026-maps-update"
+          "label": "SouthFront: Russian Army Captures Petrovka, Approaches Rayskoye",
+          "url": "https://maps.southfront.press/russian-army-captures-petrovka-approaches-rayskoye"
         },
         {
-          "label": "Pravda EN Aug 12 war overview",
-          "url": "https://news-pravda.com/ukraine/2026/08/12/2509947.html"
+          "label": "Pravda EN: Russian Army Liberates Petrovka",
+          "url": "https://news-pravda.com/world/2026/08/13/2512239.html"
         },
         {
-          "label": "121st Brigade encirclement",
-          "url": "https://militarywar.whatfinger.com/kharkiv-front-collapses-double-cauldron-in-zaporizhzhia-121st-brigade-trapped-ms-2026-08-11/"
-        },
-        {
-          "label": "Martyanov — Reminiscence of the Future (standing reference)",
+          "label": "Martyanov: Reminiscence of the Future",
           "url": "https://smoothiex12.blogspot.com/"
         }
       ]
@@ -195,6 +183,75 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-14",
+      "beat": "wisconsin",
+      "items": [
+        {
+          "text": "LESS THAN TWO KILOMETERS — P14 REACHES THE GATE — Russia's 150th Division captured Petrovka Aug 13, now <2km from Druzhkovka. P14 ahead of schedule.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "SouthFront: Russian Army Captures Petrovka",
+              "url": "https://maps.southfront.press/russian-army-captures-petrovka-approaches-rayskoye"
+            },
+            {
+              "label": "Pravda EN: Russian Army Liberates Petrovka",
+              "url": "https://news-pravda.com/world/2026/08/13/2512239.html"
+            }
+          ]
+        },
+        {
+          "text": "THE LEDGER CLEARS: P17 HIT, P23 MISS — Iran-Oman bilateral confirmed (no US signature) = P17 HIT. No Kim-Putin summit before Aug 15 = P23 MISS. P25 EEF live.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Oman FM Joint Statement on Strait of Hormuz",
+              "url": "https://www.fm.gov.om/en/48943/"
+            },
+            {
+              "label": "Bloomberg: Iran-Oman Hormuz Agreement",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU DRAFTS THE COMMON CODE — AES mining ministers in Bamako Aug 12 launch formal harmonization of mining codes across Burkina Faso, Mali, Niger. France day 51 zero measures; P15 accumulates.",
+          "links": [
+            {
+              "label": "Pravda Burkina Faso: AGS Harmonizes Mining Policy",
+              "url": "https://burkina-faso.news-pravda.com/en/world/2026/08/12/7703.html"
+            },
+            {
+              "label": "CapMad: AES moves to harmonise mining policies",
+              "url": "https://www.capmad.com/post/aes-moves-to-harmonise-mining-policies-in-mali-niger-and-burkina-faso"
+            }
+          ]
+        },
+        {
+          "text": "FOXCONN COUNTRY'S FIRST NUMBER: CROWLEY THREE UP — First post-primary poll: Crowley 47, Tiffany 44 (DGA-backed). RCP avg Crowley +2. P21 open Nov 3.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Washington Examiner: Wisconsin polling has Crowley up against Tiffany",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
+            },
+            {
+              "label": "PBS Wisconsin: Crowley's victory sets up general election match",
+              "url": "https://pbswisconsin.org/news-item/crowleys-victory-sets-up-a-general-election-match-with-tiffany-in-wisconsins-2026-race-for-governor/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "Raiskoe geolocated — P14 Sept 1 (now <2km, ahead)",
+        "P25 EEF Sept 1-4 Kim-Putin",
+        "P26 Kazacha Lopan Sept 15",
+        "P15 France measures Dec 31 day 51",
+        "P21 Wisconsin Nov 3",
+        "Raffinor year-end"
+      ]
+    },
     {
       "date": "2026-08-13",
       "items": [
@@ -3961,13 +4018,13 @@
       "schema_version": 1
     },
     {
-      "status": "open",
+      "status": "hit",
       "kind": "desk",
       "claim": "The US-Iran Hormuz corridor dispute — Iran insisting ships use its coastal passage, the US Navy's JMIC having announced an Oman-side route on June 27 — does not produce a written corridor-rules agreement before the 60-day MOU expires in mid-August 2026. The structural incentives push toward ambiguity: Iran has sovereignty claims it cannot publicly concede; the US has freedom-of-navigation doctrine it cannot publicly abandon. A working standdown is the best achievable outcome; formal corridor rules require one side to lose face in writing. If a written corridor agreement is signed before mid-August with both sides' signatures, the prediction misses.",
       "filed": "2026-06-30",
       "horizon": "2026-08-15",
       "schema_version": 1,
-      "note": "August 10. Five days to resolution (August 15). Iran-Oman corridor joint statement in final drafting — structure confirmed: single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature. IRGC says Hormuz opens only after US accepts conditions. No US-Iran signed agreement. Prediction on track for HIT: what was predicted (no US-Iran written agreement before mid-August) is consistent with all reporting. Grades August 15."
+      "note": "August 14. GRADED HIT. Iran-Oman bilateral confirmed (Iranian-controlled northern lane, fees 50-50 Oman-Iran, no US signature) — precisely the structural ambiguity the desk predicted in June: each side preserves its public doctrine while the passage functions in practice. No US-Iran written corridor-rules agreement before mid-August MOU expiry. The desk's mechanism (sovereignty claims vs. freedom-of-navigation doctrine) held."
     },
     {
       "status": "open",
@@ -4056,11 +4113,11 @@
         "resolution": "Resolves HIT if a Kim-Putin face-to-face meeting is confirmed by credible reporting (Yonhap, Reuters, KCNA) before August 15, 2026. MISS if no such summit is confirmed by that date.",
         "confidence": 62
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "August 10: Five days remaining before the August 15 resolution deadline. No Kim-Putin face-to-face meeting confirmed. Summit reporting has converged on the Eastern Economic Forum in Vladivostok (September 1-4) — outside this prediction's window. Prediction heading to MISS. Grades August 15."
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-08-14",
+      "note": "MISS. No Kim Jong Un–Putin face-to-face meeting confirmed before August 15. Summit reporting converged on the Eastern Economic Forum (September 1–4, Vladivostok) — outside this prediction's window. Prediction 25 filed for EEF. The miss is on timing, not on the strategic weight of the relationship."
     },
     {
       "schema_version": 2,
