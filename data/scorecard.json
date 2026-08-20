@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19",
-  "edition": 72,
+  "updated": "2026-08-20",
+  "edition": 73,
   "board": [
     {
       "name_zh": "多极化",
@@ -127,15 +127,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 19: ArcelorMittal Krivyi Rih production halted August 16 — Martyanov reads it as permanent; Russia has no reason to allow Ukrainian military metallurgy to resume. T0514 cut and Andriivka fall (Aug 17) create encirclement conditions for Druzhkovka and Kramatorsk. P14 thirteen days from Sept 1 resolution.",
+      "basis": "August 20: Andreevka captured, N20 highway held in Druzhkovka sector. P14 on pace for Sept 1. Ukrainian losses 1,420/24h. ArcelorMittal Krivyi Rih dark since Aug 16. Martyanov: West production gap cannot close in remaining window.",
       "sources": [
         {
-          "label": "Martyanov — The End Of... (Aug 17)",
-          "url": "https://smoothiex12.blogspot.com/2026/08/the-end-of.html"
+          "label": "SouthFront — Military Situation August 19, 2026",
+          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-19-2026-maps-update/"
         },
         {
-          "label": "Military Summary Aug 17 — Russian Breakthrough Threatens Kramatorsk",
-          "url": "https://militarywar.whatfinger.com/on-the-edge-of-the-abyss-russian-breakthrough-threatens-kramatorsk-military-summary-2026-08-17/"
+          "label": "Martyanov — They Are Waking Up",
+          "url": "https://smoothiex12.blogspot.com/2026/08/they-are-waking-up.html"
         }
       ]
     },
@@ -191,6 +191,56 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-20",
+      "items": [
+        {
+          "text": "Andreevka: The N20 Is Ours — Russian forces take Andreevka, hold N20 highway in Druzhkovka sector; P14 on pace Sept 1; Ukrainian losses 1,420/24h",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "SouthFront — Military Situation August 19, 2026",
+              "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-19-2026-maps-update/"
+            },
+            {
+              "label": "Martyanov — They Are Waking Up",
+              "url": "https://smoothiex12.blogspot.com/2026/08/they-are-waking-up.html"
+            }
+          ]
+        },
+        {
+          "text": "Taipei Buys Its Arithmetic — NT$44.2B drone budget passes cross-party Aug 14; PRC cyberattacks mapped Taiwanese govt systems July; deterrent priced, surface catalogued",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "AEI — China & Taiwan Update, August 18, 2026",
+              "url": "https://www.aei.org/commentary/china-taiwan-update-august-18-2026/"
+            }
+          ]
+        },
+        {
+          "text": "Ouagadougou in Six; Foxconn Country Holds — AES Youth Forum Aug 26-28; no Traoré dateline item; Crowley +4 Wisconsin P21 steady; Russia-BF commission Sept 16 live",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Powers of Africa — Burkina Faso AES strategic meetings",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            },
+            {
+              "label": "WPR — Crowley leads Tiffany by 4 points",
+              "url": "https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-poll"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (12 days; N20 held, Andreevka fallen)",
+        "P25 Kim-Putin EEF Sept 1-4 (12 days, 65%)",
+        "P21 Wisconsin Nov 3 (Crowley +4, independents +12)",
+        "AES Youth Forum Aug 26-28 Ouagadougou; Russia-BF commission Sept 16",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-19",
       "items": [
