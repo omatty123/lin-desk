@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20",
-  "edition": 73,
+  "updated": "2026-08-22",
+  "edition": 74,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,20 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 16: Kim Jong Un and Vladimir Putin exchanged Liberation Day messages on August 15. Putin stated that Russia and North Korea were 'actively cooperating in all sectors' and 'coordinating on regional security and stability' — the second phrase moves beyond friendship protocol into what Pyongyang's August CMC orders (naval, nuclear, intelligence) have been building: a bilateral whose regional security dimension is now named explicitly. Prediction 25 (Kim-Putin at EEF September 1-4, Vladivostok) is 16 days out at 65% confidence. August 14: Prediction 23 (Kim-Putin before August 15) grades MISS — timing wrong, trajectory intact. No summit before August 15; EEF (September 1–4) is the new operative window under Prediction 25. The DPRK-Russia axis — trade, military cooperation, DPRK artillery supply — is deepening regardless of summit optics.",
-      "watching": "Kim-Putin summit — Prediction 25 (EEF September 1-4, Vladivostok, 15 days); Kang Kon commissioning — September target; Tumen bridge first cargo crossing (September); Beijing CMC nuclear silence — public response to Kim's CMC orders still absent",
+      "verdict": "August 21 (ISW claim): DPRK drone operators reportedly deployed to Kursk Oblast. Desk files ISW-sourced report as claim, not confirmed fact. Pattern confirmed regardless: troops, shells, now operators. Combat data flowing to Pyongyang is the strategic accumulation that outlasts the current line. P25 (Kim-Putin EEF Sept 1-4) is 10 days from resolution.",
+      "watching": "Kim-Putin EEF Sept 1-4 — P25 (10 days, 65%); Kang Kon commissioning September; DPRK-Russia trade H2 target",
       "sources": [
         {
-          "label": "Reuters: Putin meets North Korean foreign minister",
-          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
+          "label": "Asia Times — North Korea Doubles Down on Alliance with Russia",
+          "url": "https://asiatimes.com/2026/08/north-korea-doubles-down-on-its-alliance-with-russia-for-now/"
         },
         {
-          "label": "Japan Times — Kim, Putin reaffirm ties on Liberation Day",
-          "url": "https://www.japantimes.co.jp/news/2026/08/16/asia-pacific/politics/kim-putin-reaffirm-ties/"
-        },
-        {
-          "label": "US News — Putin says Russia, North Korea coordinating on regional security",
-          "url": "https://www.usnews.com/news/world/articles/2026-08-14/putin-says-russia-north-korea-coordinating-on-regional-security-kcna-reports"
+          "label": "Aug 21 frontline roundup — drone operators in Kursk",
+          "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
         }
       ]
     },
@@ -127,15 +123,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 20: Andreevka captured, N20 highway held in Druzhkovka sector. P14 on pace for Sept 1. Ukrainian losses 1,420/24h. ArcelorMittal Krivyi Rih dark since Aug 16. Martyanov: West production gap cannot close in remaining window.",
+      "basis": "August 21: Russian forces entered Dobropolye, adding third simultaneous operational axis alongside Druzhkovka (Nikolaypol captured; P14 10 days to resolution) and Orekhov (envelopment arc consolidating, P24 running). Martyanov: NATO operational illiteracy, Russia production gap unbridgeable.",
       "sources": [
         {
-          "label": "SouthFront — Military Situation August 19, 2026",
-          "url": "https://southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-august-19-2026-maps-update/"
+          "label": "Southfront — Russian Army Strangles Orekhov",
+          "url": "https://southfront.press/russian-army-strangles-orekhov/"
         },
         {
-          "label": "Martyanov — They Are Waking Up",
-          "url": "https://smoothiex12.blogspot.com/2026/08/they-are-waking-up.html"
+          "label": "Aug 21 frontline roundup — Dobropilia Falling",
+          "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
         }
       ]
     },
@@ -191,6 +187,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-22",
+      "items": [
+        {
+          "text": "Dobropolye: The Third City Falls — Russian forces entered Dobropolye Aug 21, third simultaneous front alongside Druzhkovka approach (Nikolaypol captured) and Orekhov envelopment. One methodology: fix reserves, advance. P14 (Druzhkovka fire control Sept 1) is 10 days from resolution.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront — Russian Army Strangles Orekhov",
+              "url": "https://southfront.press/russian-army-strangles-orekhov/"
+            },
+            {
+              "label": "Aug 21 frontline roundup — Orekhov Panic, Dobropilia Falling",
+              "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
+            }
+          ]
+        },
+        {
+          "text": "Kursk Is the Classroom — DPRK drone operators reportedly deployed to Kursk Oblast (ISW claim, filed as such, Aug 21). Pattern: troops, then shells, now operators. Combat data to Pyongyang is the strategic asset. P25 (Kim-Putin EEF Sept 1-4) is 10 days from its test.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Asia Times — North Korea Doubles Down on Alliance with Russia",
+              "url": "https://asiatimes.com/2026/08/north-korea-doubles-down-on-its-alliance-with-russia-for-now/"
+            },
+            {
+              "label": "Aug 21 frontline roundup — Orekhov Panic, Dobropilia Falling",
+              "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
+            }
+          ]
+        },
+        {
+          "text": "Wisconsin and Ouagadougou: Two Clocks — Crowley/Tiffany both on trail in NE Wisconsin Aug 20; P21 (Crowley +4, independents +12) holds. AES Youth Forum opens Aug 26-28 Ouagadougou, second of four confederation meetings Aug-Nov; no fresh development today.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Fox6 — Wisconsin Governor Race: Crowley Leading Tiffany",
+              "url": "https://www.fox6now.com/news/wisconsin-governor-race-poll-shows-crowley-leading-tiffany"
+            },
+            {
+              "label": "Powers of Africa — Burkina Faso to Host Four AES Strategic Meetings",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (10 days; Dobropolye entered, third front open)",
+        "P25 Kim-Putin EEF Sept 1-4 (10 days, 65%)",
+        "P21 Wisconsin Nov 3 (Crowley +4)",
+        "AES Youth Forum Aug 26-28 Ouagadougou (4 days)",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-20",
       "items": [
