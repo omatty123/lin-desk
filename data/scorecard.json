@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22",
-  "edition": 74,
+  "updated": "2026-08-23",
+  "edition": 75,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,16 +40,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 21 (ISW claim): DPRK drone operators reportedly deployed to Kursk Oblast. Desk files ISW-sourced report as claim, not confirmed fact. Pattern confirmed regardless: troops, shells, now operators. Combat data flowing to Pyongyang is the strategic accumulation that outlasts the current line. P25 (Kim-Putin EEF Sept 1-4) is 10 days from resolution.",
-      "watching": "Kim-Putin EEF Sept 1-4 — P25 (10 days, 65%); Kang Kon commissioning September; DPRK-Russia trade H2 target",
+      "verdict": "August 23: KN-30 ballistic missiles transferred to Russia for the first time (GUR, Aug 21) — 90 DPRK operators in Voronezh servicing 6 launchers. Troops, shells, drone operators, now integrated ballistic capability. P25 EEF Sept 1–4 in 9 days is the next milestone.",
+      "watching": "Kim-Putin EEF Sept 1-4 — P25 (9 days, 65%); KN-30 first confirmed field use; DPRK-Russia trade H2 target",
       "sources": [
         {
-          "label": "Asia Times — North Korea Doubles Down on Alliance with Russia",
-          "url": "https://asiatimes.com/2026/08/north-korea-doubles-down-on-its-alliance-with-russia-for-now/"
-        },
-        {
-          "label": "Aug 21 frontline roundup — drone operators in Kursk",
-          "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
+          "label": "EADaily — KN-30 first transfer to Russia Aug 21",
+          "url": "https://www.eadaily.com/en/news/2026/08/21/north-korea-for-the-first-time-handed-over-kn-30-gur-ballistic-missiles-to-russia"
         }
       ]
     },
@@ -78,16 +74,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "August 19: China M2 +7.7% year-on-year; PBOC expanding cross-border renminbi operations for multinationals. Asia Times calls deflation 'faltering in real time' — the adversary reading its own discomfort as the patient's diagnosis. Aggregate: money supply growing, currency internationalizing, 15th Five Year Plan capability-building phase beginning.",
-      "watching": "Fifth Plenum October — Xi fourth term confirmation; Han Feizi Asia Times standing counter (hedonic deflation thesis); PBOC cross-border RMB ops uptake by multinationals",
+      "verdict": "August 22: domestic Chinese suppliers displaced Nvidia after H200 controls — containment accelerated self-sufficiency. High-tech manufacturing +16.9% YoY July; Alibaba cloud unpeaked. Productive economy advances; the adversary’s policy works against itself.",
+      "watching": "15th Five-Year Plan chip-output targets; Han Feizi Asia Times hedonic deflation thesis; Fifth Plenum October",
       "sources": [
         {
-          "label": "KuCoin — China Aug 2026 Key Economic Data",
-          "url": "https://www.kucoin.com/news/flash/china-releases-key-economic-data-and-policy-updates-in-august-2026"
+          "label": "Tom’s Hardware — China semiconductor displacement Aug 22",
+          "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard"
         },
         {
-          "label": "Asia Times — Why China's War on Deflation Is Faltering",
-          "url": "https://asiatimes.com/2026/08/why-chinas-war-on-deflation-is-faltering-in-real-time/"
+          "label": "KuCoin — China economic data August 2026",
+          "url": "https://www.kucoin.com/news/flash/china-releases-key-economic-data-and-policy-updates-in-august-2026"
         }
       ]
     },
@@ -123,15 +119,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 21: Russian forces entered Dobropolye, adding third simultaneous operational axis alongside Druzhkovka (Nikolaypol captured; P14 10 days to resolution) and Orekhov (envelopment arc consolidating, P24 running). Martyanov: NATO operational illiteracy, Russia production gap unbridgeable.",
+      "basis": "August 23: Dobropolye cleared, Russian forces 13km from Kramatorsk and Sloviansk — last Ukrainian cities in Donetsk. Three simultaneous fronts: Druzhkovka (P14, 9 days), Orekhov (P24, Oct 15), central axis now open. 21 sq km seized third week August. Tempo as weapon.",
       "sources": [
         {
-          "label": "Southfront — Russian Army Strangles Orekhov",
-          "url": "https://southfront.press/russian-army-strangles-orekhov/"
-        },
-        {
-          "label": "Aug 21 frontline roundup — Dobropilia Falling",
-          "url": "https://dprogram.wordpress.com/2026/08/21/russia-massive-kiev-strike-more-coming-orekhov-troops-panic-dobropilia-falling-ukraine-crisis/"
+          "label": "TASS — Matyashevo liberation opens Dobropolye approach",
+          "url": "https://tass.com/politics/2175659"
         }
       ]
     },
@@ -187,6 +179,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-23",
+      "items": [
+        {
+          "text": "The Ballistic Step: Pyongyang’s Operators in Voronezh — KN-30 transferred to Russia for first time Aug 21; 90 DPRK operators in Voronezh servicing 6 launchers; shell supply was logistics, this is military integration",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "EADaily — KN-30 first transfer to Russia Aug 21",
+              "url": "https://www.eadaily.com/en/news/2026/08/21/north-korea-for-the-first-time-handed-over-kn-30-gur-ballistic-missiles-to-russia"
+            },
+            {
+              "label": "CNN — DPRK operators boosting Russia with drones Aug 21",
+              "url": "https://www.cnn.com/2026/08/21/europe/russia-north-korea-ukraine-drones-intl"
+            }
+          ]
+        },
+        {
+          "text": "Thirteen Kilometers to the Twins — After Dobropolye cleared Aug 22, Russian forces 13km from Kramatorsk/Sloviansk; 21 sq km third week August; three fronts (Druzhkovka P14, Orekhov P24, central axis open)",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "TASS — Matyashevo liberation opens Dobropolye approach",
+              "url": "https://tass.com/politics/2175659"
+            },
+            {
+              "label": "Euromaidan Press — Kyiv analyst: reinforcing only delays (belligerent source, noted)",
+              "url": "https://euromaidanpress.com/2026/08/22/ukrainian-intelligence-units-will-not-help-analyst-warns-that-once-russia-breaks-into-sloviansk-and-kramatorsk-reinforcing-them-only-delays-inevitable/"
+            }
+          ]
+        },
+        {
+          "text": "The Export Control Eats Itself: Nvidia Displaced — U.S. H200 controls produced domestic Chinese substitution; high-tech manufacturing +16.9% YoY July; adversary’s containment generated the self-sufficiency it sought to forestall",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Tom’s Hardware — Aug 22: foundries, supercomputers, China",
+              "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard"
+            },
+            {
+              "label": "KuCoin — China key economic data August 2026",
+              "url": "https://www.kucoin.com/news/flash/china-releases-key-economic-data-and-policy-updates-in-august-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (9 days; central axis open after Dobropolye, 13km to twins)",
+        "P25 Kim-Putin EEF Sept 1-4 (9 days, 65%; KN-30 shipment is agenda preview)",
+        "P21 Wisconsin Nov 3 (Crowley +4, independents +12)",
+        "AES Youth Forum Aug 26-28 Ouagadougou (3 days)",
+        "P24 Orekhov Oct 15 (three-front methodology holding)"
+      ]
+    },
     {
       "date": "2026-08-22",
       "items": [
