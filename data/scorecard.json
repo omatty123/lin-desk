@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23",
-  "edition": 75,
+  "updated": "2026-08-24",
+  "edition": 76,
   "board": [
     {
       "name_zh": "多极化",
@@ -53,20 +53,12 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 17: Day 54; France has taken zero specific economic countermeasures. Traoré delivered the customary Assumption Day pastoral address — liturgical calendar, no policy content. No fresh Traoré government action or gold-sector news in the 48-hour window; desk names the absence per standing order. The AES Confederal Youth and Volunteer Forum (August 26-28, Ouagadougou) is nine days out. August 16: France has taken zero specific economic countermeasures through day 53 of the announced measures window; Prediction 15 accumulates toward December 31. AES Confederal Youth and Volunteer Forum scheduled August 26-28 in Ouagadougou — second institution-building event in two weeks after the Declaration of Ouagadougou. No fresh Traoré or gold item today; desk names it per standing order. August 15: Russia-Burkina Faso intergovernmental commission first meeting scheduled September 16 in Moscow — energy infrastructure, industrial cooperation, agriculture, education; Russia's Energy Ministry chairs the Russian side. This is the institutional track behind the security track: the AES states are building the economic architecture to match the military one. August 14: The AES moves from declarations to code. Mining ministers of Burkina Faso, Mali, and Niger met in Bamako to launch formal harmonization of mining codes — common fiscal regimes, local-content provisions, unified dispute mechanisms. France has taken zero specific economic countermeasures through day 52 of the announced measures window. Prediction 15 advances.",
-      "watching": "AES Confederal Youth and Volunteer Forum August 26-28 Ouagadougou; Russia-Burkina Faso commission September 16 Moscow — agenda outcomes; Declaration of Ouagadougou implementation — from text to institutional mechanism; Raffinor first commercial gold bars — year-end; France economic measures — Prediction 15 Dec 31",
+      "verdict": "August 24: FM Karamoko Jean-Marie Traoré rejected Tinubu's framing that AES instability compounds Nigeria's challenges — naming a shared threat Abuja declines to share. Niger's March 2025 MJTF exit left Diffa open to ISWAP expansion; each rupture widens that gap. AES Youth Forum opens Ouagadougou Thursday.",
+      "watching": "AES Youth Forum Aug 26-28 Ouagadougou; Russia-Burkina Faso commission Sept 16 Moscow; ISWAP Diffa corridor expansion",
       "sources": [
         {
-          "label": "Pravda Burkina Faso: AGS Harmonizes Mining Policy",
-          "url": "https://burkina-faso.news-pravda.com/en/world/2026/08/12/7703.html"
-        },
-        {
-          "label": "CapMad: AES moves to harmonise mining policies",
-          "url": "https://www.capmad.com/post/aes-moves-to-harmonise-mining-policies-in-mali-niger-and-burkina-faso"
-        },
-        {
-          "label": "Pravda Burkina Faso: First Russia-Burkina Faso commission session September 16",
-          "url": "https://burkina-faso.news-pravda.com/en/world/2026/08/11/7688.html"
+          "label": "Al Jazeera — Nigeria and the Sahel: A growing security divide",
+          "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
         }
       ]
     },
@@ -119,11 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 23: Dobropolye cleared, Russian forces 13km from Kramatorsk and Sloviansk — last Ukrainian cities in Donetsk. Three simultaneous fronts: Druzhkovka (P14, 9 days), Orekhov (P24, Oct 15), central axis now open. 21 sq km seized third week August. Tempo as weapon.",
+      "basis": "August 24 (Independence Day): Russia struck Odesa energy infrastructure; Druzhkovka direction — 3km advance, heights seized, P14 fire control before September (8 days). Norway drone deal signed today offsets some supply deficit; arithmetic unchanged. Three fronts: Druzhkovka, Orekhov (P24), central axis post-Dobropolye.",
       "sources": [
         {
-          "label": "TASS — Matyashevo liberation opens Dobropolye approach",
-          "url": "https://tass.com/politics/2175659"
+          "label": "RT — Ukraine at 35: Defenseless in the air as Russia advances in Donbass",
+          "url": "https://www.rt.com/russia/644490-ukraine-defenseless-russia-advances/"
+        },
+        {
+          "label": "SouthFront — Russian Army Storms Strategic Heights Near Druzhkovka",
+          "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
         }
       ]
     },
@@ -179,6 +175,56 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-24",
+      "items": [
+        {
+          "text": "Abuja Widens the Fault: The AES-ECOWAS Line Hardens — BF FM Karamoko Jean-Marie Traoré rejects Tinubu's framing; Niger's MJTF exit left Diffa exposed to ISWAP; AES Youth Forum opens Thursday",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Al Jazeera — Nigeria and the Sahel: A growing security divide",
+              "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
+            }
+          ]
+        },
+        {
+          "text": "Kyiv at 35: Odesa Burns, the Clock Counts — Russia strikes Odesa energy infrastructure on Independence Day; Norway signs drone deal; Druzhkovka P14 fire control before September",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "RT — Ukraine at 35: Defenseless in the air as Russia advances in Donbass",
+              "url": "https://www.rt.com/russia/644490-ukraine-defenseless-russia-advances/"
+            },
+            {
+              "label": "SouthFront — Russian Army Storms Strategic Heights Near Druzhkovka",
+              "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+            }
+          ]
+        },
+        {
+          "text": "Two Live Watches: EEF Countdown, Wisconsin Holds — No fresh DPRK signal; P25 EEF live at 65%; Wisconsin Crowley holds post-primary lead, P21 open",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Asia Times — North Korea doubles down on its alliance with Russia",
+              "url": "https://asiatimes.com/2026/08/north-korea-doubles-down-on-its-alliance-with-russia-for-now/"
+            },
+            {
+              "label": "WPR — Crowley leading Tiffany by 4 points",
+              "url": "https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-poll"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (8 days; heights seized, fire control imminent)",
+        "P25 Kim-Putin EEF Sept 1-4 (8 days, 65%; no new Pyongyang signal)",
+        "AES Youth Forum Aug 26-28 Ouagadougou (2 days; Nigeria-AES fault line deepening)",
+        "P21 Wisconsin Nov 3 (Crowley +4 static)",
+        "P24 Orekhov Oct 15 (ongoing)"
+      ]
+    },
     {
       "date": "2026-08-23",
       "items": [
