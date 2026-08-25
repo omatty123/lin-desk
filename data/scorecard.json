@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24",
-  "edition": 76,
+  "updated": "2026-08-25",
+  "edition": 77,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,12 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 23: KN-30 ballistic missiles transferred to Russia for the first time (GUR, Aug 21) — 90 DPRK operators in Voronezh servicing 6 launchers. Troops, shells, drone operators, now integrated ballistic capability. P25 EEF Sept 1–4 in 9 days is the next milestone.",
-      "watching": "Kim-Putin EEF Sept 1-4 — P25 (9 days, 65%); KN-30 first confirmed field use; DPRK-Russia trade H2 target",
+      "verdict": "August 25: Tumen River road bridge on track to open September — potentially timed with Putin EEF visit, creating Kim-Putin bridge inauguration scenario. Material infrastructure precedes handshake. P25 elevated.",
+      "watching": "Bridge opening date and Kim Jong Un travel signal; EEF Sept 1-4 Vladivostok; KN-30 first confirmed field use",
       "sources": [
         {
-          "label": "EADaily — KN-30 first transfer to Russia Aug 21",
-          "url": "https://www.eadaily.com/en/news/2026/08/21/north-korea-for-the-first-time-handed-over-kn-30-gur-ballistic-missiles-to-russia"
+          "label": "38 North — North Korea-Russia Bridge Could Open on Revised Deadline",
+          "url": "https://www.38north.org/2026/08/north-korea-russia-bridge-could-open-on-revised-deadline/"
+        },
+        {
+          "label": "NK News — Russia seeks car bridge to North Korea in September",
+          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
         }
       ]
     },
@@ -175,6 +179,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-25",
+      "items": [
+        {
+          "text": "Ouagadougou Convenes: The AES Youth Forum Opens — AES Confederal Youth Forum opens Aug 26-28, three states building confederal organs from below.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Modern Ghana — AES Confederation Convenes in Ouagadougou",
+              "url": "https://www.modernghana.com/news/1505977/aes-confederation-convenes-in-ouagadougou-to-chart.html"
+            },
+            {
+              "label": "Powers of Africa — Burkina Faso to Host Four Strategic Meetings",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            }
+          ]
+        },
+        {
+          "text": "Tumen: The Bridge Before the Summit — Russia-DPRK Tumen River road bridge on track to open September, timed with Putin EEF visit; P25 elevated.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "38 North — North Korea-Russia Bridge Could Open on Revised Deadline",
+              "url": "https://www.38north.org/2026/08/north-korea-russia-bridge-could-open-on-revised-deadline/"
+            },
+            {
+              "label": "NK News — Russia seeks car bridge to North Korea in September",
+              "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
+            }
+          ]
+        },
+        {
+          "text": "Madison's Arithmetic: The Trifecta Wager — Ballotpedia frames Nov 3 as trifecta contest; Wisconsin last under unified Democratic control 2010; P21 at 55%.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "Ballotpedia — Crowley, Tiffany race to influence trifecta status",
+              "url": "https://news.ballotpedia.org/2026/08/24/crowley-tiffany-run-in-wisconsin-governor-race-that-will-influence-trifecta-triplex-status/"
+            },
+            {
+              "label": "PBS Wisconsin — Crowley sets up match with Tiffany",
+              "url": "https://pbswisconsin.org/news-item/crowleys-victory-sets-up-a-general-election-match-with-tiffany-in-wisconsins-2026-race-for-governor/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (7 days; fire control imminent)",
+        "P25 Kim-Putin EEF Sept 1-4 (7 days, 65%; Tumen bridge Sept opening elevates scenario)",
+        "AES Youth Forum Aug 26-28 Ouagadougou (opens tomorrow; confederal mandate watch)",
+        "P21 Wisconsin Nov 3 (Crowley +4; trifecta stakes framed)",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-24",
       "items": [
