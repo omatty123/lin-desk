@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25",
-  "edition": 77,
+  "updated": "2026-08-26",
+  "edition": 78,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,16 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 25: Tumen River road bridge on track to open September — potentially timed with Putin EEF visit, creating Kim-Putin bridge inauguration scenario. Material infrastructure precedes handshake. P25 elevated.",
-      "watching": "Bridge opening date and Kim Jong Un travel signal; EEF Sept 1-4 Vladivostok; KN-30 first confirmed field use",
+      "verdict": "August 26: Belarus FM Ryzhenkov concluded Pyongyang summer visit with a visa-free travel agreement — DPRK's Eurasian network, one more seam closed. Belarus is where Russia's western cordon meets the Atlantic order; paperless passage to Pyongyang is a junction completed. EEF Sept 1-4; P25 at 65%.",
+      "watching": "EEF Sept 1-4 Vladivostok; Kim Jong Un travel signal; P25 Kim-Putin summit at 65%",
       "sources": [
         {
-          "label": "38 North — North Korea-Russia Bridge Could Open on Revised Deadline",
-          "url": "https://www.38north.org/2026/08/north-korea-russia-bridge-could-open-on-revised-deadline/"
+          "label": "NK News — Belarusian foreign chief vacations in North Korea, works out visa-free deal",
+          "url": "https://www.nknews.org/2026/08/belarusian-foreign-chief-vacations-in-north-korea-works-out-visa-free-deal/"
         },
         {
-          "label": "NK News — Russia seeks car bridge to North Korea in September",
-          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
+          "label": "Korea Times — N. Korea, Belarus near visa-waiver agreement, August 24",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260824/n-korea-belarus-near-visa-waiver-agreement-for-ordinary-citizens-report"
         }
       ]
     },
@@ -57,12 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 24: FM Karamoko Jean-Marie Traoré rejected Tinubu's framing that AES instability compounds Nigeria's challenges — naming a shared threat Abuja declines to share. Niger's March 2025 MJTF exit left Diffa open to ISWAP expansion; each rupture widens that gap. AES Youth Forum opens Ouagadougou Thursday.",
-      "watching": "AES Youth Forum Aug 26-28 Ouagadougou; Russia-Burkina Faso commission Sept 16 Moscow; ISWAP Diffa corridor expansion",
+      "verdict": "August 26: AES Confederal Youth and Volunteer Forum opened in Ouagadougou — all three member-state delegations (Burkina Faso, Mali, Niger) drafting common strategy on youth mobilization and volunteerism. Traoré received ministerial delegation last month; Aug 28 closing declaration will test whether commitments are concrete.",
+      "watching": "AES Youth Forum Aug 28 closing declaration; Russia-Burkina Faso commission Sept 16 Moscow; ISWAP Diffa corridor expansion",
       "sources": [
         {
-          "label": "Al Jazeera — Nigeria and the Sahel: A growing security divide",
-          "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
+          "label": "West African Voice Network — AES leaders push for stronger humanitarian and gender initiatives",
+          "url": "https://www.wavn.org/aes-leaders-push-for-stronger-humanitarian-and-gender-initiatives/"
+        },
+        {
+          "label": "Powers of Africa — Burkina Faso to host four strategic meetings to strengthen the AES",
+          "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
         }
       ]
     },
@@ -115,14 +119,14 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 24 (Independence Day): Russia struck Odesa energy infrastructure; Druzhkovka direction — 3km advance, heights seized, P14 fire control before September (8 days). Norway drone deal signed today offsets some supply deficit; arithmetic unchanged. Three fronts: Druzhkovka, Orekhov (P24), central axis post-Dobropolye.",
+      "basis": "August 26: Kucherov Yar watershed ridge captured on Druzhkovka's southern approach — elevated terrain commanding full defensive line, split since T-05-14 breakthrough Aug 17. Ukraine building second defensive line. Six days to P14 fire control deadline Sept 1.",
       "sources": [
         {
-          "label": "RT — Ukraine at 35: Defenseless in the air as Russia advances in Donbass",
-          "url": "https://www.rt.com/russia/644490-ukraine-defenseless-russia-advances/"
+          "label": "Zinderneuf — Brief Frontline Report, August 24, 2026",
+          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
         },
         {
-          "label": "SouthFront — Russian Army Storms Strategic Heights Near Druzhkovka",
+          "label": "South Front — Russian Army Storms Strategic Heights Near Druzhkovka",
           "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
         }
       ]
@@ -179,6 +183,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-26",
+      "items": [
+        {
+          "text": "Ouagadougou, Day One: The Confederal Youth Forum Convenes — All three AES member-state delegations opened the youth forum today drafting a common strategy on mobilization and volunteerism; Aug 28 declaration will test whether commitments are concrete.",
+          "beat": null,
+          "links": [
+            {
+              "label": "West African Voice Network — AES leaders push for stronger humanitarian and gender initiatives",
+              "url": "https://www.wavn.org/aes-leaders-push-for-stronger-humanitarian-and-gender-initiatives/"
+            },
+            {
+              "label": "Powers of Africa — Burkina Faso to host four strategic meetings to strengthen the AES",
+              "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+            }
+          ]
+        },
+        {
+          "text": "The Ridge Above Druzhkovka: P14 at Six Days — Kucherov Yar watershed ridge captured on Druzhkovka's southern approach; Ukraine building second defensive line. Six days to P14 fire control deadline.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Zinderneuf — Brief Frontline Report, August 24, 2026",
+              "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
+            },
+            {
+              "label": "South Front — Russian Army Storms Strategic Heights Near Druzhkovka",
+              "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+            }
+          ]
+        },
+        {
+          "text": "Minsk to Pyongyang: The Eurasian Seam Closes — Belarus FM Ryzhenkov concluded Pyongyang summer visit with visa-free travel agreement. EEF Sept 1-4; P25 at 65% confidence. One more node in the Eurasian arc.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NK News — Belarusian foreign chief vacations in North Korea, works out visa-free deal",
+              "url": "https://www.nknews.org/2026/08/belarusian-foreign-chief-vacations-in-north-korea-works-out-visa-free-deal/"
+            },
+            {
+              "label": "Korea Times — N. Korea, Belarus near visa-waiver agreement, August 24",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260824/n-korea-belarus-near-visa-waiver-agreement-for-ordinary-citizens-report"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (6 days; watershed ridge Kucherov Yar taken, artillery repositioning next)",
+        "P25 Kim-Putin EEF Sept 1-4 (6 days, 65%; Belarus-DPRK seam closed, pre-Forum signal due)",
+        "AES Youth Forum Aug 28 closing declaration — concrete commitments vs aspiration",
+        "P21 Wisconsin Nov 3 (Crowley +4 static; trifecta stakes)",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-25",
       "items": [
