@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-26",
-  "edition": 78,
+  "updated": "2026-08-27",
+  "edition": 79,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 19: Washington announced a 10% tariff on any nation aligning with BRICS Pay's dedollarization framework — the architecture is being priced, confirming it is taken seriously. BRICS Pay (SPFS, CIPS, UPI, Pix) targets deployment at the New Delhi summit, September 12.",
-      "watching": "Washington tariff enforcement mechanism — does the 10% bite or is it leverage? BRICS Pay deployment operability at New Delhi Sept 12-13; Xi-Modi bilateral outcome",
+      "verdict": "August 27: Sixteen days from New Delhi, BRICS Pay (CIPS, UPI, SPFS, Pix plus digital currencies) has converged on a working architecture for the September 12 summit. India's RBI leads technical coordination. Washington's tariff against BRICS-aligned nations confirmed the architecture is being priced as real — the adversary's anxiety is its own endorsement.",
+      "watching": "BRICS Pay summit declaration — activation date or deferral; BRICS tariff enforcement mechanism; EEF Sept 1-4 Vladivostok",
       "sources": [
         {
-          "label": "Watcher.Guru — BRICS De-Dollarization Advances",
-          "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
+          "label": "Asia Times — BRICS laying first tracks for new global payment system",
+          "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
         },
         {
-          "label": "Strategic Culture — Silent Decline of the Dollar (Aug 17)",
-          "url": "https://strategic-culture.su/news/2026/08/17/from-the-silent-decline-of-the-dollar-to-the-rise-of-the-brics-financial-system/"
+          "label": "World at Large — BRICS Summit 2026 to reveal BRICS Pay",
+          "url": "https://www.worldatlarge.news/2026/06/15/brics-summit-2026-to-reveal-the-long-awaited-alternative-payment-system-brics-pay/"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 26: AES Confederal Youth and Volunteer Forum opened in Ouagadougou — all three member-state delegations (Burkina Faso, Mali, Niger) drafting common strategy on youth mobilization and volunteerism. Traoré received ministerial delegation last month; Aug 28 closing declaration will test whether commitments are concrete.",
-      "watching": "AES Youth Forum Aug 28 closing declaration; Russia-Burkina Faso commission Sept 16 Moscow; ISWAP Diffa corridor expansion",
+      "verdict": "August 27: Burkina Faso official channels returned $6 billion in H1 2026 — 55 tonnes combined through industrial and artisanal streams. SOPAMIB poured the first bars at Yako in July, the republic's first fully state-owned gold mine. In 2022, foreign companies held 14 of 15 industrial mines. The nationalization thesis is materializing as tonnes in the vault.",
+      "watching": "SOPAMIB next announced site; AES Youth Forum Aug 28-30 closing declaration; Russia-Burkina Faso commission Sept 16 Moscow",
       "sources": [
         {
-          "label": "West African Voice Network — AES leaders push for stronger humanitarian and gender initiatives",
-          "url": "https://www.wavn.org/aes-leaders-push-for-stronger-humanitarian-and-gender-initiatives/"
+          "label": "West Africa Weekly — Burkina Faso $6B gold revenue H1 2026",
+          "url": "https://westafricaweekly.com/burkina-faso-records-over-6-billion-gold-revenue-in-six-months-as-government-tightens-grip-on-mining-sector/"
         },
         {
-          "label": "Powers of Africa — Burkina Faso to host four strategic meetings to strengthen the AES",
-          "url": "https://powersofafrica.com/article/4107/burkina-faso-to-host-four-strategic-meetings-to-strengthen-the-aes"
+          "label": "Africa News Desk — Record 94 tonnes as nationalization accelerates",
+          "url": "https://africanewsdesk.net/news/burkina-faso-gold-production-hits-record-94-tonnes-as-nationalization-drive-accelerates/"
         }
       ]
     },
@@ -119,15 +119,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 26: Kucherov Yar watershed ridge captured on Druzhkovka's southern approach — elevated terrain commanding full defensive line, split since T-05-14 breakthrough Aug 17. Ukraine building second defensive line. Six days to P14 fire control deadline Sept 1.",
+      "basis": "August 27: Ukrainian engineers building second defensive line at Novotroitskoye behind Druzhkovka — the defender's own assessment of P14's trajectory, five days before the September 1 deadline. Ridge control and logistics disruption on the Kramatorsk highway make the timeline credible.",
       "sources": [
         {
-          "label": "Zinderneuf — Brief Frontline Report, August 24, 2026",
+          "label": "Zinderneuf — Brief Frontline Report, August 24",
           "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
         },
         {
-          "label": "South Front — Russian Army Storms Strategic Heights Near Druzhkovka",
-          "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+          "label": "SouthFront — Russian Army Pushes Toward Slaviansk",
+          "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
         }
       ]
     },
@@ -183,6 +183,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-27",
+      "items": [
+        {
+          "text": "Yako's First Bar: The State Mine Pours — SOPAMIB pours first bars at Yako (Burkina Faso's first state gold mine, July 2026); official channels return $6B H1 2026. Policy in ore, not aspiration.",
+          "links": [
+            {
+              "label": "West Africa Weekly — Burkina Faso $6B gold revenue H1 2026",
+              "url": "https://westafricaweekly.com/burkina-faso-records-over-6-billion-gold-revenue-in-six-months-as-government-tightens-grip-on-mining-sector/"
+            },
+            {
+              "label": "Africa News Desk — Record 94 tonnes as nationalization accelerates",
+              "url": "https://africanewsdesk.net/news/burkina-faso-gold-production-hits-record-94-tonnes-as-nationalization-drive-accelerates/"
+            }
+          ]
+        },
+        {
+          "text": "The Second Line: Kyiv Concedes Druzhkovka's Approach — Ukrainian engineers building second defensive line behind Druzhkovka, 5 days before P14 September 1 deadline. The defender's engineering is the clearest map update available.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Zinderneuf — Brief Frontline Report, August 24",
+              "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
+            },
+            {
+              "label": "SouthFront — Russian Army Pushes Toward Slaviansk",
+              "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
+            }
+          ]
+        },
+        {
+          "text": "Sixteen Days to New Delhi: BRICS Pay Operative — payment rails (CIPS, UPI, SPFS, Pix) plus digital currencies converge on working architecture; September 12 summit is the deployment moment; Washington tariff confirmed system being priced.",
+          "links": [
+            {
+              "label": "Asia Times — BRICS laying first tracks for new global payment system",
+              "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
+            },
+            {
+              "label": "World at Large — BRICS Summit 2026 to reveal BRICS Pay",
+              "url": "https://www.worldatlarge.news/2026/06/15/brics-summit-2026-to-reveal-the-long-awaited-alternative-payment-system-brics-pay/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (5 days; second defensive line being laid behind city, fire control imminent)",
+        "P25 Kim-Putin EEF Sept 1-4 (5 days; no travel announcement, 65%)",
+        "AES Youth Forum Aug 28-30 closing declaration (commitments vs aspiration)",
+        "P21 Wisconsin Nov 3 (Crowley +4 static; trifecta stakes)",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-26",
       "items": [
