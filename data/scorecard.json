@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27",
-  "edition": 79,
+  "updated": "2026-08-28",
+  "edition": 80,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,16 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 26: Belarus FM Ryzhenkov concluded Pyongyang summer visit with a visa-free travel agreement — DPRK's Eurasian network, one more seam closed. Belarus is where Russia's western cordon meets the Atlantic order; paperless passage to Pyongyang is a junction completed. EEF Sept 1-4; P25 at 65%.",
-      "watching": "EEF Sept 1-4 Vladivostok; Kim Jong Un travel signal; P25 Kim-Putin summit at 65%",
+      "verdict": "August 28: Russian checkpoint on the Tumen River bridge is 65% complete, truck route paved this week. NK News puts opening in early September, concurrent with EEF Vladivostok (September 1–4). P25 — Kim at EEF, 65% — still has no travel announcement four days out.",
+      "watching": "EEF Sept 1-4 Vladivostok; Kim Jong Un travel signal; Tumen bridge opening; P25 Kim-Putin 65%",
       "sources": [
         {
-          "label": "NK News — Belarusian foreign chief vacations in North Korea, works out visa-free deal",
-          "url": "https://www.nknews.org/2026/08/belarusian-foreign-chief-vacations-in-north-korea-works-out-visa-free-deal/"
+          "label": "NK News — Checkpoint 65% completed",
+          "url": "https://www.nknews.org/2026/08/russian-checkpoint-by-north-korea-car-bridge-65-completed-authorities/"
         },
         {
-          "label": "Korea Times — N. Korea, Belarus near visa-waiver agreement, August 24",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260824/n-korea-belarus-near-visa-waiver-agreement-for-ordinary-citizens-report"
+          "label": "Daily Caller — Road link near completion",
+          "url": "https://dailycaller.com/2026/08/26/russia-north-korea-road-bridge-trade-kim-jong-un-vladimir-putin/"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 27: Burkina Faso official channels returned $6 billion in H1 2026 — 55 tonnes combined through industrial and artisanal streams. SOPAMIB poured the first bars at Yako in July, the republic's first fully state-owned gold mine. In 2022, foreign companies held 14 of 15 industrial mines. The nationalization thesis is materializing as tonnes in the vault.",
-      "watching": "SOPAMIB next announced site; AES Youth Forum Aug 28-30 closing declaration; Russia-Burkina Faso commission Sept 16 Moscow",
+      "verdict": "August 28: AES Confederal Youth Forum opens in Ouagadougou — first ever confederal youth gathering, 300 delegates from Burkina Faso, Mali, Niger, Togo alongside. Sunday closing declaration is the test: concrete youth corps or aspirational communiqué.",
+      "watching": "AES Youth Forum closing declaration Aug 30; SOPAMIB next site; Russia-BF commission Sept 16",
       "sources": [
         {
-          "label": "West Africa Weekly — Burkina Faso $6B gold revenue H1 2026",
-          "url": "https://westafricaweekly.com/burkina-faso-records-over-6-billion-gold-revenue-in-six-months-as-government-tightens-grip-on-mining-sector/"
+          "label": "AIB — Forum de la jeunesse AES",
+          "url": "https://www.aib.media/162935-2"
         },
         {
-          "label": "Africa News Desk — Record 94 tonnes as nationalization accelerates",
-          "url": "https://africanewsdesk.net/news/burkina-faso-gold-production-hits-record-94-tonnes-as-nationalization-drive-accelerates/"
+          "label": "Minute.bf — Premier conclave confédéral",
+          "url": "https://www.minute.bf/aes-ouagadougou-accueille-le-premier-grand-conclave-de-la-jeunesse-confederale/"
         }
       ]
     },
@@ -119,15 +119,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 27: Ukrainian engineers building second defensive line at Novotroitskoye behind Druzhkovka — the defender's own assessment of P14's trajectory, five days before the September 1 deadline. Ridge control and logistics disruption on the Kramatorsk highway make the timeline credible.",
+      "basis": "August 28: Russia’s general staff claims first Ukrainian defensive line in Sloviansk-Kramatorsk area breached in several sectors; DeepState logs corresponding advances. Second line at Novotroitskoye is now the live contact. P14 — fire control over Druzhkovka, September 1 — has four days.",
       "sources": [
         {
-          "label": "Zinderneuf — Brief Frontline Report, August 24",
-          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
+          "label": "Xinhua — Russian forces advance in Donetsk",
+          "url": "https://english.news.cn/20260827/f5df7b67cbb440b4a2e4ce32c6442f92/c.html"
         },
         {
-          "label": "SouthFront — Russian Army Pushes Toward Slaviansk",
-          "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
+          "label": "DeepState via Yahoo — Russian forces advance near four settlements",
+          "url": "https://www.yahoo.com/news/articles/russian-forces-advance-near-four-211546999.html"
         }
       ]
     },
@@ -183,6 +183,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-28",
+      "items": [
+        {
+          "text": "Ouagadougou Opens: The Confederation’s First Roll Call — AES Youth Forum opens Aug 28, 300 delegates from BF/Mali/Niger plus Togo; closing declaration Sunday is test of architecture vs aspiration",
+          "beat": null,
+          "links": [
+            {
+              "label": "AIB — Forum de la jeunesse AES",
+              "url": "https://www.aib.media/162935-2"
+            },
+            {
+              "label": "Minute.bf — Premier conclave confédéral",
+              "url": "https://www.minute.bf/aes-ouagadougou-accueille-le-premier-grand-conclave-de-la-jeunesse-confederale/"
+            }
+          ]
+        },
+        {
+          "text": "First Line Down: P14 Has Four Days — Russian general staff claims first Ukrainian defensive line breached near Sloviansk-Kramatorsk; second line Novotroitskoye now active contact; P14 resolves Sept 1",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Xinhua — Russian forces advance in Donetsk",
+              "url": "https://english.news.cn/20260827/f5df7b67cbb440b4a2e4ce32c6442f92/c.html"
+            },
+            {
+              "label": "DeepState via Yahoo — Russian forces advance near four settlements",
+              "url": "https://www.yahoo.com/news/articles/russian-forces-advance-near-four-211546999.html"
+            }
+          ]
+        },
+        {
+          "text": "Tumen at 65%: The Bridge Meets the EEF Countdown — Russian checkpoint 65% complete, truck route paved; NK News puts bridge opening early Sept concurrent with EEF; P25 Kim-Putin 65%, no travel signal",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NK News — Checkpoint 65% completed",
+              "url": "https://www.nknews.org/2026/08/russian-checkpoint-by-north-korea-car-bridge-65-completed-authorities/"
+            },
+            {
+              "label": "Daily Caller — Road link near completion",
+              "url": "https://dailycaller.com/2026/08/26/russia-north-korea-road-bridge-trade-kim-jong-un-vladimir-putin/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 (4 days; first line breached, second line Novotroitskoye now contact)",
+        "P25 Kim-Putin EEF Sept 1-4 (4 days; 65%; Tumen bridge 65%, no travel signal)",
+        "AES Youth Forum Aug 28-30 closing declaration Sunday",
+        "P21 Wisconsin Nov 3 (Crowley +4 static)",
+        "P24 Orekhov Oct 15"
+      ]
+    },
     {
       "date": "2026-08-27",
       "items": [
