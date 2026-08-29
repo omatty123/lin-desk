@@ -1,21 +1,17 @@
 {
-  "updated": "2026-08-28",
-  "edition": 80,
+  "updated": "2026-08-29",
+  "edition": 81,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 27: Sixteen days from New Delhi, BRICS Pay (CIPS, UPI, SPFS, Pix plus digital currencies) has converged on a working architecture for the September 12 summit. India's RBI leads technical coordination. Washington's tariff against BRICS-aligned nations confirmed the architecture is being priced as real — the adversary's anxiety is its own endorsement.",
-      "watching": "BRICS Pay summit declaration — activation date or deferral; BRICS tariff enforcement mechanism; EEF Sept 1-4 Vladivostok",
+      "verdict": "August 29: BRICS finance ministers meet New Delhi September 1-2 to turn technical BRICS Pay talks into summit language: payments, local-currency trade, CBDC links — 14 days before September 12-13. India's RBI leads coordination despite its anti-common-currency position; CIPS, UPI, SPFS, Pix converging onto one architecture is the structural fact.",
+      "watching": "BRICS Finance Ministers September 1-2 communiqué; BRICS Pay summit declaration Sept 12-13 — activation date or deferral; EEF Sept 1-4 Vladivostok",
       "sources": [
         {
-          "label": "Asia Times — BRICS laying first tracks for new global payment system",
-          "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
-        },
-        {
-          "label": "World at Large — BRICS Summit 2026 to reveal BRICS Pay",
-          "url": "https://www.worldatlarge.news/2026/06/15/brics-summit-2026-to-reveal-the-long-awaited-alternative-payment-system-brics-pay/"
+          "label": "Shabariseva — BRICS Finance Ministers to Weigh Cheaper Payments",
+          "url": "https://www.shabariseva.com/post/brics-finance-ministers-to-weigh-cheaper-payments-before-the-new-delhi-summit"
         }
       ]
     },
@@ -91,24 +87,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 17: Platform Communications' Badger Battleground Poll (500 likely voters, August 12-13) finds Crowley leading Tiffany 48-44 — bipartisan gap widening from +2 the first week to +4, independents Crowley 42-30. Prediction 21 is consistent with the desk's call; the Foxconn graveyard district swing (+19 for Crowley in Assembly battlegrounds) is the material indicator neither campaign has yet named plainly. August 14: First post-primary polls (Wisconsin): Crowley leads Tiffany 47-44 (DGA-backed Protect Our Wisconsin), RealClear average Crowley +2. More daylight than Hong would have had. The open-seat race is the declinist heartland's first reckoning; neither campaign has named the Foxconn graveyard plainly.",
-      "watching": "Wisconsin Nov 3 general — Prediction 21 (Crowley vs Tiffany; Crowley +4, independents +12); Druzhkovka city-center fire control — Prediction 14 (Sept 1, ahead of schedule); Orekhov — Prediction 24 (Oct 15); France economic measures — Prediction 15 (Dec 31, day 54)",
+      "verdict": "August 29: Marquette Law School poll (August 26, 512 likely voters) puts Crowley at 49%, Tiffany at 44% — the state's most credible survey, first post-primary credible head-to-head. Independents remain Crowley +12; the structural gap in a deindustrialized state. Prediction 21 holds at 55%.",
+      "watching": "Wisconsin Nov 3 general — Prediction 21; next Marquette poll — independent gap when Tiffany's Trump coalition activates",
       "sources": [
         {
-          "label": "Washington Examiner: Wisconsin polling has Crowley up against Tiffany",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4685231/wisconsin-poll-david-crowley-tom-tiffany-governor/"
+          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll",
+          "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
         },
         {
-          "label": "PBS Wisconsin: Crowley's victory sets up general election match",
-          "url": "https://pbswisconsin.org/news-item/crowleys-victory-sets-up-a-general-election-match-with-tiffany-in-wisconsins-2026-race-for-governor/"
-        },
-        {
-          "label": "Urban Milwaukee — New Poll Shows Tight Crowley-Tiffany Race For Governor",
-          "url": "https://urbanmilwaukee.com/2026/08/16/new-poll-shows-tight-crowley-tiffany-race-for-wisconsin-governor/"
-        },
-        {
-          "label": "WTMJ — New poll shows David Crowley with slight early lead over Tom Tiffany",
-          "url": "https://wtmj.com/news/2026/08/16/new-poll-shows-slight-crowley-lead-over-tiffany/"
+          "label": "Fox11 — Marquette University Law School poll August 26",
+          "url": "https://fox11online.com/news/election/2026-wisconsin-governor-race-campaign-david-crowley-tom-tiffany-marquette-university-law-school-poll-august-26"
         }
       ]
     }
@@ -119,15 +107,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 28: Russia’s general staff claims first Ukrainian defensive line in Sloviansk-Kramatorsk area breached in several sectors; DeepState logs corresponding advances. Second line at Novotroitskoye is now the live contact. P14 — fire control over Druzhkovka, September 1 — has four days.",
+      "basis": "August 29: Second line at Novotroitskoye now in contact after Nikolaypol fell and 3km gained toward Druzhkovka. P14 (fire control before September 1) grades Tuesday; reasoning holds — tempo has been Russian throughout. Second line depth determines P24 (Orekhov) timeline.",
       "sources": [
         {
-          "label": "Xinhua — Russian forces advance in Donetsk",
-          "url": "https://english.news.cn/20260827/f5df7b67cbb440b4a2e4ce32c6442f92/c.html"
+          "label": "Southfront — Russian Army Pushes Toward Slaviansk",
+          "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
         },
         {
-          "label": "DeepState via Yahoo — Russian forces advance near four settlements",
-          "url": "https://www.yahoo.com/news/articles/russian-forces-advance-near-four-211546999.html"
+          "label": "Zinderneuf — Brief Frontline Report Aug 24",
+          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
         }
       ]
     },
@@ -183,6 +171,59 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-29",
+      "items": [
+        {
+          "text": "The Second Line: Novotroitskoye Is Now in Contact — Russian forces breached the first Ukrainian defensive line in the Druzhkovka corridor; second line at Novotroitskoye in contact, Nikolaypol lost, 3km gained toward Druzhkovka. P14 grades Tuesday.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront — Russian Army Pushes Toward Slaviansk",
+              "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
+            },
+            {
+              "label": "Zinderneuf — Brief Frontline Report Aug 24",
+              "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
+            }
+          ]
+        },
+        {
+          "text": "New Delhi Minus Fourteen: Finance Ministers Get to Work — BRICS finance ministers meet New Delhi September 1-2 to crystallize BRICS Pay summit language: payments, local-currency trade, CBDC links. CIPS, UPI, SPFS, Pix converging; India leads despite anti-common-currency position.",
+          "links": [
+            {
+              "label": "Shabariseva — BRICS Finance Ministers to Weigh Cheaper Payments",
+              "url": "https://www.shabariseva.com/post/brics-finance-ministers-to-weigh-cheaper-payments-before-the-new-delhi-summit"
+            },
+            {
+              "label": "Watcher.Guru — BRICS De-Dollarization Agenda Advances",
+              "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
+            }
+          ]
+        },
+        {
+          "text": "Marquette Puts the Number: Crowley 49, Tiffany 44 — Marquette Law School (August 26, 512 likely voters): Crowley 49%, Tiffany 44%. Independents Crowley +12. P21 holds at 55%; material data runs his direction. Watch next Marquette.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll",
+              "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+            },
+            {
+              "label": "Fox11 — Marquette University Law School poll August 26",
+              "url": "https://fox11online.com/news/election/2026-wisconsin-governor-race-campaign-david-crowley-tom-tiffany-marquette-university-law-school-poll-august-26"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 — second line at Novotroitskoye in contact; grades Tuesday",
+        "P25 Kim-Putin EEF Sept 1-4 — 65%, no travel signal, bridge near completion",
+        "AES Youth Forum closing declaration Aug 30 — concrete commitments vs aspiration",
+        "BRICS Finance Ministers Sept 1-2 communiqué — activation date or deferral",
+        "P21 Wisconsin Nov 3 — Crowley 49-44 Marquette, independent gap holds"
+      ]
+    },
     {
       "date": "2026-08-28",
       "items": [
