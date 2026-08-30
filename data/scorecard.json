@@ -1,17 +1,21 @@
 {
-  "updated": "2026-08-29",
-  "edition": 81,
+  "updated": "2026-08-30",
+  "edition": 82,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 29: BRICS finance ministers meet New Delhi September 1-2 to turn technical BRICS Pay talks into summit language: payments, local-currency trade, CBDC links — 14 days before September 12-13. India's RBI leads coordination despite its anti-common-currency position; CIPS, UPI, SPFS, Pix converging onto one architecture is the structural fact.",
-      "watching": "BRICS Finance Ministers September 1-2 communiqué; BRICS Pay summit declaration Sept 12-13 — activation date or deferral; EEF Sept 1-4 Vladivostok",
+      "verdict": "August 30: BRICS Finance Ministers convene September 1–2 in New Delhi ahead of the September 12–13 summit — turning payment-system technical architecture into summit language. Iran's CBDC corridor proposal and India's UPI interoperability both on the table.",
+      "watching": "BRICS Finance Ministers September 1-2 communiqué; BRICS Pay summit declaration Sept 12-13 — activation date or deferral",
       "sources": [
         {
-          "label": "Shabariseva — BRICS Finance Ministers to Weigh Cheaper Payments",
-          "url": "https://www.shabariseva.com/post/brics-finance-ministers-to-weigh-cheaper-payments-before-the-new-delhi-summit"
+          "label": "Business Standard — BRICS Finance Ministers on Digital Currency, Trade",
+          "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+        },
+        {
+          "label": "BLiTZ — BRICS Countries Are Connecting Their Payment Systems",
+          "url": "https://weeklyblitz.net/2026/08/29/brics-countries-are-connecting-their-payment-systems/"
         }
       ]
     },
@@ -36,16 +40,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 28: Russian checkpoint on the Tumen River bridge is 65% complete, truck route paved this week. NK News puts opening in early September, concurrent with EEF Vladivostok (September 1–4). P25 — Kim at EEF, 65% — still has no travel announcement four days out.",
+      "verdict": "August 30: EEF Vladivostok opens tomorrow, September 1–4. No North Korean travel announcement as of morning; Prediction 25 (Kim-Putin summit, 65%) enters resolution window tonight. Tumen bridge on schedule for early September opening concurrent with the Forum.",
       "watching": "EEF Sept 1-4 Vladivostok; Kim Jong Un travel signal; Tumen bridge opening; P25 Kim-Putin 65%",
       "sources": [
         {
-          "label": "NK News — Checkpoint 65% completed",
-          "url": "https://www.nknews.org/2026/08/russian-checkpoint-by-north-korea-car-bridge-65-completed-authorities/"
-        },
-        {
-          "label": "Daily Caller — Road link near completion",
-          "url": "https://dailycaller.com/2026/08/26/russia-north-korea-road-bridge-trade-kim-jong-un-vladimir-putin/"
+          "label": "TASS — EEF Participation Confirmed, 70+ Countries",
+          "url": "https://tass.com/economy/2173761"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 28: AES Confederal Youth Forum opens in Ouagadougou — first ever confederal youth gathering, 300 delegates from Burkina Faso, Mali, Niger, Togo alongside. Sunday closing declaration is the test: concrete youth corps or aspirational communiqué.",
-      "watching": "AES Youth Forum closing declaration Aug 30; SOPAMIB next site; Russia-BF commission Sept 16",
+      "verdict": "August 30: First AES Confederal Youth Forum — 300 delegates from Burkina Faso, Mali, and Niger — closes in Ouagadougou. Declaration calls youth to peace, discipline, and patriotism; demands ambitious, realistic, and operational proposals. Test: permanent confederal youth council mandated, or ends at recommendations.",
+      "watching": "AES Youth Forum declaration text — permanent council or recommendations; SOPAMIB next site; Russia-BF commission Sept 16",
       "sources": [
         {
-          "label": "AIB — Forum de la jeunesse AES",
-          "url": "https://www.aib.media/162935-2"
+          "label": "AIB — AES Youth Called to Promote Peace, Discipline, Patriotism",
+          "url": "https://www.aib.media/aes-la-jeunesse-appelee-a-promouvoir-la-paix-la-discipline-et-le-patriotisme"
         },
         {
-          "label": "Minute.bf — Premier conclave confédéral",
+          "label": "Minute.bf — Ouagadougou Hosts First Confederal Youth Conclave",
           "url": "https://www.minute.bf/aes-ouagadougou-accueille-le-premier-grand-conclave-de-la-jeunesse-confederale/"
         }
       ]
@@ -171,6 +171,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-30",
+      "items": [
+        {
+          "text": "Ouagadougou Closes: The Declaration Has a Shape — first AES Confederal Youth Forum closes, 300 delegates from BF, Mali, Niger; declaration calls youth to peace, discipline, patriotism; test is permanent confederal council or recommendations",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "AIB — AES Youth Called to Promote Peace, Discipline, Patriotism",
+              "url": "https://www.aib.media/aes-la-jeunesse-appelee-a-promouvoir-la-paix-la-discipline-et-le-patriotisme"
+            },
+            {
+              "label": "Minute.bf — Ouagadougou Hosts First Confederal Youth Conclave",
+              "url": "https://www.minute.bf/aes-ouagadougou-accueille-le-premier-grand-conclave-de-la-jeunesse-confederale/"
+            }
+          ]
+        },
+        {
+          "text": "P14 Eve: Druzhkovka on the Clock — second defensive line in contact; Russian special forces inside Alekseyevo-Druzhkovka; Patriot deliveries dropped 61%; fire control tomorrow settles Prediction 14",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Martyanov — As They Say",
+              "url": "https://smoothiex12.blogspot.com/2026/08/as-they-say.html"
+            },
+            {
+              "label": "A Skeptic — Telegram Reports, August 30",
+              "url": "https://askeptic.substack.com/p/2026-08-30-telegram-reports-a-skeptic"
+            }
+          ]
+        },
+        {
+          "text": "Vladivostok Minus One: Kim Has Not Moved — EEF opens tomorrow, no DPRK travel signal; P25 (65%) enters resolution window tonight; BRICS Finance Ministers convene simultaneously for pre-summit payment architecture session",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "TASS — EEF Participation Confirmed",
+              "url": "https://tass.com/economy/2173761"
+            },
+            {
+              "label": "Business Standard — BRICS Finance Ministers on Digital Currency, Trade",
+              "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka Sept 1 — fire control settles tomorrow",
+        "P25 Kim-Putin EEF Sept 1-4 (window opens tonight, no travel signal, 65%)",
+        "BRICS Finance Ministers Sept 1-2 — activation language or deferral",
+        "AES Youth Forum declaration text — permanent council or recommendations",
+        "P21 Wisconsin Nov 3 (Crowley 45.8-42.8 polling average)"
+      ]
+    },
     {
       "date": "2026-08-29",
       "items": [
