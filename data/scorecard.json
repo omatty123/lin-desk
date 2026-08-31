@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30",
-  "edition": 82,
+  "updated": "2026-08-31",
+  "edition": 83,
   "board": [
     {
       "name_zh": "多极化",
@@ -53,16 +53,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 30: First AES Confederal Youth Forum — 300 delegates from Burkina Faso, Mali, and Niger — closes in Ouagadougou. Declaration calls youth to peace, discipline, and patriotism; demands ambitious, realistic, and operational proposals. Test: permanent confederal youth council mandated, or ends at recommendations.",
-      "watching": "AES Youth Forum declaration text — permanent council or recommendations; SOPAMIB next site; Russia-BF commission Sept 16",
+      "verdict": "August 31: Burkina Faso generated $6 billion in gold revenue in H1 2026 — from a country where 14 of 15 industrial mines were foreign-held in 2022. SOPAMIB controls 6 mines; 35% of Kiaka (West African Resources) pending. The nationalization program is paying.",
+      "watching": "SOPAMIB next acquisition; Russia-BF commission Sept 16; Kiaka acquisition outcome",
       "sources": [
         {
-          "label": "AIB — AES Youth Called to Promote Peace, Discipline, Patriotism",
-          "url": "https://www.aib.media/aes-la-jeunesse-appelee-a-promouvoir-la-paix-la-discipline-et-le-patriotisme"
+          "label": "Zambian Observer — Burkina Faso $6 billion from gold in six months",
+          "url": "https://zambianobserver.com/in-2022-foreign-companies-owned-14-of-burkina-fasos-15-industrial-gold-mines-in-2026-the-country-made-6-billion-from-gold-in-six-months/"
         },
         {
-          "label": "Minute.bf — Ouagadougou Hosts First Confederal Youth Conclave",
-          "url": "https://www.minute.bf/aes-ouagadougou-accueille-le-premier-grand-conclave-de-la-jeunesse-confederale/"
+          "label": "Mining.com — Burkina Faso's nationalization rattles West Africa's gold sector",
+          "url": "https://www.mining.com/burkina-fasos-nationalization-rattles-west-africas-gold-sector/"
         }
       ]
     },
@@ -70,16 +70,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "August 22: domestic Chinese suppliers displaced Nvidia after H200 controls — containment accelerated self-sufficiency. High-tech manufacturing +16.9% YoY July; Alibaba cloud unpeaked. Productive economy advances; the adversary’s policy works against itself.",
-      "watching": "15th Five-Year Plan chip-output targets; Han Feizi Asia Times hedonic deflation thesis; Fifth Plenum October",
+      "verdict": "August 31: Manufacturing PMI 49.8, up from 49.2, beating consensus — new orders and output sub-indexes back above 50. High-tech manufacturing +13.8% YTD; electronics +19.1%. The adversary headline reads contraction; the material aggregate reads stabilization.",
+      "watching": "September PMI — whether new orders hold; 15th Five-Year Plan chip-output targets; Fifth Plenum October",
       "sources": [
         {
-          "label": "Tom’s Hardware — China semiconductor displacement Aug 22",
-          "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard"
+          "label": "Xinhua — China's manufacturing PMI at 49.8 in August",
+          "url": "https://english.news.cn/20260831/023b2fce583a4d6ba0ac9919e6d1668d/c.html"
         },
         {
-          "label": "KuCoin — China economic data August 2026",
-          "url": "https://www.kucoin.com/news/flash/china-releases-key-economic-data-and-policy-updates-in-august-2026"
+          "label": "Business Standard — China's factory activity improves in August",
+          "url": "https://www.business-standard.com/world-news/china-s-factory-activity-improves-in-august-but-remains-in-contraction-126083100229_1.html"
         }
       ]
     },
@@ -107,15 +107,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 29: Second line at Novotroitskoye now in contact after Nikolaypol fell and 3km gained toward Druzhkovka. P14 (fire control before September 1) grades Tuesday; reasoning holds — tempo has been Russian throughout. Second line depth determines P24 (Orekhov) timeline.",
+      "basis": "August 31: Kremlin ordered forces to administrative Donbas border by December 31; military leadership replied March 31, 2027. P14 (Druzhkovka fire control before September 1) grades tomorrow — continued operations Aug 28-29, no breakthrough. Tempo remains Russia's weapon.",
       "sources": [
         {
-          "label": "Southfront — Russian Army Pushes Toward Slaviansk",
-          "url": "https://southfront.press/russian-army-pushes-toward-slaviansk-last-villages-fall/"
+          "label": "CNBC — Russian forces intensify attacks in Donetsk",
+          "url": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html"
         },
         {
-          "label": "Zinderneuf — Brief Frontline Report Aug 24",
-          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-august-24th"
+          "label": "Critical Threats — Russian Offensive Campaign Assessment August 29",
+          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-29-2026"
         }
       ]
     },
@@ -171,6 +171,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-08-31",
+      "items": [
+        {
+          "text": "FORTY-NINE POINT EIGHT: THE ADVERSARY READS A SLIDE IT CANNOT HOLD — August PMI 49.8, up from 49.2, beats consensus; new orders and output back above 50; adversary headlines 'slides for second straight month' as high-tech manufacturing runs 13.8% YTD",
+          "links": [
+            {
+              "label": "Xinhua — China's manufacturing PMI at 49.8 in August",
+              "url": "https://english.news.cn/20260831/023b2fce583a4d6ba0ac9919e6d1668d/c.html"
+            },
+            {
+              "label": "Business Standard — China's factory activity improves in August",
+              "url": "https://www.business-standard.com/world-news/china-s-factory-activity-improves-in-august-but-remains-in-contraction-126083100229_1.html"
+            }
+          ]
+        },
+        {
+          "text": "SIX BILLION: THE OUAGADOUGOU MODEL PUTS UP A NUMBER — Burkina Faso gold revenue $6B in H1 2026; SOPAMIB controls 6 mines; 35% Kiaka acquisition pending; in 2022 foreign companies held 14 of 15 industrial mines",
+          "links": [
+            {
+              "label": "Zambian Observer — Burkina Faso $6 billion from gold in six months",
+              "url": "https://zambianobserver.com/in-2022-foreign-companies-owned-14-of-burkina-fasos-15-industrial-gold-mines-in-2026-the-country-made-6-billion-from-gold-in-six-months/"
+            },
+            {
+              "label": "Mining.com — Burkina Faso's nationalization rattles West Africa's gold sector",
+              "url": "https://www.mining.com/burkina-fasos-nationalization-rattles-west-africas-gold-sector/"
+            }
+          ]
+        },
+        {
+          "text": "DECEMBER VS. MARCH: THE KREMLIN'S TIMELINE AND THE GENERAL'S REPLY — Kremlin ordered Donbas border by Dec 31; military replied March 31, 2027; Druzhkovka operations continued Aug 28-29 with no breakthrough; P14 grades tomorrow",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "CNBC — Russian forces intensify attacks in Donetsk",
+              "url": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html"
+            },
+            {
+              "label": "Critical Threats — Russian Offensive Campaign Assessment August 29",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-29-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P14 Druzhkovka grades Sept 1 — fire control or miss",
+        "P25 Kim-Putin EEF Sept 1-4 (65%; opening plenary today, no travel signal)",
+        "BRICS Finance Ministers Sept 1-2 — activation language or deferral",
+        "P6 Kharg Island Sept 1 deadline",
+        "P21 Wisconsin Nov 3 (Crowley 45.8-42.8)"
+      ]
+    },
     {
       "date": "2026-08-30",
       "items": [
