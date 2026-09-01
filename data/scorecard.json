@@ -1,21 +1,17 @@
 {
-  "updated": "2026-08-31",
-  "edition": 83,
+  "updated": "2026-09-01",
+  "edition": 84,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "August 30: BRICS Finance Ministers convene September 1–2 in New Delhi ahead of the September 12–13 summit — turning payment-system technical architecture into summit language. Iran's CBDC corridor proposal and India's UPI interoperability both on the table.",
-      "watching": "BRICS Finance Ministers September 1-2 communiqué; BRICS Pay summit declaration Sept 12-13 — activation date or deferral",
+      "verdict": "September 1: BRICS Finance Ministers convene at Bharat Mandapam — eleven states on cross-border payments, national currency trade, CBDC corridors. India chairs the pre-summit session ten days before leaders arrive. Prediction 3 resolves September 12-13: adopted framework or another deferral.",
+      "watching": "BRICS Finance Ministers communiqué Sept 1-2; September 12-13 summit activation language on BRICS Bridge",
       "sources": [
         {
-          "label": "Business Standard — BRICS Finance Ministers on Digital Currency, Trade",
+          "label": "Business Standard — BRICS finance ministers to discuss digital currency, currency trade",
           "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
-        },
-        {
-          "label": "BLiTZ — BRICS Countries Are Connecting Their Payment Systems",
-          "url": "https://weeklyblitz.net/2026/08/29/brics-countries-are-connecting-their-payment-systems/"
         }
       ]
     },
@@ -40,12 +36,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "August 30: EEF Vladivostok opens tomorrow, September 1–4. No North Korean travel announcement as of morning; Prediction 25 (Kim-Putin summit, 65%) enters resolution window tonight. Tumen bridge on schedule for early September opening concurrent with the Forum.",
-      "watching": "EEF Sept 1-4 Vladivostok; Kim Jong Un travel signal; Tumen bridge opening; P25 Kim-Putin 65%",
+      "verdict": "September 1: EEF opens in Vladivostok; Prabowo Subianto, Ding Xuexiang, Mongolia's premier confirmed for September 3 plenary. Kim Jong Un has not traveled; Seoul reports no DPRK delegation signal. Prediction 25 (Kim-Putin summit, 65%) has the plenary as its last window.",
+      "watching": "Kim Jong Un travel signal before September 3 plenary; P25 resolution",
       "sources": [
         {
-          "label": "TASS — EEF Participation Confirmed, 70+ Countries",
-          "url": "https://tass.com/economy/2173761"
+          "label": "TASS — Eastern Economic Forum begins in Russia's Vladivostok",
+          "url": "https://tass.com/economy/2180131"
+        },
+        {
+          "label": "Korea Times — S. Korea not to attend Russia's economic forum this week",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/20260831/s-korea-not-to-attend-russias-economic-forum-this-week"
         }
       ]
     },
@@ -53,16 +53,12 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "August 31: Burkina Faso generated $6 billion in gold revenue in H1 2026 — from a country where 14 of 15 industrial mines were foreign-held in 2022. SOPAMIB controls 6 mines; 35% of Kiaka (West African Resources) pending. The nationalization program is paying.",
-      "watching": "SOPAMIB next acquisition; Russia-BF commission Sept 16; Kiaka acquisition outcome",
+      "verdict": "September 1: New ECOWAS president Birame Diop pledges deeper engagement with AES states on inauguration day in Abuja — a rhetorical shift after years of sanctions threats. Material test: whether this becomes institutional contact. Russia-BF commission Sept 16.",
+      "watching": "ECOWAS-AES re-engagement: rhetoric or institutional contact; Russia-BF commission Sept 16",
       "sources": [
         {
-          "label": "Zambian Observer — Burkina Faso $6 billion from gold in six months",
-          "url": "https://zambianobserver.com/in-2022-foreign-companies-owned-14-of-burkina-fasos-15-industrial-gold-mines-in-2026-the-country-made-6-billion-from-gold-in-six-months/"
-        },
-        {
-          "label": "Mining.com — Burkina Faso's nationalization rattles West Africa's gold sector",
-          "url": "https://www.mining.com/burkina-fasos-nationalization-rattles-west-africas-gold-sector/"
+          "label": "PM News Nigeria — ECOWAS will deepen engagement with Mali, Burkina Faso, Niger",
+          "url": "https://pmnewsnigeria.com/2026/09/01/ecowas-will-deepen-engagement-with-mali-burkina-faso-niger/"
         }
       ]
     },
@@ -107,15 +103,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "August 31: Kremlin ordered forces to administrative Donbas border by December 31; military leadership replied March 31, 2027. P14 (Druzhkovka fire control before September 1) grades tomorrow — continued operations Aug 28-29, no breakthrough. Tempo remains Russia's weapon.",
+      "basis": "September 1: P14 misses — Druzhkovka not under fire control by deadline. Heights held, fire sack confirmed in approaches, city center contested. Kremlin's December target and military's March timeline remain operative. P14 (75%) marked 错; advance is real, timeline extended.",
       "sources": [
         {
-          "label": "CNBC — Russian forces intensify attacks in Donetsk",
-          "url": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html"
-        },
-        {
-          "label": "Critical Threats — Russian Offensive Campaign Assessment August 29",
-          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-29-2026"
+          "label": "SouthFront Maps — Russian Army Captures Petrovka, Approaches Rayskoye",
+          "url": "https://maps.southfront.press/russian-army-captures-petrovka-approaches-rayskoye"
         }
       ]
     },
@@ -171,6 +163,46 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-01",
+      "items": [
+        {
+          "text": "Vladivostok Without Kim: P25 Enters Its Last Window — EEF opens Sept 1; Prabowo, Ding Xuexiang, Mongolia's PM confirmed Sept 3 plenary; Kim not moved; Seoul reports no DPRK delegation signal.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "TASS — Eastern Economic Forum begins in Russia's Vladivostok",
+              "url": "https://tass.com/economy/2180131"
+            },
+            {
+              "label": "Korea Times — S. Korea not to attend Russia's economic forum this week",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/20260831/s-korea-not-to-attend-russias-economic-forum-this-week"
+            }
+          ]
+        },
+        {
+          "text": "P14 Misses: Druzhkovka's First Deadline Passes — heights held, fire sack confirmed in approaches; city fire control not established by September 1 deadline; P14 (75%) marked 错.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "SouthFront Maps — Russian Army Captures Petrovka, Approaches Rayskoye",
+              "url": "https://maps.southfront.press/russian-army-captures-petrovka-approaches-rayskoye"
+            },
+            {
+              "label": "SouthFront Maps — Russian Army Storms Strategic Heights Near Druzhkovka",
+              "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P25 Kim-Putin summit — September 3 EEF plenary is the last window (65%)",
+        "P3 BRICS Bridge — September 12-13 summit: activation language or deferral",
+        "P6 grades 对 today — Kharg oil infrastructure not struck before September 2026",
+        "P21 Wisconsin Nov 3 — Crowley 45.8-42.8",
+        "P24 Orekhov Oct 15 (68%)"
+      ]
+    },
     {
       "date": "2026-08-31",
       "items": [
@@ -4847,13 +4879,14 @@
       "schema_version": 1
     },
     {
-      "status": "open",
+      "status": "对",
       "kind": "desk",
       "claim": "The Kharg Island oil infrastructure is not struck before September 2026. Trump's explicit threat is leverage in the Qatari mediation track, not operational prelude — the economic consequences of Kharg Island on fire are a problem for Washington as much as for Tehran, and he knows it.",
       "filed": "2026-06-12",
       "horizon": "2026-09-01",
-      "note": "August 6: Iran-Oman agreement confirmed — Iranian-controlled northern lane, Oman exit, fees 50-50, joint statement in final drafting. Brent $79, down from $83 Monday and $90 last week. No Kharg Island strike. Washington disputes ship-approval requirement for northern lane. Prediction holds at September 1 horizon.",
-      "schema_version": 1
+      "note": "US strikes on Kharg in March and July 2026 deliberately targeted military sites while avoiding oil infrastructure. The oil terminal remains operational under Iranian control as of September 1, 2026. Trump's threat was leverage, not execution — as the desk read it.",
+      "schema_version": 1,
+      "resolved": "2026-09-01"
     },
     {
       "status": "hit",
@@ -4916,13 +4949,14 @@
       "schema_version": 1
     },
     {
-      "status": "open",
+      "status": "错",
       "kind": "desk",
       "claim": "Alekseyevo-Druzhkovka comes under Russian operational control (controlling fire over the city and its approaches) before September 1, 2026. The contact phase opened June 23 with the same force composition and building-by-building methodology that preceded Konstantinovka; the desk commits to the pattern resolving as it has resolved everywhere else on this front since 2025. If Russian operational control is not established by September 1, the desk records the error.",
       "filed": "2026-06-27",
       "horizon": "2026-09-01",
-      "note": "August 10. Russian forces confirmed inside Orekhov on August 9 (Dnepr Group, Zaporizhzhia) — third simultaneous operational front alongside Alekseyevo-Druzhkovka and Dobropolye. No geolocated city-center fire control at Druzhkovka yet. Prediction holds ahead of schedule at September 1 horizon. Desk has filed Prediction 24 on Orekhov.",
-      "schema_version": 1
+      "note": "Russian forces established a fire sack around the Druzhkovka-Konstantinovka corridor and seized commanding heights, but operational fire control over Druzhkovka city proper was not established by the September 1, 2026 deadline. The advance is real; the timing call was wrong.",
+      "schema_version": 1,
+      "resolved": "2026-09-01"
     },
     {
       "status": "open",
@@ -5095,9 +5129,30 @@
       "mechanism": null,
       "resolved": null,
       "note": null
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russian forces establish operational fire control over Druzhkovka before November 1, 2026.",
+        "filed": "2026-09-01",
+        "resolves_by": "2026-11-01",
+        "resolution": "Resolves 对 if Russian forces establish fire control over Druzhkovka city proper — commanding elevated ground, artillery dominance of all approaches — before November 1, 2026; resolves 错 if not achieved by that date.",
+        "confidence": 72
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
+    {
+      "date": "2026-09-01",
+      "text": "P14 错 (2026-09-01): Druzhkovka fire control prediction (75%) missed the September 1 deadline. Russian forces established a fire sack in the Druzhkovka-Konstantinovka corridor and captured commanding heights, but did not achieve operational fire control over the city proper. The advance is material and ongoing — the desk files a follow-on at 72% by November 1."
+    },
     {
       "date": "2026-07-20",
       "text": "The desk went quiet on Burkina Faso the very week its signature beat delivered: Traoré's July 20 assertion of 100% state control over a new ~$68M gold asset — the SOPAMIB drive moving toward full custody of the gold chain — and his same-day secular-developmentalist broadcast ruling out sharia law and telling students of it to bring back technological skills instead. Both are exactly the material sovereignty indicators the Sahel beat exists to track, and the Iran escalation crowded them out. Filed to the board late, on a reader's catch. The standing order now: a week without a Traoré or gold item is itself a flag, not a quiet day."
