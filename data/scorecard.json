@@ -1,17 +1,21 @@
 {
-  "updated": "2026-09-01",
-  "edition": 84,
+  "updated": "2026-09-02",
+  "edition": 85,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 1: BRICS Finance Ministers convene at Bharat Mandapam — eleven states on cross-border payments, national currency trade, CBDC corridors. India chairs the pre-summit session ten days before leaders arrive. Prediction 3 resolves September 12-13: adopted framework or another deferral.",
-      "watching": "BRICS Finance Ministers communiqué Sept 1-2; September 12-13 summit activation language on BRICS Bridge",
+      "verdict": "September 1-2: BRICS Finance Ministers closed Bharat Mandapam session on payments architecture — CBDC interoperability, national-currency bilateral tiers. Xi Jinping expected with 400 officials for September 12-13 summit; first India visit since 2019. Seven years of border tension dissolving into a BRICS Bridge summit is the convergence the Atlantic order feared.",
+      "watching": "BRICS Bridge activation language Sept 12-13; Xi-Modi bilateral on LAC",
       "sources": [
         {
-          "label": "Business Standard — BRICS finance ministers to discuss digital currency, currency trade",
+          "label": "Business Standard — BRICS Finance Ministers to discuss digital currency, currency trade",
           "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+        },
+        {
+          "label": "Semafor — China's Xi Jinping likely to attend BRICS summit in India",
+          "url": "https://www.semafor.com/article/08/24/2026/chinas-xi-jinping-likely-to-attend-brics-summit-in-india"
         }
       ]
     },
@@ -36,12 +40,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 1: EEF opens in Vladivostok; Prabowo Subianto, Ding Xuexiang, Mongolia's premier confirmed for September 3 plenary. Kim Jong Un has not traveled; Seoul reports no DPRK delegation signal. Prediction 25 (Kim-Putin summit, 65%) has the plenary as its last window.",
-      "watching": "Kim Jong Un travel signal before September 3 plenary; P25 resolution",
+      "verdict": "September 2: EEF Day Two. China's Ding Xuexiang attends September 3 plenary; Kim Jong Un has not signaled travel and Seoul reports no DPRK delegation. Prediction 25 — Kim-Putin summit at EEF, 65% — closes September 4. A second consecutive missed summit does not wound the relationship; it notes itself on the ledger.",
+      "watching": "Kim Jong Un travel signal before September 4 EEF close; P25 resolution",
       "sources": [
         {
-          "label": "TASS — Eastern Economic Forum begins in Russia's Vladivostok",
-          "url": "https://tass.com/economy/2180131"
+          "label": "TASS — EEF guest list: Indonesia, Mongolia, Myanmar, China confirmed",
+          "url": "https://tass.com/politics/2179097"
         },
         {
           "label": "Korea Times — S. Korea not to attend Russia's economic forum this week",
@@ -53,12 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 1: New ECOWAS president Birame Diop pledges deeper engagement with AES states on inauguration day in Abuja — a rhetorical shift after years of sanctions threats. Material test: whether this becomes institutional contact. Russia-BF commission Sept 16.",
-      "watching": "ECOWAS-AES re-engagement: rhetoric or institutional contact; Russia-BF commission Sept 16",
+      "verdict": "September 1: AES Games second edition opens in Ouagadougou — twelve sports, three confederal states competing through September 10. New ECOWAS president Birame Diop pledged re-engagement with AES states on inauguration day in Abuja — untested rhetoric until institutional contact follows.",
+      "watching": "ECOWAS-AES institutional contact vs. rhetoric; Russia-BF commission Sept 16",
       "sources": [
         {
-          "label": "PM News Nigeria — ECOWAS will deepen engagement with Mali, Burkina Faso, Niger",
-          "url": "https://pmnewsnigeria.com/2026/09/01/ecowas-will-deepen-engagement-with-mali-burkina-faso-niger/"
+          "label": "AIB — AES Youth and Volunteerism Forum Ouagadougou",
+          "url": "https://www.aib.media/162935-2"
+        },
+        {
+          "label": "The News Chronicle — New ECOWAS President Pledges Engagement With AES States",
+          "url": "https://thenews-chronicle.com/new-ecowas-president-pledges-engagement-with-aes-states/"
         }
       ]
     },
@@ -103,11 +111,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 1: P14 misses — Druzhkovka not under fire control by deadline. Heights held, fire sack confirmed in approaches, city center contested. Kremlin's December target and military's March timeline remain operative. P14 (75%) marked 错; advance is real, timeline extended.",
+      "basis": "September 2: Battle of Druzhkovka opened — assault units at city approaches as of September 1, ridge above held, fire-sack geometry set. P14 graded 错; Prediction 27 (fire control November 1, 72%) is the active call. Kyiv railway depot struck September 1, seven killed — infrastructure attrition continues.",
       "sources": [
         {
-          "label": "SouthFront Maps — Russian Army Captures Petrovka, Approaches Rayskoye",
-          "url": "https://maps.southfront.press/russian-army-captures-petrovka-approaches-rayskoye"
+          "label": "Military Stuff — Druzhkivka Battle Begins 2026.09.01",
+          "url": "https://www.military-stuff.org/missile-storm-on-kyiv-orikhiv-cauldron-druzhkivka-battle-begins-ms-2026-09-01/"
         }
       ]
     },
@@ -163,6 +171,70 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "text": "BRICS Finance Ministers close Bharat Mandapam session on payments architecture — CBDC interoperability, national-currency tiers — ten days before Xi Jinping expected in New Delhi for September 12-13 summit; first India visit since 2019.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Business Standard — BRICS Finance Ministers to discuss digital currency, currency trade",
+              "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+            },
+            {
+              "label": "Semafor — China's Xi Jinping likely to attend BRICS summit in India",
+              "url": "https://www.semafor.com/article/08/24/2026/chinas-xi-jinping-likely-to-attend-brics-summit-in-india"
+            }
+          ]
+        },
+        {
+          "text": "P14 graded 错 — September 1 deadline missed; battle of Druzhkovka opened, assault units at city approaches, ridge held, fire-sack geometry set; Prediction 27 (fire control by November 1, 72%) is the active call.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Military Stuff — Druzhkivka Battle Begins 2026.09.01",
+              "url": "https://www.military-stuff.org/missile-storm-on-kyiv-orikhiv-cauldron-druzhkivka-battle-begins-ms-2026-09-01/"
+            }
+          ]
+        },
+        {
+          "text": "EEF opened September 1 in Vladivostok; Kim Jong Un has not signaled travel, Seoul reports no DPRK delegation; Prediction 25 (Kim-Putin summit at EEF, 65%) closes September 4 with two days remaining.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "TASS — EEF guest list: Indonesia, Mongolia, Myanmar, China confirmed",
+              "url": "https://tass.com/politics/2179097"
+            },
+            {
+              "label": "Korea JoongAng Daily — South Korea skips Russia's Eastern Economic Forum",
+              "url": "https://www.koreajoongangdaily.com/korea/south-korea-to-skip-russias-economic-forum/12851826"
+            }
+          ]
+        },
+        {
+          "text": "AES Games second edition opens September 1 in Ouagadougou — twelve sports, three member states through September 10; ECOWAS president Birame Diop pledges AES re-engagement on inauguration day in Abuja.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "AIB — AES Youth and Volunteerism Forum Ouagadougou",
+              "url": "https://www.aib.media/162935-2"
+            },
+            {
+              "label": "The News Chronicle — New ECOWAS President Pledges Engagement With AES States",
+              "url": "https://thenews-chronicle.com/new-ecowas-president-pledges-engagement-with-aes-states/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P25 EEF Kim-Putin Sept 4 deadline — 2 days, 65%, no travel signal yet",
+        "BRICS Bridge activation language Sept 12-13 New Delhi (Prediction 3)",
+        "P27 Druzhkovka fire control by Nov 1 — battle now open",
+        "Russia-BF commission Sept 16 — material test of Sahel axis",
+        "P24 Orekhov fire control by Oct 15"
+      ]
+    },
     {
       "date": "2026-09-01",
       "items": [
