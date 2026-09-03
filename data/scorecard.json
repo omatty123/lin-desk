@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02",
-  "edition": 85,
+  "updated": "2026-09-03",
+  "edition": 86,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,15 +40,15 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 2: EEF Day Two. China's Ding Xuexiang attends September 3 plenary; Kim Jong Un has not signaled travel and Seoul reports no DPRK delegation. Prediction 25 — Kim-Putin summit at EEF, 65% — closes September 4. A second consecutive missed summit does not wound the relationship; it notes itself on the ledger.",
-      "watching": "Kim Jong Un travel signal before September 4 EEF close; P25 resolution",
+      "verdict": "September 3: EEF plenary — no Kim, no DPRK delegation; Seoul boycotted entirely. Prediction 25 (Kim-Putin at EEF, 65%) resolves September 4. The peninsula posture is unchanged; Kim's calculation on format is the variable the desk misread.",
+      "watching": "P25 resolution September 4; next Putin-Kim format after EEF miss",
       "sources": [
         {
-          "label": "TASS — EEF guest list: Indonesia, Mongolia, Myanmar, China confirmed",
-          "url": "https://tass.com/politics/2179097"
+          "label": "TASS — Putin EEF plenary",
+          "url": "https://tass.com/politics/2179103"
         },
         {
-          "label": "Korea Times — S. Korea not to attend Russia's economic forum this week",
+          "label": "Korea Times — Seoul skips EEF",
           "url": "https://www.koreatimes.co.kr/foreignaffairs/20260831/s-korea-not-to-attend-russias-economic-forum-this-week"
         }
       ]
@@ -111,11 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 2: Battle of Druzhkovka opened — assault units at city approaches as of September 1, ridge above held, fire-sack geometry set. P14 graded 错; Prediction 27 (fire control November 1, 72%) is the active call. Kyiv railway depot struck September 1, seven killed — infrastructure attrition continues.",
+      "basis": "September 2: Street fighting reached central Orekhov; Vostok grouping took Chervonaya Krinitsa (15 sq km fortified ground). Tempo is the weapon; Kyiv's male demographic depletion is the structural constraint on unit rotation.",
       "sources": [
         {
-          "label": "Military Stuff — Druzhkivka Battle Begins 2026.09.01",
-          "url": "https://www.military-stuff.org/missile-storm-on-kyiv-orikhiv-cauldron-druzhkivka-battle-begins-ms-2026-09-01/"
+          "label": "Southfront — September Opening: Russia Advances",
+          "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
+        },
+        {
+          "label": "Southfront — Russian Army Strangles Orekhov",
+          "url": "https://southfront.press/russian-army-strangles-orekhov/"
         }
       ]
     },
@@ -171,6 +175,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "text": "EEF plenary without Kim — Prabowo and Ding Xuexiang onstage, Seoul boycotted; P25 (65%) resolves September 4 as no-show",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "TASS — Putin to deliver EEF plenary Sept 3",
+              "url": "https://tass.com/politics/2179103"
+            },
+            {
+              "label": "Korea Times — South Korea skips EEF",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/20260831/s-korea-not-to-attend-russias-economic-forum-this-week"
+            }
+          ]
+        },
+        {
+          "text": "Street fighting in central Orekhov; Vostok grouping took Chervonaya Krinitsa (15 sq km) — P24 Oct 15 deadline within reach ahead of schedule",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront — September Opening: Russia Advances",
+              "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
+            },
+            {
+              "label": "Southfront — Russian Army Strangles Orekhov",
+              "url": "https://southfront.press/russian-army-strangles-orekhov/"
+            }
+          ]
+        },
+        {
+          "text": "BRICS Finance Ministers closed Bharat Mandapam with CBDC interoperability and bilateral-tier language; bridge activation deferred to Sept 12-13 summit — P3 final approach",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "TASS — EEF plenary session",
+              "url": "https://tass.com/economy/2181731"
+            },
+            {
+              "label": "Watcher.Guru — BRICS dedollarization 2026",
+              "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P25 Kim-Putin EEF resolves Sept 4 — no travel signal, resolves 错",
+        "P3 BRICS Bridge activation Sept 12-13 summit — Finance Ministers set the terms",
+        "P24 Orekhov fire control Oct 15 (68%) — city center in contact",
+        "P27 Druzhkovka fire control Nov 1 (72%) — approaches cleared",
+        "Russia-BF defense commission Sept 16"
+      ]
+    },
     {
       "date": "2026-09-02",
       "items": [
