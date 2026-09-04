@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03",
-  "edition": 86,
+  "updated": "2026-09-04",
+  "edition": 87,
   "board": [
     {
       "name_zh": "多极化",
@@ -39,17 +39,17 @@
     {
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
-      "trend": "up",
-      "verdict": "September 3: EEF plenary — no Kim, no DPRK delegation; Seoul boycotted entirely. Prediction 25 (Kim-Putin at EEF, 65%) resolves September 4. The peninsula posture is unchanged; Kim's calculation on format is the variable the desk misread.",
-      "watching": "P25 resolution September 4; next Putin-Kim format after EEF miss",
+      "trend": "steady",
+      "verdict": "EEF closed September 4 without Kim. P25 (65%) resolves 错: no DPRK delegation. Russia-DPRK bilateral intact — technical personnel on Russian soil, trade at record pace. Kim has declined EEF format twice; framework survives the format. Next occasion: bilateral, not a multilateral forum.",
+      "watching": "Next Putin-Kim bilateral format after EEF miss; DPRK trade flows Q3",
       "sources": [
         {
-          "label": "TASS — Putin EEF plenary",
-          "url": "https://tass.com/politics/2179103"
+          "label": "TASS — EEF 2026 attendees",
+          "url": "https://tass.com/politics/2179097"
         },
         {
-          "label": "Korea Times — Seoul skips EEF",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/20260831/s-korea-not-to-attend-russias-economic-forum-this-week"
+          "label": "Korea JoongAng Daily — South Korea skips EEF",
+          "url": "https://www.koreajoongangdaily.com/korea/south-korea-to-skip-russias-economic-forum/12851826"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 2: Street fighting reached central Orekhov; Vostok grouping took Chervonaya Krinitsa (15 sq km fortified ground). Tempo is the weapon; Kyiv's male demographic depletion is the structural constraint on unit rotation.",
+      "basis": "September 4: Russian forces reached outskirts of Druzhkovka, dominant heights captured commanding city approaches. P27 (72%, Nov 1) tracking ahead of schedule. Orekhov city-center fighting ongoing. Kyiv manpower depletion structural; tempo remains the weapon.",
       "sources": [
         {
-          "label": "Southfront — September Opening: Russia Advances",
-          "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
+          "label": "Southfront — Druzhkovka outskirts reached",
+          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
         },
         {
-          "label": "Southfront — Russian Army Strangles Orekhov",
-          "url": "https://southfront.press/russian-army-strangles-orekhov/"
+          "label": "Southfront Maps — heights near Druzhkovka",
+          "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
         }
       ]
     },
@@ -175,6 +175,49 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "text": "EEF WITHOUT KIM: PREDICTION 25 CLOSES 错 — EEF closed Vladivostok today, no Kim, no DPRK delegation; bilateral intact; P25 (65%) resolves 错",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "TASS — EEF 2026 attendees",
+              "url": "https://tass.com/politics/2179097"
+            },
+            {
+              "label": "Korea JoongAng Daily — South Korea skips EEF",
+              "url": "https://www.koreajoongangdaily.com/korea/south-korea-to-skip-russias-economic-forum/12851826"
+            }
+          ]
+        },
+        {
+          "text": "DRUZHKOVKA'S EDGE: THE HEIGHTS ARE TAKEN — Russian forces at Druzhkovka outskirts, dominant heights captured; P27 (72%, Nov 1) tracking ahead of schedule",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront — Druzhkovka outskirts reached",
+              "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+            },
+            {
+              "label": "Southfront Maps — heights near Druzhkovka",
+              "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+            }
+          ]
+        },
+        {
+          "text": "NINE DAYS TO NEW DELHI: THE BRIDGE ON THE TABLE — Finance Ministers deferred bridge to summit; two-thirds USD reduction intra-bloc; P3 closes this month"
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — activation or deferral",
+        "P24 Orekhov Oct 15 (68%) — city center in contact",
+        "P27 Druzhkovka Nov 1 (72%) — outskirts reached, heights taken",
+        "P21 Wisconsin Nov 3 (55%) — race nearly tied per latest average",
+        "Russia-BF commission Sept 16"
+      ]
+    },
     {
       "date": "2026-09-03",
       "items": [
@@ -5237,11 +5280,11 @@
         "resolution": "Resolves 对 if Kim Jong Un is confirmed to have met Vladimir Putin in person at or around the Eastern Economic Forum (September 1-4, Vladivostok) per credible reporting (Yonhap, Reuters, KCNA, Kremlin). Resolves 错 if no Kim-Putin face-to-face meeting occurs before September 5.",
         "confidence": 65
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": null
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-09-04",
+      "note": "Kim Jong Un did not attend the EEF (September 1-4, 2026). No DPRK delegation present. The reasoning — summit opportunity compelling enough for Kim to travel — did not hold; Kim chose not to validate the multilateral format a second consecutive time."
     },
     {
       "schema_version": 2,
@@ -5279,6 +5322,10 @@
     }
   ],
   "corrections": [
+    {
+      "date": "2026-09-04",
+      "text": "P25 closed 错: Kim declined EEF September 1-4, the second consecutive miss on a Putin-Kim summit prediction (P23 also 错). The desk has overrated the summit-format pull on Kim; the bilateral framework depth without the theatre signal (no train departure, no state-media buildup) was the tell in both cases. Revise the standing read: Kim engages through operational channels, not summit theatre."
+    },
     {
       "date": "2026-09-01",
       "text": "P14 错 (2026-09-01): Druzhkovka fire control prediction (75%) missed the September 1 deadline. Russian forces established a fire sack in the Druzhkovka-Konstantinovka corridor and captured commanding heights, but did not achieve operational fire control over the city proper. The advance is material and ongoing — the desk files a follow-on at 72% by November 1."
