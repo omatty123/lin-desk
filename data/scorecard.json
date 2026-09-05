@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-04",
-  "edition": 87,
+  "updated": "2026-09-05",
+  "edition": 88,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 1-2: BRICS Finance Ministers closed Bharat Mandapam session on payments architecture — CBDC interoperability, national-currency bilateral tiers. Xi Jinping expected with 400 officials for September 12-13 summit; first India visit since 2019. Seven years of border tension dissolving into a BRICS Bridge summit is the convergence the Atlantic order feared.",
+      "verdict": "September 5: India draws the Bridge terms — CBDC interoperability and UPI-linked fast payments, no common currency. Seven days to New Delhi (Sept 12-13). Finance Ministers set bilateral tiers and CBDC architecture Sept 1-2. P3 resolves Sept 30.",
       "watching": "BRICS Bridge activation language Sept 12-13; Xi-Modi bilateral on LAC",
       "sources": [
         {
-          "label": "Business Standard — BRICS Finance Ministers to discuss digital currency, currency trade",
-          "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+          "label": "Organiser — BRICS New Delhi Summit 2026: India backs faster cross-border payments",
+          "url": "https://organiser.org/2026/09/01/378102/bharat/brics-new-delhi-summit-2026-india-to-push-digital-currencies-for-uninterrupted-cheaper-cross-border-payments/"
         },
         {
-          "label": "Semafor — China's Xi Jinping likely to attend BRICS summit in India",
-          "url": "https://www.semafor.com/article/08/24/2026/chinas-xi-jinping-likely-to-attend-brics-summit-in-india"
+          "label": "VOI World — India Pushes Trade, Digital Payments Agenda Ahead of BRICS Summit",
+          "url": "https://www.voiworld.com/india-pushes-trade-digital-payments-agenda-ahead-of-brics-summit/"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 1: AES Games second edition opens in Ouagadougou — twelve sports, three confederal states competing through September 10. New ECOWAS president Birame Diop pledged re-engagement with AES states on inauguration day in Abuja — untested rhetoric until institutional contact follows.",
-      "watching": "ECOWAS-AES institutional contact vs. rhetoric; Russia-BF commission Sept 16",
+      "verdict": "September 16: inaugural Russia-Burkina Faso Intergovernmental Commission convenes in Moscow — security, energy, mining, trade. Six of 15 industrial gold mines now majority Burkinabe-owned; commission formalizes institutional architecture matching the ground. ECOWAS re-engagement rhetoric continues; AES Games close September 10.",
+      "watching": "Russia-BF commission Sept 16 refinery and infrastructure agenda; ECOWAS-AES institutional contact vs. rhetoric",
       "sources": [
         {
-          "label": "AIB — AES Youth and Volunteerism Forum Ouagadougou",
-          "url": "https://www.aib.media/162935-2"
+          "label": "Xinhua — Burkina Faso, Russia agree to convene 1st intergovernmental commission",
+          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
         },
         {
-          "label": "The News Chronicle — New ECOWAS President Pledges Engagement With AES States",
-          "url": "https://thenews-chronicle.com/new-ecowas-president-pledges-engagement-with-aes-states/"
+          "label": "Ecofin Agency — Burkina Faso pushes nationalist gold mining policy under Traoré",
+          "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 4: Russian forces reached outskirts of Druzhkovka, dominant heights captured commanding city approaches. P27 (72%, Nov 1) tracking ahead of schedule. Orekhov city-center fighting ongoing. Kyiv manpower depletion structural; tempo remains the weapon.",
+      "basis": "September 5: Orekhov supply road (Omelnyk) under Russian fire control; northeast position 10km from city secured. P24 fire-control deadline Oct 15 (68%) tracking ahead. Druzhkovka dominant heights held (P27, Nov 1). Two advance arcs — Zaporizhzhia and Donetsk.",
       "sources": [
         {
-          "label": "Southfront — Druzhkovka outskirts reached",
-          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+          "label": "Athens News — Russia increasing coverage of Orekhov",
+          "url": "https://en.rua.gr/2026/09/02/russia-is-increasing-its-coverage-of-orekhov-is-the-ukrainian-fortified-area-really-in-danger-of-encirclement/"
         },
         {
-          "label": "Southfront Maps — heights near Druzhkovka",
-          "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+          "label": "Southfront — September Opening: Russia Advances, Kyiv Shoots Itself",
+          "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
         }
       ]
     },
@@ -175,6 +175,32 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-05",
+      "items": [
+        {
+          "text": "Konka River: Orekhov's supply road under fire — logistics road from Omelnyk under Russian fire control, 10km position northeast secured; P24 tracks ahead of Oct 15 deadline",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Athens News — Russia increasing coverage of Orekhov",
+              "url": "https://en.rua.gr/2026/09/02/russia-is-increasing-its-coverage-of-orekhov-is-the-ukrainian-fortified-area-really-in-danger-of-encirclement/"
+            },
+            {
+              "label": "Southfront — September Opening: Russia Advances, Kyiv Shoots Itself",
+              "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — binding declaration or roadmap only",
+        "P24 Orekhov Oct 15 (68%) — supply road under fire, ahead of schedule",
+        "P27 Druzhkovka Nov 1 (72%) — heights held",
+        "Russia-BF commission Sept 16 — refinery agenda confirmed or absent",
+        "P21 Wisconsin Nov 3 (55%) — next Marquette poll"
+      ]
+    },
     {
       "date": "2026-09-04",
       "items": [
