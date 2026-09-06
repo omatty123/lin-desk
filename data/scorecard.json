@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-04",
-  "edition": 87,
+  "updated": "2026-09-06",
+  "edition": 89,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 1-2: BRICS Finance Ministers closed Bharat Mandapam session on payments architecture — CBDC interoperability, national-currency bilateral tiers. Xi Jinping expected with 400 officials for September 12-13 summit; first India visit since 2019. Seven years of border tension dissolving into a BRICS Bridge summit is the convergence the Atlantic order feared.",
+      "verdict": "September 6: BRICS Pay has reduced dollar use in intra-bloc trade by roughly two-thirds ahead of New Delhi (Sept 12-13). Dollar holds 57% of identified global FX reserves — the adversary's strongest counter. The institutional defection trend is structural and accelerating.",
       "watching": "BRICS Bridge activation language Sept 12-13; Xi-Modi bilateral on LAC",
       "sources": [
         {
-          "label": "Business Standard — BRICS Finance Ministers to discuss digital currency, currency trade",
-          "url": "https://www.business-standard.com/finance/news/brics-finance-ministers-to-discuss-digital-currency-currency-trade-126082701435_1.html"
+          "label": "Rio Times — BRICS dedollarization 2026",
+          "url": "https://www.riotimesonline.com/brics-de-dollarization-national-currencies-2026/"
         },
         {
-          "label": "Semafor — China's Xi Jinping likely to attend BRICS summit in India",
-          "url": "https://www.semafor.com/article/08/24/2026/chinas-xi-jinping-likely-to-attend-brics-summit-in-india"
+          "label": "Watcher.guru — BRICS dedollarization global launch",
+          "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
         }
       ]
     },
@@ -40,16 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "steady",
-      "verdict": "EEF closed September 4 without Kim. P25 (65%) resolves 错: no DPRK delegation. Russia-DPRK bilateral intact — technical personnel on Russian soil, trade at record pace. Kim has declined EEF format twice; framework survives the format. Next occasion: bilateral, not a multilateral forum.",
-      "watching": "Next Putin-Kim bilateral format after EEF miss; DPRK trade flows Q3",
+      "verdict": "September 4: Tumen River road bridge declared 'ready for operation' by Khasan district administration — first direct Russia-DPRK road link, 2,850 daily crossings capacity. Kim declined EEF twice; the infrastructure track advances independently of bilateral summitry.",
+      "watching": "Tumen bridge opening ceremony — Putin-Kim bilateral opportunity; DPRK-China Yalu bridge opening",
       "sources": [
         {
-          "label": "TASS — EEF 2026 attendees",
-          "url": "https://tass.com/politics/2179097"
+          "label": "RFA — Bridges to China, Russia preparing to open",
+          "url": "https://www.rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/"
         },
         {
-          "label": "Korea JoongAng Daily — South Korea skips EEF",
-          "url": "https://www.koreajoongangdaily.com/korea/south-korea-to-skip-russias-economic-forum/12851826"
+          "label": "NK News — Russia seeks to open car bridge in September",
+          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 1: AES Games second edition opens in Ouagadougou — twelve sports, three confederal states competing through September 10. New ECOWAS president Birame Diop pledged re-engagement with AES states on inauguration day in Abuja — untested rhetoric until institutional contact follows.",
-      "watching": "ECOWAS-AES institutional contact vs. rhetoric; Russia-BF commission Sept 16",
+      "verdict": "September 16: inaugural Russia-Burkina Faso Intergovernmental Commission convenes in Moscow — security, energy, mining, trade. Six of 15 industrial gold mines now majority Burkinabe-owned; commission formalizes institutional architecture matching the ground. ECOWAS re-engagement rhetoric continues; AES Games close September 10.",
+      "watching": "Russia-BF commission Sept 16 refinery and infrastructure agenda; ECOWAS-AES institutional contact vs. rhetoric",
       "sources": [
         {
-          "label": "AIB — AES Youth and Volunteerism Forum Ouagadougou",
-          "url": "https://www.aib.media/162935-2"
+          "label": "Xinhua — Burkina Faso, Russia agree to convene 1st intergovernmental commission",
+          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
         },
         {
-          "label": "The News Chronicle — New ECOWAS President Pledges Engagement With AES States",
-          "url": "https://thenews-chronicle.com/new-ecowas-president-pledges-engagement-with-aes-states/"
+          "label": "Ecofin Agency — Burkina Faso pushes nationalist gold mining policy under Traoré",
+          "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 4: Russian forces reached outskirts of Druzhkovka, dominant heights captured commanding city approaches. P27 (72%, Nov 1) tracking ahead of schedule. Orekhov city-center fighting ongoing. Kyiv manpower depletion structural; tempo remains the weapon.",
+      "basis": "September 5: Witkoff-Kushner US delegation in Moscow — first direct US-Russia contact in 8 months; Putin received them, rejected frontline ceasefire, accepted 3-day city-strike pause. Russia holds initiative and terms. Orekhov supply road under fire control; P24 on track.",
       "sources": [
         {
-          "label": "Southfront — Druzhkovka outskirts reached",
-          "url": "https://southfront.press/russian-army-reaches-outskirts-of-druzhkovka/"
+          "label": "WaPo — Witkoff, Kushner arrive Moscow",
+          "url": "https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/"
         },
         {
-          "label": "Southfront Maps — heights near Druzhkovka",
-          "url": "https://maps.southfront.press/russian-army-storms-strategic-heights-near-druzhkovka"
+          "label": "Al Jazeera — Putin meets US envoys",
+          "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
         }
       ]
     },
@@ -175,6 +175,86 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "text": "THREE DAYS IN MOSCOW — Witkoff-Kushner in Moscow Sept 5; Putin accepted talks, rejected ceasefire; 3-day city-strike pause. Russia holds the initiative.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "WaPo — Witkoff, Kushner arrive Moscow",
+              "url": "https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/"
+            },
+            {
+              "label": "Al Jazeera — Putin meets US envoys",
+              "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
+            }
+          ]
+        },
+        {
+          "text": "TUMEN DECLARES ITSELF READY — Russia-DPRK road bridge 'ready for operation' per Khasan district administration Sept 4; 2,850 daily crossings; China cargo expected.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "RFA — Bridges to China, Russia preparing to open",
+              "url": "https://www.rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/"
+            },
+            {
+              "label": "NK News — Russia seeks to open car bridge in September",
+              "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
+            }
+          ]
+        },
+        {
+          "text": "SIX DAYS TO NEW DELHI — BRICS Pay reduced dollar use in intra-bloc trade by two-thirds; summit Sept 12-13 resolves P3: binding activation or another roadmap.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Rio Times — BRICS dedollarization 2026",
+              "url": "https://www.riotimesonline.com/brics-de-dollarization-national-currencies-2026/"
+            },
+            {
+              "label": "Watcher.guru — BRICS dedollarization global launch",
+              "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — activation language or roadmap",
+        "P26 Kazacha Lopan Sept 15 — logistics corridor cut or miss",
+        "P24 Orekhov Oct 15 — fire control on track",
+        "P27 Druzhkovka Nov 1 — heights held",
+        "P21 Wisconsin Nov 3 — Crowley-Tiffany general race"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "items": [
+        {
+          "text": "Konka River: Orekhov's supply road under fire — logistics road from Omelnyk under Russian fire control, 10km position northeast secured; P24 tracks ahead of Oct 15 deadline",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Athens News — Russia increasing coverage of Orekhov",
+              "url": "https://en.rua.gr/2026/09/02/russia-is-increasing-its-coverage-of-orekhov-is-the-ukrainian-fortified-area-really-in-danger-of-encirclement/"
+            },
+            {
+              "label": "Southfront — September Opening: Russia Advances, Kyiv Shoots Itself",
+              "url": "https://southfront.press/russia-advances-kiev-shoots-itself"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — binding declaration or roadmap only",
+        "P24 Orekhov Oct 15 (68%) — supply road under fire, ahead of schedule",
+        "P27 Druzhkovka Nov 1 (72%) — heights held",
+        "Russia-BF commission Sept 16 — refinery agenda confirmed or absent",
+        "P21 Wisconsin Nov 3 (55%) — next Marquette poll"
+      ]
+    },
     {
       "date": "2026-09-04",
       "items": [
