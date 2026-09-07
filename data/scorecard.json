@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06",
-  "edition": 89,
+  "updated": "2026-09-07",
+  "edition": 90,
   "board": [
     {
       "name_zh": "多极化",
@@ -39,17 +39,17 @@
     {
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
-      "trend": "steady",
-      "verdict": "September 4: Tumen River road bridge declared 'ready for operation' by Khasan district administration — first direct Russia-DPRK road link, 2,850 daily crossings capacity. Kim declined EEF twice; the infrastructure track advances independently of bilateral summitry.",
-      "watching": "Tumen bridge opening ceremony — Putin-Kim bilateral opportunity; DPRK-China Yalu bridge opening",
+      "trend": "up",
+      "verdict": "September 7: Kang Kon, 5,000-ton nuclear-capable destroyer, commissioned at Wonsan — second in class, formally part of the 'state nuclear counteraction system.' Kim Ju Ae received salutes and boarded the hull: succession curriculum advancing alongside naval expansion. Tumen road bridge declared operational September 4; infrastructure track continues to outpace the summit track.",
+      "watching": "Kang Kon fleet assignment — east or west names target doctrine; Tumen bridge opening ceremony",
       "sources": [
         {
-          "label": "RFA — Bridges to China, Russia preparing to open",
-          "url": "https://www.rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/"
+          "label": "UPI — North Korea commissions second nuclear-capable naval destroyer",
+          "url": "https://www.upi.com/Top_News/World-News/2026/09/07/North-Korea-destroyer-Kang-Kon-navy-Kim-Jong-Un/1511788768207"
         },
         {
-          "label": "NK News — Russia seeks to open car bridge in September",
-          "url": "https://www.nknews.org/2026/07/russia-seeks-to-open-new-car-bridge-to-north-korea-in-september-official/"
+          "label": "Korea Herald — N. Korea commissions nuclear-capable naval destroyer Kang Kon",
+          "url": "https://www.koreaherald.com/article/10864322"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 16: inaugural Russia-Burkina Faso Intergovernmental Commission convenes in Moscow — security, energy, mining, trade. Six of 15 industrial gold mines now majority Burkinabe-owned; commission formalizes institutional architecture matching the ground. ECOWAS re-engagement rhetoric continues; AES Games close September 10.",
-      "watching": "Russia-BF commission Sept 16 refinery and infrastructure agenda; ECOWAS-AES institutional contact vs. rhetoric",
+      "verdict": "September 7: Faso Mêbo road works broke ground in Bankui and Sourou — first deployment beyond Ouagadougou, reaching the northern security belt. Russia-Burkina Faso commission convenes September 16 in Moscow; infrastructure ledger expanding provincially. Six of 15 industrial gold mines majority Burkinabe-owned.",
+      "watching": "Russia-BF commission Sept 16 refinery and infrastructure agenda; Sourou corridor grain-link viability",
       "sources": [
         {
-          "label": "Xinhua — Burkina Faso, Russia agree to convene 1st intergovernmental commission",
-          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
+          "label": "Sidwaya — Régions de Bankui et du Sourou: les activités de l'Agence Faso Mêbo officiellement lancées",
+          "url": "https://www.sidwaya.info/regions-de-bankui-et-du-sourou-les-activites-de-lagence-faso-mebo-officiellement-lancees/"
         },
         {
-          "label": "Ecofin Agency — Burkina Faso pushes nationalist gold mining policy under Traoré",
-          "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
+          "label": "Observer Diplomat — How Burkina Faso Redeployed Its Gold Wealth Under Captain Ibrahim Traoré",
+          "url": "https://observerdiplomat.com/how-burkina-faso-redeployed-its-gold-wealth-under-captain-ibrahim-traore/"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "August 29: Marquette Law School poll (August 26, 512 likely voters) puts Crowley at 49%, Tiffany at 44% — the state's most credible survey, first post-primary credible head-to-head. Independents remain Crowley +12; the structural gap in a deindustrialized state. Prediction 21 holds at 55%.",
-      "watching": "Wisconsin Nov 3 general — Prediction 21; next Marquette poll — independent gap when Tiffany's Trump coalition activates",
+      "verdict": "September 7: Pollsmax composite Crowley 46.9%, Tiffany 46.5% — statistically tied, tightening from post-primary Marquette +5. Tiffany's rural coalition closes faster than urbanist model assumed; Foxconn graveyard not a drag. Democratic win probability 54.5%; Prediction 21 filed at 55% confidence threshold.",
+      "watching": "Next Marquette poll — independent margin; Wisconsin Nov 3 general — Prediction 21",
       "sources": [
         {
-          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll",
-          "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+          "label": "The Hill — David Crowley, Tom Tiffany tied in Wisconsin governor's race: Poll",
+          "url": "https://thehill.com/homenews/campaign/6053567-crowley-tiffany-tied-poll/"
         },
         {
-          "label": "Fox11 — Marquette University Law School poll August 26",
-          "url": "https://fox11online.com/news/election/2026-wisconsin-governor-race-campaign-david-crowley-tom-tiffany-marquette-university-law-school-poll-august-26"
+          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll of governor's race",
+          "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
         }
       ]
     }
@@ -175,6 +175,59 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-07",
+      "items": [
+        {
+          "text": "Kang Kon: The Second Destroyer Enters the System — Kim commissioned 5,000-ton nuclear-capable destroyer at Wonsan; Kim Ju Ae received salutes and boarded the hull. Second in class, formally part of the 'state nuclear counteraction system.'",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "UPI — North Korea commissions second nuclear-capable naval destroyer",
+              "url": "https://www.upi.com/Top_News/World-News/2026/09/07/North-Korea-destroyer-Kang-Kon-navy-Kim-Jong-Un/1511788768207"
+            },
+            {
+              "label": "Korea Herald — N. Korea commissions nuclear-capable naval destroyer Kang Kon",
+              "url": "https://www.koreaherald.com/article/10864322"
+            }
+          ]
+        },
+        {
+          "text": "Bankui and Sourou: Faso Mêbo Puts Ground Under Its Feet — Road works broke ground today, first deployment beyond Ouagadougou, reaching the northern security belt zone. Russia-BF commission convenes in nine days; infrastructure ledger expands before Moscow table.",
+          "links": [
+            {
+              "label": "Sidwaya — Régions de Bankui et du Sourou: les activités de l'Agence Faso Mêbo officiellement lancées",
+              "url": "https://www.sidwaya.info/regions-de-bankui-et-du-sourou-les-activites-de-lagence-faso-mebo-officiellement-lancees/"
+            },
+            {
+              "label": "Observer Diplomat — How Burkina Faso Redeployed Its Gold Wealth Under Captain Ibrahim Traoré",
+              "url": "https://observerdiplomat.com/how-burkina-faso-redeployed-its-gold-wealth-under-captain-ibrahim-traore/"
+            }
+          ]
+        },
+        {
+          "text": "Crowley-Tiffany: The Tie Arrives — Pollsmax composite 46.9-46.5, tied from post-primary Marquette +5. Democratic win probability 54.5%; Prediction 21 at 55% confidence threshold. Tiffany's rural coalition closes faster than urbanist model assumed.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "The Hill — David Crowley, Tom Tiffany tied in Wisconsin governor's race: Poll",
+              "url": "https://thehill.com/homenews/campaign/6053567-crowley-tiffany-tied-poll/"
+            },
+            {
+              "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll of governor's race",
+              "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — activation language or roadmap",
+        "P26 Kazacha Lopan Sept 15 — logistics corridor cut or miss",
+        "P24 Orekhov Oct 15 (68%) — logistics road fire control ahead of schedule",
+        "P27 Druzhkovka Nov 1 (72%) — city approaches, fire control building",
+        "P21 Wisconsin Nov 3 (55%) — race tied per composite, independent margin critical"
+      ]
+    },
     {
       "date": "2026-09-06",
       "items": [
