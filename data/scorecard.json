@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07",
-  "edition": 90,
+  "updated": "2026-09-08",
+  "edition": 91,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,16 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 7: Kang Kon, 5,000-ton nuclear-capable destroyer, commissioned at Wonsan — second in class, formally part of the 'state nuclear counteraction system.' Kim Ju Ae received salutes and boarded the hull: succession curriculum advancing alongside naval expansion. Tumen road bridge declared operational September 4; infrastructure track continues to outpace the summit track.",
-      "watching": "Kang Kon fleet assignment — east or west names target doctrine; Tumen bridge opening ceremony",
+      "verdict": "September 8: Khasan-Tumangang road bridge opened — first road crossing between Russia and DPRK. Continental logistics now in place alongside rail; bulk cargo and troop-movement capacity expanded. Kang Kon commissioned Sept 7; Tumen bridge Sept 8: two infrastructure milestones in two days.",
+      "watching": "First Tumen crossing volumes — trade vs resupply ratio; Kang Kon fleet assignment",
       "sources": [
         {
-          "label": "UPI — North Korea commissions second nuclear-capable naval destroyer",
-          "url": "https://www.upi.com/Top_News/World-News/2026/09/07/North-Korea-destroyer-Kang-Kon-navy-Kim-Jong-Un/1511788768207"
+          "label": "Korea Times — N. Korea, Russia complete road bridge over Tumen River",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260908/n-korea-russia-complete-construction-of-road-bridge-over-tumen-river-kcna"
         },
         {
-          "label": "Korea Herald — N. Korea commissions nuclear-capable naval destroyer Kang Kon",
-          "url": "https://www.koreaherald.com/article/10864322"
+          "label": "Barlaman Today — Russia, North Korea Open First Road Bridge",
+          "url": "https://barlamantoday.com/2026/09/08/russia-north-korea-open-first-road-bridge-across-tumen-river/"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "August 31: Manufacturing PMI 49.8, up from 49.2, beating consensus — new orders and output sub-indexes back above 50. High-tech manufacturing +13.8% YTD; electronics +19.1%. The adversary headline reads contraction; the material aggregate reads stabilization.",
-      "watching": "September PMI — whether new orders hold; 15th Five-Year Plan chip-output targets; Fifth Plenum October",
+      "verdict": "September 8: H1 2026 chip exports $177B, up 96% YoY; volume +14%. Adversary frames as price-driven; volume still outpaces any Atlantic semiconductor output. Legacy-node dominance in AI-adjacent hardware is choke-point strategy maturing, not a bubble. Board read: structurally rising.",
+      "watching": "Fifth Plenum October — chip-output floor in 15th Five-Year Plan; September PMI new-orders sub-index",
       "sources": [
         {
-          "label": "Xinhua — China's manufacturing PMI at 49.8 in August",
-          "url": "https://english.news.cn/20260831/023b2fce583a4d6ba0ac9919e6d1668d/c.html"
+          "label": "SCMP — Global AI boom sees China's chip exports nearly double in first half of year",
+          "url": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year"
         },
         {
-          "label": "Business Standard — China's factory activity improves in August",
-          "url": "https://www.business-standard.com/world-news/china-s-factory-activity-improves-in-august-but-remains-in-contraction-126083100229_1.html"
+          "label": "Tom's Hardware — China chip exports nearly doubled to $177B",
+          "url": "https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026"
         }
       ]
     },
@@ -111,14 +111,10 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 5: Witkoff-Kushner US delegation in Moscow — first direct US-Russia contact in 8 months; Putin received them, rejected frontline ceasefire, accepted 3-day city-strike pause. Russia holds initiative and terms. Orekhov supply road under fire control; P24 on track.",
+      "basis": "September 8: Three-day Ukrainian halt in hostilities expires without framework; Zelensky confirms war continues. Moscow accepted city-strike pause only — stated terms (no NATO path, current lines) unchanged. Witkoff-Kushner mission produced no concession from Moscow.",
       "sources": [
         {
-          "label": "WaPo — Witkoff, Kushner arrive Moscow",
-          "url": "https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/"
-        },
-        {
-          "label": "Al Jazeera — Putin meets US envoys",
+          "label": "Al Jazeera — US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
           "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
         }
       ]
@@ -175,6 +171,56 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-08",
+      "items": [
+        {
+          "text": "TUMEN OPENS — Khasan-Tumangang road bridge opened today, first road crossing between Russia and DPRK; Mishustin and Premier Pak attended by video. Continental logistics now in place for bulk cargo and troop movement alongside rail.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Korea Times — N. Korea, Russia complete road bridge over Tumen River",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260908/n-korea-russia-complete-construction-of-road-bridge-over-tumen-river-kcna"
+            },
+            {
+              "label": "Barlaman Today — Russia, North Korea Open First Road Bridge Across Tumen River",
+              "url": "https://barlamantoday.com/2026/09/08/russia-north-korea-open-first-road-bridge-across-tumen-river/"
+            }
+          ]
+        },
+        {
+          "text": "THE PAUSE ENDS — 3-day Ukrainian halt in hostilities expires today without framework. Zelensky: war will continue. Moscow accepted city-strike pause only; Russia's stated terms (no NATO path, current lines) unchanged. Prediction 1 holds.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Al Jazeera — US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
+              "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
+            }
+          ]
+        },
+        {
+          "text": "$177 BILLION — China H1 2026 chip exports $177B, up 96% YoY; volume +14%, outpacing any Atlantic semiconductor output. Legacy-node dominance in AI-adjacent hardware is the choke-point strategy maturing. Board read: structurally rising.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "SCMP — Global AI boom sees China's chip exports nearly double in first half of year",
+              "url": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year"
+            },
+            {
+              "label": "Tom's Hardware — China claims chip exports nearly doubled to $177B in H1 2026",
+              "url": "https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — activation language or roadmap",
+        "P26 Kazacha Lopan Sept 15 — logistics corridor cut or miss",
+        "P24 Orekhov Oct 15 (68%) — fire control timeline",
+        "P27 Druzhkovka Nov 1 (72%) — city approaches",
+        "P21 Wisconsin Nov 3 (55%) — Crowley +3 Democratic poll, margin of error"
+      ]
+    },
     {
       "date": "2026-09-07",
       "items": [
