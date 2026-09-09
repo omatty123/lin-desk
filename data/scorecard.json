@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-08",
-  "edition": 91,
+  "updated": "2026-09-09",
+  "edition": 92,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 6: BRICS Pay has reduced dollar use in intra-bloc trade by roughly two-thirds ahead of New Delhi (Sept 12-13). Dollar holds 57% of identified global FX reserves — the adversary's strongest counter. The institutional defection trend is structural and accelerating.",
-      "watching": "BRICS Bridge activation language Sept 12-13; Xi-Modi bilateral on LAC",
+      "verdict": "September 9: Three days to New Delhi. BRICS Pay operationally linking SPFS, CIPS, and UPI has already cut dollar usage in intra-bloc trade by two-thirds; India blocked a common currency but is building the plumbing anyway. The infrastructure is more durable than the declaration.",
+      "watching": "P3 BRICS Bridge Sept 12-13 — activation language or working-group mandate",
       "sources": [
         {
-          "label": "Rio Times — BRICS dedollarization 2026",
-          "url": "https://www.riotimesonline.com/brics-de-dollarization-national-currencies-2026/"
+          "label": "Organiser — BRICS Summit 2026: India backs cross-border payments",
+          "url": "https://organiser.org/2026/09/01/378102/bharat/brics-new-delhi-summit-2026-india-to-push-digital-currencies-for-uninterrupted-cheaper-cross-border-payments/"
         },
         {
-          "label": "Watcher.guru — BRICS dedollarization global launch",
-          "url": "https://watcher.guru/news/brics-de-dollarization-agenda-for-2026-advances-with-global-launch"
+          "label": "Asia Times — BRICS laying first tracks for new global payment system",
+          "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
         }
       ]
     },
@@ -91,15 +91,15 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "September 7: Pollsmax composite Crowley 46.9%, Tiffany 46.5% — statistically tied, tightening from post-primary Marquette +5. Tiffany's rural coalition closes faster than urbanist model assumed; Foxconn graveyard not a drag. Democratic win probability 54.5%; Prediction 21 filed at 55% confidence threshold.",
-      "watching": "Next Marquette poll — independent margin; Wisconsin Nov 3 general — Prediction 21",
+      "verdict": "September 9: RCP composite Crowley 47.5%, Tiffany 43.5% — four points clear after the post-primary spike eroded. Republican enthusiasm gap remains (55% vs 49%); if it holds, the margin does not survive October. Foxconn graveyard still not a campaign issue for either side.",
+      "watching": "Next Marquette poll — independent margin; P21 Wisconsin Nov 3 — enthusiasm gap trajectory",
       "sources": [
         {
-          "label": "The Hill — David Crowley, Tom Tiffany tied in Wisconsin governor's race: Poll",
-          "url": "https://thehill.com/homenews/campaign/6053567-crowley-tiffany-tied-poll/"
+          "label": "RealClearPolling — Wisconsin Governor 2026",
+          "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
         },
         {
-          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head poll of governor's race",
+          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head",
           "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
         }
       ]
@@ -111,11 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 8: Three-day Ukrainian halt in hostilities expires without framework; Zelensky confirms war continues. Moscow accepted city-strike pause only — stated terms (no NATO path, current lines) unchanged. Witkoff-Kushner mission produced no concession from Moscow.",
+      "basis": "September 9: N20 supply road to Druzhkovka severed; Russian forces have closed the northern pincers. Encirclement methodology is the operational logic — same method now applied on the Kharkiv axis at Kazacha Lopan (P26, September 15).",
       "sources": [
         {
-          "label": "Al Jazeera — US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
-          "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
+          "label": "RadioFreeEurope — Druzhkivka civilians struggle to leave",
+          "url": "https://www.rferl.org/a/ukraine-donetsk-druzhkivka-war-evacuations/33847181.html"
+        },
+        {
+          "label": "Southfront — Wedge driven between Slaviansk and Kramatorsk",
+          "url": "https://southfront.press/a-wedge-driven-between-slaviansk-and-kramatorsk-ukrainian-defense-is-cracking/"
         }
       ]
     },
@@ -171,6 +175,59 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-09",
+      "items": [
+        {
+          "text": "Druzhkovka: The Road Goes Dark — N20 supply road severed, northern pincers closed. Prediction 27 running four weeks ahead of its November 1 deadline; encirclement is the operational method and the record shows it working.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "RadioFreeEurope — Druzhkivka civilians struggle to leave",
+              "url": "https://www.rferl.org/a/ukraine-donetsk-druzhkivka-war-evacuations/33847181.html"
+            },
+            {
+              "label": "Southfront — Wedge driven between Slaviansk and Kramatorsk",
+              "url": "https://southfront.press/a-wedge-driven-between-slaviansk-and-kramatorsk-ukrainian-defense-is-cracking/"
+            }
+          ]
+        },
+        {
+          "text": "Three Days to New Delhi: BRICS Pays Without the Declaration — BRICS Pay linking SPFS, CIPS, UPI has already cut dollar usage in intra-bloc trade by two-thirds. India blocked a common currency. Prediction 3 resolves in three days; what resolves is architecture.",
+          "links": [
+            {
+              "label": "Organiser — BRICS Summit 2026: India backs faster cross-border payments",
+              "url": "https://organiser.org/2026/09/01/378102/bharat/brics-new-delhi-summit-2026-india-to-push-digital-currencies-for-uninterrupted-cheaper-cross-border-payments/"
+            },
+            {
+              "label": "Asia Times — BRICS laying first tracks for new global payment system",
+              "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
+            }
+          ]
+        },
+        {
+          "text": "Crowley Four Points Clear: The Foxconn District on the Clock — RCP composite Crowley 47.5, Tiffany 43.5. Tiffany's perfect Trump voting record from a deindustrialized north; Crowley managed the post-Foxconn rubble in Milwaukee County. Republican enthusiasm exceeds Democratic.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "RealClearPolling — Wisconsin Governor 2026",
+              "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
+            },
+            {
+              "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head",
+              "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — activation language or roadmap",
+        "P26 Kazacha Lopan Sept 15 — Russia claims capture, Ukraine disputes; six days to resolution",
+        "P27 Druzhkovka Nov 1 — N20 cut, ahead of schedule",
+        "P24 Orekhov Oct 15 (68%)",
+        "P21 Wisconsin Nov 3 (55%) — Crowley +4 RCP composite, enthusiasm gap"
+      ]
+    },
     {
       "date": "2026-09-08",
       "items": [
