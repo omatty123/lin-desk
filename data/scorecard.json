@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-09",
-  "edition": 92,
+  "updated": "2026-09-10",
+  "edition": 93,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 9: Three days to New Delhi. BRICS Pay operationally linking SPFS, CIPS, and UPI has already cut dollar usage in intra-bloc trade by two-thirds; India blocked a common currency but is building the plumbing anyway. The infrastructure is more durable than the declaration.",
-      "watching": "P3 BRICS Bridge Sept 12-13 — activation language or working-group mandate",
+      "verdict": "September 10: BRICS summit opens tomorrow at Bharat Mandapam. India's RBI put four CBDC systems on the agenda — e-rupee, digital yuan, DREX, UAE dirham. New Delhi blocked a common currency but is building the plumbing. P3 resolves day after tomorrow. May foreign ministers meeting issued no joint declaration; the summit chairs a divided table. Watch the New Delhi Declaration language.",
+      "watching": "P3 BRICS Bridge Sept 12-13 — activation language or working-group mandate only",
       "sources": [
         {
-          "label": "Organiser — BRICS Summit 2026: India backs cross-border payments",
-          "url": "https://organiser.org/2026/09/01/378102/bharat/brics-new-delhi-summit-2026-india-to-push-digital-currencies-for-uninterrupted-cheaper-cross-border-payments/"
+          "label": "Organiser — BRICS Summit 2026 expected leaders & schedule",
+          "url": "https://organiser.org/2026/09/10/379773/world/brics-summit-2026-expected-world-leaders-schedule-new-delhi-declaration-as-india-leads-aspirations-of-global-south/"
         },
         {
-          "label": "Asia Times — BRICS laying first tracks for new global payment system",
-          "url": "https://asiatimes.com/2026/01/brics-laying-first-tracks-for-new-global-payment-system/"
+          "label": "CoinTribune — New Delhi Hosts a Decisive BRICS Summit",
+          "url": "https://www.cointribune.com/en/new-delhi-hosts-a-decisive-brics-summit/"
         }
       ]
     },
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 7: Faso Mêbo road works broke ground in Bankui and Sourou — first deployment beyond Ouagadougou, reaching the northern security belt. Russia-Burkina Faso commission convenes September 16 in Moscow; infrastructure ledger expanding provincially. Six of 15 industrial gold mines majority Burkinabe-owned.",
-      "watching": "Russia-BF commission Sept 16 refinery and infrastructure agenda; Sourou corridor grain-link viability",
+      "verdict": "September 10: Burkina Faso claims $18B in gold revenue redirected from foreign mining companies to health, education, and security since Traoré's 2022 takeover. Mining program in consolidation: full state control in multiple mines, majority local ownership in others, Yako producing. The figure covers revenue captured, not refinery capacity built. Sept 16 Moscow commission is where the industrial piece gets priced.",
+      "watching": "Russia-BF commission Sept 16 Moscow — refinery and infrastructure agenda; Sourou corridor grain-link viability",
       "sources": [
         {
-          "label": "Sidwaya — Régions de Bankui et du Sourou: les activités de l'Agence Faso Mêbo officiellement lancées",
-          "url": "https://www.sidwaya.info/regions-de-bankui-et-du-sourou-les-activites-de-lagence-faso-mebo-officiellement-lancees/"
+          "label": "Uchumi360 — Burkina Faso's $18bn Gold Windfall",
+          "url": "https://uchumi360.com/i/mining/burkina-faso-earned-billion"
         },
         {
-          "label": "Observer Diplomat — How Burkina Faso Redeployed Its Gold Wealth Under Captain Ibrahim Traoré",
-          "url": "https://observerdiplomat.com/how-burkina-faso-redeployed-its-gold-wealth-under-captain-ibrahim-traore/"
+          "label": "Ecofin Agency — Burkina Faso Pushes Nationalist Gold Mining Policy",
+          "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 9: N20 supply road to Druzhkovka severed; Russian forces have closed the northern pincers. Encirclement methodology is the operational logic — same method now applied on the Kharkiv axis at Kazacha Lopan (P26, September 15).",
+      "basis": "September 10: Orekhov sector — Russian forces took a fortified strongpoint with deep bunkers; P24 advances ahead of October 15 clock. Zelenskyy disclosed Patriot deliveries down 61% since 2023. European intelligence assesses Ukrainian mobilization exhausted within one year; Europe preparing contingency. N20 Druzhkovka supply road severed Sept 9. Encirclement methodology consistent across Donbas and Kharkiv axes.",
       "sources": [
         {
-          "label": "RadioFreeEurope — Druzhkivka civilians struggle to leave",
-          "url": "https://www.rferl.org/a/ukraine-donetsk-druzhkivka-war-evacuations/33847181.html"
+          "label": "Martyanov — Europe, Get Ready",
+          "url": "https://smoothiex12.blogspot.com/2026/09/europe-get-ready.html"
         },
         {
-          "label": "Southfront — Wedge driven between Slaviansk and Kramatorsk",
-          "url": "https://southfront.press/a-wedge-driven-between-slaviansk-and-kramatorsk-ukrainian-defense-is-cracking/"
+          "label": "Wikipedia — Huliaipole Offensive",
+          "url": "https://en.wikipedia.org/wiki/Huliaipole_offensive"
         }
       ]
     },
@@ -175,6 +175,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-10",
+      "items": [
+        {
+          "text": "Orekhov: The Bunkers Fall — Russian forces take fortified strongpoint with deep bunkers in Orekhov sector; Zelenskyy discloses Patriot deliveries down 61% since 2023; European intel assesses Ukrainian mobilization exhausted within one year",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Martyanov — Europe, Get Ready",
+              "url": "https://smoothiex12.blogspot.com/2026/09/europe-get-ready.html"
+            },
+            {
+              "label": "Wikipedia — Huliaipole Offensive",
+              "url": "https://en.wikipedia.org/wiki/Huliaipole_offensive"
+            }
+          ]
+        },
+        {
+          "text": "New Delhi Eve: The Bridge on the Ballot — BRICS summit opens Sept 12; India's RBI puts four CBDC systems (e-rupee, digital yuan, DREX, UAE dirham) on agenda; P3 resolves day after tomorrow; May ministers issued no joint declaration",
+          "links": [
+            {
+              "label": "Organiser — BRICS Summit 2026 expected leaders & schedule",
+              "url": "https://organiser.org/2026/09/10/379773/world/brics-summit-2026-expected-world-leaders-schedule-new-delhi-declaration-as-india-leads-aspirations-of-global-south/"
+            },
+            {
+              "label": "CoinTribune — New Delhi Hosts a Decisive BRICS Summit",
+              "url": "https://www.cointribune.com/en/new-delhi-hosts-a-decisive-brics-summit/"
+            }
+          ]
+        },
+        {
+          "text": "Traoré's Four-Year Ledger: $18 Billion — Burkina Faso claims $18B gold revenue redirected since 2022 takeover; mining program in consolidation; Russia-BF commission meets Moscow Sept 16 on refinery agenda",
+          "links": [
+            {
+              "label": "Uchumi360 — Burkina Faso's $18bn Gold Windfall",
+              "url": "https://uchumi360.com/i/mining/burkina-faso-earned-billion"
+            },
+            {
+              "label": "Ecofin Agency — Burkina Faso Pushes Nationalist Gold Mining Policy",
+              "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — New Delhi Declaration drops tomorrow",
+        "P26 Kazacha Lopan Sept 15 — 5 days",
+        "Russia-BF commission Sept 16 Moscow — refinery agenda",
+        "P24 Orekhov Oct 15 (68%) — fortified position taken",
+        "P21 Wisconsin Nov 3 (55%) — Crowley +4 RCP composite"
+      ]
+    },
     {
       "date": "2026-09-09",
       "items": [
