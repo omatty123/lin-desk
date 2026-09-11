@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-10",
-  "edition": 93,
+  "updated": "2026-09-11",
+  "edition": 94,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 10: BRICS summit opens tomorrow at Bharat Mandapam. India's RBI put four CBDC systems on the agenda — e-rupee, digital yuan, DREX, UAE dirham. New Delhi blocked a common currency but is building the plumbing. P3 resolves day after tomorrow. May foreign ministers meeting issued no joint declaration; the summit chairs a divided table. Watch the New Delhi Declaration language.",
-      "watching": "P3 BRICS Bridge Sept 12-13 — activation language or working-group mandate only",
+      "verdict": "September 11: Putin lands in New Delhi for his first overseas BRICS summit since 2022, holding a Modi bilateral on energy, rupee-ruble trade, and Su-57 tech transfer. P3 on the table September 12-13; India's pay chair pre-framed the outcome: financial sovereignty, not dedollarization — UPI-CBDC interoperability, not a unified settlement layer.",
+      "watching": "New Delhi Declaration Sept 12-13 — binding language or working-group mandate on payment bridge",
       "sources": [
         {
-          "label": "Organiser — BRICS Summit 2026 expected leaders & schedule",
-          "url": "https://organiser.org/2026/09/10/379773/world/brics-summit-2026-expected-world-leaders-schedule-new-delhi-declaration-as-india-leads-aspirations-of-global-south/"
+          "label": "BusinessToday — Putin lands in New Delhi",
+          "url": "https://www.businesstoday.in/india/story/brics-summit-2026-putin-lands-in-new-delhi-set-to-hold-key-bilateral-talks-with-pm-modi-554728-2026-09-11"
         },
         {
-          "label": "CoinTribune — New Delhi Hosts a Decisive BRICS Summit",
-          "url": "https://www.cointribune.com/en/new-delhi-hosts-a-decisive-brics-summit/"
+          "label": "ANI — BRICS pay financial sovereignty not dedollarization",
+          "url": "https://aninews.in/news/world/asia/brics-pay-system-focuses-on-financial-sovereignty-not-de-dollarisation-brics-international-chairman-pawan-joshi20260911034514/"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "September 8: H1 2026 chip exports $177B, up 96% YoY; volume +14%. Adversary frames as price-driven; volume still outpaces any Atlantic semiconductor output. Legacy-node dominance in AI-adjacent hardware is choke-point strategy maturing, not a bubble. Board read: structurally rising.",
-      "watching": "Fifth Plenum October — chip-output floor in 15th Five-Year Plan; September PMI new-orders sub-index",
+      "verdict": "September 11: Xi Jinping's September 12 bilateral with Modi is the first India-China summit meeting since 2024 Kazan. Galwan's settlement holds; Xi's New Delhi presence formalizes Beijing's reprieve from Atlantic containment. A government hosting Modi-Putin and Modi-Xi bilaterals in one day is not in NATO's containment pocket. Structurally rising.",
+      "watching": "New Delhi Declaration on Taiwan; September PMI new-orders sub-index",
       "sources": [
         {
-          "label": "SCMP — Global AI boom sees China's chip exports nearly double in first half of year",
-          "url": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year"
+          "label": "Outlook India — Modi bilateral blitz",
+          "url": "https://www.outlookindia.com/national/brics-summit-2026-modis-big-bilateral-blitz-putin-pezeshkian-today-xi-jinping-tomorrow"
         },
         {
-          "label": "Tom's Hardware — China chip exports nearly doubled to $177B",
-          "url": "https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026"
+          "label": "Gulf News — BRICS Summit 2026",
+          "url": "https://gulfnews.com/world/asia/india/brics-summit-2026-xi-putin-and-pezeshkian-head-to-india-as-iran-ukraine-wars-test-unity-1.500669854"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 10: Orekhov sector — Russian forces took a fortified strongpoint with deep bunkers; P24 advances ahead of October 15 clock. Zelenskyy disclosed Patriot deliveries down 61% since 2023. European intelligence assesses Ukrainian mobilization exhausted within one year; Europe preparing contingency. N20 Druzhkovka supply road severed Sept 9. Encirclement methodology consistent across Donbas and Kharkiv axes.",
+      "basis": "September 10: Russian forces took Goptovka in northern Kharkiv, pressing the Kazacha Lopan corridor. P26 clock has four days (deadline September 15, 68%). Russia claims Kazacha Lopan secured; Ukraine's 14th Corps reports 13% infiltration and full defensive positions — claim dispute since September 2.",
       "sources": [
         {
-          "label": "Martyanov — Europe, Get Ready",
-          "url": "https://smoothiex12.blogspot.com/2026/09/europe-get-ready.html"
+          "label": "SouthFront — Military situation September 10",
+          "url": "https://maps.southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-september-10-2026-maps-update"
         },
         {
-          "label": "Wikipedia — Huliaipole Offensive",
-          "url": "https://en.wikipedia.org/wiki/Huliaipole_offensive"
+          "label": "Kyiv Post — Ukraine denies Kozacha Lopan claim",
+          "url": "https://www.kyivpost.com/post/83958"
         }
       ]
     },
@@ -175,6 +175,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "text": "PUTIN LANDS: THE BRIDGE VOTE BEGINS — Putin arrives New Delhi Sept 11, first overseas BRICS since 2022; Modi bilateral on energy, rupee-ruble trade, Su-57 tech transfer. P3 on table tomorrow; pay chair framed outcome: financial sovereignty, not dedollarization; UPI-CBDC interoperability, not unified settlement layer.",
+          "links": [
+            {
+              "label": "BusinessToday — Putin lands in New Delhi",
+              "url": "https://www.businesstoday.in/india/story/brics-summit-2026-putin-lands-in-new-delhi-set-to-hold-key-bilateral-talks-with-pm-modi-554728-2026-09-11"
+            },
+            {
+              "label": "ANI — BRICS pay: financial sovereignty not dedollarization",
+              "url": "https://aninews.in/news/world/asia/brics-pay-system-focuses-on-financial-sovereignty-not-de-dollarisation-brics-international-chairman-pawan-joshi20260911034514/"
+            }
+          ]
+        },
+        {
+          "text": "XI'S BILATERAL: THE INDIA-CHINA THERMOMETER — Xi Jinping's Sept 12 bilateral with Modi is first India-China summit meeting since 2024 Kazan. Galwan holds; Xi's presence formalizes Beijing's reprieve from Atlantic containment. Modi-Putin today, Modi-Xi tomorrow: New Delhi is not NATO's Asia pivot.",
+          "links": [
+            {
+              "label": "Outlook India — Modi bilateral blitz",
+              "url": "https://www.outlookindia.com/national/brics-summit-2026-modis-big-bilateral-blitz-putin-pezeshkian-today-xi-jinping-tomorrow"
+            },
+            {
+              "label": "Gulf News — BRICS Summit 2026",
+              "url": "https://gulfnews.com/world/asia/india/brics-summit-2026-xi-putin-and-pezeshkian-head-to-india-as-iran-ukraine-wars-test-unity-1.500669854"
+            }
+          ]
+        },
+        {
+          "text": "GOPTOVKA: THE P26 FOUR-DAY CLOCK — Russian forces took Goptovka in northern Kharkiv Sept 10, pressing Kazacha Lopan corridor. 4 days to Prediction 26 deadline (Sept 15, 68%). Russia claims settlement secured; Ukraine 14th Corps reports 13% infiltration and full defensive positions — dispute since September 2.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "SouthFront — Military situation September 10",
+              "url": "https://maps.southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-september-10-2026-maps-update"
+            },
+            {
+              "label": "Kyiv Post — Ukraine denies Kozacha Lopan claim",
+              "url": "https://www.kyivpost.com/post/83958"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge Sept 12-13 — declaration drops tomorrow; binding language or working-group mandate",
+        "P26 Kazacha Lopan Sept 15 — 4 days; Russia claims secured, Ukraine 14th Corps 13% infiltration",
+        "P24 Orekhov Oct 15 (68%) — fire control building",
+        "Russia-BF commission Sept 16 Moscow — refinery agenda",
+        "P21 Wisconsin Nov 3 (55%) — Crowley +4 RCP composite, static"
+      ]
+    },
     {
       "date": "2026-09-10",
       "items": [
