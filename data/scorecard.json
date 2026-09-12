@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-11",
-  "edition": 94,
+  "updated": "2026-09-12",
+  "edition": 95,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 11: Putin lands in New Delhi for his first overseas BRICS summit since 2022, holding a Modi bilateral on energy, rupee-ruble trade, and Su-57 tech transfer. P3 on the table September 12-13; India's pay chair pre-framed the outcome: financial sovereignty, not dedollarization — UPI-CBDC interoperability, not a unified settlement layer.",
-      "watching": "New Delhi Declaration Sept 12-13 — binding language or working-group mandate on payment bridge",
+      "verdict": "September 12: 18th BRICS summit adopts New Delhi Declaration calling for CBDC interoperability among member central banks. India's chairship holds against a common currency while delivering payment-framework text. Forty percent of global GDP formally oriented toward non-dollar clearing. P3 deadline September 30.",
+      "watching": "Day-two declaration specificity — activation language or working-group mandate on payment bridge",
       "sources": [
         {
-          "label": "BusinessToday — Putin lands in New Delhi",
-          "url": "https://www.businesstoday.in/india/story/brics-summit-2026-putin-lands-in-new-delhi-set-to-hold-key-bilateral-talks-with-pm-modi-554728-2026-09-11"
+          "label": "Outlook India — BRICS Summit 2026 live updates",
+          "url": "https://www.outlookindia.com/national/brics-summit-2026-live-updates-delhi-pm-modi-xi-jinping-vladimir-putin-latest-news"
         },
         {
-          "label": "ANI — BRICS pay financial sovereignty not dedollarization",
-          "url": "https://aninews.in/news/world/asia/brics-pay-system-focuses-on-financial-sovereignty-not-de-dollarisation-brics-international-chairman-pawan-joshi20260911034514/"
+          "label": "India.com — BRICS 2026 Declaration live",
+          "url": "https://www.india.com/news/india/brics-summit-2026-live-updates-18th-leaders-meeting-narendra-modi-russia-china-putin-xi-jinping-india-host-bharat-mandapam-new-delhi-news-8522356/"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "name_zh": "中国经济",
       "name_en": "PRC economy",
       "trend": "up",
-      "verdict": "September 11: Xi Jinping's September 12 bilateral with Modi is the first India-China summit meeting since 2024 Kazan. Galwan's settlement holds; Xi's New Delhi presence formalizes Beijing's reprieve from Atlantic containment. A government hosting Modi-Putin and Modi-Xi bilaterals in one day is not in NATO's containment pocket. Structurally rising.",
-      "watching": "New Delhi Declaration on Taiwan; September PMI new-orders sub-index",
+      "verdict": "September 12: Xi Jinping in New Delhi for first India visit in seven years; Modi bilateral held; Xi commits to pursue proposals — LAC patrols, direct flights, Galwan's settlement holding. Industrial output +5.3% first seven months; tech exports +19%. Bloomberg's slowdown headline is sentiment about property drag, not the productive aggregate.",
+      "watching": "Xi-Modi bilateral outcomes on trade and LAC; September PMI new-orders sub-index",
       "sources": [
         {
-          "label": "Outlook India — Modi bilateral blitz",
-          "url": "https://www.outlookindia.com/national/brics-summit-2026-modis-big-bilateral-blitz-putin-pezeshkian-today-xi-jinping-tomorrow"
+          "label": "Yahoo News — Xi pursues proposals on bilateral ties with Modi",
+          "url": "https://news.yahoo.com/chinas-xi-says-pursue-proposals-063038523.html"
         },
         {
-          "label": "Gulf News — BRICS Summit 2026",
-          "url": "https://gulfnews.com/world/asia/india/brics-summit-2026-xi-putin-and-pezeshkian-head-to-india-as-iran-ukraine-wars-test-unity-1.500669854"
+          "label": "China Gov — Industrial output up 5.3 pct first seven months 2026",
+          "url": "https://english.www.gov.cn/archive/statistics/202608/17/content_WS6a82b926c6d00ca5f9a0ca35.html"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 10: Russian forces took Goptovka in northern Kharkiv, pressing the Kazacha Lopan corridor. P26 clock has four days (deadline September 15, 68%). Russia claims Kazacha Lopan secured; Ukraine's 14th Corps reports 13% infiltration and full defensive positions — claim dispute since September 2.",
+      "basis": "September 11: Russia pressed Kazacha Lopan with ten separate attacks; Ukraine 14th Corps holds settlement as actively disputed, Russia's claim of control unconfirmed by independent sources. P26 deadline September 15, three days. Operational tempo sustained.",
       "sources": [
         {
-          "label": "SouthFront — Military situation September 10",
-          "url": "https://maps.southfront.press/military-situation-in-ukraine-and-ukrainian-attacks-on-russian-territory-on-september-10-2026-maps-update"
+          "label": "uavarta.org — Ukraine war news Sept 11 2026",
+          "url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-11-september-2026-photo/"
         },
         {
-          "label": "Kyiv Post — Ukraine denies Kozacha Lopan claim",
-          "url": "https://www.kyivpost.com/post/83958"
+          "label": "Critical Threats — Russian Offensive Assessment Sept 2 2026",
+          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026"
         }
       ]
     },
@@ -175,6 +175,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-12",
+      "items": [
+        {
+          "text": "BRICS New Delhi Declaration: CBDC interoperability framework adopted; India holds against common currency; 40% of global GDP pointed toward non-dollar clearing. P3 grade pending day two.",
+          "links": [
+            {
+              "label": "Outlook India — BRICS Summit 2026 live updates",
+              "url": "https://www.outlookindia.com/national/brics-summit-2026-live-updates-delhi-pm-modi-xi-jinping-vladimir-putin-latest-news"
+            },
+            {
+              "label": "India.com — BRICS 2026 Declaration live updates",
+              "url": "https://www.india.com/news/india/brics-summit-2026-live-updates-18th-leaders-meeting-narendra-modi-russia-china-putin-xi-jinping-india-host-bharat-mandapam-new-delhi-news-8522356/"
+            }
+          ]
+        },
+        {
+          "text": "Xi Jinping in New Delhi: first India visit in seven years; Modi bilateral held, Xi commits to pursue proposals. LAC patrols, direct flights, business visas normalized. Galwan holding.",
+          "links": [
+            {
+              "label": "Yahoo News — Xi pursues proposals on bilateral ties with Modi",
+              "url": "https://news.yahoo.com/chinas-xi-says-pursue-proposals-063038523.html"
+            },
+            {
+              "label": "Tribune India — BRICS 2026 live: Xi reaches New Delhi",
+              "url": "https://www.tribuneindia.com/liveblog/delhi/brics-summit-2026-live-xi-jinping-reaches-new-delhi-to-hold-talks-with-pm-modi/"
+            }
+          ]
+        },
+        {
+          "text": "Kazacha Lopan: 10 attacks on Sept 11; Ukraine 14th Corps holds as disputed, Russia's claim of control unconfirmed independently. P26 deadline Sept 15, three days.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "uavarta.org — War in Ukraine today Sept 11 2026",
+              "url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-11-september-2026-photo/"
+            },
+            {
+              "label": "Critical Threats — Russian Offensive Assessment Sept 2 2026",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P3 BRICS Bridge — day two declaration text; adopted framework grade pending",
+        "P26 Kazacha Lopan Sept 15 — three days, ten attacks Sept 11, P26 68%",
+        "Russia-BF commission Sept 16 Moscow — refinery and infrastructure agenda",
+        "P24 Orekhov Oct 15 (68%) — steady pressure",
+        "P21 Wisconsin Nov 3 (55%) — Crowley +4, enthusiasm gap"
+      ]
+    },
     {
       "date": "2026-09-11",
       "items": [
