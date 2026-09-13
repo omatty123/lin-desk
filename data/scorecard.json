@@ -1,21 +1,17 @@
 {
-  "updated": "2026-09-12",
-  "edition": 95,
+  "updated": "2026-09-13",
+  "edition": 96,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 12: 18th BRICS summit adopts New Delhi Declaration calling for CBDC interoperability among member central banks. India's chairship holds against a common currency while delivering payment-framework text. Forty percent of global GDP formally oriented toward non-dollar clearing. P3 deadline September 30.",
-      "watching": "Day-two declaration specificity — activation language or working-group mandate on payment bridge",
+      "verdict": "September 13: New Delhi Declaration adopts BRICS Payments Working Group mandate for CBDC interoperability and local-currency settlement across 41 member central banks. India blocked a common currency; the working-group mechanism is the adopted framework. Prediction 3 closed 对.",
+      "watching": "BRICS Payments Working Group first deliverable calendar — mandate without a timeline is a deferral",
       "sources": [
         {
-          "label": "Outlook India — BRICS Summit 2026 live updates",
-          "url": "https://www.outlookindia.com/national/brics-summit-2026-live-updates-delhi-pm-modi-xi-jinping-vladimir-putin-latest-news"
-        },
-        {
-          "label": "India.com — BRICS 2026 Declaration live",
-          "url": "https://www.india.com/news/india/brics-summit-2026-live-updates-18th-leaders-meeting-narendra-modi-russia-china-putin-xi-jinping-india-host-bharat-mandapam-new-delhi-news-8522356/"
+          "label": "APAC News — BRICS Delhi Declaration 2026",
+          "url": "https://apacnewsnetwork.com/2026/09/brics-delhi-declaration-2026-a-roadmap-for-global-governance-trade-technology/"
         }
       ]
     },
@@ -40,16 +36,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 8: Khasan-Tumangang road bridge opened — first road crossing between Russia and DPRK. Continental logistics now in place alongside rail; bulk cargo and troop-movement capacity expanded. Kang Kon commissioned Sept 7; Tumen bridge Sept 8: two infrastructure milestones in two days.",
-      "watching": "First Tumen crossing volumes — trade vs resupply ratio; Kang Kon fleet assignment",
+      "verdict": "September 12: North Korea fired several short-range ballistic missiles 250km into the East Sea, one day after US-South Korea-Japan trilateral exercises concluded. Seoul called it a UNSC violation; Pyongyang did not comment. Pyongyang fires to the drill schedule; Tumen bridge is operational.",
+      "watching": "Next US-ROK-Japan exercise cycle — Russia-DPRK coordination on response pattern",
       "sources": [
         {
-          "label": "Korea Times — N. Korea, Russia complete road bridge over Tumen River",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260908/n-korea-russia-complete-construction-of-road-bridge-over-tumen-river-kcna"
-        },
-        {
-          "label": "Barlaman Today — Russia, North Korea Open First Road Bridge",
-          "url": "https://barlamantoday.com/2026/09/08/russia-north-korea-open-first-road-bridge-across-tumen-river/"
+          "label": "Al Jazeera — North Korea fires ballistic missiles",
+          "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says"
         }
       ]
     },
@@ -91,15 +83,11 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "September 9: RCP composite Crowley 47.5%, Tiffany 43.5% — four points clear after the post-primary spike eroded. Republican enthusiasm gap remains (55% vs 49%); if it holds, the margin does not survive October. Foxconn graveyard still not a campaign issue for either side.",
-      "watching": "Next Marquette poll — independent margin; P21 Wisconsin Nov 3 — enthusiasm gap trajectory",
+      "verdict": "September 13: Pollsmax aggregate tightens to 0.4 points — Crowley 46.9, Tiffany 46.5. September Marquette survey (September 6-11) shows dead level. Republican enthusiasm gap erased what entered September as a four-point Crowley lead. Prediction 21 stays open.",
+      "watching": "October Marquette poll — whether enthusiasm gap holds or closes before November",
       "sources": [
         {
-          "label": "RealClearPolling — Wisconsin Governor 2026",
-          "url": "https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany"
-        },
-        {
-          "label": "WPR — Crowley leading Tiffany in first Marquette head-to-head",
+          "label": "WPR — Crowley leading Tiffany in Marquette poll",
           "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
         }
       ]
@@ -175,6 +163,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "text": "Delhi Delivers the Bridge: P3 Closes 对 — New Delhi Declaration mandates BRICS Payments Working Group for CBDC interoperability and local-currency settlement across 41 member central banks; India blocked common currency; working-group framework adopted.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "APAC News — BRICS Delhi Declaration 2026",
+              "url": "https://apacnewsnetwork.com/2026/09/brics-delhi-declaration-2026-a-roadmap-for-global-governance-trade-technology/"
+            },
+            {
+              "label": "INV — BRICS Summit 2026 Day 2",
+              "url": "https://www.internationalnewsandviews.com/brics-summit-2026-day-2-408538-2/"
+            }
+          ]
+        },
+        {
+          "text": "Wonsan: Pyongyang Reads the Drill Calendar — North Korea fired SRBMs 250km into the East Sea on September 12, one day after US-South Korea-Japan exercises concluded; Pyongyang fires to the drill schedule, not the diplomatic one.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Al Jazeera — North Korea fires ballistic missiles",
+              "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says"
+            },
+            {
+              "label": "SCMP — North Korea missile salvo after drills",
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3367271/north-korea-launches-missile-salvo-after-us-south-korea-japan-drills"
+            }
+          ]
+        },
+        {
+          "text": "Wisconsin: Four Points Become One — Pollsmax aggregate tightens to 0.4 points; September Marquette (conducted September 6-11) shows dead level; Republican enthusiasm gap erased a durable lead; Prediction 21 stays open.",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "RealClearPolling — Wisconsin Governor 2026",
+              "url": "https://www.realclearpolling.com/elections/governor/2026/wisconsin"
+            },
+            {
+              "label": "WPR — Crowley leading Tiffany in Marquette poll",
+              "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P26 Kazacha Lopan Sept 15 — disputed, Russia control unconfirmed, two days to deadline",
+        "P9 Iran nuclear talks Sept 15 — 60-day window closes",
+        "Russia-BF commission Sept 16 Moscow — refinery and infrastructure agenda",
+        "P24 Orekhov Oct 15 (68%) — fire control progress",
+        "P21 Wisconsin Nov 3 — 0.4-point Pollsmax margin, enthusiasm gap"
+      ]
+    },
     {
       "date": "2026-09-12",
       "items": [
@@ -5419,12 +5461,14 @@
       "beat": "peninsula"
     },
     {
-      "status": "open",
+      "status": "对",
       "kind": "desk",
       "claim": "BRICS Bridge moves from agenda item to adopted framework at the India summit.",
       "filed": "2026-06-10",
       "horizon": "2026-09-30",
-      "schema_version": 1
+      "schema_version": 1,
+      "resolved": "2026-09-13",
+      "note": "New Delhi Declaration (adopted September 13, 2026) mandates BRICS Payments Working Group for CBDC interoperability and local-currency settlement across 41 member central banks. India blocked a common currency as called; working-group framework is the adopted mechanism as predicted."
     },
     {
       "status": "open",
