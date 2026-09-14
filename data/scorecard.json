@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13",
-  "edition": 96,
+  "updated": "2026-09-14",
+  "edition": 97,
   "board": [
     {
       "name_zh": "多极化",
@@ -49,16 +49,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 10: Burkina Faso claims $18B in gold revenue redirected from foreign mining companies to health, education, and security since Traoré's 2022 takeover. Mining program in consolidation: full state control in multiple mines, majority local ownership in others, Yako producing. The figure covers revenue captured, not refinery capacity built. Sept 16 Moscow commission is where the industrial piece gets priced.",
-      "watching": "Russia-BF commission Sept 16 Moscow — refinery and infrastructure agenda; Sourou corridor grain-link viability",
+      "verdict": "September 14: First Russia–Burkina Faso intergovernmental commission convenes Moscow Sept 16 — energy, agriculture, civilian drones on agenda. Security partnership institutionalizing into productive economic relationship. The AES axis is building the infrastructure of sovereignty, not just expelling the French.",
+      "watching": "Russia-BF commission Sept 16 — whether energy modernization and refinery dossier produce concrete protocols; Sourou corridor grain-link viability",
       "sources": [
         {
-          "label": "Uchumi360 — Burkina Faso's $18bn Gold Windfall",
-          "url": "https://uchumi360.com/i/mining/burkina-faso-earned-billion"
+          "label": "Ecofin Agency — Russia-BF joint commission",
+          "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
         },
         {
-          "label": "Ecofin Agency — Burkina Faso Pushes Nationalist Gold Mining Policy",
-          "url": "https://www.ecofinagency.com/news-industry/2909-49103-burkina-faso-pushes-nationalist-gold-mining-policy-under-traore"
+          "label": "Zambian Observer — BF-Russia economic partnership",
+          "url": "https://zambianobserver.com/burkina-faso-and-russia-deepen-economic-partnership/"
         }
       ]
     },
@@ -99,14 +99,14 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 11: Russia pressed Kazacha Lopan with ten separate attacks; Ukraine 14th Corps holds settlement as actively disputed, Russia's claim of control unconfirmed by independent sources. P26 deadline September 15, three days. Operational tempo sustained.",
+      "basis": "September 14: Russian forces in 13% of Kozacha Lopan as P26 deadline arrives Sept 15; Ukrainian 14th Corps holds and disputes MoD capture claim. P24 Orekhov pressure continues. Russia's Spring-Summer 2026 offensive failing to achieve operational maneuver; gains slow and limited.",
       "sources": [
         {
-          "label": "uavarta.org — Ukraine war news Sept 11 2026",
-          "url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-11-september-2026-photo/"
+          "label": "Mezha — Ukraine denies Russian capture claim",
+          "url": "https://mezha.net/eng/news/126aeb23_ukraine_denies_russian/"
         },
         {
-          "label": "Critical Threats — Russian Offensive Assessment Sept 2 2026",
+          "label": "Critical Threats — Russian offensive assessment Sept 2",
           "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026"
         }
       ]
@@ -114,29 +114,17 @@
     {
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
-      "advantage": "Active — de-escalating; joint statement pending",
+      "advantage": "Iran",
       "trend": "de-escalating (Iran-Oman bilateral in final drafting; new IRGC leadership hardens Hormuz posture)",
-      "basis": "August 11: Mojtaba Khamenei August 10 announced six military appointments including Ahmad Vahidi as IRGC commander-in-chief and Ali Abdollahi as armed forces chief of staff — first major political act since being severely injured February 28. New IRGC command declared Hormuz reopening 'not imminent'; SNSC demands full sanctions relief, US naval withdrawal, war reparations, frozen-asset release. Iran-Oman bilateral joint statement in final drafting — structure confirmed: single corridor, northern lane Iranian-controlled, fees 50-50 Oman-Iran, no US signature. Brent $84.11 (up from $79). Kharg intact, P6 holds. Prediction 17 (no formal US-Iran corridor agreement before mid-August) heading to correct.",
+      "basis": "September 14: Versailles 60-day nuclear window closes Sept 15 with no deal; Trump refused extension; Iran's 'few weeks' ultimatum expires; no enrichment freeze, strait remains closed. Structural impasse: US needs Iran to capitulate on enrichment, offers nothing Iran can accept.",
       "sources": [
         {
-          "label": "Al Jazeera — Oil prices and Iranian demands Aug 10",
-          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+          "label": "Washington Post — Iran deal deadline expiring",
+          "url": "https://www.washingtonpost.com/business/2026/08/17/iran-us-war-diplomacy-deal-deadline-nuclear/72551b60-9a16-11f1-9cc4-2dc9b46e2d5c_story.html"
         },
         {
-          "label": "CNN — Iran war liveblog Aug 10 (Mojtabi appointments)",
-          "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
-        },
-        {
-          "label": "Al Jazeera — Hormuz deal, what each side wants, Aug 6",
-          "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions"
-        },
-        {
-          "label": "NPR — Iran says Hormuz deal prohibits US and Israeli vessels, Aug 7",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5923962/iran-says-agreement-with-oman-for-strait-of-hormuz-prohibits-u-s-and-israeli-vessels"
-        },
-        {
-          "label": "Jerusalem Post — Mecca defence pact, Aug 7",
-          "url": "https://www.jpost.com/international/article-904851"
+          "label": "PBS — 60-day deadline expires",
+          "url": "https://www.pbs.org/newshour/world/the-60-day-deadline-for-a-peace-deal-with-iran-is-expiring-heres-where-things-stand"
         }
       ]
     },
@@ -163,6 +151,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "text": "P26 FINAL HOURS: KOZACHA LOPAN HOLDS — Russian forces in 13% of settlement; Ukrainian 14th Corps holds; P26 resolves Sept 15; satellite arithmetic contradicts MoD claim; expected 错",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Mezha — Ukraine denies Russian capture claim",
+              "url": "https://mezha.net/eng/news/126aeb23_ukraine_denies_russian/"
+            },
+            {
+              "label": "Critical Threats — Sept 2 assessment",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026"
+            }
+          ]
+        },
+        {
+          "text": "MOSCOW ON THE EVE: FIRST RUSSIA–BURKINA FASO COMMISSION — First intergovernmental commission convenes Moscow Sept 16; energy, agriculture, civilian drones on agenda; AES axis institutionalizing beyond security",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Ecofin Agency — Russia-BF joint commission",
+              "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
+            },
+            {
+              "label": "Zambian Observer — BF-Russia economic partnership",
+              "url": "https://zambianobserver.com/burkina-faso-and-russia-deepen-economic-partnership/"
+            }
+          ]
+        },
+        {
+          "text": "TEHRAN'S SIXTY DAYS: P9 CALLS THE IMPASSE — Versailles framework window closes Sept 15; Tehran holds; no enrichment freeze, no strait, no deal; P9 resolves 对 tomorrow; hegemon's ultimatum without enforcement",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Washington Post — Iran deal deadline expiring",
+              "url": "https://www.washingtonpost.com/business/2026/08/17/iran-us-war-diplomacy-deal-deadline-nuclear/72551b60-9a16-11f1-9cc4-2dc9b46e2d5c_story.html"
+            },
+            {
+              "label": "PBS — 60-day deadline expires",
+              "url": "https://www.pbs.org/newshour/world/the-60-day-deadline-for-a-peace-deal-with-iran-is-expiring-heres-where-things-stand"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P26 Kozacha Lopan Sept 15 — Russia at 13%, expected 错",
+        "P9 Iran nuclear talks Sept 15 — expected 对 (no enrichment freeze produced)",
+        "Russia-BF commission Sept 16 Moscow — energy and agriculture agenda",
+        "P24 Orekhov Oct 15 (68%)",
+        "P21 Wisconsin Nov 3 (55%) — Pollsmax +0.4 Crowley"
+      ]
+    },
     {
       "date": "2026-09-13",
       "items": [
