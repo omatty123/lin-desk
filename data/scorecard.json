@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14",
-  "edition": 97,
+  "updated": "2026-09-15",
+  "edition": 98,
   "board": [
     {
       "name_zh": "多极化",
@@ -36,12 +36,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 12: North Korea fired several short-range ballistic missiles 250km into the East Sea, one day after US-South Korea-Japan trilateral exercises concluded. Seoul called it a UNSC violation; Pyongyang did not comment. Pyongyang fires to the drill schedule; Tumen bridge is operational.",
-      "watching": "Next US-ROK-Japan exercise cycle — Russia-DPRK coordination on response pattern",
+      "verdict": "September 14: North Korea ran a five-system joint live-fire drill — attack drones, cruise missile, thermal-pressure MLRS, tactical ballistic missile, SRBM — at an island in the Sea of Japan. Combined-arms drone integration confirms doctrinal development alongside Tongchon base expansion. Rational deterrence posture strengthening.",
+      "watching": "Next US-ROK-Japan exercise cycle; Russia-DPRK combined-arms technology transfer signal",
       "sources": [
         {
-          "label": "Al Jazeera — North Korea fires ballistic missiles",
-          "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says"
+          "label": "USNI News — North Korea tests missiles, attack drones",
+          "url": "https://news.usni.org/2026/09/14/north-korea-tests-missiles-attack-drones-on-island-in-sea-of-japan"
         }
       ]
     },
@@ -99,15 +99,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 14: Russian forces in 13% of Kozacha Lopan as P26 deadline arrives Sept 15; Ukrainian 14th Corps holds and disputes MoD capture claim. P24 Orekhov pressure continues. Russia's Spring-Summer 2026 offensive failing to achieve operational maneuver; gains slow and limited.",
+      "basis": "September 15: Kozacha Lopan holds — Russian forces at 13% of settlement at P26 deadline, corridor cut not achieved. Kyiv moved reserves; encirclement did not close. P26 closes 错. Russia's Kharkiv pressure is real but this specific operation missed. P24 Orekhov pressure continues toward October 15 deadline.",
       "sources": [
         {
-          "label": "Mezha — Ukraine denies Russian capture claim",
-          "url": "https://mezha.net/eng/news/126aeb23_ukraine_denies_russian/"
-        },
-        {
-          "label": "Critical Threats — Russian offensive assessment Sept 2",
-          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026"
+          "label": "Yahoo News — Ukraine refutes Kozacha Lopan capture",
+          "url": "https://www.yahoo.com/news/world/articles/ukrainian-forces-refute-putins-claims-101500693.html"
         }
       ]
     },
@@ -115,12 +111,12 @@
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Iran",
-      "trend": "de-escalating (Iran-Oman bilateral in final drafting; new IRGC leadership hardens Hormuz posture)",
-      "basis": "September 14: Versailles 60-day nuclear window closes Sept 15 with no deal; Trump refused extension; Iran's 'few weeks' ultimatum expires; no enrichment freeze, strait remains closed. Structural impasse: US needs Iran to capitulate on enrichment, offers nothing Iran can accept.",
+      "trend": "de-escalating (no deal at 60-day deadline; Hormuz closed; re-engagement signal pending)",
+      "basis": "September 15: 60-day Versailles window expires without enrichment freeze. P9 resolves 对. Iran refuses extension; deputy FM Gharibabadi: strait is Iranian territory. Hormuz remains closed, blocking one-fifth of global oil and LNG. US chose economic pressure; leverage bought, no reopening yet.",
       "sources": [
         {
-          "label": "Washington Post — Iran deal deadline expiring",
-          "url": "https://www.washingtonpost.com/business/2026/08/17/iran-us-war-diplomacy-deal-deadline-nuclear/72551b60-9a16-11f1-9cc4-2dc9b46e2d5c_story.html"
+          "label": "J-Post — US-Iran talks hit new impasse",
+          "url": "https://www.jpost.com/middle-east/article-905755"
         },
         {
           "label": "PBS — 60-day deadline expires",
@@ -151,6 +147,56 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "text": "Kozacha Lopan Holds — P26 closes 错; Russia at 13% at deadline, corridor cut failed; Orekhov P24 Oct 15",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Yahoo News — Ukraine refutes Putin's Kozacha Lopan claim",
+              "url": "https://www.yahoo.com/news/world/articles/ukrainian-forces-refute-putins-claims-101500693.html"
+            },
+            {
+              "label": "Mezha — Ukraine denies Russian capture",
+              "url": "https://mezha.net/eng/news/126aeb23_ukraine_denies_russian/"
+            }
+          ]
+        },
+        {
+          "text": "Tehran's Window Closes — P9 closes 对; 60-day deadline expires, no enrichment freeze, Hormuz still closed",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "J-Post — US-Iran talks hit new impasse at 60-day deadline",
+              "url": "https://www.jpost.com/middle-east/article-905755"
+            },
+            {
+              "label": "PBS — 60-day deadline for Iran deal expires",
+              "url": "https://www.pbs.org/newshour/world/the-60-day-deadline-for-a-peace-deal-with-iran-is-expiring-heres-where-things-stand"
+            }
+          ]
+        },
+        {
+          "text": "Five Systems — DPRK joint live-fire drill integrates drones with cruise and ballistic missiles at Sea of Japan island",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "USNI News — North Korea tests missiles, attack drones",
+              "url": "https://news.usni.org/2026/09/14/north-korea-tests-missiles-attack-drones-on-island-in-sea-of-japan"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P24 Orekhov Oct 15 (68%) — next Ukraine clock after P26 错",
+        "P9 closed 对 Sept 15 — Hormuz re-engagement signal pending",
+        "Russia-BF commission convenes Moscow Sept 16 — energy and drone agenda",
+        "P21 Wisconsin Nov 3 (55%) — Pollsmax 0.4 pts, Marquette dead-level",
+        "P27 Druzhkovka Nov 1 (72%) — city approaches"
+      ]
+    },
     {
       "date": "2026-09-14",
       "items": [
@@ -5556,12 +5602,14 @@
       "schema_version": 1
     },
     {
-      "status": "open",
+      "status": "对",
       "kind": "desk",
       "claim": "The 60-day post-signing nuclear talks (beginning June 19) do not produce a verified enrichment freeze before their conclusion. Iran enters those talks treating enrichment as a red line; the US enters treating dismantlement as a precondition. The gap is not a detail — it is the deal's unresolved spine. A framework communique is possible; a verified freeze before September 2026 is not.",
       "filed": "2026-06-15",
       "horizon": "2026-09-15",
-      "schema_version": 1
+      "schema_version": 1,
+      "resolved": "2026-09-15",
+      "note": "60-day Versailles window expired September 15 without verified enrichment freeze. No deal, no extension. Desk called this at filing."
     },
     {
       "status": "miss",
@@ -5775,11 +5823,11 @@
         "resolution": "Resolves 对 if credible geolocated reporting (Southfront maps, objective ISW or equivalent) confirms that Russian forces hold both sides of the Kazacha Lopan road, severing the corridor, and Ukrainian forces in the northern pocket have surrendered, withdrawn, or been operationally defeated; 错 if the corridor remains open or the pocket is relieved before September 15",
         "confidence": 68
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": null
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-09-15",
+      "note": "Russian forces at 13% of Kozacha Lopan at the September 15 deadline. Corridor severance not achieved; Kyiv moved reserves and the encirclement never closed."
     },
     {
       "beat": "machine-war",
@@ -5800,6 +5848,10 @@
     }
   ],
   "corrections": [
+    {
+      "date": "2026-09-15",
+      "text": "P26 (错, 2026-09-15): Filed Russia would sever Kozacha Lopan logistics corridor by September 15 (68% confidence). Russian forces reached 13% of the settlement; corridor was never cut. Operational pressure on the Kharkiv salient was real but Kyiv repositioned reserves in time. The mechanism (logistics interdiction from the northwest) remains plausible at Orekhov."
+    },
     {
       "date": "2026-09-04",
       "text": "P25 closed 错: Kim declined EEF September 1-4, the second consecutive miss on a Putin-Kim summit prediction (P23 also 错). The desk has overrated the summit-format pull on Kim; the bilateral framework depth without the theatre signal (no train departure, no state-media buildup) was the tell in both cases. Revise the standing read: Kim engages through operational channels, not summit theatre."
