@@ -1,17 +1,21 @@
 {
-  "updated": "2026-09-15",
-  "edition": 98,
+  "updated": "2026-09-16",
+  "edition": 99,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 13: New Delhi Declaration adopts BRICS Payments Working Group mandate for CBDC interoperability and local-currency settlement across 41 member central banks. India blocked a common currency; the working-group mechanism is the adopted framework. Prediction 3 closed 对.",
-      "watching": "BRICS Payments Working Group first deliverable calendar — mandate without a timeline is a deferral",
+      "verdict": "September 16: BRICS Pay has cut dollar usage in intra-bloc trade by two-thirds, three days after the New Delhi declaration. India blocked a common-currency resolution; the settlement plumbing runs regardless. The architecture does not announce itself; it settles transactions.",
+      "watching": "Whether dollar displacement reaches the invoicing layer — the transition from payment habit to systemic shift",
       "sources": [
         {
-          "label": "APAC News — BRICS Delhi Declaration 2026",
-          "url": "https://apacnewsnetwork.com/2026/09/brics-delhi-declaration-2026-a-roadmap-for-global-governance-trade-technology/"
+          "label": "SCMP — Under Trump’s shadow, Brics takes step towards de-dollarisation",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation"
+        },
+        {
+          "label": "APAC News Network — Iran, Russia Push De-Dollarisation at BRICS Forum",
+          "url": "https://apacnewsnetwork.com/2026/09/brics-iran-russia-de-dollarisation/"
         }
       ]
     },
@@ -49,16 +53,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 14: First Russia–Burkina Faso intergovernmental commission convenes Moscow Sept 16 — energy, agriculture, civilian drones on agenda. Security partnership institutionalizing into productive economic relationship. The AES axis is building the infrastructure of sovereignty, not just expelling the French.",
-      "watching": "Russia-BF commission Sept 16 — whether energy modernization and refinery dossier produce concrete protocols; Sourou corridor grain-link viability",
+      "verdict": "September 16: First Russia–Burkina Faso intergovernmental commission opened in Moscow; Tsivilev chairs for Russia. Six-sector agenda covers energy infrastructure, civilian drones, pharmaceutical production, and technology transfer. Security partnership now has a working body and a co-chair; refinery protocol outcomes pending.",
+      "watching": "Whether the energy session produces a refinery commitment in the final protocol",
       "sources": [
         {
-          "label": "Ecofin Agency — Russia-BF joint commission",
+          "label": "Ecofin Agency — Burkina Faso and Russia create joint commission",
           "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
         },
         {
-          "label": "Zambian Observer — BF-Russia economic partnership",
-          "url": "https://zambianobserver.com/burkina-faso-and-russia-deepen-economic-partnership/"
+          "label": "Xinhua — BF-Russia agree to convene 1st intergovernmental commission",
+          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
         }
       ]
     },
@@ -99,11 +103,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 15: Kozacha Lopan holds — Russian forces at 13% of settlement at P26 deadline, corridor cut not achieved. Kyiv moved reserves; encirclement did not close. P26 closes 错. Russia's Kharkiv pressure is real but this specific operation missed. P24 Orekhov pressure continues toward October 15 deadline.",
+      "basis": "September 16: Russian forces cleared Orekhov’s urban center; assault groups operating on Druzhkovka’s southwestern outskirts, two kilometers from city. P24 timetable holding toward October 15 deadline. P26 Kozacha Lopan closed 错 September 15.",
       "sources": [
         {
-          "label": "Yahoo News — Ukraine refutes Kozacha Lopan capture",
-          "url": "https://www.yahoo.com/news/world/articles/ukrainian-forces-refute-putins-claims-101500693.html"
+          "label": "Southfront — Russian Army Drives Ukrainian Forces Out From Orekhov’s Center",
+          "url": "https://southfront.press/russian-army-drives-ukrainian-forces-out-from-orekhovs-center/"
+        },
+        {
+          "label": "Southfront — Russian Army Strangles Orekhov",
+          "url": "https://southfront.press/russian-army-strangles-orekhov/"
         }
       ]
     },
@@ -147,6 +155,58 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "text": "Moscow Opens the Books: The First Russia–Burkina Faso Commission — six-sector agenda (energy infrastructure, civilian drones, pharmaceutical production, technology transfer) opens in Moscow, Tsivilev chairing for Russia; converts February 2026 partnership from text to working body",
+          "links": [
+            {
+              "label": "Ecofin Agency — Burkina Faso and Russia create joint commission",
+              "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
+            },
+            {
+              "label": "Xinhua — BF-Russia agree to convene 1st intergovernmental commission",
+              "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
+            }
+          ]
+        },
+        {
+          "text": "Orekhov's Center Falls: P24 Enters Its Final Month — Russian forces cleared Orekhov's urban center; assault groups on Druzhkovka's southwestern outskirts, two kilometers out; P24 timetable holding toward October 15",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Southfront — Russian Army Drives Ukrainian Forces Out From Orekhov’s Center",
+              "url": "https://southfront.press/russian-army-drives-ukrainian-forces-out-from-orekhovs-center/"
+            },
+            {
+              "label": "Southfront — Russian Army Strangles Orekhov",
+              "url": "https://southfront.press/russian-army-strangles-orekhov/"
+            }
+          ]
+        },
+        {
+          "text": "What New Delhi Built: Two-Thirds of BRICS Trade Leaves the Dollar — BRICS Pay has cut dollar usage in intra-bloc trade by two-thirds; India blocked common-currency resolution but not the settlement plumbing already running",
+          "links": [
+            {
+              "label": "SCMP — Under Trump’s shadow, Brics takes step towards de-dollarisation",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation"
+            },
+            {
+              "label": "APAC News Network — Iran, Russia Push De-Dollarisation at BRICS Forum",
+              "url": "https://apacnewsnetwork.com/2026/09/brics-iran-russia-de-dollarisation/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P24 Orekhov Oct 15 (68%) — center cleared, timetable holding",
+        "Russia-BF commission — refinery protocol outcomes pending",
+        "P21 Wisconsin Nov 3 (55%) — RCP Crowley +4",
+        "P27 Druzhkovka Nov 1 (72%) — 2km from city",
+        "BRICS Pay invoicing layer — dollar displacement next threshold"
+      ]
+    },
     {
       "date": "2026-09-15",
       "items": [
