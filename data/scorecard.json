@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16",
-  "edition": 99,
+  "updated": "2026-09-19",
+  "edition": 100,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,12 +40,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 14: North Korea ran a five-system joint live-fire drill — attack drones, cruise missile, thermal-pressure MLRS, tactical ballistic missile, SRBM — at an island in the Sea of Japan. Combined-arms drone integration confirms doctrinal development alongside Tongchon base expansion. Rational deterrence posture strengthening.",
-      "watching": "Next US-ROK-Japan exercise cycle; Russia-DPRK combined-arms technology transfer signal",
+      "verdict": "September 19: Kim Yo-jong dismissed the IAEA General Conference resolution as 'no effect.' Kim Jong Un completed a three-day munitions factory inspection; state media ran both stories together. Nuclear status 'irreversible': the covenant between leadership and the military-industrial base is publicly institutionalized.",
+      "watching": "Next US-ROK exercise cycle and combined-arms technology transfer signal",
       "sources": [
         {
-          "label": "USNI News — North Korea tests missiles, attack drones",
-          "url": "https://news.usni.org/2026/09/14/north-korea-tests-missiles-attack-drones-on-island-in-sea-of-japan"
+          "label": "Al Jazeera — DPRK dismisses IAEA resolution",
+          "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution"
         }
       ]
     },
@@ -103,15 +103,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 16: Russian forces cleared Orekhov’s urban center; assault groups operating on Druzhkovka’s southwestern outskirts, two kilometers from city. P24 timetable holding toward October 15 deadline. P26 Kozacha Lopan closed 错 September 15.",
+      "basis": "September 18: South Group took Verolyubovka, establishing the east-flank bridgehead for Druzhkovka encirclement. P27 (November 1 fire control, 72%) on pace; P24 Orekhov (October 15, 68%) holds as southern quarters clear. Two operational clocks running.",
       "sources": [
         {
-          "label": "Southfront — Russian Army Drives Ukrainian Forces Out From Orekhov’s Center",
-          "url": "https://southfront.press/russian-army-drives-ukrainian-forces-out-from-orekhovs-center/"
-        },
-        {
-          "label": "Southfront — Russian Army Strangles Orekhov",
-          "url": "https://southfront.press/russian-army-strangles-orekhov/"
+          "label": "Khairullin — Frontline Report September 18",
+          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-b43"
         }
       ]
     },
@@ -119,16 +115,12 @@
       "name_zh": "伊朗战争",
       "name_en": "Iran War (US-Israel vs. Iran)",
       "advantage": "Iran",
-      "trend": "de-escalating (no deal at 60-day deadline; Hormuz closed; re-engagement signal pending)",
-      "basis": "September 15: 60-day Versailles window expires without enrichment freeze. P9 resolves 对. Iran refuses extension; deputy FM Gharibabadi: strait is Iranian territory. Hormuz remains closed, blocking one-fifth of global oil and LNG. US chose economic pressure; leverage bought, no reopening yet.",
+      "trend": "de-escalating",
+      "basis": "September 16-17: Hormuz transit doubled to 12 vessels; Iran-Oman close on joint corridor agreement. IRGC struck a Togo-flagged tanker claiming unauthorized passage. Corridor route and enforcement boundary remain distinct. P9 closed 对 September 15.",
       "sources": [
         {
-          "label": "J-Post — US-Iran talks hit new impasse",
-          "url": "https://www.jpost.com/middle-east/article-905755"
-        },
-        {
-          "label": "PBS — 60-day deadline expires",
-          "url": "https://www.pbs.org/newshour/world/the-60-day-deadline-for-a-peace-deal-with-iran-is-expiring-heres-where-things-stand"
+          "label": "Straits Daily Brief September 17",
+          "url": "https://straits.live/briefs/2026-09-17"
         }
       ]
     },
@@ -155,6 +147,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-19",
+      "items": [
+        {
+          "text": "Pyongyang Writes Back: IAEA General Conference resolution dismissed by Kim Yo-jong as 'no effect'; Kim Jong Un three-day munitions factory inspection; nuclear status declared irreversible.",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "Al Jazeera — North Korea dismisses UN nuclear watchdog resolution",
+              "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution"
+            },
+            {
+              "label": "Korea Times — N. Korea rejects IAEA resolution, vows to maintain nuclear force",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260919/n-korea-rejects-iaea-resolution-vows-to-maintain-nuclear-force-amid-us-threats"
+            }
+          ]
+        },
+        {
+          "text": "Verolyubovka: South Group established east-flank bridgehead for Druzhkovka encirclement September 18; P27 (72%) on pace; P24 Orekhov southern quarters clearing.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Khairullin — Brief Frontline Report September 18",
+              "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-b43"
+            },
+            {
+              "label": "Khairullin — Brief Frontline Report September 17",
+              "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-5e4"
+            }
+          ]
+        },
+        {
+          "text": "Hormuz: transit doubled to 12 vessels September 16; Iran-Oman close on joint corridor agreement; IRGC struck Togo-flagged tanker claiming unauthorized passage.",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "Straits Daily Brief — September 17, 2026",
+              "url": "https://straits.live/briefs/2026-09-17"
+            },
+            {
+              "label": "Al Jazeera — Iran, Oman agree on temporary Hormuz route",
+              "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P24 Orekhov Oct 15 (68%) — southern quarters clearing, pace holds",
+        "P27 Druzhkovka Nov 1 (72%) — east bridgehead established at Verolyubovka",
+        "P21 Wisconsin Nov 3 (55%) — Pollsmax 0.4 pts, October Marquette pending",
+        "Hormuz corridor fee structure — whether mapped to yuan-settlement terms",
+        "Russia-BF commission protocol text — energy session outcome pending"
+      ]
+    },
     {
       "date": "2026-09-16",
       "items": [
