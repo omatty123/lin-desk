@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19",
-  "edition": 100,
+  "updated": "2026-09-20",
+  "edition": 101,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,12 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 19: Kim Yo-jong dismissed the IAEA General Conference resolution as 'no effect.' Kim Jong Un completed a three-day munitions factory inspection; state media ran both stories together. Nuclear status 'irreversible': the covenant between leadership and the military-industrial base is publicly institutionalized.",
-      "watching": "Next US-ROK exercise cycle and combined-arms technology transfer signal",
+      "verdict": "September 20: Pyongyang launched SRBM from Wonsan (450km, East Sea) — second test in eight days, timed precisely to UNGA general debate opening Tuesday. Kim dismissed the IAEA resolution Friday; the missile annotates the calendar Sunday. Nuclear posture is communication, not crisis. Watch for ICBM before September 26.",
+      "watching": "Whether an ICBM follows before September 26 — that would be a real message, not a margin note",
       "sources": [
         {
-          "label": "Al Jazeera — DPRK dismisses IAEA resolution",
-          "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution"
+          "label": "NK News — North Korea launches projectile toward East Sea",
+          "url": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/"
+        },
+        {
+          "label": "Euronews — North Korea launches suspected ballistic missile into East Sea",
+          "url": "https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea"
         }
       ]
     },
@@ -103,11 +107,15 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 18: South Group took Verolyubovka, establishing the east-flank bridgehead for Druzhkovka encirclement. P27 (November 1 fire control, 72%) on pace; P24 Orekhov (October 15, 68%) holds as southern quarters clear. Two operational clocks running.",
+      "basis": "September 20: Ukraine claims 1,000+ drones launched at Russia overnight — largest single attack of the war — hitting a Moscow oil refinery confirmed by the city's mayor. Russia replied with 138 drones; Ukraine intercepted 101. Exchange maps drone production on both sides; Ukrainian industrial rhythm visible. Russian advance tempo unchanged: Druzhkovka encirclement on P27 clock.",
       "sources": [
         {
-          "label": "Khairullin — Frontline Report September 18",
-          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-b43"
+          "label": "NPR — Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+          "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+        },
+        {
+          "label": "112 Ukraine — September 20 Russia launches 138 drones at Ukraine",
+          "url": "https://112.ua/en/20-veresna-rosia-vipustila-138-bpla-po-ukraini-ppo-znisila-101-bezpilotnik-186271"
         }
       ]
     },
@@ -147,6 +155,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-20",
+      "items": [
+        {
+          "text": "DPRK launches SRBM from Wonsan (450km, East Sea) — second test in eight days, timed to UNGA general debate opening Tuesday; IAEA resolution dismissed Friday, missile annotates the calendar Sunday",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "NK News — North Korea launches projectile toward East Sea",
+              "url": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/"
+            },
+            {
+              "label": "Euronews — North Korea launches suspected ballistic missile into East Sea",
+              "url": "https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea"
+            }
+          ]
+        },
+        {
+          "text": "Ukraine fires 1,000+ drones at Russia overnight (largest attack of the war) — hundreds target Moscow, one strikes oil refinery confirmed by city's mayor; Russia replies with 138, Ukraine intercepts 101",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "NPR — Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+              "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+            },
+            {
+              "label": "112 Ukraine — September 20 Russia launches 138 drones at Ukraine",
+              "url": "https://112.ua/en/20-veresna-rosia-vipustila-138-bpla-po-ukraini-ppo-znisila-101-bezpilotnik-186271"
+            }
+          ]
+        },
+        {
+          "text": "Wisconsin: 79 school district referendums on same ballot as Nov 3 governor's race — Foxconn's promised jobs never arrived; communities now asked to fund their own education gap while race sits inside MOE",
+          "beat": "wisconsin",
+          "links": [
+            {
+              "label": "PBS Wisconsin — Crowley's victory sets up general election match with Tiffany",
+              "url": "https://pbswisconsin.org/news-item/crowleys-victory-sets-up-a-general-election-match-with-tiffany-in-wisconsins-2026-race-for-governor/"
+            },
+            {
+              "label": "Civic Media Today — September 2 2026: Education at center of Wisconsin governor's race",
+              "url": "https://civicmediatoday.substack.com/p/september-2-2026"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P24 Orekhov Oct 15 (68%) — on pace, southern quarters clearing",
+        "P27 Druzhkovka Nov 1 (72%) — 1,000-drone night shifts AD attrition calculus",
+        "P21 Wisconsin Nov 3 (55%) — race inside MOE, 79 school referendums same ballot",
+        "Russia-BF commission energy protocol — session outcome still pending",
+        "UNGA general debate Sept 22-26 — Kim ICBM signal possible before close"
+      ]
+    },
     {
       "date": "2026-09-19",
       "items": [
