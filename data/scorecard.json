@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19",
-  "edition": 100,
+  "updated": "2026-09-21",
+  "edition": 101,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,12 +40,12 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 19: Kim Yo-jong dismissed the IAEA General Conference resolution as 'no effect.' Kim Jong Un completed a three-day munitions factory inspection; state media ran both stories together. Nuclear status 'irreversible': the covenant between leadership and the military-industrial base is publicly institutionalized.",
-      "watching": "Next US-ROK exercise cycle and combined-arms technology transfer signal",
+      "verdict": "September 20: Short-range missiles at 440km from Wonsan into the East Sea, days after Kim Yo-jong dismissed the IAEA resolution as 'no effect.' Signal calendar runs: rebuke, inspection, launch. The sequence is a management tool, not a tantrum.",
+      "watching": "Next US-ROK combined exercise — the traditional lever for escalating the drum",
       "sources": [
         {
-          "label": "Al Jazeera — DPRK dismisses IAEA resolution",
-          "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution"
+          "label": "CNN — North Korea fires ballistic missiles into East Sea",
+          "url": "https://www.cnn.com/2026/09/20/asia/north-korea-missile-test-intl"
         }
       ]
     },
@@ -53,16 +53,12 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 16: First Russia–Burkina Faso intergovernmental commission opened in Moscow; Tsivilev chairs for Russia. Six-sector agenda covers energy infrastructure, civilian drones, pharmaceutical production, and technology transfer. Security partnership now has a working body and a co-chair; refinery protocol outcomes pending.",
-      "watching": "Whether the energy session produces a refinery commitment in the final protocol",
+      "verdict": "September 21: Russia-BF commission energy session yields nuclear MoUs with Rosatom covering power, training, and regulatory development. Traoré's programme builds long-horizon material capacity. Commission protocol text not published; refinery commitment pending.",
+      "watching": "Whether the commission protocol text includes a refinery commitment alongside the nuclear framework",
       "sources": [
         {
-          "label": "Ecofin Agency — Burkina Faso and Russia create joint commission",
-          "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
-        },
-        {
-          "label": "Xinhua — BF-Russia agree to convene 1st intergovernmental commission",
-          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
+          "label": "World Nuclear News — Burkina Faso signs fresh nuclear-focused MoUs with Russia",
+          "url": "https://www.world-nuclear-news.org/Articles/Burkina-Faso-signs-fresh-nuclear-energy-MoUs-with"
         }
       ]
     },
@@ -103,11 +99,11 @@
       "name_en": "Ukraine",
       "advantage": "Russia",
       "trend": "up",
-      "basis": "September 18: South Group took Verolyubovka, establishing the east-flank bridgehead for Druzhkovka encirclement. P27 (November 1 fire control, 72%) on pace; P24 Orekhov (October 15, 68%) holds as southern quarters clear. Two operational clocks running.",
+      "basis": "September 20: Ukraine's largest drone barrage struck Kapotnya refinery (40% of Moscow region petroleum). South Group Verolyubovka bridgehead holds for Druzhkovka encirclement. P24 and P27 on pace. Kyiv's energy strikes levy a cost the front cannot impose.",
       "sources": [
         {
-          "label": "Khairullin — Frontline Report September 18",
-          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-b43"
+          "label": "CNN — Moscow under Ukraine's largest-ever drone attack",
+          "url": "https://www.cnn.com/2026/09/20/europe/moscow-ukraine-attack-russia-election"
         }
       ]
     },
@@ -147,6 +143,60 @@
     }
   ],
   "coverage": [
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "text": "WONSAN FIRES: Short-range missiles at 440km from Wonsan, days after IAEA dismissal — Pyongyang's signal calendar runs on schedule; a management tool, not a tantrum",
+          "beat": "peninsula",
+          "links": [
+            {
+              "label": "CNN — North Korea fires ballistic missiles into East Sea",
+              "url": "https://www.cnn.com/2026/09/20/asia/north-korea-missile-test-intl"
+            },
+            {
+              "label": "Washington Times — North Korea launches multiple ballistic missiles",
+              "url": "https://www.washingtontimes.com/news/2026/sep/20/north-korea-launches-multiple-ballistic-missiles/"
+            }
+          ]
+        },
+        {
+          "text": "KAPOTNYA BURNS: Ukraine's largest drone strike hits Kapotnya refinery; 40% of Moscow's regional petroleum supply at risk — a peak, not a tempo",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "CNN — Moscow under Ukraine's largest-ever drone attack",
+              "url": "https://www.cnn.com/2026/09/20/europe/moscow-ukraine-attack-russia-election"
+            },
+            {
+              "label": "Eastern Herald — Ukraine's biggest drone attack strikes Moscow oil refinery",
+              "url": "https://easternherald.com/2026/09/20/ukraine-drone-attack-moscow-oil-refinery-russia-elections/"
+            }
+          ]
+        },
+        {
+          "text": "OUAGADOUGOU'S REACTOR: Russia-BF commission energy session yields Rosatom nuclear MoUs; sovereign energy as the material base of every sovereignty claim; protocol text pending",
+          "beat": "machine-war",
+          "links": [
+            {
+              "label": "World Nuclear News — Burkina Faso signs fresh nuclear-focused MoUs with Russia",
+              "url": "https://www.world-nuclear-news.org/Articles/Burkina-Faso-signs-fresh-nuclear-energy-MoUs-with"
+            },
+            {
+              "label": "Energy Capital Power — Burkina Faso, Rosatom sign nuclear power deal",
+              "url": "https://energycapitalpower.com/burkina-faso-rosatom-sign-nuclear-power-deal/"
+            }
+          ]
+        }
+      ],
+      "watching": [
+        "P24 Orekhov Oct 15 (68%) — south quarters clearing, timetable holding",
+        "P27 Druzhkovka Nov 1 (72%) — east bridgehead holds at Verolyubovka",
+        "P21 Wisconsin Nov 3 (55%) — Pollsmax Crowley +0.4, no new poll",
+        "Russia-BF commission protocol text — refinery commitment alongside nuclear MoUs pending",
+        "DPRK next step — US-ROK exercise timing determines whether drum escalates"
+      ]
+    },
     {
       "date": "2026-09-19",
       "items": [
