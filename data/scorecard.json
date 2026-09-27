@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-27",
   "edition": 100,
   "board": [
     {
@@ -5848,7 +5848,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "Democratic nominee now confirmed as David Crowley (Milwaukee County Executive), who defeated Francesca Hong by less than one percentage point on August 11 in an upset — Crowley had dropped out and re-entered with Governor Evers' endorsement. RMG Research (July 24) showed Crowley 46%, Tiffany 43% — better than pre-primary Hong-Tiffany polling where Republicans were favored. P21's 55% confidence filed on assumption of a difficult Democratic nominee; Crowley's stronger general-election position shifts the picture; watch the first post-primary Crowley-Tiffany poll."
+      "note": "Democratic nominee now confirmed as David Crowley (Milwaukee County Executive), who defeated Francesca Hong by less than one percentage point on August 11 in an upset — Crowley had dropped out and re-entered with Governor Evers' endorsement. RMG Research (July 24) showed Crowley 46%, Tiffany 43% — better than pre-primary Hong-Tiffany polling where Republicans were favored. P21's 55% confidence filed on assumption of a difficult Democratic nominee; Crowley's stronger general-election position shifts the picture; watch the first post-primary Crowley-Tiffany poll. Nominee-specific call filed Sept 27 as P28 (Crowley, 60%)."
     },
     {
       "schema_version": 2,
@@ -5951,6 +5951,23 @@
       "mechanism": null,
       "resolved": null,
       "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "David Crowley wins the November 3 Wisconsin governorship over Tom Tiffany. The midterm wind runs against the president's party (38% of voters say they are worse off, 20% better off; 81% say groceries and gas have gone up), the Hong left consolidated behind the nominee (98% of Hong-favorable Democrats voting Crowley in Marquette's August poll), and Tiffany is running a base campaign in a state decided in the middle. Crowley does not need to win the race; he needs to not lose it.",
+        "filed": "2026-09-27",
+        "resolves_by": "2026-11-03",
+        "resolution": "Resolves 对 if David Crowley wins the Nov 3 general election for governor; 错 if Tom Tiffany wins.",
+        "confidence": 60
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Filed as a nominee-specific call alongside P21 (party-level, 55%, filed before the nominee was known); P21's filing stays frozen. Basis at filing: Marquette Aug 12-20 — Crowley 49-44 among likely voters, tied 44-44 among registered; independents 55-16 Crowley. Tiffany's live path: soft turnout turns the registered-voter tie into a coin flip, and Crowley's lower name recognition leaves room to define him on Milwaukee County taxes. Checkpoints: Marquette release Sept 30; televised debate Oct 21 at Marquette Law."
     }
   ],
   "corrections": [
