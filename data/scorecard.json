@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27",
-  "edition": 100,
+  "updated": "2026-10-11",
+  "edition": 101,
   "board": [
     {
       "name_zh": "多极化",
@@ -429,6 +429,23 @@
       "mechanism": null,
       "resolved": null,
       "note": "Filed as a nominee-specific call alongside P21 (party-level, 55%, filed before the nominee was known); P21's filing stays frozen. Basis at filing: Marquette Aug 12-20 — Crowley 49-44 among likely voters, tied 44-44 among registered; independents 55-16 Crowley. Tiffany's live path: soft turnout turns the registered-voter tie into a coin flip, and Crowley's lower name recognition leaves room to define him on Milwaukee County taxes. Checkpoints: Marquette release Sept 30; televised debate Oct 21 at Marquette Law."
+    },
+    {
+      "beat": "brewers",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Milwaukee Brewers beat the Los Angeles Dodgers in the 2026 NLCS and reach their first World Series since 1982. A 103-win club with home field for Games 1, 2, 6 and 7 against a 100-win payroll that swept them last October. The record says Milwaukee; last year says Los Angeles. The desk takes the record, barely.",
+        "filed": "2026-10-11",
+        "resolves_by": "2026-10-19",
+        "resolution": "Resolves 对 if the Brewers win the 2026 NLCS; 错 if the Dodgers do.",
+        "confidence": 52
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
@@ -565,6 +582,12 @@
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "order": 10
+    },
+    {
+      "id": "brewers",
+      "name_zh": "酿酒人",
+      "name_en": "Milwaukee Brewers",
+      "order": 11
     }
   ],
   "standing": [
@@ -589,6 +612,10 @@
       "n": 15,
       "label": "Burkina absorbs France's 'reciprocal measures'",
       "beat": "sahel"
+    },
+    {
+      "n": 29,
+      "label": "Brewers win the pennant"
     }
   ]
 }
