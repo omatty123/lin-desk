@@ -83,6 +83,15 @@ section{margin-top:40px;scroll-margin-top:16px}
 .chip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
 .chip .zh{font-family:'Noto Sans SC',sans-serif;font-weight:700}
 
+/* ---------- standing calls ---------- */
+.stand{display:grid;grid-template-columns:auto 1fr auto auto;gap:6px 14px;align-items:baseline}
+.stand a{color:var(--ink);text-decoration:none}
+.stand a:hover .sl{text-decoration:underline}
+.stand .sn{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--red);font-weight:600}
+.stand .sl{font-size:14.5px}
+.stand .sd,.stand .sc{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);white-space:nowrap}
+@media (max-width:560px){.stand{grid-template-columns:auto 1fr}.stand .sd,.stand .sc{grid-column:2}}
+
 /* ---------- predictions ---------- */
 .pred{border:1px solid var(--line);border-left:3px solid var(--line2);border-radius:8px;padding:13px 16px;margin-bottom:10px;background:#fff;scroll-margin-top:20px;transition:background .3s,border-color .3s}
 .pred.s-red{border-left-color:var(--red)} .pred.s-green{border-left-color:var(--green)} .pred.s-gray{border-left-color:var(--gray)} .pred.s-void{border-left-color:var(--faint)}
@@ -161,6 +170,11 @@ footer a{color:var(--red);text-decoration:none}
       <span class="conv">红涨绿跌 · <span class="r">red = rising / correct</span> · <span class="g">green = falling / wrong</span></span>
     </div>
   </header>
+
+  <section id="sec-standing">
+    <div class="sec-head"><span class="zh">常设预测</span><span class="en">Standing calls — the ones to watch</span></div>
+    <div class="stand" id="standing"></div>
+  </section>
 
   <section id="sec-calib">
     <div class="sec-head"><span class="zh">预测校准</span><span class="en">Calibration — the record, scored</span>
@@ -264,6 +278,18 @@ function render(d){
   document.getElementById('m-edition').textContent='No. '+(d.edition||'—');
 
   const preds=(d.predictions||[]).map(normPred);
+
+  // ---- standing calls ----
+  const today=new Date(new Date().toDateString());
+  const st=(d.standing||[]).map(s=>({s,p:preds[s.n-1]})).filter(x=>x.p&&statusInfo(x.p.status)[1]==='gray');
+  document.getElementById('sec-standing').style.display=st.length?'':'none';
+  document.getElementById('standing').innerHTML=st.map(({s,p})=>{
+    const by=p.resolves_by||(d.predictions[s.n-1].horizon)||'';
+    const left=p.resolves_by?Math.round((new Date(p.resolves_by+'T00:00:00')-today)/864e5):null;
+    const when=by?`by ${esc(by)}${left!=null?(left>=0?` · ${left} days`:' · due'):''}`:'';
+    return `<a href="#pred-${s.n}" class="sn">P${s.n}</a><a href="#pred-${s.n}"><span class="sl">${esc(s.label)}</span></a>`+
+      `<span class="sd">${when}</span><span class="sc">${p.confidence!=null?p.confidence+'%':''}</span>`;
+  }).join('');
 
   // ---- calibration ----
   const bo=brier(preds);
