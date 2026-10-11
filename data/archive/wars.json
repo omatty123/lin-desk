@@ -1,0 +1,52 @@
+{
+  "frozen": "2026-09-27",
+  "wars": [
+    {
+      "name_zh": "俄乌战争",
+      "name_en": "Ukraine",
+      "advantage": "Russia",
+      "trend": "up",
+      "basis": "September 18: South Group took Verolyubovka, establishing the east-flank bridgehead for Druzhkovka encirclement. P27 (November 1 fire control, 72%) on pace; P24 Orekhov (October 15, 68%) holds as southern quarters clear. Two operational clocks running.",
+      "sources": [
+        {
+          "label": "Khairullin — Frontline Report September 18",
+          "url": "https://maratkhairullinarticles.substack.com/p/brief-frontline-report-september-b43"
+        }
+      ]
+    },
+    {
+      "name_zh": "伊朗战争",
+      "name_en": "Iran War (US-Israel vs. Iran)",
+      "advantage": "Iran",
+      "trend": "de-escalating",
+      "basis": "September 16-17: Hormuz transit doubled to 12 vessels; Iran-Oman close on joint corridor agreement. IRGC struck a Togo-flagged tanker claiming unauthorized passage. Corridor route and enforcement boundary remain distinct. P9 closed 对 September 15.",
+      "sources": [
+        {
+          "label": "Straits Daily Brief September 17",
+          "url": "https://straits.live/briefs/2026-09-17"
+        }
+      ]
+    },
+    {
+      "name_zh": "萨赫勒叛乱",
+      "name_en": "Sahel insurgency",
+      "advantage": "Contested",
+      "trend": "steady",
+      "basis": "July 14 update (July 13 events). GATIA/MSA forces claimed Anefis district (Kidal region, Mali) July 13, operating alongside FAMa and Africa Corps. AES defense ministers validated unified-force agreement Ouagadougou July 13. AES states hold the cities, the budgets, and the gold (SOPAMIB Yako mine, July 9). JNIM's reach remains real; the confederation's combined force is now legally constituted and operationally fielded.",
+      "sources": [
+        {
+          "label": "Reuters — GATIA MSA Anefis claim",
+          "url": "https://www.reuters.com/"
+        },
+        {
+          "label": "Pravda Burkina — AES defense ministers agreement",
+          "url": "https://burkina-faso.news-pravda.com/en/"
+        },
+        {
+          "label": "RFI — AU Commission Bamako visit",
+          "url": "https://www.rfi.fr/en/africa/"
+        }
+      ]
+    }
+  ]
+}
