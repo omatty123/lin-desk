@@ -547,6 +547,48 @@
       "name_zh": "文苑",
       "name_en": "The Prize Circuit",
       "order": 7
+    },
+    {
+      "id": "sahel",
+      "name_zh": "萨赫勒",
+      "name_en": "The Sahel",
+      "order": 8
+    },
+    {
+      "id": "prc",
+      "name_zh": "中国经济",
+      "name_en": "PRC Economy",
+      "order": 9
+    },
+    {
+      "id": "multipolarity",
+      "name_zh": "多极化",
+      "name_en": "Multipolarity",
+      "order": 10
+    }
+  ],
+  "standing": [
+    {
+      "n": 27,
+      "label": "Druzhkovka under Russian fire control"
+    },
+    {
+      "n": 28,
+      "label": "Crowley wins the governorship"
+    },
+    {
+      "n": 2,
+      "label": "No 'denuclearization' in PRC language on the DPRK"
+    },
+    {
+      "n": 4,
+      "label": "PRC fixed-asset investment out of contraction",
+      "beat": "prc"
+    },
+    {
+      "n": 15,
+      "label": "Burkina absorbs France's 'reciprocal measures'",
+      "beat": "sahel"
     }
   ]
 }
