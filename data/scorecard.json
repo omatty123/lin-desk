@@ -446,6 +446,23 @@
       "mechanism": null,
       "resolved": null,
       "note": null
+    },
+    {
+      "beat": "brewers",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Milwaukee Brewers win the 2026 World Series, the first title in franchise history. The arithmetic is plain: a coin-flip pennant (Prediction 29, 52%) times a Series in which the best record in baseball carries home field against whoever survives the American League. The desk does not round a fan's hope up into a forecast.",
+        "filed": "2026-10-11",
+        "resolves_by": "2026-10-31",
+        "resolution": "Resolves 对 if the Brewers win the 2026 World Series; 错 if they lose the NLCS or the World Series.",
+        "confidence": 29
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
