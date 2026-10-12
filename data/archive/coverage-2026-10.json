@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2026-10-12",
+    "items": [
+      {
+        "text": "OUAGADOUGOU BANKS THE GOLD, BARS THE DOOR ON FLOUR — Burkina Faso's gold rent reaches €3.8 billion this year, even as Ouagadougou suspends all cereal-flour exports 'until further notice' — feeding its own population before the market.",
+        "links": [
+          {
+            "label": "Africtelegraph — Ouagadougou engrange 3,8 milliards d’euros de rente aurifère",
+            "url": "https://africtelegraph.com/blog/ouagadougou-engrange-38-milliards-deuros-de-rente-aurifere/"
+          },
+          {
+            "label": "africaradio.com — Burkina Faso : les exportations de farine de céréales suspendues jusqu’à nouvel ordre",
+            "url": "https://www.africaradio.com/actualite-116934-burkina-faso-les-exportations-de-farine-de-cereales-suspendues-jusqu-a-nouvel-ordre"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG ANSWERS SEOUL, MOSCOW LANDS A RESCUE MINISTER — North Korea fired several ballistic missiles toward the East Sea Sunday, one travelling over 900 kilometers — days after Seoul's first hypersonic test.",
+        "links": [
+          {
+            "label": "Plataforma Media — North Korea fires several ballistic missiles days after South Korea’s first hypersonic test. One flew more than 900 km",
+            "url": "https://www.plataformamedia.com/en/2026/10/12/north-korea-fires-several-ballistic-missiles-days-after-south-koreas-first-hypersonic-test-one-flew-more-than-900-km/"
+          },
+          {
+            "label": "source — Russian emergency minister arrives in North Korea to discuss joint projects",
+            "url": "https://www.nknews.org/2026/10/russian-emergency-minister-arrives-in-north-korea-to-discuss-joint-projects/"
+          }
+        ]
+      },
+      {
+        "text": "ACCRA WALKS THROUGH THE YUAN DOOR — Ecobank, operating in 33 African countries, moves to join China's CIPS yuan settlement network, while Ghana's yuan payment system puts Nigeria's $2 billion currency-swap deal back in focus.",
+        "links": [
+          {
+            "label": "BitKE — BANKING | Another Leading African Bank Seeks to Join China’s Yuan Payment System as Trade Grows",
+            "url": "https://bitcoinke.io/2026/10/ecobank-to-join-cips/"
+          },
+          {
+            "label": "Tribune Online — Ghana’s yuan payment system puts Nigeria’s $2bn swap deal in focus",
+            "url": "https://tribuneonlineng.com/ghanas-yuan-payment-system-puts-nigerias-2bn-swap-deal-in-focus/amp/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P24 Orekhov Oct 15 (68%) — no new ground reported, clock holding",
+      "P27 Druzhkovka Nov 1 (72%) — unchanged this cycle",
+      "P15 Burkina — gold rent and flour ban as the absorption evidence",
+      "Nigeria $2bn swap — announcement vs. drawn balances pending",
+      "CIPS African bank count — which lender joins Ecobank next"
+    ]
+  }
+]

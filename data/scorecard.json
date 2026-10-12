@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11",
-  "edition": 101,
+  "updated": "2026-10-12",
+  "edition": 102,
   "board": [
     {
       "name_zh": "多极化",
@@ -87,12 +87,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "September 13: Pollsmax aggregate tightens to 0.4 points — Crowley 46.9, Tiffany 46.5. September Marquette survey (September 6-11) shows dead level. Republican enthusiasm gap erased what entered September as a four-point Crowley lead. Prediction 21 stays open.",
-      "watching": "October Marquette poll — whether enthusiasm gap holds or closes before November",
+      "verdict": "October 12: EU adopts its 22nd sanctions package — 1,646 entities — even as Washington's own diesel deal with Moscow continues to clear. Sanctions unity now runs on Brussels' discipline alone; Washington treats Russia bilaterally when it serves. The alliance's economic instrument survives, but its single voice does not.",
+      "watching": "Whether EU sanctions discipline survives a US-Russia bilateral energy deal unchallenged",
       "sources": [
         {
-          "label": "WPR — Crowley leading Tiffany in Marquette poll",
-          "url": "https://www.wpr.org/news/governors-race-poll-tiffany-crowley-marquette"
+          "label": "Odessa Journal — EU Approves Nearly 1,600 New Sanctions Listings Against Russia's Defence Industry - Oj",
+          "url": "https://odessa-journal.com/eu-approves-its-largest-sanctions-package-against-russia"
+        },
+        {
+          "label": "Novinite.com — EU Vows to Maintain Russia Sanctions Despite Trump-Putin Diesel Deal",
+          "url": "https://www.novinite.com/articles/241002/EU+Vows+to+Maintain+Russia+Sanctions+Despite+Trump-Putin+Diesel+Deal"
         }
       ]
     }
