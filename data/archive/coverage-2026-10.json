@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-10-15",
+    "items": [
+      {
+        "text": "PYONGYANG CUTS A RIBBON, THEN FIRES A MISSILE — After twelve years idle, the New Yalu River Bridge opened to traffic Thursday, linking Dandong to Sinuiju.",
+        "links": [
+          {
+            "label": "source — North Korea, China officially open long-delayed New Yalu River Bridge",
+            "url": "https://www.nknews.org/2026/10/north-korea-china-officially-open-long-delayed-new-yalu-river-bridge/"
+          },
+          {
+            "label": "source — (2nd LD) N. Korea fires strategic cruise missiles, possibly from nuclear attack submarine",
+            "url": "https://en.yna.co.kr/view/AEN20261015005900315"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU TRADES THE SASH FOR THE LAB COAT — Burkina Faso's government banned beauty pageants and launched a national science competition for young women instead, Traoré's cabinet announced this week.",
+        "links": [
+          {
+            "label": "2oceansvibe News — Burkina Faso ‘Ban’ Beauty Pageants, Launches Science Competition For Young Women",
+            "url": "https://www.2oceansvibe.com/technology/science/burkina-faso-beauty-pageant-science-october-2026/"
+          }
+        ]
+      },
+      {
+        "text": "ECOBANK WIRES AFRICA STRAIGHT TO BEIJING — Ecobank has signed with China's CIPS to cut settlement costs on Africa-China trade, following the earlier announcement into live partnership.",
+        "links": [
+          {
+            "label": "THISDAYLIVE — Ecobank, CIPS Partner to Strengthen China-Africa Financial Corridor",
+            "url": "https://www.thisdaylive.com/2026/10/15/ecobank-cips-partner-to-strengthen-china-africa-financial-corridor/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P24 Orekhov Oct 15 (68%) — no geolocated confirmation in digest, grading deferred",
+      "P27 Druzhkovka Nov 1 (72%) — unchanged this cycle",
+      "P15 Burkina absorption — refinery clause at Oct 28-29 Moscow summit",
+      "P29 Brewers NLCS 3-0 — sweep point tonight, pennant clock to Oct 19",
+      "CIPS African bank count — who follows Ecobank next"
+    ]
+  },
+  {
     "date": "2026-10-14",
     "items": [
       {

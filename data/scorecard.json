@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14",
-  "edition": 104,
+  "updated": "2026-10-15",
+  "edition": 105,
   "board": [
     {
       "name_zh": "多极化",
@@ -40,12 +40,16 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "September 19: Kim Yo-jong dismissed the IAEA General Conference resolution as 'no effect.' Kim Jong Un completed a three-day munitions factory inspection; state media ran both stories together. Nuclear status 'irreversible': the covenant between leadership and the military-industrial base is publicly institutionalized.",
-      "watching": "Next US-ROK exercise cycle and combined-arms technology transfer signal",
+      "verdict": "The New Yalu River Bridge opened Thursday after twelve years idle, formalizing the Dandong-Sinuiju trade corridor just as Pyongyang test-fired submarine-launched cruise missiles the same day. Infrastructure integration and deterrence posture now run on parallel tracks, each underwriting the other.",
+      "watching": "Whether cross-bridge freight volume becomes a tracked figure rather than ceremonial photo-ops",
       "sources": [
         {
-          "label": "Al Jazeera — DPRK dismisses IAEA resolution",
-          "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution"
+          "label": " — North Korea, China officially open long-delayed New Yalu River Bridge",
+          "url": "https://www.nknews.org/2026/10/north-korea-china-officially-open-long-delayed-new-yalu-river-bridge/"
+        },
+        {
+          "label": " — (2nd LD) N. Korea fires strategic cruise missiles, possibly from nuclear attack submarine",
+          "url": "https://en.yna.co.kr/view/AEN20261015005900315"
         }
       ]
     },
