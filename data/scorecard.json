@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15",
-  "edition": 105,
+  "updated": "2026-10-16",
+  "edition": 106,
   "board": [
     {
       "name_zh": "多极化",
@@ -449,11 +449,11 @@
         "confidence": 52
       },
       "schema_version": 2,
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": null
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-10-16",
+      "note": "Brewers swept the Dodgers 4-0 to reach the World Series, first since 1982 — NPR, MLB.com confirm."
     },
     {
       "beat": "brewers",
@@ -464,6 +464,23 @@
         "resolves_by": "2026-10-31",
         "resolution": "Resolves 对 if the Brewers win the 2026 World Series; 错 if they lose the NLCS or the World Series.",
         "confidence": 29
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
+    },
+    {
+      "beat": "multipolarity",
+      "kind": "desk",
+      "filing": {
+        "claim": "BRICS members launch a concrete Pix-UPI payment interoperability pilot linking at least two national fast-payment systems by Q1 2027",
+        "filed": "2026-10-16",
+        "resolves_by": "2027-03-31",
+        "resolution": "Resolves correct if an operational cross-border link between two BRICS fast-payment systems is announced or live; wrong if talks remain declaratory only.",
+        "confidence": 55
       },
       "schema_version": 2,
       "status": "待",
@@ -639,8 +656,8 @@
       "beat": "sahel"
     },
     {
-      "n": 29,
-      "label": "Brewers win the pennant"
+      "n": 31,
+      "label": "BRICS links two national payment systems directly"
     }
   ]
 }
