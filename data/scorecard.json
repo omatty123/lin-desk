@@ -436,7 +436,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": "Filed as a nominee-specific call alongside P21 (party-level, 55%, filed before the nominee was known); P21's filing stays frozen. Basis at filing: Marquette Aug 12-20 — Crowley 49-44 among likely voters, tied 44-44 among registered; independents 55-16 Crowley. Tiffany's live path: soft turnout turns the registered-voter tie into a coin flip, and Crowley's lower name recognition leaves room to define him on Milwaukee County taxes. Checkpoints: Marquette release Sept 30; televised debate Oct 21 at Marquette Law."
+      "note": "Filed as a nominee-specific call alongside P21 (party-level, 55%, filed before the nominee was known); P21's filing stays frozen. Basis at filing: Marquette Aug 12-20 — Crowley 49-44 among likely voters, tied 44-44 among registered; independents 55-16 Crowley. Tiffany's live path: soft turnout turns the registered-voter tie into a coin flip, and Crowley's lower name recognition leaves room to define him on Milwaukee County taxes. Checkpoints: Marquette release Sept 30; televised debate Oct 21 at Marquette Law. Desk confidence revised to 70% on Oct 17, filed separately as P32; this filing stays frozen at 60."
     },
     {
       "beat": "brewers",
@@ -488,6 +488,23 @@
       "mechanism": null,
       "resolved": null,
       "note": null
+    },
+    {
+      "schema_version": 2,
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "David Crowley wins the November 3 Wisconsin governorship over Tom Tiffany. Revised upward from P28's 60: every public poll of the cycle has Crowley ahead (Marquette, TIPP, RMG, GBAO, YouGov, and the Republican-run Badger Battleground alike), three to five points since the primary, and not one has flipped. Tiffany has bought a $53M-to-$35M spending edge, $24M of his last $26M from three donors, and the purchase has not moved the numbers.",
+        "filed": "2026-10-17",
+        "resolves_by": "2026-11-03",
+        "resolution": "Resolves 对 if David Crowley wins the Nov 3 general election for governor; 错 if Tom Tiffany wins.",
+        "confidence": 70
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Supersedes nothing: P28 (60%, filed Sept 27) stays frozen and is scored on its own. This filing exists because the desk's confidence moved and the ledger must show it. Basis: Marquette Sept 16-23, Crowley 49-46 LV, 46-45 RV; YouGov/City Forward Collective Oct 16, Crowley 46-42 (adults, 9% undecided); Franklin: Crowley +3 to +5 across all post-primary polls. Markets ~80% (Kalshi/Polymarket, Oct 15); the desk stays below them on Wisconsin's record of polls understating Republicans. Tiffany's live path: a polling miss of that kind plus a low-turnout midterm. Checkpoints: Oct 21 debate; Harris campaigns with Crowley Oct 26."
     }
   ],
   "corrections": [
@@ -658,6 +675,10 @@
     {
       "n": 31,
       "label": "BRICS links two national payment systems directly"
+    },
+    {
+      "n": 32,
+      "label": "Crowley wins the governorship (revised, 70%)"
     }
   ]
 }
