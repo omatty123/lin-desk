@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16",
-  "edition": 106,
+  "updated": "2026-10-17",
+  "edition": 107,
   "board": [
     {
       "name_zh": "多极化",
@@ -91,16 +91,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "October 12: EU adopts its 22nd sanctions package — 1,646 entities — even as Washington's own diesel deal with Moscow continues to clear. Sanctions unity now runs on Brussels' discipline alone; Washington treats Russia bilaterally when it serves. The alliance's economic instrument survives, but its single voice does not.",
-      "watching": "Whether EU sanctions discipline survives a US-Russia bilateral energy deal unchallenged",
+      "verdict": "October 17: Trump signed an executive order exempting Russia from new sanctions legislation and waived tariffs on Russian oil and gas before enforcement — India's rate on Russian crude falls from 100 percent to zero. The EU's 22nd package now stands alone; the sanctions regime's own author steps back first.",
+      "watching": "Whether EU sanctions discipline survives Washington's unilateral exemption",
       "sources": [
         {
-          "label": "Odessa Journal — EU Approves Nearly 1,600 New Sanctions Listings Against Russia's Defence Industry - Oj",
-          "url": "https://odessa-journal.com/eu-approves-its-largest-sanctions-package-against-russia"
+          "label": "The Moscow Times — Trump Signs Order Exempting Russia From New Sanctions Legislation",
+          "url": "https://www.themoscowtimes.com/2026/10/17/trump-signs-order-exempting-russia-from-new-sanctions-legislation-a94012"
         },
         {
-          "label": "Novinite.com — EU Vows to Maintain Russia Sanctions Despite Trump-Putin Diesel Deal",
-          "url": "https://www.novinite.com/articles/241002/EU+Vows+to+Maintain+Russia+Sanctions+Despite+Trump-Putin+Diesel+Deal"
+          "label": "CNA — Trump waives new Russia sanctions as Ukraine ties slump",
+          "url": "https://www.channelnewsasia.com/world/trump-waives-russia-sanctions-oil-gas-energy-6467991"
         }
       ]
     }

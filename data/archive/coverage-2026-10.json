@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-10-17",
+    "items": [
+      {
+        "text": "WASHINGTON EXEMPTS ITSELF FROM ITS OWN SANCTIONS — Trump signed an executive order Friday exempting Russia from new sanctions legislation and waived tariffs on Russian oil and gas before either took effect — India's rate on Russian crude drops overnight from 100 percent to zero.",
+        "links": [
+          {
+            "label": "The Moscow Times — Trump Signs Order Exempting Russia From New Sanctions Legislation",
+            "url": "https://www.themoscowtimes.com/2026/10/17/trump-signs-order-exempting-russia-from-new-sanctions-legislation-a94012"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU MARKS SANKARA, AUDITS THE BOOKS — Burkina Faso marked the 39th anniversary of Sankara's assassination this week — \"a revolution doesn't die from its enemies abroad, but from division among its guardians,\" Traoré told the nation Thursday.",
+        "links": [
+          {
+            "label": "Burkina24.com — ‎Les Directeurs généraux des Douanes de la Confédération AES et du Togo rendent compte de leurs travaux au Capitaine Ibrahim",
+            "url": "https://burkina24.com/2026/10/16/les-directeurs-generaux-des-douanes-de-la-confederation-aes-et-du-togo-rendent-compte-de-leurs-travaux-au-capitaine-ibrahim-traore/"
+          },
+          {
+            "label": "Koaci — Burkina Faso : « Une révolution ne meurt pas de ses ennemis du dehors », mais de la « division de ses gardiens », selon Traoré",
+            "url": "https://www.koaci.com/article/2026/10/15/burkina-faso/politique/burkina-faso-une-revolution-ne-meurt-pas-de-ses-ennemis-du-dehors-mais-de-la-division-de-ses-gardiens-selon-traore_201655.html"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG CLAIMS THE ALGORITHM — KCNA says it test-fired an AI-guided precision torpedo, \"Zam-2.0,\" Saturday; Yonhap ran the claim three times before breakfast.",
+        "links": [
+          {
+            "label": "source — (2nd LD) N. Korea tests new precision-guided torpedo using AI: KCNA",
+            "url": "https://en.yna.co.kr/view/AEN20261017000752315"
+          }
+        ]
+      },
+      {
+        "text": "CROWLEY OPENS A LEAD WITH THREE WEEKS LEFT — Political Wire has Crowley ahead of Tiffany with the race entering its final stretch; Tiffany keeps his distance from Trump rather than close to him, the surer tell of a campaign run on local ground.",
+        "links": [
+          {
+            "label": "Political Wire — Crowley Leads Tiffany in Wisconsin Governor’s Race",
+            "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/"
+          },
+          {
+            "label": "WPR — Democrats outraise GOP incumbents in Wisconsin’s 3rd and 1st US House Districts",
+            "url": "https://www.wpr.org/news/democrats-outraise-republicans-wisconsin-3rd-1st-district"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P24 Orekhov Oct 15 (68%) — no geolocated confirmation again, grading deferred",
+      "P27 Druzhkovka Nov 1 (72%) — unchanged this cycle",
+      "P15 Burkina absorption — refinery clause at Oct 28-29 Moscow summit",
+      "P30 Brewers World Series Oct 31 (29%) — pennant won, title clock live",
+      "Whether EU sanctions discipline survives Washington's own exemption"
+    ]
+  },
+  {
     "date": "2026-10-16",
     "items": [
       {
