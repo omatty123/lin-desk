@@ -364,11 +364,11 @@
         "resolution": "Resolves correct if Russian forces establish geolocated operational fire control over Orekhov's city center by October 15, 2026; wrong if the city remains contested beyond that date.",
         "confidence": 68
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": null
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-10-17",
+      "note": "Resolved two days late; the desk should have scored it on the 15th. ISW, October 13: Russian milbloggers claim operations to envelop Orikhiv from the west and northwest, and ISW has observed no evidence of an advance. A city still being enveloped is a city still contested. No geolocated fire control over the center by the deadline."
     },
     {
       "schema_version": 2,
@@ -419,7 +419,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "Desk confidence revised to 20% on Oct 17, filed separately as P34; this filing stays frozen at 72."
     },
     {
       "schema_version": 2,
@@ -522,6 +522,23 @@
       "mechanism": null,
       "resolved": null,
       "note": "P30 (29%, filed Oct 11, before the NLCS) stays frozen and is scored on its own. Basis at filing: ALCS Cleveland leads Tampa Bay 2-1 with Game 4 postponed by weather; DraftKings had Milwaukee +105 to win it all on Oct 13 (about 49% implied, with vig) while the NLCS was still live. Opponent's live path: a rested lineup going cold after a week off, against an AL champion arriving hot."
+    },
+    {
+      "schema_version": 2,
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russian forces establish operational fire control over Druzhkovka before November 1, 2026. Revised down from P27's 72: six weeks after filing, ISW still reports Russian attacks southwest of Druzhkovka that do not advance, and fighting continues inside Konstantinovka, the city that was supposed to be the springboard. Two weeks remain.",
+        "filed": "2026-10-17",
+        "resolves_by": "2026-11-01",
+        "resolution": "Resolves 对 if Russian forces establish fire control over Druzhkovka city proper (commanding elevated ground, artillery dominance of all approaches) before November 1, 2026; 错 if not.",
+        "confidence": 20
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "P27 (72%, filed Sept 1) stays frozen and is scored on its own. Filed because the desk's confidence moved and the ledger must show it."
     }
   ],
   "corrections": [
@@ -596,6 +613,10 @@
     {
       "date": "2026-08-12",
       "text": "The August 11 briefing pre-called 'Hong wins Democratic primary' before results were in — the prediction was filed as an expected outcome alongside the P19 grading. The actual result: David Crowley won the Wisconsin Democratic gubernatorial primary by less than one percentage point in an upset. Every late poll had shown Hong ahead. Crowley had dropped out in late July, re-entered with Governor Evers' endorsement, and ran on electability. The August 11 scorecard P19 note has been corrected; P21's note updated to reflect Crowley as the Democratic nominee with stronger general-election polling (RMG: Crowley 46%, Tiffany 43%)."
+    },
+    {
+      "date": "2026-10-17",
+      "text": "Audit of the Machine War beat. The desk's city-by-city timelines have run hot: P14 Alekseyevo-Druzhkovka (错), P25 Kazacha Lopan encirclement (错), P24 Orekhov (错, resolved today, two days late), and P27 Druzhkovka, now revised from 72 to 20 as P34. Every miss erred the same way, toward Russian speed. The desk borrowed an attrition thesis that gives no timelines and attached timelines to it; the thesis is not what failed. Second item: P11 Konstantinovka was resolved 对 on June 23 at the 80%-control threshold, yet ISW reports Russian attacks within the city as late as October 13. That resolution is under review and will be re-examined against geolocated control data."
     }
   ],
   "beats": [
@@ -700,6 +721,10 @@
     {
       "n": 33,
       "label": "Brewers win the World Series (58%)"
+    },
+    {
+      "n": 34,
+      "label": "Druzhkovka under Russian fire control (revised, 20%)"
     }
   ]
 }
