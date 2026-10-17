@@ -470,7 +470,7 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "Pennant leg resolved 对 Oct 16 (P29). Series-only call filed Oct 17 as P33 at 58%; this filing stays frozen at 29."
     },
     {
       "beat": "multipolarity",
@@ -505,6 +505,23 @@
       "mechanism": null,
       "resolved": null,
       "note": "Supersedes nothing: P28 (60%, filed Sept 27) stays frozen and is scored on its own. This filing exists because the desk's confidence moved and the ledger must show it. Basis: Marquette Sept 16-23, Crowley 49-46 LV, 46-45 RV; YouGov/City Forward Collective Oct 16, Crowley 46-42 (adults, 9% undecided); Franklin: Crowley +3 to +5 across all post-primary polls. Markets ~80% (Kalshi/Polymarket, Oct 15); the desk stays below them on Wisconsin's record of polls understating Republicans. Tiffany's live path: a polling miss of that kind plus a low-turnout midterm. Checkpoints: Oct 21 debate; Harris campaigns with Crowley Oct 26."
+    },
+    {
+      "schema_version": 2,
+      "beat": "brewers",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Milwaukee Brewers win the 2026 World Series, the first title in franchise history. The pennant is banked (P29, 对): the Dodgers swept, the bullpen that Murphy refused to give up on intact, and Game 1 at home on October 23 against whichever of Cleveland or Tampa Bay survives an ALCS that weather has already stretched. P30's 29 was a pennant coin-flip times a Series edge of about 56; with the first factor now settled, the desk files the second, nudged for rest and home field.",
+        "filed": "2026-10-17",
+        "resolves_by": "2026-11-01",
+        "resolution": "Resolves 对 if the Brewers win the 2026 World Series; 错 if they lose it.",
+        "confidence": 58
+      },
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "P30 (29%, filed Oct 11, before the NLCS) stays frozen and is scored on its own. Basis at filing: ALCS Cleveland leads Tampa Bay 2-1 with Game 4 postponed by weather; DraftKings had Milwaukee +105 to win it all on Oct 13 (about 49% implied, with vig) while the NLCS was still live. Opponent's live path: a rested lineup going cold after a week off, against an AL champion arriving hot."
     }
   ],
   "corrections": [
@@ -679,6 +696,10 @@
     {
       "n": 32,
       "label": "Crowley wins the governorship (revised, 70%)"
+    },
+    {
+      "n": 33,
+      "label": "Brewers win the World Series (58%)"
     }
   ]
 }
