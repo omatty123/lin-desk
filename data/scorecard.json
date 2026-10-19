@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18",
-  "edition": 108,
+  "updated": "2026-10-19",
+  "edition": 109,
   "board": [
     {
       "name_zh": "多极化",
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "September 16: First Russia–Burkina Faso intergovernmental commission opened in Moscow; Tsivilev chairs for Russia. Six-sector agenda covers energy infrastructure, civilian drones, pharmaceutical production, and technology transfer. Security partnership now has a working body and a co-chair; refinery protocol outcomes pending.",
-      "watching": "Whether the energy session produces a refinery commitment in the final protocol",
+      "verdict": "Burkina Faso, Niger and Mali resumed talks with ECOWAS this week after their 2024 withdrawal, while Ouagadougou simultaneously deepened customs cooperation with Togo's OTR. This is AES negotiating re-entry on its own schedule, not folding — trade corridors advance, bloc sovereignty does not.",
+      "watching": "Whether the ECOWAS dialogue produces conditions AES actually accepts, or stalls at the first session",
       "sources": [
         {
-          "label": "Ecofin Agency — Burkina Faso and Russia create joint commission",
-          "url": "https://www.ecofinagency.com/news/0108-47945-burkina-faso-and-russia-create-joint-commission-to-deepen-strategic-ties"
+          "label": "Premium Times Nigeria — Burkina Faso, Niger, Mali resume talks with ECOWAS after withdrawal from regional bloc",
+          "url": "https://www.premiumtimesng.com/news/top-news/918145-burkina-faso-niger-mali-resume-talks-with-ecowas-after-withdrawal-from-regional-bloc.html"
         },
         {
-          "label": "Xinhua — BF-Russia agree to convene 1st intergovernmental commission",
-          "url": "https://english.news.cn/africa/20260709/64e3c69c33434153aada1a059561a28c/c.html"
+          "label": "Bamada.net — Coopération douanière AES-Togo : Le Président du Faso reçoit les directeurs et commissaire (OTR) généraux des douanes",
+          "url": "https://bamada.net/cooperation-douaniere-aes-togo-le-president-du-faso-recoit-les-directeurs-et-commissaire-otr-generaux-des-douanes"
         }
       ]
     },

@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-10-19",
+    "items": [
+      {
+        "text": "BEIJING CLEARS A BAR IT WASN'T AIMING AT — Q3 GDP rose 4.5 percent, Beijing's own figure, carried by exports and AI-linked manufacturing while domestic demand lags.",
+        "links": [
+          {
+            "label": "CNA — China's economy picks up pace in Q3 as exports power uneven recovery",
+            "url": "https://www.channelnewsasia.com/business/china-gdp-growth-data-september-2026-6470736"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU RETURNS TO THE TABLE ON ITS OWN TERMS — Traoré's government sent customs chiefs to meet Togo's OTR delegation this week, the same week Burkina Faso, Niger and Mali resumed talks with ECOWAS after their 2024 bloc withdrawal.",
+        "links": [
+          {
+            "label": "Bamada.net — Coopération douanière AES-Togo : Le Président du Faso reçoit les directeurs et commissaire (OTR) généraux des douanes",
+            "url": "https://bamada.net/cooperation-douaniere-aes-togo-le-president-du-faso-recoit-les-directeurs-et-commissaire-otr-generaux-des-douanes"
+          },
+          {
+            "label": "Premium Times Nigeria — Burkina Faso, Niger, Mali resume talks with ECOWAS after withdrawal from regional bloc",
+            "url": "https://www.premiumtimesng.com/news/top-news/918145-burkina-faso-niger-mali-resume-talks-with-ecowas-after-withdrawal-from-regional-bloc.html"
+          }
+        ]
+      },
+      {
+        "text": "THE BRIDGE OPENS, THE LEDGER ALREADY MOVED — North Korea-China trade hit $300 million in September, the second-highest monthly total this year, days before Dandong and Sinuiju reopen the Yalu bridge after twelve years idle.",
+        "links": [
+          {
+            "label": "source — North Korea-China trade soared to $300M last month ahead of bridge opening: Data",
+            "url": "https://www.nknews.org/2026/10/north-korea-china-trade-soared-to-300m-last-month-ahead-of-bridge-opening-data/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P34 Druzhkovka Nov 1 (20%) — no geolocated confirmation this cycle either",
+      "P15 Burkina absorption — whether ECOWAS talks produce conditions Ouagadougou actually accepts",
+      "P33 Brewers World Series Oct 31 (58%) — pennant banked, title clock live",
+      "Whether PRC fixed-asset investment exits contraction by Q4, per Prediction 4",
+      "Cross-bridge freight volume as a tracked DPRK-PRC trade figure"
+    ]
+  },
+  {
     "date": "2026-10-18",
     "items": [
       {
