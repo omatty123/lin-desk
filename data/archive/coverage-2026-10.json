@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-10-20",
+    "items": [
+      {
+        "text": "OUAGADOUGOU PUTS THE GOLD BEHIND A WALL — Burkina Faso banned privatization of 'strategic' state enterprises Monday — mines, utilities, anything the junta designates sovereign, per Jeune Afrique.",
+        "links": [
+          {
+            "label": "Jeune Afrique — Le Burkina interdit la privatisation des entreprises publiques à « caractère stratégique »",
+            "url": "https://www.jeuneafrique.com/1853861/economie-entreprises/le-burkina-interdit-la-privatisation-des-entreprises-publiques-a-caractere-strategique/"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING'S LEDGER GROWS WHILE THE WIRE FROWNS — China's Q3 GDP grew 4.5%.",
+        "links": [
+          {
+            "label": "CCTV.com English — China's Q3 economy picks up pace, reinforcing role as global growth engine",
+            "url": "https://english.cctv.com/2026/10/20/ARTIlWsxsaOkudUe1OHG6A6Z261020.shtml"
+          },
+          {
+            "label": "Bold News — China’s Economy Grows 4.5% as Export Boom Masks Weak Consumer Demand",
+            "url": "https://boldnewsonline.com/chinas-economy-grows-4-5-as-export-boom-masks-weak-consumer-demand/"
+          }
+        ]
+      },
+      {
+        "text": "THE SETTLEMENT LAYER PICKS UP TWO MORE BANKS — Morocco's Attijariwafa Bank joined CIPS this week; Ecobank is deepening its China-Africa corridor; Colombo is moving toward direct yuan settlement with Beijing.",
+        "links": [
+          {
+            "label": "The Nation Newspaper — Ecobank Group, CIPS to strengthen China-Africa financial corridor",
+            "url": "https://thenationonlineng.net/ecobank-group-cips-to-strengthen-china-africa-financial-corridor/"
+          },
+          {
+            "label": "Morocco World News — Attijariwafa Bank Joins China’s CIPS to Speed Up Cross-Border RMB Payments",
+            "url": "https://www.moroccoworldnews.com/2026/10/342816/attijariwafa-bank-joins-chinas-cips-to-speed-up-cross-border-rmb-payments/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina absorption — whether ECOWAS talks reopen the privatization clause",
+      "P4 PRC fixed-asset investment exits contraction by Q4",
+      "P27/34 Druzhkovka Nov 1 — still no geolocated confirmation",
+      "P33 Brewers World Series Oct 31 (58%) — Game 1 odds favor Milwaukee",
+      "Which African bank follows Ecobank into CIPS next"
+    ]
+  },
+  {
     "date": "2026-10-19",
     "items": [
       {

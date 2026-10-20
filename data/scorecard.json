@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19",
-  "edition": 109,
+  "updated": "2026-10-20",
+  "edition": 110,
   "board": [
     {
       "name_zh": "多极化",
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Burkina Faso, Niger and Mali resumed talks with ECOWAS this week after their 2024 withdrawal, while Ouagadougou simultaneously deepened customs cooperation with Togo's OTR. This is AES negotiating re-entry on its own schedule, not folding — trade corridors advance, bloc sovereignty does not.",
-      "watching": "Whether the ECOWAS dialogue produces conditions AES actually accepts, or stalls at the first session",
+      "verdict": "Burkina Faso's ban on privatizing 'strategic' state enterprises closes the door France's reciprocal measures were built to use — no equity entry into gold, no debt-restructuring leverage. Combined with the Dakar re-opening of ECOWAS talks on AES's own terms, this is a government negotiating from a position it has already fortified, not one under siege.",
+      "watching": "Whether the ECOWAS dialogue tries to make privatization a precondition and gets refused",
       "sources": [
         {
-          "label": "Premium Times Nigeria — Burkina Faso, Niger, Mali resume talks with ECOWAS after withdrawal from regional bloc",
-          "url": "https://www.premiumtimesng.com/news/top-news/918145-burkina-faso-niger-mali-resume-talks-with-ecowas-after-withdrawal-from-regional-bloc.html"
+          "label": "Jeune Afrique — Le Burkina interdit la privatisation des entreprises publiques à « caractère stratégique »",
+          "url": "https://www.jeuneafrique.com/1853861/economie-entreprises/le-burkina-interdit-la-privatisation-des-entreprises-publiques-a-caractere-strategique/"
         },
         {
-          "label": "Bamada.net — Coopération douanière AES-Togo : Le Président du Faso reçoit les directeurs et commissaire (OTR) généraux des douanes",
-          "url": "https://bamada.net/cooperation-douaniere-aes-togo-le-president-du-faso-recoit-les-directeurs-et-commissaire-otr-generaux-des-douanes"
+          "label": "Businessday NG — ECOWAS, AES agree to talks on trade, security after split",
+          "url": "https://businessday.ng/africa/article/ecowas-aes-agree-to-talks-on-trade-security-after-split/?amp"
         }
       ]
     },
