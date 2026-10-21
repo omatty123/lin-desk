@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20",
-  "edition": 110,
+  "updated": "2026-10-21",
+  "edition": 111,
   "board": [
     {
       "name_zh": "多极化",
@@ -91,16 +91,16 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "October 17: Trump signed an executive order exempting Russia from new sanctions legislation and waived tariffs on Russian oil and gas before enforcement — India's rate on Russian crude falls from 100 percent to zero. The EU's 22nd package now stands alone; the sanctions regime's own author steps back first.",
-      "watching": "Whether EU sanctions discipline survives Washington's unilateral exemption",
+      "verdict": "October 21: Washington's crude-importer exemption held through the week while Tokyo sanctioned 35 Russian oil vessels and Brussels vowed to tighten its own — three capitals running three sanctions regimes with no shared discipline. Moscow resumed diesel exports to Turkey and Brazil on the resulting gap. The alliance manages its own interests, not a common line.",
+      "watching": "Whether Tokyo's vessel list forces EU alignment or further fragments the sanctions regime",
       "sources": [
         {
-          "label": "The Moscow Times — Trump Signs Order Exempting Russia From New Sanctions Legislation",
-          "url": "https://www.themoscowtimes.com/2026/10/17/trump-signs-order-exempting-russia-from-new-sanctions-legislation-a94012"
+          "label": "Shipping Telegraph — US pauses sanctions targeting top importers of Russian crude oil and gas",
+          "url": "https://shippingtelegraph.com/shipping-reports/us-pauses-sanctions-targeting-top-importers-of-russian-crude-oil-and-gas/"
         },
         {
-          "label": "CNA — Trump waives new Russia sanctions as Ukraine ties slump",
-          "url": "https://www.channelnewsasia.com/world/trump-waives-russia-sanctions-oil-gas-energy-6467991"
+          "label": "Mezha.net — Japan targets 35 Russian oil vessels with new sanctions, drawing Moscow’s rebuke",
+          "url": "https://mezha.net/eng/news/f9bc2109_japan_targets_35_russian/"
         }
       ]
     }

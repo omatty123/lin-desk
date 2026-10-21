@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-10-21",
+    "items": [
+      {
+        "text": "OUAGADOUGOU BRINGS BACK THE ROPE — Burkina Faso's parliament voted unanimously to reinstate the death penalty eight years after abolition, the justice ministry framing it as necessary to 'guarantee security' against the jihadist insurgency.",
+        "links": [
+          {
+            "label": "Africanews — Burkina Faso reinstates death penalty: Justice ministry",
+            "url": "https://www.africanews.com/amp/2026/10/21/burkina-faso-reinstates-death-penalty-justice-ministry/"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG'S SISTER WALKS THE WIRE — Kim Yo-jong and a military marshal inspected border fortifications Tuesday, warning Seoul of an 'overwhelming' response to any provocation — a signal, not a press release.",
+        "links": [
+          {
+            "label": "source — Kim Yo Jong, North Korean top brass visit border and threaten ‘counterattack’",
+            "url": "https://www.nknews.org/2026/10/kim-yo-jong-north-korean-top-brass-visit-border-and-threaten-counterattack/"
+          },
+          {
+            "label": "source — (LEAD) N.K. leader's sister, military marshal inspect border fortification site, warn of 'overwhelming' responses",
+            "url": "https://en.yna.co.kr/view/AEN20261021009151315"
+          }
+        ]
+      },
+      {
+        "text": "WASHINGTON EXEMPTS, TOKYO SANCTIONS, BRUSSELS POSTURES — Washington's exemption for Russian oil importers (October 17) held through this week while Tokyo sanctioned 35 Russian oil vessels and Brussels vowed to 'resolutely' tighten its own — three capitals, three sanctions regimes, no shared discipline.",
+        "links": [
+          {
+            "label": "Shipping Telegraph — US pauses sanctions targeting top importers of Russian crude oil and gas",
+            "url": "https://shippingtelegraph.com/shipping-reports/us-pauses-sanctions-targeting-top-importers-of-russian-crude-oil-and-gas/"
+          },
+          {
+            "label": "Mezha.net — Japan targets 35 Russian oil vessels with new sanctions, drawing Moscow’s rebuke",
+            "url": "https://mezha.net/eng/news/f9bc2109_japan_targets_35_russian/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/34 Druzhkovka Nov 1 — still no geolocated confirmation",
+      "P33 Brewers World Series Oct 31 (58%) — series vs Rays underway",
+      "Whether Burkina's death-penalty law travels to other AES codes",
+      "Cross-bridge DPRK-PRC freight volume as a tracked figure, not photo-ops",
+      "Whether Tokyo's 35-vessel list forces Brussels to match or fragments the regime further"
+    ]
+  },
+  {
     "date": "2026-10-20",
     "items": [
       {
