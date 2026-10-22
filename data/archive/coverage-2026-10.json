@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-10-22",
+    "items": [
+      {
+        "text": "OUAGADOUGOU OPENS THE REFINERY, RESTORES THE ROPE — Burkina Faso inaugurated its first national gold refinery Wednesday, the same week the junta's new penal code restores the death penalty, lapsed since 2018, for terrorism and related crimes.",
+        "links": [
+          {
+            "label": "Xibaaru — Le Burkina Faso inaugure sa première raffinerie nationale d’or",
+            "url": "https://www.xibaaru.sn/le-burkina-faso-inaugure-sa-premiere-raffinerie-nationale-dor/"
+          },
+          {
+            "label": "https://streamlinefeed.co.ke/ — Burkina Faso Reinstates Death Penalty as Junta Adopts Sweeping New Penal Code",
+            "url": "https://streamlinefeed.co.ke/news/burkina-faso-reinstates-death-penalty-as-junta-adopts-sweeping-new-penal-code"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG SWITCHES THE SPEAKERS BACK ON — Seoul reports the North signaling resumption of anti-South loudspeaker broadcasts; Kim Yo Jong told a critic to 'shut his mouth.' The border theater is domestic signaling for both capitals.",
+        "links": [
+          {
+            "label": "한겨레 — North Korea signals possible resumption of anti-South loudspeaker campaign",
+            "url": "https://www.hani.co.kr/arti/english_edition/e_northkorea/1283687.html"
+          },
+          {
+            "label": "source — North Korean, Russian prosecutors sign deal on combating terrorism, smuggling",
+            "url": "https://www.nknews.org/2026/10/north-korean-russian-prosecutors-sign-deal-on-combating-terrorism-smuggling/"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING GROWS FASTER WHILE INVESTING LESS — China's economy grew 4.6 percent over the first nine months of 2026; Q3 fixed-asset investment fell even as growth accelerated.",
+        "links": [
+          {
+            "label": "TV BRICS — China's economy grows 4.6% in first nine months of 2026",
+            "url": "https://tvbrics.com/en/news/china-s-economy-grows-4-6-in-first-nine-months-of-2026/"
+          },
+          {
+            "label": "The Morning — China invested less in Q3 and grew faster",
+            "url": "https://www.themorning.lk/articles/8F3M7alT4RkFXAsViRnj"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/34 Druzhkovka Nov 1 — still no geolocated confirmation",
+      "P4 PRC fixed-asset investment exits contraction by Q4",
+      "Whether Burkina refinery throughput becomes tracked export data",
+      "Whether Seoul resumes loudspeakers in answer to Pyongyang",
+      "P33 Brewers World Series Oct 31 (58%) — series vs Rays live"
+    ]
+  },
+  {
     "date": "2026-10-21",
     "items": [
       {

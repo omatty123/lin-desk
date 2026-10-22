@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21",
-  "edition": 111,
+  "updated": "2026-10-22",
+  "edition": 112,
   "board": [
     {
       "name_zh": "多极化",
@@ -57,16 +57,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Burkina Faso's ban on privatizing 'strategic' state enterprises closes the door France's reciprocal measures were built to use — no equity entry into gold, no debt-restructuring leverage. Combined with the Dakar re-opening of ECOWAS talks on AES's own terms, this is a government negotiating from a position it has already fortified, not one under siege.",
-      "watching": "Whether the ECOWAS dialogue tries to make privatization a precondition and gets refused",
+      "verdict": "Burkina's first national gold refinery opened the same week the junta restored capital punishment for terrorism in its new penal code — sovereignty's two faces arriving together. Western rights groups contest the gallows; none contest the refinery's logic, which is the point.",
+      "watching": "Whether refinery output becomes a tracked export figure rather than a ribbon-cutting",
       "sources": [
         {
-          "label": "Jeune Afrique — Le Burkina interdit la privatisation des entreprises publiques à « caractère stratégique »",
-          "url": "https://www.jeuneafrique.com/1853861/economie-entreprises/le-burkina-interdit-la-privatisation-des-entreprises-publiques-a-caractere-strategique/"
+          "label": "Xibaaru — Le Burkina Faso inaugure sa première raffinerie nationale d’or",
+          "url": "https://www.xibaaru.sn/le-burkina-faso-inaugure-sa-premiere-raffinerie-nationale-dor/"
         },
         {
-          "label": "Businessday NG — ECOWAS, AES agree to talks on trade, security after split",
-          "url": "https://businessday.ng/africa/article/ecowas-aes-agree-to-talks-on-trade-security-after-split/?amp"
+          "label": "https://streamlinefeed.co.ke/ — Burkina Faso Reinstates Death Penalty as Junta Adopts Sweeping New Penal Code",
+          "url": "https://streamlinefeed.co.ke/news/burkina-faso-reinstates-death-penalty-as-junta-adopts-sweeping-new-penal-code"
         }
       ]
     },
