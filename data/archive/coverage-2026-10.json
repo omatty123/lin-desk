@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-10-23",
+    "items": [
+      {
+        "text": "OUAGADOUGOU REBUILDS THE GALLOWS AND THE GRID — Burkina's junta restored the death penalty for terrorism, treason and espionage this week, the same week it announced 2,809.8 billion CFA francs for two energy and industrial megaprojects — \"Energy for All\" and a new state viticulture company.",
+        "links": [
+          {
+            "label": "BBC — Burkina Faso death penalty: Ibrahim Traore junta govment restore death penalty for terrorism, treason oda high crimes",
+            "url": "https://www.bbc.com/pidgin/articles/cj20v1yq20w6o.amp"
+          },
+          {
+            "label": "La Nouvelle Tribune — Burkina Faso : 2 809,8 milliards FCFA annoncés pour deux grands projets dans l’énergie et l’industrie",
+            "url": "https://lanouvelletribune.info/2026/10/burkina-faso-2-8098-milliards-fcfa-annonces-pour-deux-grands-projets-dans-lenergie-et-lindustrie/"
+          }
+        ]
+      },
+      {
+        "text": "WASHINGTON PULLS ITS OWN SANCTIONS' TEETH — Washington waived its own Russia oil-sanctions package hours before the law took effect, easing India's crude-import anxiety and confirming what Tokyo's vessel list and Georgia's refinery delisting bid already showed: the sanctions regime is three capitals improvising, not…",
+        "links": [
+          {
+            "label": "WSJ — Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
+            "url": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93"
+          },
+          {
+            "label": "Shipping Telegraph — US pauses sanctions targeting top importers of Russian crude oil and gas",
+            "url": "https://shippingtelegraph.com/shipping-reports/us-pauses-sanctions-targeting-top-importers-of-russian-crude-oil-and-gas/"
+          }
+        ]
+      },
+      {
+        "text": "MADISON DEBATES DATA CENTERS, TIFFANY DEBATES PRONOUNS — Crowley and Tiffany held their only debate Thursday, trading data-center policy for culture war: Tiffany's parental \"Bill of Rights\" bans transgender sports and pronoun changes, Crowley presses infrastructure and jobs.",
+        "links": [
+          {
+            "label": "WISN — FULL DEBATE | Crowley and Tiffany face off in only Wisconsin governor debate before Election Day",
+            "url": "https://www.wisn.com/article/live-updates-wisconsin-debate-crowley-tiffany/74209726"
+          },
+          {
+            "label": "WPR — Tiffany announces parental ‘Bill of Rights’ to ban transgender sports, pronoun changes",
+            "url": "https://www.wpr.org/news/tiffany-parental-bill-of-rights-ban-transgender-sports-pronoun-changes"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/34 Druzhkovka Nov 1 — still no geolocated confirmation",
+      "P33 Brewers World Series Oct 31 (58%) — Game 1 vs Rays tonight",
+      "Whether Burkina's 2.8 trillion FCFA pledge becomes disbursed capital, not announcement",
+      "Whether Congress moves to reverse Trump's sanctions waiver",
+      "Whether Tiffany's culture bundle shifts any poll before Nov 3"
+    ]
+  },
+  {
     "date": "2026-10-22",
     "items": [
       {
