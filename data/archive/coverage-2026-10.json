@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-10-24",
+    "items": [
+      {
+        "text": "KIM CROSSES THE NEW BRIDGE — Kim Jong Un walked into Dandong Saturday across the New Yalu River Bridge, Yonhap reports, twelve years after the span opened idle and only weeks after cargo use began.",
+        "links": [
+          {
+            "label": "source — (2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+            "url": "https://en.yna.co.kr/view/AEN20261024001953320"
+          },
+          {
+            "label": "source — North Korea’s Kim Jong Un visits Chinese border city of Dandong: ROK",
+            "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU WIRES THE COUNTRY — Burkina Faso's cabinet approved $4.78 billion to deliver electricity nationwide by 2030 and created SOVIB, a new state vehicle to run it, council minutes show.",
+        "links": [
+          {
+            "label": "Africa News Agency — Burkina Faso : plus de 4,78 milliards $ pour l’électricité pour tous d’ici 2030 et création de la SOVIB",
+            "url": "https://africa-news-agency.com/burkina-faso-plus-de-478-milliards-pour-lelectricite-pour-tous-dici-2030-et-creation-de-la-sovib/"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING CLEARS FOUR POINT SIX — China's economy grew 4.6 percent through the first three quarters, with Guangdong alone posting 11.1 trillion yuan, a five-year high for the period, state data show.",
+        "links": [
+          {
+            "label": "IOL — China's GDP for first three quarters grows 4.6 percent",
+            "url": "https://iol.co.za/business/2026-10-24-chinas-gdp-for-first-three-quarters-grows-46-percent/"
+          },
+          {
+            "label": "BigGo Finance — China's Guangdong GDP reaches 11.1 trillion yuan in first three quarters, 4.6% growth marks five-year high for the period",
+            "url": "https://finance.biggo.com/news/0db07a03-5e35-4696-97c7-d9daaa58310d"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/34 Druzhkovka Nov 1 — still no geolocated confirmation",
+      "P33 Brewers World Series Oct 31 (58%) — Game 1 won, series 1-0",
+      "Whether SOVIB's $4.78bn electrification financing clears non-Western channels",
+      "Whether cross-bridge DPRK-PRC freight becomes a tracked figure, not a Kim photo-op",
+      "P4 PRC fixed-asset investment exits contraction by Q4"
+    ]
+  },
+  {
     "date": "2026-10-23",
     "items": [
       {
