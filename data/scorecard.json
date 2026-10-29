@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28",
-  "edition": 118,
+  "updated": "2026-10-29",
+  "edition": 119,
   "board": [
     {
       "name_zh": "多极化",
@@ -517,11 +517,11 @@
         "resolution": "Resolves 对 if the Brewers win the 2026 World Series; 错 if they lose it.",
         "confidence": 58
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "P30 (29%, filed Oct 11, before the NLCS) stays frozen and is scored on its own. Basis at filing: ALCS Cleveland leads Tampa Bay 2-1 with Game 4 postponed by weather; DraftKings had Milwaukee +105 to win it all on Oct 13 (about 49% implied, with vig) while the NLCS was still live. Opponent's live path: a rested lineup going cold after a week off, against an AL champion arriving hot."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-10-29",
+      "note": "WPR confirms Brewers beat Rays for first World Series title in franchise history, Oct 28/29."
     },
     {
       "schema_version": 2,
@@ -717,10 +717,6 @@
     {
       "n": 32,
       "label": "Crowley wins the governorship (revised, 70%)"
-    },
-    {
-      "n": 33,
-      "label": "Brewers win the World Series (58%)"
     },
     {
       "n": 34,
