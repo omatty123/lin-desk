@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29",
-  "edition": 119,
+  "updated": "2026-10-30",
+  "edition": 120,
   "board": [
     {
       "name_zh": "多极化",
@@ -466,11 +466,11 @@
         "confidence": 29
       },
       "schema_version": 2,
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "Pennant leg resolved 对 Oct 16 (P29). Series-only call filed Oct 17 as P33 at 58%; this filing stays frozen at 29."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-10-30",
+      "note": "Brewers beat the Rays to win the franchise's first World Series title, confirmed across Oct 29-30 coverage."
     },
     {
       "beat": "multipolarity",

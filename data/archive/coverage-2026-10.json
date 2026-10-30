@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-10-30",
+    "items": [
+      {
+        "text": "OUAGADOUGOU WIRES ITSELF WHILE PARIS WATCHES — Burkina Faso's state power utility says the Faso Wa Fulu plan will send 44 engineering brigades to wire villages left dark under French-era contracts.",
+        "links": [
+          {
+            "label": "Energy News Network — Burkina Faso electrification plan sends 44 brigades to wire the country",
+            "url": "https://energy-news-network.com/industry-news/burkina-faso-electrification-plan-faso-wa-fulu/"
+          }
+        ]
+      },
+      {
+        "text": "KIM ANSWERS AN OLIVE BRANCH WITH ROCKETS — Pyongyang answered Seoul's proposal for military talks with ballistic missiles, drone-strike demonstrations, and a 600mm 'Sniper' rocket barrage witnessed by Kim Jong Un.",
+        "links": [
+          {
+            "label": "source — North Korea says it launched barrage of 600mm ‘Sniper’ rockets at live-fire demo",
+            "url": "https://www.nknews.org/2026/10/north-korea-says-it-launched-barrage-of-600mm-sniper-rockets-at-live-fire-demo/"
+          },
+          {
+            "label": "source — US curbed intel sharing over Seoul’s disclosure of North Korean nuke site: NIS",
+            "url": "https://www.nknews.org/2026/10/us-curbed-intel-sharing-over-seouls-disclosure-of-north-korean-nuke-site-nis/"
+          }
+        ]
+      },
+      {
+        "text": "CROWLEY'S LEAD WIDENS, THE PRISONS STAY SHUT — A new poll puts Crowley seven points ahead of Tiffany with four days left, and the Washington Post credits the Brewers' title for some of the lift.",
+        "links": [
+          {
+            "label": "Just The News — Crowley carves out 7-point lead in WI governor's race, with days to go: Poll",
+            "url": "https://justthenews.com/politics-policy/crowley-carves-out-7-point-lead-wi-governors-race-days-go-poll"
+          },
+          {
+            "label": "WPR — Where do Tiffany and Crowley stand on closing the Green Bay and Waupun prisons?",
+            "url": "https://www.wpr.org/news/tom-tiffany-daivd-crowley-governor-green-bay-waupun-prisons"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina reciprocal measures — watch disbursement of electrification brigades, not announcements",
+      "P2 PRC-DPRK denuclearization still absent from official language",
+      "P32 Crowley at 70% — four days out, lead widening in public polling",
+      "P27/34 Druzhkovka fire control — Nov 1 deadline approaches, no fresh clash data",
+      "NIS intel-sharing curb after Seoul's nuclear-site disclosure — watch if breach becomes lasting"
+    ]
+  },
+  {
     "date": "2026-10-29",
     "items": [
       {
