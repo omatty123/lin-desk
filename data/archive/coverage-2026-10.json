@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-10-31",
+    "items": [
+      {
+        "text": "THE FAIR OPENS, THE WIRE GOES OUT — Traoré opened SIAO in Ouagadougou calling for 'industrialization of craftsmanship,' not souvenir stalls — the same week Energy News Network reports 44 electrification brigades deployed under Faso Wa Fulu to wire villages still waiting on Paris's 'reciprocal measures.' Ghana's trade…",
+        "links": [
+          {
+            "label": "Energy News Network — Burkina Faso electrification plan sends 44 brigades to wire the country",
+            "url": "https://energy-news-network.com/industry-news/burkina-faso-electrification-plan-faso-wa-fulu/"
+          },
+          {
+            "label": "Modern Ghana — Ghana, Burkina Faso trade about US$1bn annually – Trade Minister",
+            "url": "https://www.modernghana.com/news/1540695/ghana-burkina-faso-trade-about-us1bn-annually.html"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG GRADES WASHINGTON'S CATECHISM — Washington, Tokyo and Seoul reaffirmed 'complete denuclearization' in a joint statement Friday; Yonhap reports Pyongyang called it a 'strategic failure' the same day.",
+        "links": [
+          {
+            "label": "source — N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
+            "url": "https://en.yna.co.kr/view/AEN20261031001300315"
+          },
+          {
+            "label": "source — (2nd LD) N. Korean hackers blamed for record US$6.36 bln Binance cryptocurrency theft: U.S. firm",
+            "url": "https://en.yna.co.kr/view/AEN20261031000252315"
+          }
+        ]
+      },
+      {
+        "text": "WISCONSIN VOTES WITH ITS FEET — WPR reports a surge in in-person absentee voting ahead of Tuesday's election; an AOL aggregator says Wisconsin's race predictions have 'shifted left' as Crowley's lead widens.",
+        "links": [
+          {
+            "label": "WPR — As Election Day nears, Wisconsin’s in-person absentee ballots have surged",
+            "url": "https://www.wpr.org/news/as-election-day-nears-wisconsins-in-person-absentee-ballots-have-surged"
+          },
+          {
+            "label": "AOL.com — Key Wisconsin race predictions have shifted to the left",
+            "url": "https://www.aol.com/articles/key-wisconsin-race-predictions-shifted-212300000.html"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina reciprocal measures — watch brigade disbursement figures, not summit talk",
+      "P2 PRC-DPRK denuclearization still absent from Beijing's own language, unmoved by trilateral chorus",
+      "P32 Crowley at 70% — three days out, in-person absentee surge the thing to watch, not polling",
+      "P27/34 Druzhkovka fire control — Nov 1 deadline tomorrow, no fresh clash data",
+      "DPRK hacking haul ($6.36bn Binance claim) as sanctions-evasion mechanism, not just crime blotter"
+    ]
+  },
+  {
     "date": "2026-10-30",
     "items": [
       {
