@@ -1,21 +1,29 @@
 {
-  "updated": "2026-10-31",
-  "edition": 121,
+  "updated": "2026-11-01",
+  "edition": 122,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "September 16: BRICS Pay has cut dollar usage in intra-bloc trade by two-thirds, three days after the New Delhi declaration. India blocked a common-currency resolution; the settlement plumbing runs regardless. The architecture does not announce itself; it settles transactions.",
-      "watching": "Whether dollar displacement reaches the invoicing layer — the transition from payment habit to systemic shift",
+      "verdict": "The 18th BRICS Summit convened in New Delhi with Xi, Putin, and Modi present — the bloc's own description of itself as an 'intercontinental organisation' for the Global South, delivered in public. Yuan-internationalization commentary (Fortune's 'Pepsi vs. Coke' framing) undercuts its own case while Azerbaijan's dollar-deposit share keeps falling, which the commentary does not.",
+      "watching": "Whether this summit produces a tracked Pix-UPI interoperability step (Prediction 31) rather than another declaration",
       "sources": [
         {
-          "label": "SCMP — Under Trump’s shadow, Brics takes step towards de-dollarisation",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation"
+          "label": "DD News — Putin Arrives in New Delhi for BRICS Summit; Bilateral Talks with PM Modi Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0o1VFE2T19CQkxjYk1MX2hvcEIteGpIdkNWUkoyMVFPSkZ3X2lwNzc2dGZZT0FnUFZiU2lxcDhpTUVtcXpqYWdNTGVQS255SW5MZFpRUEgxeDIwZnVMZnVZOVlLdnhZMmZ5Y01PWDlRcUswR1VzNkhHNXFIb3lidURQdXZBNDMxQjN5XzF5ejZ4VnFLX1hueGtTVTlrNGJCeEZwWkhERQ?oc=5"
         },
         {
-          "label": "APAC News Network — Iran, Russia Push De-Dollarisation at BRICS Forum",
-          "url": "https://apacnewsnetwork.com/2026/09/brics-iran-russia-de-dollarisation/"
+          "label": "DD News — BRICS an intercontinental organisation focussing on Global South: Foreign Affairs expert Kondapalli",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXd0d3JrOTdhNnNLTVhHWUJxSVI1ZnFDQXFiNGw3WjQ2dExyNTNVQlpiazJyVXRZZ285d0RmRU0tbkNpdHpTcDBJc0VZTWZSVnBQdnlBSThtS1BIamQtZkh4Tjl3dnRLRjNfM21rdFRmY3QwOVhRRUVMLU9mTjdxRXd0bmNnT1VnM3JETjc4ZTlybTJFU3NBdVkzWElpSHMtckFGUVhZTDJ0MVhTdFhDRjhzZGdQWkx0V1kzQjR5d09udw?oc=5"
+        },
+        {
+          "label": "Fortune — China sees yuan vs. dollar like Pepsi vs. Coke—'never the market leader, but serviceable in a pinch'",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEhuTk5FWUdQX0h0bnB2VjRxTldUVFgxSHJRTlM0YmxXX1RTZk14a1V6R0FvZlZjQWE3VU1oczdvRmRpa0hGWW5fMUg5NllyUWV5Yk82Q1p3NTJrWWJkTXZwdWNkT3ZUN3JHR1k3VVRRRDhpYTdvRjVQOGlQWEdGQTBfYTRidjFQQm5hbWZZQ09MdU1MeDl2NmJ0QXgyU25LbThZVEI2YTVnck5J?oc=5"
+        },
+        {
+          "label": "Trend News Agency — Azerbaijan's deposit dollarization falls to 25.7% for residents, CBA says",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GR2Y4QTdvMFdYcXg2QmV5VDR6cnZ0ekEwSVU3ZEZFeXNTcGxod2dlQlJPeXEwTW5MSDRDdGdNT2ozTmJnTmJUOHJlSW9icmRpLVRKUkdMSQ?oc=5"
         }
       ]
     },
@@ -40,16 +48,32 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "Wang Huning, the Party's fourth-ranking official, is now the named point man on Korea affairs — an institutional commitment layered atop Kim's Dandong visit and the New Yalu Bridge opening. This is bureaucratic weight, not ceremony, and it reads as Beijing treating the relationship as a managed priority rather than a periodic gesture.",
-      "watching": "Whether cross-bridge freight volume becomes a tracked figure rather than ceremonial photo-ops",
+      "verdict": "FBI attributes the $6.36B Binance theft to Pyongyang's TraderTraitor unit, the largest crypto heist on record, while the KPA tests a cluster warhead for tactical ballistic missiles meant for deployment by year's end. Trump's offer to 'talk' if Pyongyang confirms the hack reads as an opening, not a condemnation — Washington wants the channel more than the denial.",
+      "watching": "Whether the cluster-warhead program maps onto deployed units rather than test footage; whether the Binance funds trace to weapons financing",
       "sources": [
         {
-          "label": "한겨레 — Who is Wang Huning? The No. 4 Chinese official becoming a key player on North Korean affairs",
-          "url": "https://www.hani.co.kr/arti/english_edition/e_international/1284208.html"
+          "label": " — (LEAD) Trump says U.S. will talk to N. Korea if it is behind Binance hack",
+          "url": "https://en.yna.co.kr/view/AEN20261101000351315"
         },
         {
-          "label": "news.sbs.co.kr — China on Kim Jong-un's Visit: \"Developing North Korea-China Relations Is Unwavering Policy\"",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008815589"
+          "label": "The Hacker News — FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5"
+        },
+        {
+          "label": " — (LEAD) N. Korea tests cluster bomb mountable on tactical ballistic missiles",
+          "url": "https://en.yna.co.kr/view/AEN20261101000451315"
+        },
+        {
+          "label": " — North Korea tests cluster warhead, plans military use by end of 2026",
+          "url": "https://www.nknews.org/2026/11/north-korea-tests-cluster-warhead-plans-military-use-by-end-of-2026/"
+        },
+        {
+          "label": " — FBI says N. Korea responsible for over US$6 bln crypto theft from Binance",
+          "url": "https://en.yna.co.kr/view/AEN20261101000300315"
+        },
+        {
+          "label": " — N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
+          "url": "https://en.yna.co.kr/view/AEN20261031001300315"
         }
       ]
     },
@@ -57,16 +81,24 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Burkina's first national gold refinery opened the same week the junta restored capital punishment for terrorism in its new penal code — sovereignty's two faces arriving together. Western rights groups contest the gallows; none contest the refinery's logic, which is the point.",
-      "watching": "Whether refinery output becomes a tracked export figure rather than a ribbon-cutting",
+      "verdict": "Traoré's Martyrs Day address reaffirmed the 'war of liberation' framing the same week the World Bank signed a cooperation framework 'aligned with' his vision — the institution adapting to the junta rather than the reverse. Another African state joined the home-refining wave Burkina started, and Ouagadougou sent representation to the Russia-Africa summit rather than skipping it.",
+      "watching": "Whether the World Bank framework includes financing terms or stays declaratory; refinery export volume as a tracked figure",
       "sources": [
         {
-          "label": "Xibaaru — Le Burkina Faso inaugure sa première raffinerie nationale d’or",
-          "url": "https://www.xibaaru.sn/le-burkina-faso-inaugure-sa-premiere-raffinerie-nationale-dor/"
+          "label": "Koaci — Burkina Faso: Journée des Martyrs, le Capitaine Traoré réaffirme la « guerre de libération »",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOU80dFZXN2pCWkZfR0h0cmZNU19yVUhSeVhQUkxEZl9aNDFyWW9tZS1QN21HTlhHMHBuaV9ObjUtUWljSm9IOFAzX3FmRE80M3FsR0x1Y1kzR0J0WG80UGxXN1hnWm1WcEYtRXcteEVGTF9wUzdEQVUxeVhpV1pkY0pzbEdDMnF2SFh4RFFFeUxPNGlDZHBHM0VvZ21zc2dDNWJTSmJKV1FRTm9qcDN1RU1hMDFia1NYenZ0NEFtUW9YRTd4YjQyNHhyVF9oM0lmTmZQM0dMUWlHUmRkZ1dWLS1sOTVpYzRpQTdJR3Ayd3dtNDVJ?oc=5"
         },
         {
-          "label": "https://streamlinefeed.co.ke/ — Burkina Faso Reinstates Death Penalty as Junta Adopts Sweeping New Penal Code",
-          "url": "https://streamlinefeed.co.ke/news/burkina-faso-reinstates-death-penalty-as-junta-adopts-sweeping-new-penal-code"
+          "label": "Burkina24.com — Coopération Burkina Faso-Banque mondiale : Un nouveau cadre aligné sur la vision du Capitaine Ibrahim TRAORÉ",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmNOWlBpNkhIV09CS2NqeHZ5OEJmdHh4NGNHdW5abkU4MEdhYjZrZGxVamU4ZUkzLTJBUUt3LUJFWDRyWTk5dVduMkJjMVh2RXlMWjdmS3V4YlpBTHV0aVhHa3ByckxFak1MVlpDaS1Ccm5aR09CeUdOOENHZGthdGc4VHlOdlY2clA2NTA3eFNZYlJNS3NISHNwNGdwck1CNHpnX3ctRnVLQmhuMG1hTjI0WXkxYV85TmZBQmJtSzRTblp1djhDRHN6MnprNjBCd21iVTdlYw?oc=5"
+        },
+        {
+          "label": "Business Insider Africa — Africa welcomes its newest gold refinery as another nation joins Burkina Faso, Ethiopia in refining gold at home",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZXpCLThZUncwN1V0MkdYMEFHcnc0Z25abG1YTFhJeWQyZHF2RlpvOWtmaDRHQVNGNEljYWV4RW9iNmtVSHlWeXRmSkVldi10R1JLUXZWclJIR3NIcmluNGxTLU4xNDJ3TVlZWjZqY2Jhcm1ucXBJUS1mcWpwZjJYbDd6QXhUT25nTzJjSDlRemtLYTMybkE1ZDVHcFVacXVUaGFfNTNjMWVSTWZnbTBmZDlXcmJ6RnV6cjJhU3E3VnNnN1N0eFM3UEcwMDNmZGc?oc=5"
+        },
+        {
+          "label": "Bénin Web TV — Burkina Faso: Ouédraogo travels to Moscow to represent Traoré at Russia-Africa summit",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHMxMFZxLWtpLVhTejRLSzhJaEQtMHlESFMtSkJ6eWFFbTVxUjFicTlnSEZkcmVJWUFGU0JOOHhEVVJKSWhraGdOMml4SFE4UUNxd2FaX1JBLWhZSERkbHpIc1dGVnRadEpyYnJ6MTdZODU5Sm5hX1hkTlNsbUEtaGpkSnRzSW5OTG5iLVItNXppUUctSldrM0ZMLWVEZ2QyVU9JTWRoaUMwSzRHV0w0?oc=5"
         }
       ]
     },
