@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-02",
+    "items": [
+      {
+        "text": "PYONGYANG MEASURES THE RANGE TO BUSAN — North Korea's latest cluster-warhead test, paired with a statement blasting U.S.-ROK drills as 'nuclear rehearsal,' has experts measuring range out to Busan — deployment signaling, not test footage for its own sake.",
+        "links": [
+          {
+            "label": "source — North Korean cluster warheads could threaten targets as far as Busan: Experts",
+            "url": "https://www.nknews.org/2026/11/north-korean-cluster-warheads-could-threaten-targets-as-far-as-busan-experts/"
+          },
+          {
+            "label": "source — North Korean coal officials tour Chinese mining firm amid modernization drive",
+            "url": "https://www.nknews.org/2026/11/north-korean-coal-officials-tour-chinese-mining-firm-amid-modernization-drive/"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU MARKS THE 66TH, CALLS FOR COLLECTIVE DEFENSE — Traoré used the martyrs' commemoration and the armed forces' 66th anniversary to call for 'collective national defense' and to push artisanal production toward industrialization — the state narrating its own resilience, not waiting for Paris's verdict.",
+        "links": [
+          {
+            "label": "leFaso.net - L'actualité au Burkina Faso — Burkina/66ᵉanniversaire des Forces armées nationales : Le capitaine Ibrahim Traoré salue leur rés",
+            "url": "https://lefaso.net/spip.php?article150416"
+          },
+          {
+            "label": "marketscreener.com — Endeavour Mining Pauses Underground Activities at Mana Gold Mine in Burkina Faso",
+            "url": "https://www.marketscreener.com/news/endeavour-mining-pauses-underground-activities-at-mana-gold-mine-in-burkina-faso-ce785fd8df81f426"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING'S FACTORIES DIP, SEOUL'S CHIPS SURGE — October manufacturing PMI fell to 49.3 — the wire's data about what the adversary tells itself, never our verdict — while South Korea's exports to China jumped 134 percent, semiconductors up 331, as the AI build-out pulls real demand through the chain regardless of the…",
+        "links": [
+          {
+            "label": "IDNFinancials — China's manufacturing PMI falls to 49.3 in October: here's why",
+            "url": "https://www.idnfinancials.com/news/71135/chinas-manufacturing-pmi-falls-to-49-3-in-october-heres-why"
+          },
+          {
+            "label": "파이낸셜뉴스 — South Korea’s exports to China surge 134%, including a 331% jump in semiconductors, as AI boom drives growth",
+            "url": "https://en.fnnews.com/news/202611021602406823"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/34 Druzhkovka — Nov 1 deadline passed, no fresh clash data to grade, still due",
+      "P32 Crowley at 70% — election day tomorrow, last pre-vote coverage only",
+      "P2 denuclearization still absent from Beijing's DPRK language — coal delegation as cooperation evidence",
+      "P4 PRC fixed-asset investment — PMI miss vs Seoul's chip-export surge, Q4 the real test",
+      "P15 Burkina reciprocal measures — Endeavour's mine pause is context, not evidence"
+    ]
+  },
+  {
     "date": "2026-11-01",
     "items": [
       {
