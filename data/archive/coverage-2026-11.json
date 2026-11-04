@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-04",
+    "items": [
+      {
+        "text": "MILWAUKEE'S SON TAKES THE STATEHOUSE — David Crowley wins Wisconsin's governorship as Democrats flip both legislative chambers for the first time in eighteen years and the congressional delegation splits 4-4.",
+        "links": [
+          {
+            "label": "WPR — Democrats flip Wisconsin Legislature, setting up single-party control",
+            "url": "https://www.wpr.org/news/wisconsin-assembly-senate-election-results-2026"
+          },
+          {
+            "label": "NBC News — Democrat David Crowley wins Wisconsin governor's race",
+            "url": "https://www.nbcnews.com/video/shorts/democrat-david-crowley-wins-wisconsin-governor-s-race-272825413758"
+          }
+        ]
+      },
+      {
+        "text": "MOSCOW'S OWN MINERS BRAWL OVER BURKINABÉ GOLD — Russian security firms are fighting over a Burkinabé gold mine owned by Alexey Mordashov's family amid a $1 billion sale to another Russian miner, even as Traoré builds his 'military reserve' against the West.",
+        "links": [
+          {
+            "label": "Business Insider Africa — Russian security firms battle over Burkina Faso gold mine owned by billionaire Alexey Mordashov’s family amid $1 b",
+            "url": "https://africa.businessinsider.com/local/markets/russian-security-firms-battle-over-burkina-faso-gold-mine-owned-by-billionaire-alexey/cp7n4kr"
+          },
+          {
+            "label": "Firstpost — 'No More Slaves of West': Ibrahim Traore Builds Burkina Faso's Military Reserve | Firstpost Africa",
+            "url": "https://www.firstpost.com/web-show/firstpost-africa/no-more-slaves-of-west-ibrahim-traore-builds-burkina-fasos-military-reserve-firstpost-africa-vd2280419/"
+          }
+        ]
+      },
+      {
+        "text": "KIM TOURS THE SHIPYARD, FIRES THE MISSILES — Kim Jong Un inspects the Nampho shipyard, demanding 'rapid naval buildup,' hours after Pyongyang's fourth missile test this week toward the East Sea; Kim Yo Jong says talks with Washington are 'possible but not necessary.' Her read: this is the posture of a state that has…",
+        "links": [
+          {
+            "label": "source — (LEAD) N. Korea's Kim inspects Nampho shipyard, calls for rapid naval buildup",
+            "url": "https://en.yna.co.kr/view/AEN20261104003651315"
+          },
+          {
+            "label": "source — North Korea’s Kim Yo Jong says talks with US are possible but not a necessity",
+            "url": "https://www.nknews.org/2026/11/north-koreas-kim-yo-jong-says-talks-with-us-are-possible-but-not-a-necessity/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/P34 Druzhkovka — still no fresh clash data to grade, remains due",
+      "P2 denuclearization absent from Pyongyang's language — Kim Yo Jong's 'not necessary' line reinforces",
+      "P31 Pix-UPI pilot — iBRICS summit and Goyal's linked-payments call, still no tracked step",
+      "Burkina gold mine dispute — watch for state intervention versus Russian private settlement",
+      "Wisconsin trifecta's first budget move — Medicaid expansion as the real test of unified government"
+    ]
+  },
+  {
     "date": "2026-11-03",
     "items": [
       {

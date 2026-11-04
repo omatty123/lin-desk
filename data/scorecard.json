@@ -1,29 +1,21 @@
 {
-  "updated": "2026-11-03",
-  "edition": 124,
+  "updated": "2026-11-04",
+  "edition": 125,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The 18th BRICS Summit convened in New Delhi with Xi, Putin, and Modi present — the bloc's own description of itself as an 'intercontinental organisation' for the Global South, delivered in public. Yuan-internationalization commentary (Fortune's 'Pepsi vs. Coke' framing) undercuts its own case while Azerbaijan's dollar-deposit share keeps falling, which the commentary does not.",
-      "watching": "Whether this summit produces a tracked Pix-UPI interoperability step (Prediction 31) rather than another declaration",
+      "verdict": "The inaugural iBRICS Summit drew 500+ investors and ministers to New Delhi, with Goyal publicly pressing for linked national payment systems and local-currency trade — the institutional ask made explicit on stage. Indonesia's non-dollar transactions more than doubled to $52.6bn, a tracked figure, not a declaration.",
+      "watching": "Whether iBRICS produces a tracked Pix-UPI interoperability step (Prediction 31) or stays rhetoric",
       "sources": [
         {
-          "label": "DD News — Putin Arrives in New Delhi for BRICS Summit; Bilateral Talks with PM Modi Today",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0o1VFE2T19CQkxjYk1MX2hvcEIteGpIdkNWUkoyMVFPSkZ3X2lwNzc2dGZZT0FnUFZiU2lxcDhpTUVtcXpqYWdNTGVQS255SW5MZFpRUEgxeDIwZnVMZnVZOVlLdnhZMmZ5Y01PWDlRcUswR1VzNkhHNXFIb3lidURQdXZBNDMxQjN5XzF5ejZ4VnFLX1hueGtTVTlrNGJCeEZwWkhERQ?oc=5"
+          "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
+          "url": "https://newsonair.gov.in/over-500-investors-finance-ministers-and-business-leaders-to-attend-inaugural-ibrics-summit/"
         },
         {
-          "label": "DD News — BRICS an intercontinental organisation focussing on Global South: Foreign Affairs expert Kondapalli",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXd0d3JrOTdhNnNLTVhHWUJxSVI1ZnFDQXFiNGw3WjQ2dExyNTNVQlpiazJyVXRZZ285d0RmRU0tbkNpdHpTcDBJc0VZTWZSVnBQdnlBSThtS1BIamQtZkh4Tjl3dnRLRjNfM21rdFRmY3QwOVhRRUVMLU9mTjdxRXd0bmNnT1VnM3JETjc4ZTlybTJFU3NBdVkzWElpSHMtckFGUVhZTDJ0MVhTdFhDRjhzZGdQWkx0V1kzQjR5d09udw?oc=5"
-        },
-        {
-          "label": "Fortune — China sees yuan vs. dollar like Pepsi vs. Coke—'never the market leader, but serviceable in a pinch'",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEhuTk5FWUdQX0h0bnB2VjRxTldUVFgxSHJRTlM0YmxXX1RTZk14a1V6R0FvZlZjQWE3VU1oczdvRmRpa0hGWW5fMUg5NllyUWV5Yk82Q1p3NTJrWWJkTXZwdWNkT3ZUN3JHR1k3VVRRRDhpYTdvRjVQOGlQWEdGQTBfYTRidjFQQm5hbWZZQ09MdU1MeDl2NmJ0QXgyU25LbThZVEI2YTVnck5J?oc=5"
-        },
-        {
-          "label": "Trend News Agency — Azerbaijan's deposit dollarization falls to 25.7% for residents, CBA says",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GR2Y4QTdvMFdYcXg2QmV5VDR6cnZ0ekEwSVU3ZEZFeXNTcGxod2dlQlJPeXEwTW5MSDRDdGdNT2ozTmJnTmJUOHJlSW9icmRpLVRKUkdMSQ?oc=5"
+          "label": "Jakarta Globe — Indonesia's Non-Dollar Transactions More Than Double to $52.6 Billion",
+          "url": "https://jakartaglobe.id/business/indonesias-nondollar-transactions-more-than-double-to-526-billion"
         }
       ]
     },
@@ -345,11 +337,11 @@
         "resolution": "Resolves 对 if the Democratic candidate wins the Nov 3 general election for governor; 错 if the Republican wins.",
         "confidence": 55
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "Democratic nominee now confirmed as David Crowley (Milwaukee County Executive), who defeated Francesca Hong by less than one percentage point on August 11 in an upset — Crowley had dropped out and re-entered with Governor Evers' endorsement. RMG Research (July 24) showed Crowley 46%, Tiffany 43% — better than pre-primary Hong-Tiffany polling where Republicans were favored. P21's 55% confidence filed on assumption of a difficult Democratic nominee; Crowley's stronger general-election position shifts the picture; watch the first post-primary Crowley-Tiffany poll. Nominee-specific call filed Sept 27 as P28 (Crowley, 60%)."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-11-04",
+      "note": "Crowley wins Nov 3 governorship per WPR/NBC calls; Tiffany concedes."
     },
     {
       "schema_version": 2,
@@ -464,11 +456,11 @@
         "resolution": "Resolves 对 if David Crowley wins the Nov 3 general election for governor; 错 if Tom Tiffany wins.",
         "confidence": 60
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "Filed as a nominee-specific call alongside P21 (party-level, 55%, filed before the nominee was known); P21's filing stays frozen. Basis at filing: Marquette Aug 12-20 — Crowley 49-44 among likely voters, tied 44-44 among registered; independents 55-16 Crowley. Tiffany's live path: soft turnout turns the registered-voter tie into a coin flip, and Crowley's lower name recognition leaves room to define him on Milwaukee County taxes. Checkpoints: Marquette release Sept 30; televised debate Oct 21 at Marquette Law. Desk confidence revised to 70% on Oct 17, filed separately as P32; this filing stays frozen at 60."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-11-04",
+      "note": "Crowley wins; midterm wind against president's party confirmed by legislative flip."
     },
     {
       "beat": "brewers",
@@ -532,11 +524,11 @@
         "resolution": "Resolves 对 if David Crowley wins the Nov 3 general election for governor; 错 if Tom Tiffany wins.",
         "confidence": 70
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "Supersedes nothing: P28 (60%, filed Sept 27) stays frozen and is scored on its own. This filing exists because the desk's confidence moved and the ledger must show it. Basis: Marquette Sept 16-23, Crowley 49-46 LV, 46-45 RV; YouGov/City Forward Collective Oct 16, Crowley 46-42 (adults, 9% undecided); Franklin: Crowley +3 to +5 across all post-primary polls. Markets ~80% (Kalshi/Polymarket, Oct 15); the desk stays below them on Wisconsin's record of polls understating Republicans. Tiffany's live path: a polling miss of that kind plus a low-turnout midterm. Checkpoints: Oct 21 debate; Harris campaigns with Crowley Oct 26."
+      "status": "对",
+      "outcome": "对",
+      "mechanism": "held",
+      "resolved": "2026-11-04",
+      "note": "Crowley wins as polling (Marquette etc.) indicated; revised 70% call vindicated."
     },
     {
       "schema_version": 2,
@@ -571,6 +563,23 @@
       "mechanism": null,
       "resolved": null,
       "note": "P27 (72%, filed Sept 1) stays frozen and is scored on its own. Filed because the desk's confidence moved and the ledger must show it."
+    },
+    {
+      "beat": "wisconsin",
+      "kind": "desk",
+      "filing": {
+        "claim": "Wisconsin's new Democratic trifecta passes a budget accepting federal Medicaid expansion by April 30, 2027.",
+        "filed": "2026-11-04",
+        "resolves_by": "2027-04-30",
+        "resolution": "Resolves 对 if the enacted 2027-29 budget includes Medicaid expansion acceptance; 错 if it does not or stalls past the deadline.",
+        "confidence": 55
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
@@ -725,10 +734,6 @@
       "label": "Druzhkovka under Russian fire control"
     },
     {
-      "n": 28,
-      "label": "Crowley wins the governorship"
-    },
-    {
       "n": 2,
       "label": "No 'denuclearization' in PRC language on the DPRK"
     },
@@ -745,10 +750,6 @@
     {
       "n": 31,
       "label": "BRICS links two national payment systems directly"
-    },
-    {
-      "n": 32,
-      "label": "Crowley wins the governorship (revised, 70%)"
     },
     {
       "n": 34,
