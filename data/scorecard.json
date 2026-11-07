@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06",
-  "edition": 127,
+  "updated": "2026-11-07",
+  "edition": 128,
   "board": [
     {
       "name_zh": "多极化",
@@ -73,24 +73,20 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "Traoré's Martyrs Day address reaffirmed the 'war of liberation' framing the same week the World Bank signed a cooperation framework 'aligned with' his vision — the institution adapting to the junta rather than the reverse. Another African state joined the home-refining wave Burkina started, and Ouagadougou sent representation to the Russia-Africa summit rather than skipping it.",
-      "watching": "Whether the World Bank framework includes financing terms or stays declaratory; refinery export volume as a tracked figure",
+      "verdict": "The Mali-Burkina AES union was formally sealed in Ouagadougou the same week Burkina's first gold refinery opened under an explicit 'economic sovereignty' banner — integration and resource nationalization moving together. Guinea's mass arrest and repatriation of Burkinabé and Malian gold miners is the friction this consolidation generates, not evidence against it.",
+      "watching": "Whether Guinea's expulsions escalate into a diplomatic rupture with the AES bloc; refinery export volume as a tracked figure",
       "sources": [
         {
-          "label": "Koaci — Burkina Faso: Journée des Martyrs, le Capitaine Traoré réaffirme la « guerre de libération »",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOU80dFZXN2pCWkZfR0h0cmZNU19yVUhSeVhQUkxEZl9aNDFyWW9tZS1QN21HTlhHMHBuaV9ObjUtUWljSm9IOFAzX3FmRE80M3FsR0x1Y1kzR0J0WG80UGxXN1hnWm1WcEYtRXcteEVGTF9wUzdEQVUxeVhpV1pkY0pzbEdDMnF2SFh4RFFFeUxPNGlDZHBHM0VvZ21zc2dDNWJTSmJKV1FRTm9qcDN1RU1hMDFia1NYenZ0NEFtUW9YRTd4YjQyNHhyVF9oM0lmTmZQM0dMUWlHUmRkZ1dWLS1sOTVpYzRpQTdJR3Ayd3dtNDVJ?oc=5"
+          "label": "Actu Cameroun — Le Mali et le Burkina Faso scellent leur union au sein de l’AES",
+          "url": "https://actucameroun.com/2026/11/07/le-mali-et-le-burkina-faso-scellent-leur-union-au-sein-de-laes/"
         },
         {
-          "label": "Burkina24.com — Coopération Burkina Faso-Banque mondiale : Un nouveau cadre aligné sur la vision du Capitaine Ibrahim TRAORÉ",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmNOWlBpNkhIV09CS2NqeHZ5OEJmdHh4NGNHdW5abkU4MEdhYjZrZGxVamU4ZUkzLTJBUUt3LUJFWDRyWTk5dVduMkJjMVh2RXlMWjdmS3V4YlpBTHV0aVhHa3ByckxFak1MVlpDaS1Ccm5aR09CeUdOOENHZGthdGc4VHlOdlY2clA2NTA3eFNZYlJNS3NISHNwNGdwck1CNHpnX3ctRnVLQmhuMG1hTjI0WXkxYV85TmZBQmJtSzRTblp1djhDRHN6MnprNjBCd21iVTdlYw?oc=5"
+          "label": "The Borgen Project — Burkina Faso’s First Gold Refinery Targets Economic Sovereignty",
+          "url": "https://borgenproject.org/burkina-fasos-first-gold-refinery/"
         },
         {
-          "label": "Business Insider Africa — Africa welcomes its newest gold refinery as another nation joins Burkina Faso, Ethiopia in refining gold at home",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZXpCLThZUncwN1V0MkdYMEFHcnc0Z25abG1YTFhJeWQyZHF2RlpvOWtmaDRHQVNGNEljYWV4RW9iNmtVSHlWeXRmSkVldi10R1JLUXZWclJIR3NIcmluNGxTLU4xNDJ3TVlZWjZqY2Jhcm1ucXBJUS1mcWpwZjJYbDd6QXhUT25nTzJjSDlRemtLYTMybkE1ZDVHcFVacXVUaGFfNTNjMWVSTWZnbTBmZDlXcmJ6RnV6cjJhU3E3VnNnN1N0eFM3UEcwMDNmZGc?oc=5"
-        },
-        {
-          "label": "Bénin Web TV — Burkina Faso: Ouédraogo travels to Moscow to represent Traoré at Russia-Africa summit",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHMxMFZxLWtpLVhTejRLSzhJaEQtMHlESFMtSkJ6eWFFbTVxUjFicTlnSEZkcmVJWUFGU0JOOHhEVVJKSWhraGdOMml4SFE4UUNxd2FaX1JBLWhZSERkbHpIc1dGVnRadEpyYnJ6MTdZODU5Sm5hX1hkTlNsbUEtaGpkSnRzSW5OTG5iLVItNXppUUctSldrM0ZMLWVEZ2QyVU9JTWRoaUMwSzRHV0w0?oc=5"
+          "label": "BBC — Burkina Faso and Mali citizens arrest: Why Guinea arrest and repatriate thousands of foreign gold miners",
+          "url": "https://www.bbc.com/pidgin/articles/cwdr88klkjkjo.amp"
         }
       ]
     },

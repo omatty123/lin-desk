@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-07",
+    "items": [
+      {
+        "text": "XI WALKS INTO DELHI, CAMBODIA WALKS AWAY FROM THE DOLLAR — Xi landed in Delhi for the inaugural BRICS summit under India's 'four pillars' chairship, joined by Ramaphosa and Uganda's VP Alupo — the institutional choreography of a bloc still short its concrete ask.",
+        "links": [
+          {
+            "label": "DD News — Chinese President Xi Jinping arrives in India to attend BRICS Summit",
+            "url": "https://ddnews.gov.in/en/chinese-president-xi-jinping-arrives-in-india-to-attend-brics-summit/"
+          },
+          {
+            "label": "Asset Publishing and Research — Cambodia steps up de-dollarization moves",
+            "url": "https://www.theasset.com/article/57477/cambodia-steps-up-de-dollarization-moves"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU AND BAMAKO SEAL THE UNION, GUINEA EMPTIES THE MINES — Goïta and Traoré sealed their AES union in Ouagadougou the week Burkina opened its first gold refinery, pitched explicitly as 'economic sovereignty.' Next door, Guinea arrested and began repatriating thousands of Burkinabé and Malian gold miners —…",
+        "links": [
+          {
+            "label": "Actu Cameroun — Le Mali et le Burkina Faso scellent leur union au sein de l’AES",
+            "url": "https://actucameroun.com/2026/11/07/le-mali-et-le-burkina-faso-scellent-leur-union-au-sein-de-laes/"
+          },
+          {
+            "label": "The Borgen Project — Burkina Faso’s First Gold Refinery Targets Economic Sovereignty",
+            "url": "https://borgenproject.org/burkina-fasos-first-gold-refinery/"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG AND BEIJING DECLARE THEIR VOWS, SEOUL WATCHES FROM OUTSIDE — Pyongyang and Beijing issued a formal mutual-support declaration as a senior KWP official held his third high-level meeting in China this year, while Kim reaffirmed ties publicly.",
+        "links": [
+          {
+            "label": "source — N. Korean envoy holds 3rd high-level meeting in China",
+            "url": "https://en.yna.co.kr/view/AEN20261107001800315"
+          },
+          {
+            "label": "UA.NEWS — North Korea and China declare mutual support for each other's policies — Korea Herald",
+            "url": "https://ua.news/en/dovkolo-svitu/kndr-i-kitai-zaiavili-pro-vzaiemnu-pidtrimku-politiki-korea-herald"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/P34 Druzhkovka — resolution date passed, still no Druzhkovka-specific clash data to grade, remains due",
+      "P31 Pix-UPI pilot — BRICS summit stagecraft still without a tracked interoperability step",
+      "Guinea's mass expulsion of Burkinabé/Malian gold miners — intra-AES friction or isolated dispute",
+      "P2 denuclearization — Pyongyang-Beijing declaration reinforces the omission ahead of a possible Trump-Kim meeting",
+      "P4 PRC fixed-asset investment — Q4 data still the test against the rate cut"
+    ]
+  },
+  {
     "date": "2026-11-06",
     "items": [
       {
