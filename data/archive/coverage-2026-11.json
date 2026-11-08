@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-08",
+    "items": [
+      {
+        "text": "OUAGADOUGOU OPENS ITS ARMS, CONAKRY EMPTIES ITS MINES — Guinea expelled more than 8,000 Burkinabè artisanal gold miners this week; Traoré called it out publicly while Ouagadougou moves to formalize the sector at home.",
+        "links": [
+          {
+            "label": "Financial Afrik — Burkina Faso: Arrival of over 8,000 Burkinabè gold miners from Guinea, government announces reorganization of the artisana",
+            "url": "https://www.financialafrik.com/en/2026/11/07/burkina-faso-arrival-of-over-8000-burkinabe-gold-miners-from-guinea-government-announces-reorganization-of-the-artisanal-mining-sector/"
+          },
+          {
+            "label": "Discovery Alert — S&P Lifts Burkina Faso Rating to B- as Gold Props Up Finances",
+            "url": "https://discoveryalert.com/news/burkina-faso-rating-upgrade-sp-gold-november-2026/"
+          }
+        ]
+      },
+      {
+        "text": "CROWLEY WINS THE STATE, NOT THE ARGUMENT — Crowley won Wisconsin's governorship, but the state recorded the smallest Democratic swing of any Trump-state race this cycle — a trifecta built on thin margins, not a realignment.",
+        "links": [
+          {
+            "label": "Greater Milwaukee Today — Crowley elected governor",
+            "url": "https://www.gmtoday.com/news/local/wisconsin-governor-crowley-wins/article_d421752f-e144-4d7c-968e-09e94b16ec94.html"
+          },
+          {
+            "label": "Wisconsin Right Now — Wisconsin Had the Smallest Swing to Democrats Among Trump-State Governor Races",
+            "url": "https://www.wisconsinrightnow.com/wisconsin-governor-race-swing/"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG'S MISSILES, PAID IN STOLEN BITCOIN — UN monitors now estimate stolen cryptocurrency funds 40 percent of North Korea's weapons programs, built on units like TraderTraitor behind the $6.36 billion Binance theft.",
+        "links": [
+          {
+            "label": "Dagens.com — Stolen crypto funds \"40% of the weapons of mass destruction programs\" in North Korea, UN warns",
+            "url": "https://www.dagens.com/crime/stolen-crypto-funds-40-of-the-weapons-of-mass-destruction-programs-in-north-korea-un-warns"
+          },
+          {
+            "label": "Technology Org — How North Korea Trains the Hackers Behind the $6.3 Billion Binance Heist",
+            "url": "https://www.technology.org/2026/11/08/north-korea-hacker-army-binance-heist-training-program/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/P34 Druzhkovka — Nov 1 deadline passed, no Druzhkovka-specific clash data, remains due",
+      "Guinea's mass expulsion of Burkinabé miners — bloc friction or escalation to watch",
+      "P35 Wisconsin Medicaid budget as the real test of the trifecta",
+      "DPRK crypto trail — whether any of the Binance funds get frozen before spent",
+      "P31 iBRICS Pix-UPI interoperability — still stagecraft, no tracked pilot step"
+    ]
+  },
+  {
     "date": "2026-11-07",
     "items": [
       {

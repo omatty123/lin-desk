@@ -1,21 +1,45 @@
 {
-  "updated": "2026-11-07",
-  "edition": 128,
+  "updated": "2026-11-08",
+  "edition": 129,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The inaugural iBRICS Summit drew 500+ investors and ministers to New Delhi, with Goyal publicly pressing for linked national payment systems and local-currency trade — the institutional ask made explicit on stage. Indonesia's non-dollar transactions more than doubled to $52.6bn, a tracked figure, not a declaration.",
-      "watching": "Whether iBRICS produces a tracked Pix-UPI interoperability step (Prediction 31) or stays rhetoric",
+      "verdict": "The 18th BRICS Summit convened in New Delhi with Xi and Putin both present and Modi chairing on four declared pillars, but the more durable story ran underneath the theater: China's CIPS system pushing into Somalia, Togo, and Tanzania, and Cambodia advancing de-dollarization — payments infrastructure spreading faster than the summit communiqués.",
+      "watching": "Whether a tracked Pix-UPI interoperability step (Prediction 31) materializes, or the CIPS corridors remain the real story while summits stay rhetoric",
       "sources": [
         {
-          "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
-          "url": "https://newsonair.gov.in/over-500-investors-finance-ministers-and-business-leaders-to-attend-inaugural-ibrics-summit/"
+          "label": "DD News — PM Modi holds bilateral meeting with Abu Dhabi Crown Prince on sidelines of 18th BRICS Summit",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmUyalRwb2I3OXlKOGQ4QlhRRmJKa1kzNXlVOE9xYUtJZERPRURrcG5nYjVJWkk0dDZoOWpZT2E1NkYzb01qREJYSGxXVEZNNl80T2ZwOG9Ia3N2enU1d2phZk1xOWJzUElYTEU2ZVV4MW9mX2gzWUNMWWoxSy1LTkx5aEs5UXRMeFJSYVNZUVc4VVZRSURlbVV5OXdCcE14cm5JeVM4cl9MLUNoazA2RXlqOUgxR0JVbE1N?oc=5"
         },
         {
-          "label": "Jakarta Globe — Indonesia's Non-Dollar Transactions More Than Double to $52.6 Billion",
-          "url": "https://jakartaglobe.id/business/indonesias-nondollar-transactions-more-than-double-to-526-billion"
+          "label": "FTL Somalia — The Payment Problem: Can CIPS Shorten the Route Between Bakara Market and Guangzhou?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1CZE1QT3JnSXQ4RDd0MUxDdlpHeHk4ejhMRmg5ZmFzaURVVmNTdE4tQkx2Mno4TlVKWGw3eFRsU0RqUVc1OVNwRW01OE1zZ2pWd1pNTW5XSVZ2VE5JQk5Nal9OQ01sWHpBck9qekxSZVhoSEN2cGhkQ2FGWTBOQVdtQzRNc0dlb3NMdUExUXJVYm1JS0k2ZHl2bXg0NGRyLXRJd1F0eTVHNWZmcXdr?oc=5"
+        },
+        {
+          "label": "Shabelle Media Network — Wasiirka Ganacsiga Soomaaliya oo kulan la yeeshay Guddoomiyaha nidaamka CIPS ee Shiinaha",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0M5S1JzOEZPVkJlbWxqdWM1RGxfdnRhNXRzNndrUjZ5NlVEM2w1c1hOd19tSFFMUHNSa3NVSjJ2cll0R3dVT2dVUkVWTDV5Zlh4RENBQmllVjhiRFdXZnV6VUxNcGpYV2d6ajM5UEZVSmR5QUdrLUJ1OENyWXR5Sll4S25pR1FwQVoyR0E3NVJYM3pOWFhfRGdKTXpHbVFHYTlPMDUwN1paNmxhYTNDTktWaXVzZw?oc=5"
+        },
+        {
+          "label": "DD News — Chinese President Xi Jinping arrives in India to attend BRICS Summit",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUhueUNvS0hYb095TXVNVGV5azFvSWlPRS1TcDF6UDdRV1VNOHpnN09YMFJldTRaLTltZlJMdVhzaFAxT0xxSktQUExvNFhzWkM2UzlKUVg2amlMVmV4WVMzWC1YMXA2LUlvU2ZWTkNfOW9ZQVJxbTVzZ0NDOFlyWjZwRFl4YTFvc1VIRjBCYWhyVnFSRDBUdC1n?oc=5"
+        },
+        {
+          "label": "DD News — Putin Arrives in New Delhi for BRICS Summit; Bilateral Talks with PM Modi Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0o1VFE2T19CQkxjYk1MX2hvcEIteGpIdkNWUkoyMVFPSkZ3X2lwNzc2dGZZT0FnUFZiU2lxcDhpTUVtcXpqYWdNTGVQS255SW5MZFpRUEgxeDIwZnVMZnVZOVlLdnhZMmZ5Y01PWDlRcUswR1VzNkhHNXFIb3lidURQdXZBNDMxQjN5XzF5ejZ4VnFLX1hueGtTVTlrNGJCeEZwWkhERQ?oc=5"
+        },
+        {
+          "label": "Asset Publishing and Research — Cambodia steps up de-dollarization moves",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzZoOV96TDdtOXVhNEx2cm5MU1l6c0k3al9XZS1heXFHMWNFTnhCeDVqd3gzd0VmX2V4X3kxcVNHSlRkTmQzNGIxVjJzR3JjOEozb3Y4T1FDbHFleUNCZWY5dk5lUzUtMnRFdXN5T1ZTSGdlVk1VcEIzdndxZTdjNDREUENvdw?oc=5"
+        },
+        {
+          "label": "Daily News — NMB Bank secures 30m US dollars loan from China’s CDB for bolstering Tanzanian SMEs",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEpMYUowTGhjd29wUUFBakVVNFVkaHlVaXJnV3RwQnlkNENPSUpjdlpFeGxDdzAxNWhKWnBXVUx4enVFMXk4cVBxZnNRcUVNd0E3T19scGRCSlJMX1M1YlFmem4xcmgweVJ6UFB2Wk1KUUhSa0lEMFdLWE9VdkZDRzF3emtxaXcxUVRKVFh2ZmxjRm9LekxBdEJUY1p3NmxaZG5odE9nV0xjZjQ?oc=5"
+        },
+        {
+          "label": "Togo First — Estelle Komlan, Managing Director of Ecobank Togo: “With CIPS, We Want to Make Payments to China Faster and Cheaper”",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPellsWG5JSl9CZVJnNWtFN1RyaGNPcno4TU5HbXpjWGpWUkl4dmhQTjZaRHZ0QTB1X1VYbHp3c3o5QW5BMGVxWFZiOVlxN2dhS3ZoQ2p5RHU5ejNEd0p0MS1iZVpXVENXSk4wcVJ6Ni1iZG9vY0c1c0pwZWd1bUg0UDBsUXprd3F3SHBiOGE4WTZjbHNwUmdpdDJmdU1VMk14cENKbW8wTU9UTENmTE5McGZuZ0pXMUtUNFQzekZINXgyanlULUtUenVKWGhibS1GRVZnTTdXang4THNMZVVpb29CZE9tV05teHMyRmpZNlo?oc=5"
         }
       ]
     },
@@ -73,20 +97,36 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The Mali-Burkina AES union was formally sealed in Ouagadougou the same week Burkina's first gold refinery opened under an explicit 'economic sovereignty' banner — integration and resource nationalization moving together. Guinea's mass arrest and repatriation of Burkinabé and Malian gold miners is the friction this consolidation generates, not evidence against it.",
-      "watching": "Whether Guinea's expulsions escalate into a diplomatic rupture with the AES bloc; refinery export volume as a tracked figure",
+      "verdict": "The Mali-Burkina union moves from sealing to administration: Goïta and Traoré are now convening the 11th Grande Commission Mixte while Ouagadougou stands up Faso SANU to reorganize artisanal mining just as 8,000+ expelled miners arrive home from Guinea — consolidation and friction advancing on the same week, as the board already expected.",
+      "watching": "Guinea-AES diplomatic trajectory; terms of the IMF deal against the gold windfall",
       "sources": [
         {
+          "label": "Mali Actu — Mali–Burkina Faso : Goïta et Traoré demandent la tenue de la 11e session de la Grande Commission mixte",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWQ5Z3RtRHp5VThUY0o5R1dVeW80Zjg4enZjeXZMMmk1bGdQYXg5Wjl1aTk5ampnaVp5c2J5UzFMLWlQVF9vaWpwNFpsNlNiX2VQajJOTjkyV1E3TlZuaFRiVmNaS3U5S2NSWXBEcm4teTBRTnRydmozd1pITkNEcjI0elhrUEnSAY8BQVVfeXFMTkM5cTFzWkU3TnhuWDJySUxRbl9VbndaS3NHVm01NlRrdmdNQ0R2YXlEU0xib2ZhV3BTbnNHcUxEWFJEOUxhTFl0ZXdWSk00UFN3RXVEbzNDU1poRUpzLW4xMTV1QndnUDU3c0w2VkFLMFFUazFHZUgtWUlFUTZ4VG5lUFJJeE1TNkxuZGxMVnM?oc=5"
+        },
+        {
+          "label": "L-FRII — Conseil des ministres au Burkina Faso : logements, cimenterie, numérique… les annonces majeures",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT29HV29KcGhxVmhQS0tTLTRHU1dUQjZRaVQ0OVlQd3gyRFJvektoazZhSTNabko0clBOZWZMZkw3Ymc0WEJrUDBwR3IwaVY1VEF3c3ZoRXVsYzZNdVZub0ZXcTJoSTFUUkM4NHVueGhBYU83MUs3NV92WUlJbGRnSnZpaUFNQ1dBWEN6bFFNOHN1QXFjTUxjLTFZQ21BVVZUSmdqTFNxSjdKdzRfNG1v?oc=5"
+        },
+        {
           "label": "Actu Cameroun — Le Mali et le Burkina Faso scellent leur union au sein de l’AES",
-          "url": "https://actucameroun.com/2026/11/07/le-mali-et-le-burkina-faso-scellent-leur-union-au-sein-de-laes/"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelBSRW5LTERyTllpSEF2c1ZFcUVoVGl3UHdqSkF4dDg0b1IwZjdKYW1IUU93QWpkOXdTMjFzZzI1YnVGTUV0cHRsc1I2bTVqQXg5UkJEcTRmM2Y5eGc2Q3pkUmZUQ0otdUctdHhUR2hvb2pJemd0aUQ1RVBhbktqQTU5VW9Bd055bUdOeEIyR3pMSm1ZV0Q1Y2xvYWwzeFVB?oc=5"
+        },
+        {
+          "label": "Guinee360 — Doumbouya face au tandem Goïta-Traoré : l’orpaillage clandestin, nouveau point de friction entre Conakry et l’AES",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOHRnMDhfVG1kazZ4c2RxSVNReHdVNXdjcjRhLWJ1dm1GRXAwekJkNjFPa3VpMC1mS2c4d3cxUGh6cHhsYUZ4Qk9vUE0zU3F5bDBwazk4Wm5XUHh4b1pCRFRmQzJTblFkLWlyaExyTlB4ZXNTRmJBSmJNakpYMEN5NFY0eHpoUGphQ3BEenlaZ0JmRGVrR200cWVwXzNMUm5DSURWSVU0RzlMYkJuTm11MngyTTJuVHpCX2dtQjdTVGNfamt0a3NGUmRBMU1DV0wtcnloMU94dk9kUFE3WHhZ?oc=5"
+        },
+        {
+          "label": "Firstpost — 'Thousands Forced to Flee': Traore Slams Guinea Over Burkina Faso Gold Miners | Firstpost Africa",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcW1OVXYxOTVkRzVRd2Z3MXVPbjBkbWFsOTBXVXc5bVFBNll4X1V4eFVfc2xzRGZVYmZuMHZjbkI3a2VkcmNaTDZTTm5OcTRxdW1pbkk5M1JTOWdmRjNycDA1TXJhV0RjSVhDSzNkaFh6dHZuMEgyYVZRbWZIcmpkZlRCY1lMbmNZRU5kR0dxcVVFSlZrWDgxUnM3V0d4NGk4VU9XQmQ2WVNLeGZlTEtiNnJ5VDVpVU1GTjBhMVZoc3ZPVmRQWWRmZXRmb3pmYWlKb3NzLWd0VHdzNW5Ddzliby03WXB4Mk1qOHVDYlVpMFTSAfABQVVfeXFMTnFtTlV2MTk1ZEc1UXdmdzF1T24wZG1hbDkwV1V3OW1RQTZZeF9VeHhVX3Nsc0RmVWJmbjB2Y25CN2tlZHJjWkw2U05uTnE0cXVtaW5JOTNSUzlnZkYzcnAwNU1yYVdEY0lYQ0szZGhYenR2bjBIMmFWUW1mSHJqZGZUQmNZTG5jWUVOZEdHcXFVRUpWa1g4MVJzN1dHeDRpOFVPV0JkNllTS3hmZUxLYjZyeVQ1aVVNRk4wYTFWaHN2T1ZkUFlkZmV0Zm96ZmFpSm9zcy1ndFR3czVuQ3c5Ym8tN1lweDJNajh1Q2JVaTBU?oc=5"
         },
         {
           "label": "The Borgen Project — Burkina Faso’s First Gold Refinery Targets Economic Sovereignty",
-          "url": "https://borgenproject.org/burkina-fasos-first-gold-refinery/"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZXBZT0dsZDNieXk1ZHFlaHRwdXdnWFBjaUVucnItU0h6UWVrTHRuYjhPVm1qS1Q2WGNJYjM5c05QZmdJaXhUd1pydXlHd085NjlnVUxTOFZETGx6Q1pGMHVKamZpV0dtUkxpNQ?oc=5"
         },
         {
-          "label": "BBC — Burkina Faso and Mali citizens arrest: Why Guinea arrest and repatriate thousands of foreign gold miners",
-          "url": "https://www.bbc.com/pidgin/articles/cwdr88klkjkjo.amp"
+          "label": "La Nouvelle Tribune — Burkina Faso : Ibrahim Traoré crée Faso SANU pour réorganiser l'exploitation artisanale de l'or",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHZUeS14TXhNekZVaXZoNS0xUTQ3bGk0dnM0QUdlTGRJVlpvREhpcGRXWjNmSlVXd3RnWEZZNHFieHp5cFJDa2xUMDJZWldUSUJ1UTZISGdYeGo0QWMwc3JFal8xWVpQcEphbWExMWlGWnBSWGNQUkRUUTBOaXJSMWpGOTNQZjhFLXdGOXFuQ3VCR05hZDNwcG80bzdIbTUtSlJycnVVZTc5Wm1ieVdsRF9HbFhOSU1EUzI5ZTdrdy1hTndLRUM1dnZqNA?oc=5"
         }
       ]
     },
@@ -111,16 +151,36 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "October 21: Washington's crude-importer exemption held through the week while Tokyo sanctioned 35 Russian oil vessels and Brussels vowed to tighten its own — three capitals running three sanctions regimes with no shared discipline. Moscow resumed diesel exports to Turkey and Brazil on the resulting gap. The alliance manages its own interests, not a common line.",
-      "watching": "Whether Tokyo's vessel list forces EU alignment or further fragments the sanctions regime",
+      "verdict": "Washington's own Russia-diesel sanctions relief riled Brussels within days, even as tankers rerouted away from US shores and the diesel reportedly went unsold — Washington undercut its own exemption inside a single week, the clearest evidence yet that the three capitals share no sanctions discipline, not even with each other.",
+      "watching": "Whether the diesel-deal reversal forces a unified US-EU-Japan sanctions line or confirms permanent fragmentation",
       "sources": [
         {
-          "label": "Shipping Telegraph — US pauses sanctions targeting top importers of Russian crude oil and gas",
-          "url": "https://shippingtelegraph.com/shipping-reports/us-pauses-sanctions-targeting-top-importers-of-russian-crude-oil-and-gas/"
+          "label": "EnergyNow — TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
         },
         {
-          "label": "Mezha.net — Japan targets 35 Russian oil vessels with new sanctions, drawing Moscow’s rebuke",
-          "url": "https://mezha.net/eng/news/f9bc2109_japan_targets_35_russian/"
+          "label": "Al Jazeera — Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXQ0d0dpVEhkVm5NVjJNZ1I3dGRaUHZCOUZzRGtXelc4ZGVHTnNmX2tmcHdLTXpvbFF1X3FzYmc3a1dtMmVlQ3lIVHg0OHJxZXBGUHV2R05peGRiM3g4SHJRbGdHTmtuTGxnbzdkNVdjN0ROR0ZzVXBmcDRFWUdtbWk0MWxpcDNiRFRNUkN0d2NTT3FaUWxjMVpOSlpJNHRJNFlZWHplWlpUWjhGcThzWVp5ZnDSAboBQVVfeXFMUFYyNTVITzd1b19BQzhMZWhVbzViclBBcHI5a2JXdWEyZTZnUThWek5lcDdJQjZRUlhKdVo1b2M0Wk5MeVVNYjNZZkNXNlA5Uk95dU1YRUdkYm40UE1uOURxVnBYSXNiRnJaRHphd09NOWVLbWI2N29JRHEzT2JNbEoxMmEzWS1DazJQdkxzWGt2Z2JMOXloRTZlT0oxeEdNdGdhcG1PMjJRdVhqeGxpMzlISlRtRTR1Zjln?oc=5"
+        },
+        {
+          "label": "Le Monde.fr — US-Russia diesel deal touted by Trump falters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjQyMXpSeFpEbmxGV294TUhGOU5NU0ktb1lWNjZtaVJFYkoyQmJNand4NUg0TkRUNHJXbi1xLWZxSWNSem1VOFFaX2xNT0s3eERQdHJ0X3ZmdVppZHplVW5waDRpbWFtaDZnUnAzZ3ktQlBmX2FwTlFmUUVCZFVnNm9pWVBERGtNdFBCMDZicGZtdXExNEZ4QlFidlkyYmtVemNmQlZYdkUzcVBkdWpqOTFsR3F0RjRJYlVV?oc=5"
+        },
+        {
+          "label": "DW.com — Tankers carrying Russian diesel to the US change course",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZy1MbElnMGQtN1A4NkpXODlVZVVOcXBnemFPYkFBRWFUc2hfelBQR21iR1J3RjBUNDRhZGJSaUdEZE5LT1RRV0pIQzA3TXRsc3J1aGtCazlRdkI2aTVFQVBlX2VYWE1qSHdpNllTNm1XRjdEUjN6a3NHLTgwRXlmbUFDOVRiQ3R1X1JUUjBudFdwUdIBkgFBVV95cUxNS0l4OTB2UXZsNzR2WXdxa2RsVTU3Qm1URXVNbDNXaS1ZakduUnFXYWFONWRnWVdNT05JT3dGTDhHcU1sYjdFbHlHczFsNjlhaGhZNUxtTFNEMDhQeThaMlM5MTg2NGpMNEhBV3g4dkRqb1dMZURqbkUzT0drUjVlZElwbS1ZWnIyZWwzR09ScVRnQQ?oc=5"
+        },
+        {
+          "label": "Al Jazeera — Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5"
+        },
+        {
+          "label": "Center for European Policy Analysis (CEPA) — Europe’s Sanctions on Russia: Riddled With Loopholes",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXhsSGhIWE1kVG82Y2ppT1I1MURBZ25hRnJOYUpJUjhobHh3WGVoNk13RUItSVFmVWFQRUFMelR4YVBTemNmQ0NvY2d3Sm16N0xQSmJ2eEhISEVCaUtLOXFQUFMzU25fSVlwdHNMRlZLMUF1eTBBYzJvOUMwbWhybXRR?oc=5"
+        },
+        {
+          "label": "France 24 — Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWJKX09US2FsbWtVd3didkVMRDl0dkhCeW5GOUlCRjYwZlAtSlVkWEx2YWNib2JraXNYNEhEQzRWT1FaUHdUNHR2MnY5M3c2aHQzOVRlVWZHZUl1QjdNblRySWhON3ZDdElSYkh2Qi1LaHF4b2R1OV9FWUZrbXJOYkJXVWJvZHNZaEtiVEY4eTBoaW1VRmFhRFdrVVRINmltcF9rbFhYNEFHNzhMTDJESWlmd2xpckdlZzM1d3Fnbm0?oc=5"
         }
       ]
     }
@@ -435,11 +495,11 @@
         "confidence": 72
       },
       "schema_version": 2,
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "Desk confidence revised to 20% on Oct 17, filed separately as P34; this filing stays frozen at 72."
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-11-08",
+      "note": "November 7-8 reporting (Українська правда w80, WSJ w87) shows the Kostiantynivka front absorbing the heaviest Russian attacks with gains measured in square miles — no fire control over Druzhkovka achieved by November 1."
     },
     {
       "schema_version": 2,
@@ -554,11 +614,11 @@
         "resolution": "Resolves 对 if Russian forces establish fire control over Druzhkovka city proper (commanding elevated ground, artillery dominance of all approaches) before November 1, 2026; 错 if not.",
         "confidence": 20
       },
-      "status": "待",
-      "outcome": null,
-      "mechanism": null,
-      "resolved": null,
-      "note": "P27 (72%, filed Sept 1) stays frozen and is scored on its own. Filed because the desk's confidence moved and the ledger must show it."
+      "status": "错",
+      "outcome": "错",
+      "mechanism": "didn't hold",
+      "resolved": "2026-11-08",
+      "note": "Same record as Prediction 27: the week's digest (Euromaidan Press w92 on Izium, WSJ w87) shows the operational push shifted to Kostiantynivka/Izium, not Druzhkovka, before the deadline."
     },
     {
       "beat": "wisconsin",
@@ -576,9 +636,30 @@
       "mechanism": null,
       "resolved": null,
       "note": null
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russian forces establish operational fire control over Kostiantynivka before February 1, 2027, having failed twice to take Druzhkovka on schedule.",
+        "filed": "2026-11-08",
+        "resolves_by": "2027-02-01",
+        "resolution": "Resolves 对 if Russian forces command elevated ground and artillery dominance over all approaches to Kostiantynivka city proper before February 1, 2027; 错 if not achieved.",
+        "confidence": 45
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": null
     }
   ],
   "corrections": [
+    {
+      "date": "2026-11-08",
+      "text": "Predictions 27 and 34 (Druzhkovka fire control by November 1) both close 错. The front moved to Kostiantynivka and Izium instead; Druzhkovka itself was never taken under fire control. The desk overestimated the pace of the Donbas advance twice on the identical claim."
+    },
     {
       "date": "2026-09-15",
       "text": "P26 (错, 2026-09-15): Filed Russia would sever Kozacha Lopan logistics corridor by September 15 (68% confidence). Russian forces reached 13% of the settlement; corridor was never cut. Operational pressure on the Kharkiv salient was real but Kyiv repositioned reserves in time. The mechanism (logistics interdiction from the northwest) remains plausible at Orekhov."
@@ -726,10 +807,6 @@
   ],
   "standing": [
     {
-      "n": 27,
-      "label": "Druzhkovka under Russian fire control"
-    },
-    {
       "n": 2,
       "label": "No 'denuclearization' in PRC language on the DPRK"
     },
@@ -748,8 +825,8 @@
       "label": "BRICS links two national payment systems directly"
     },
     {
-      "n": 34,
-      "label": "Druzhkovka under Russian fire control (revised, 20%)"
+      "n": 36,
+      "label": "Kostiantynivka before Druzhkovka, maybe"
     }
   ]
 }
