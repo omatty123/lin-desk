@@ -652,7 +652,75 @@
       "outcome": null,
       "mechanism": null,
       "resolved": null,
-      "note": null
+      "note": "Refiled as a lagging indicator, 2026-11-08. Under an attrition reading the map moves last; this call no longer tests the war beat's thesis (see Predictions 37–40 and the correction of the same date)."
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Kiel Institute's Ukraine Support Tracker reports total military aid allocated to Ukraine in calendar 2026 below the 2025 total. Kiel's own mid-year figures show 2026 running at just over €2 billion a month against more than €2.5 billion a month in prior years; Europe has not offset the US withdrawal.",
+        "filed": "2026-11-08",
+        "resolves_by": "2027-03-31",
+        "resolution": "Resolves 对 when Kiel's first full-year 2026 update shows 2026 military allocations below 2025's; 错 if equal or higher. If Kiel publishes no full-year comparison by the deadline, the call is voided.",
+        "confidence": 75
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Attrition test, supply side: can the West replace what is being spent?"
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "No Patriot interceptors from the US sale approved October 30, 2026 (about $2.1 billion) are publicly confirmed delivered to Ukraine before March 1, 2027. CNN reported October 15 that Ukraine had run out of Patriot interceptors; production, not money, is the binding constraint.",
+        "filed": "2026-11-08",
+        "resolves_by": "2027-03-01",
+        "resolution": "Resolves 对 if, by March 1, 2027, no Ukrainian or US official statement or credible report confirms delivery of interceptors from the October 30 approval; 错 if delivery is confirmed. Transfers from third-country stocks do not count.",
+        "confidence": 70
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Attrition test, munitions: interceptors are expended faster than the Western base can make them."
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "The Verkhovna Rada passes a law lowering Ukraine's minimum mobilization age below 25 before July 1, 2027. An anonymous Defense Ministry source told SFG Media the ministry is preparing to go to 23; Rada security committee secretary Roman Kostenko says under-25 mobilization is not being considered.",
+        "filed": "2026-11-08",
+        "resolves_by": "2027-07-01",
+        "resolution": "Resolves 对 if a law lowering the general minimum mobilization age below 25 passes the Rada before July 1, 2027; 错 if not. Voluntary contract schemes for 18–24-year-olds do not count.",
+        "confidence": 25
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Attrition test, manpower: filed low because Kyiv has resisted this for two years. A 对 here would mean the manpower pool is breaking political resistance."
+    },
+    {
+      "beat": "machine-war",
+      "kind": "desk",
+      "filing": {
+        "claim": "Russia announces no new wave of involuntary mobilization before March 31, 2027. Contract recruitment carries replacement: 450,000 contracts claimed in 2025 and 127,000 by April 30, 2026, though Q1 2026 budget data showed the slowest pace in three years.",
+        "filed": "2026-11-08",
+        "resolves_by": "2027-03-31",
+        "resolution": "Resolves 对 if no presidential decree or official announcement of a new mobilization wave (beyond routine conscription and reservist call-ups for training) is issued before March 31, 2027; 错 if one is.",
+        "confidence": 85
+      },
+      "schema_version": 2,
+      "status": "待",
+      "outcome": null,
+      "mechanism": null,
+      "resolved": null,
+      "note": "Attrition test, the other side of the ledger: the thesis requires that Russia replaces its own losses without breaking its social bargain."
     }
   ],
   "corrections": [
@@ -735,6 +803,10 @@
     {
       "date": "2026-10-17",
       "text": "Audit of the Machine War beat. The desk's city-by-city timelines have run hot: P14 Alekseyevo-Druzhkovka (错), P25 Kazacha Lopan encirclement (错), P24 Orekhov (错, resolved today, two days late), and P27 Druzhkovka, now revised from 72 to 20 as P34. Every miss erred the same way, toward Russian speed. The desk borrowed an attrition thesis that gives no timelines and attached timelines to it; the thesis is not what failed. Second item: P11 Konstantinovka was resolved 对 on June 23 at the 80%-control threshold, yet ISW reports Russian attacks within the city as late as October 13. That resolution is under review and will be re-examined against geolocated control data."
+    },
+    {
+      "date": "2026-11-08",
+      "text": "Second audit of the Machine War beat, superseding the October 17 diagnosis. That audit said the desk attached timelines to an attrition thesis that gives none. The deeper error: the desk scored the war in kilometers and towns, a Western scorecard, while the thesis it claims is about the exchange of men, munitions and money. Standing still while the enemy comes to you to die is not failure under that thesis; P14, P24, P25, P27 and P34 measured the wrong variable and will stay on the ledger as filed. From today the beat files on replacement capacity on both sides: Western military aid (P37), interceptor resupply (P38), Ukrainian manpower law (P39) and Russian mobilization (P40). Territory is filed only as a lagging indicator (P36). Two attempted measures were dropped: Ukrainian unauthorized-absence statistics were classified by the Prosecutor General in December 2025, and a Patriot-shortfall call was already resolved by events (CNN, October 15)."
     }
   ],
   "beats": [
@@ -825,8 +897,14 @@
       "label": "BRICS links two national payment systems directly"
     },
     {
-      "n": 36,
-      "label": "Kostiantynivka before Druzhkovka, maybe"
+      "n": 37,
+      "label": "Western military aid to Ukraine falls in 2026",
+      "beat": "machine-war"
+    },
+    {
+      "n": 40,
+      "label": "Russia replaces losses without a new mobilization",
+      "beat": "machine-war"
     }
   ]
 }
