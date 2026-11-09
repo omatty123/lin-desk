@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-09",
+    "items": [
+      {
+        "text": "GOÏTA FLIES TO MOSCOW, NOT PARIS — Mali's Assimi Goïta travelled to Moscow to meet Putin, as Russian commentary frames the Sahel as the next theater of its African security architecture.",
+        "links": [
+          {
+            "label": "The Africa Report — Assimi Goïta in Russia: The Malian president and Vladimir Putin’s blonde escort",
+            "url": "https://www.theafricareport.com/435766/assimi-goita-in-russia-the-malian-president-and-vladimir-putins-blonde-escort/"
+          },
+          {
+            "label": "Istituto Analisi Relazioni Internazionali — Russia–Africa: The Geopolitics of the Sahel and Beyond",
+            "url": "https://iari.site/2026/11/09/russia-africa-the-geopolitics-of-the-sahel-and-beyond/"
+          }
+        ]
+      },
+      {
+        "text": "CIPS HEADS FOR A RECORD YEAR — China's cross-border yuan payment network CIPS is on track for its largest transaction year on record, Bloomberg reports, with settlement growing fastest in Africa and the Gulf.",
+        "links": [
+          {
+            "label": "Bloomberg.com — CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-09/cross-border-yuan-flows-on-china-s-network-head-for-record-year"
+          },
+          {
+            "label": "streamlinefeed.co.ke — China’s cross-border yuan payment network CIPS heads for record transaction year",
+            "url": "https://streamlinefeed.co.ke/news/chinas-cross-border-yuan-payment-network-cips-heads-for-record-transaction-year"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG CHECKS IN WITH BEIJING BEFORE WASHINGTON — A senior North Korean party official briefed Beijing on China's latest party congress and kept high-level exchanges running, Yonhap reports, days before a possible Trump-Kim meeting.",
+        "links": [
+          {
+            "label": "source — N.K. official's Beijing visit meant to share Chinese party meeting results, maintain high-level exchanges: Seoul",
+            "url": "https://en.yna.co.kr/view/AEN20261109006000315"
+          },
+          {
+            "label": "streamlinefeed.co.ke — North Korean Envoy Visits Beijing to Align With China Ahead of Potential Trump Summit",
+            "url": "https://streamlinefeed.co.ke/news/north-korean-envoy-visits-beijing-to-align-with-china-ahead-of-potential-trump-summit"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/P34 Druzhkovka — still no clash data, remains due",
+      "P15 Burkina IMF tranche terms against the Moscow-Bamako-Ouagadougou alignment",
+      "P31 Pix-UPI interoperability — CIPS volume still outpaces any tracked rail step",
+      "P2 denuclearization — watch any Trump-Kim readout language",
+      "Guinea-AES friction over expelled miners, still unresolved"
+    ]
+  },
+  {
     "date": "2026-11-08",
     "items": [
       {
