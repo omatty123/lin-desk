@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-10",
+    "items": [
+      {
+        "text": "BEIJING BANKS A TRILLION, WASHINGTON KEEPS SCORE — China's trade surplus crossed $1 trillion for a second straight year, exports up 35% even as October's headline balance narrowed on an import surge.",
+        "links": [
+          {
+            "label": "The New York Times — China’s Trade Surplus Passes $1 Trillion at Record Pace",
+            "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
+          },
+          {
+            "label": "Briefs Finance — China's CIPS is on track for its busiest year since launch as yuan use climbs",
+            "url": "https://www.briefs.co/news/china-s-cips-is-on-track-for-its-busiest-year-since-launch-a/"
+          }
+        ]
+      },
+      {
+        "text": "BAMAKO TUNES ITS OWN FREQUENCIES — Burkina Faso has stripped 'colonialism' from its textbooks in favor of 'invasion,' while AES military-communications experts convene in Bamako to standardize the confederation's own spectrum.",
+        "links": [
+          {
+            "label": "Tuko News — Rewriting history: Burkina Faso removes all colonial terms from textbooks",
+            "url": "https://www.tuko.co.ke/world/africa/646123-burkina-faso-rewrites-history-geography-books-drops-colonial-terms/"
+          },
+          {
+            "label": "Bamada.net — AES-fréquences militaires : Des experts de la Confédération en conclave à Bamako",
+            "url": "https://bamada.net/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-a-bamako"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG TELLS THE SECRETARY-GENERAL NO — Kim Yo Jong rejected Guterres's call for inter-Korean dialogue as 'prejudiced,' hours after Pyongyang tested a high-speed torpedo slated for 2027 deployment.",
+        "links": [
+          {
+            "label": "source — North Korean leader’s sister slams UN chief over DMZ mine blast remarks",
+            "url": "https://www.nknews.org/2026/11/north-korean-leaders-sister-slams-un-chief-over-dmz-mine-blast-remarks/"
+          },
+          {
+            "label": "upi — North Korea tests high-speed torpedo, plans 2027 deployment",
+            "url": "https://www.upi.com/Top_News/World-News/2026/11/10/North-Korea-torpedo-test-fire-2027-deployment/2581794298755/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P27/P34 Druzhkovka — still no clash data, remains due",
+      "P4 PRC Q4 fixed-asset investment against the rate-cut test",
+      "P15 Burkina's reciprocal measures vs. AES union consolidation",
+      "P2 denuclearization — Kim Yo Jong's rejection reinforces the omission",
+      "Guinea-AES friction over expelled miners, still unresolved"
+    ]
+  },
+  {
     "date": "2026-11-09",
     "items": [
       {
