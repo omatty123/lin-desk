@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-13",
+    "items": [
+      {
+        "text": "THE AES BUILDS ITS OWN BUREAUCRACY — Mali, Burkina Faso and Niger's foreign ministers began reviewing their joint AES roadmap this week — the union moving from declaration to bureaucracy, the same week Ouagadougou launches biometric identity enrollment and a reorganized artisanal-mining registry.",
+        "links": [
+          {
+            "label": "UA.NEWS — Ministers of three Sahel countries begin review of joint roadmap — The Rio Times",
+            "url": "https://ua.news/en/dovkolo-svitu/ministri-trokh-krayin-sakheliu-rozpochali-peregliad-spilnoyi-dorozhnoyi-karti-the-rio-times"
+          },
+          {
+            "label": "Biometric Update — Burkina Faso begins nationwide biometric enrollment for unique digital ID",
+            "url": "https://www.biometricupdate.com/202611/burkina-faso-begins-nationwide-biometric-enrollment-for-unique-digital-id"
+          }
+        ]
+      },
+      {
+        "text": "XI SAYS THE QUIET PART LOUDER — Xi Jinping told Beijing's Taiwan Strait forum that reunification 'must happen,' and Taipei's presidential office answered by welcoming a fresh G7 statement on the Strait — reaching for the Atlantic bloc's language precisely as that bloc fractures elsewhere.",
+        "links": [
+          {
+            "label": "Mothership — Xi Jinping says Taiwan 'reunification' must happen, Taiwan rejects remarks",
+            "url": "https://mothership.sg/2026/11/xi-jinping-reunification-taiwan/"
+          },
+          {
+            "label": "Rti 中央廣播電臺 — Presidential Office, Foreign Ministry welcome G7 Taiwan Strait statement-News-Radio Taiwan International",
+            "url": "https://www.rti.org.tw/en/news?uid=3&pid=1051302"
+          }
+        ]
+      },
+      {
+        "text": "CROWLEY TAXES A VICE TO PATCH A SAFETY NET — David Crowley becomes Wisconsin's first Black governor, and his first substantive policy signal is marijuana legalization pitched as revenue to offset Medicaid cuts — taxing a vice to patch a safety net Washington is cutting, not building one on its own footing.",
+        "links": [
+          {
+            "label": "VernonReporter — Democrat David Crowley defeats Trump loyalist to become Wisconsin’s first Black governor",
+            "url": "https://vernonreporter.com/democrat-david-crowley-defeats-trump-loyalist-to-become-wisconsins-first-black-governor/"
+          },
+          {
+            "label": "Marijuana Moment — Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 'Priori",
+            "url": "https://www.marijuanamoment.net/incoming-wisconsin-governor-says-marijuana-legalization-can-offset-medicaid-cuts-as-top-lawmaker-calls-it-a-2027-priority/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina reciprocal measures — AES roadmap review moves toward administration, no new terms yet",
+      "P31 BRICS payment interoperability — Zimbabwe files accession papers, naira-yuan rail still national not pilot",
+      "P35 Wisconsin Medicaid expansion — marijuana-revenue pitch is first counter-signal against trifecta vote",
+      "P2 denuclearization — Yonhap's APEC no-show report for Kim reinforces the omission",
+      "P27/P34 Druzhkovka — still no clash data, remains due"
+    ]
+  },
+  {
     "date": "2026-11-12",
     "items": [
       {
