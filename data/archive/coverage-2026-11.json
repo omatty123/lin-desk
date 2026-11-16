@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-16",
+    "items": [
+      {
+        "text": "OUAGADOUGOU BUILDS THE LEDGER STATE — Burkina Faso launched a unique national identification system this week, alongside Traoré's reshuffle of the officer corps — administration catching up to sovereignty, not the other way round.",
+        "links": [
+          {
+            "label": "Alwihda Info — Le Burkina Faso lance son système d'identification unique pour moderniser l'administration",
+            "url": "https://www.alwihdainfo.com/le-burkina-faso-lance-son-systeme-didentification-unique-pour-moderniser-ladministration/"
+          },
+          {
+            "label": "The Daily Scrum News — Traore Reshapes Burkinabe Military",
+            "url": "https://www.thedailyscrumnews.com/traore-reshapes-burkinabe-military/"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING'S OCTOBER NUMBERS MISS THE TARGET, NOT THE PLAN — Factory output grew 4.8% in October, retail sales and investment both below forecast — the wire reads this as a slowdown deepening.",
+        "links": [
+          {
+            "label": "SSBCrack — China’s Economic Slowdown Deepens as October Retail Sales, Investment and Industrial Output Miss Forecasts",
+            "url": "https://news.ssbcrack.com/chinas-economic-slowdown-deepens-as-october-retail-sales-investment-and-industrial-output-miss-forecasts/"
+          },
+          {
+            "label": "Bloomberg.com — China’s Economy Disappoints With New Stimulus Yet to Kick In",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+          }
+        ]
+      },
+      {
+        "text": "KIM'S FIXER FLIES TO MOSCOW AS THE TRILATERAL CONVENES — Jo Yong Won, Kim's closest aide, landed in Moscow days before Trump, Xi, and Putin sit in Manila — where, per Yonhap's own sourcing, the DPRK nuclear file won't feature prominently.",
+        "links": [
+          {
+            "label": "source — N. Korean leader's close aide visits Russia amid deepening bilateral ties",
+            "url": "https://en.yna.co.kr/view/AEN20261115000600315"
+          },
+          {
+            "label": "source — Seoul asks Beijing to help bring North Korea back to talks ahead of APEC summit",
+            "url": "https://www.nknews.org/2026/11/seoul-asks-beijing-to-help-bring-north-korea-back-to-talks-ahead-of-apec-summit/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P2 denuclearization — Jo Yong Won's Moscow trip ahead of Manila trilateral, omission by routine",
+      "P4 PRC fixed-asset investment — October miss vs Q4 stimulus deployment, due Dec 31",
+      "P15 Burkina reciprocal measures — ID rollout and officer reshuffle, administration not confrontation",
+      "P31 CIPS ¥61 trillion Q3 flows — still bilateral corridors, not the cross-system pilot",
+      "P27/P34 Druzhkovka/Kostiantynivka — still no clash data, remains due"
+    ]
+  },
+  {
     "date": "2026-11-15",
     "items": [
       {
