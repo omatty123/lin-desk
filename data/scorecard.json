@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16",
-  "edition": 137,
+  "updated": "2026-11-17",
+  "edition": 138,
   "board": [
     {
       "name_zh": "多极化",
@@ -97,36 +97,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The Mali-Burkina union moves from sealing to administration: Goïta and Traoré are now convening the 11th Grande Commission Mixte while Ouagadougou stands up Faso SANU to reorganize artisanal mining just as 8,000+ expelled miners arrive home from Guinea — consolidation and friction advancing on the same week, as the board already expected.",
-      "watching": "Guinea-AES diplomatic trajectory; terms of the IMF deal against the gold windfall",
+      "verdict": "The Mali-Burkina union moves from sealing to administration: national biometric registry launched Nov 16, and leFaso.net reports a sovereign-rating improvement — markets pricing Traoré's state as the operative fact, not the coup narrative. Faso SANU reorganizes artisanal mining as the ledger state deepens.",
+      "watching": "Guinea-AES diplomatic trajectory; whether the rating upgrade reaches Eurobond markets",
       "sources": [
         {
-          "label": "Mali Actu — Mali–Burkina Faso : Goïta et Traoré demandent la tenue de la 11e session de la Grande Commission mixte",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWQ5Z3RtRHp5VThUY0o5R1dVeW80Zjg4enZjeXZMMmk1bGdQYXg5Wjl1aTk5ampnaVp5c2J5UzFMLWlQVF9vaWpwNFpsNlNiX2VQajJOTjkyV1E3TlZuaFRiVmNaS3U5S2NSWXBEcm4teTBRTnRydmozd1pITkNEcjI0elhrUEnSAY8BQVVfeXFMTkM5cTFzWkU3TnhuWDJySUxRbl9VbndaS3NHVm01NlRrdmdNQ0R2YXlEU0xib2ZhV3BTbnNHcUxEWFJEOUxhTFl0ZXdWSk00UFN3RXVEbzNDU1poRUpzLW4xMTV1QndnUDU3c0w2VkFLMFFUazFHZUgtWUlFUTZ4VG5lUFJJeE1TNkxuZGxMVnM?oc=5"
+          "label": "Afrique IT News — Le Burkina Faso lance son Registre national biométrique",
+          "url": "https://afriqueitnews.com/news/le-burkina-faso-lance-son-registre-national-biometrique/"
         },
         {
-          "label": "L-FRII — Conseil des ministres au Burkina Faso : logements, cimenterie, numérique… les annonces majeures",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT29HV29KcGhxVmhQS0tTLTRHU1dUQjZRaVQ0OVlQd3gyRFJvektoazZhSTNabko0clBOZWZMZkw3Ymc0WEJrUDBwR3IwaVY1VEF3c3ZoRXVsYzZNdVZub0ZXcTJoSTFUUkM4NHVueGhBYU83MUs3NV92WUlJbGRnSnZpaUFNQ1dBWEN6bFFNOHN1QXFjTUxjLTFZQ21BVVZUSmdqTFNxSjdKdzRfNG1v?oc=5"
-        },
-        {
-          "label": "Actu Cameroun — Le Mali et le Burkina Faso scellent leur union au sein de l’AES",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelBSRW5LTERyTllpSEF2c1ZFcUVoVGl3UHdqSkF4dDg0b1IwZjdKYW1IUU93QWpkOXdTMjFzZzI1YnVGTUV0cHRsc1I2bTVqQXg5UkJEcTRmM2Y5eGc2Q3pkUmZUQ0otdUctdHhUR2hvb2pJemd0aUQ1RVBhbktqQTU5VW9Bd055bUdOeEIyR3pMSm1ZV0Q1Y2xvYWwzeFVB?oc=5"
-        },
-        {
-          "label": "Guinee360 — Doumbouya face au tandem Goïta-Traoré : l’orpaillage clandestin, nouveau point de friction entre Conakry et l’AES",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOHRnMDhfVG1kazZ4c2RxSVNReHdVNXdjcjRhLWJ1dm1GRXAwekJkNjFPa3VpMC1mS2c4d3cxUGh6cHhsYUZ4Qk9vUE0zU3F5bDBwazk4Wm5XUHh4b1pCRFRmQzJTblFkLWlyaExyTlB4ZXNTRmJBSmJNakpYMEN5NFY0eHpoUGphQ3BEenlaZ0JmRGVrR200cWVwXzNMUm5DSURWSVU0RzlMYkJuTm11MngyTTJuVHpCX2dtQjdTVGNfamt0a3NGUmRBMU1DV0wtcnloMU94dk9kUFE3WHhZ?oc=5"
-        },
-        {
-          "label": "Firstpost — 'Thousands Forced to Flee': Traore Slams Guinea Over Burkina Faso Gold Miners | Firstpost Africa",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcW1OVXYxOTVkRzVRd2Z3MXVPbjBkbWFsOTBXVXc5bVFBNll4X1V4eFVfc2xzRGZVYmZuMHZjbkI3a2VkcmNaTDZTTm5OcTRxdW1pbkk5M1JTOWdmRjNycDA1TXJhV0RjSVhDSzNkaFh6dHZuMEgyYVZRbWZIcmpkZlRCY1lMbmNZRU5kR0dxcVVFSlZrWDgxUnM3V0d4NGk4VU9XQmQ2WVNLeGZlTEtiNnJ5VDVpVU1GTjBhMVZoc3ZPVmRQWWRmZXRmb3pmYWlKb3NzLWd0VHdzNW5Ddzliby03WXB4Mk1qOHVDYlVpMFTSAfABQVVfeXFMTnFtTlV2MTk1ZEc1UXdmdzF1T24wZG1hbDkwV1V3OW1RQTZZeF9VeHhVX3Nsc0RmVWJmbjB2Y25CN2tlZHJjWkw2U05uTnE0cXVtaW5JOTNSUzlnZkYzcnAwNU1yYVdEY0lYQ0szZGhYenR2bjBIMmFWUW1mSHJqZGZUQmNZTG5jWUVOZEdHcXFVRUpWa1g4MVJzN1dHeDRpOFVPV0JkNllTS3hmZUxLYjZyeVQ1aVVNRk4wYTFWaHN2T1ZkUFlkZmV0Zm96ZmFpSm9zcy1ndFR3czVuQ3c5Ym8tN1lweDJNajh1Q2JVaTBU?oc=5"
-        },
-        {
-          "label": "The Borgen Project — Burkina Faso’s First Gold Refinery Targets Economic Sovereignty",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZXBZT0dsZDNieXk1ZHFlaHRwdXdnWFBjaUVucnItU0h6UWVrTHRuYjhPVm1qS1Q2WGNJYjM5c05QZmdJaXhUd1pydXlHd085NjlnVUxTOFZETGx6Q1pGMHVKamZpV0dtUkxpNQ?oc=5"
-        },
-        {
-          "label": "La Nouvelle Tribune — Burkina Faso : Ibrahim Traoré crée Faso SANU pour réorganiser l'exploitation artisanale de l'or",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHZUeS14TXhNekZVaXZoNS0xUTQ3bGk0dnM0QUdlTGRJVlpvREhpcGRXWjNmSlVXd3RnWEZZNHFieHp5cFJDa2xUMDJZWldUSUJ1UTZISGdYeGo0QWMwc3JFal8xWVpQcEphbWExMWlGWnBSWGNQUkRUUTBOaXJSMWpGOTNQZjhFLXdGOXFuQ3VCR05hZDNwcG80bzdIbTUtSlJycnVVZTc5Wm1ieVdsRF9HbFhOSU1EUzI5ZTdrdy1hTndLRUM1dnZqNA?oc=5"
+          "label": "leFaso.net - L'actualité au Burkina Faso — Économie : Le Burkina Faso enregistre une amélioration significative de sa notation souveraine",
+          "url": "https://lefaso.net/?page=impression&id_article=150812"
         }
       ]
     },

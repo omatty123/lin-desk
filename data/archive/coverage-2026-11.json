@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-11-17",
+    "items": [
+      {
+        "text": "OUAGADOUGOU'S LEDGER GETS A CREDIT UPGRADE — Ouagadougou launched its national biometric registry November 16, the identity infrastructure Faso Mêbo's ledger state needs to run reciprocal measures and track its own citizens rather than France's.",
+        "links": [
+          {
+            "label": "Afrique IT News — Le Burkina Faso lance son Registre national biométrique",
+            "url": "https://afriqueitnews.com/news/le-burkina-faso-lance-son-registre-national-biometrique/"
+          },
+          {
+            "label": "leFaso.net - L'actualité au Burkina Faso — Économie : Le Burkina Faso enregistre une amélioration significative de sa notation souveraine",
+            "url": "https://lefaso.net/?page=impression&id_article=150812"
+          }
+        ]
+      },
+      {
+        "text": "KIM SENDS HIS FIXER TO THE KREMLIN, NOT TO TRUMP — Kim's top aide Jo Yong Won flew to the Kremlin, not Washington, pledging support for Moscow's fight against American 'neo-Nazism' — the alliance Pyongyang actually banks on.",
+        "links": [
+          {
+            "label": "source — Kim Jong Un’s top aide meets Putin, backs fight against US ‘neo-Nazism’",
+            "url": "https://www.nknews.org/2026/11/kim-jong-uns-top-aide-meets-putin-backs-fight-against-us-neo-nazism/"
+          },
+          {
+            "label": "upi — Trump says he may meet with N. Korean leader in China",
+            "url": "https://www.upi.com/Top_News/World-News/2026/11/17/Trump-Kim-Jong-Un-meet-China-APEC-Shenzhen-Xi/3411794906946/"
+          }
+        ]
+      },
+      {
+        "text": "CROWLEY NAMES THE BUDGET FIGHT, NOT THE CULTURE WAR — Governor-elect David Crowley's first interview names the fight: Medicaid expansion, Act 10 repeal, education funding — material programs, not culture-war positioning.",
+        "links": [
+          {
+            "label": "The Milwaukee Courier — Q&A: Wisconsin Governor-elect David Crowley on election results and priorities, including education, healthcare, mar",
+            "url": "https://milwaukeecourier.com/news/2026/11/16/qa-wisconsin-governor-elect-david-crowley-on-election-results-and-priorities-including-education-healthcare-marijuana-act-10-prisoner-commutations"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P2 denuclearization — Jo Yong Won's Kremlin visit vs Trump's Shenzhen overture, still unanswered",
+      "P15 Burkina reciprocal measures — biometric registry plus rating upgrade, administration deepens",
+      "P35 Wisconsin Medicaid expansion — Crowley names it a priority, budget fight ahead",
+      "P31 CIPS corridors multiply but remain bilateral, not the cross-system pilot",
+      "P27/P34 Druzhkovka/Kostiantynivka — still no clash data, remains due"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "items": [
       {
