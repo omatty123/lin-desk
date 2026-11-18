@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-18",
+    "items": [
+      {
+        "text": "OUAGADOUGOU'S CREDIT RISES, SO DOES THE DISINFORMATION — S&P raised Burkina Faso's sovereign rating to B- this week, the same week AFP and PesaCheck were debunking fabricated Traoré speeches and a fake report of his death in a Ouagadougou airport crash.",
+        "links": [
+          {
+            "label": "APAnews - Agence de Presse Africaine — S&P raises Burkina sovereign rating to B-",
+            "url": "https://apanews.net/sp-raises-burkina-sovereign-rating-to-b/"
+          },
+          {
+            "label": "PesaCheck — FAUX : Le capitaine Ibrahim Traoré n'a pas été victime d'un grave accident de la route à l'aéroport de Ouagadougou",
+            "url": "https://pesacheck.org/faux-le-capitaine-ibrahim-traore-na-pas-ete-victime-dun-grave-accident-de-la-route-a-laeroport-de-ouagadougou/"
+          }
+        ]
+      },
+      {
+        "text": "XI NUDGES SEOUL TOWARD WASHINGTON, NOT DENUCLEARIZATION — At the APEC summit, Xi Jinping told South Korea's Lee Jae-myung he supports restarting US-North Korea dialogue, while Rubio called Trump 'serious' about meeting Kim.",
+        "links": [
+          {
+            "label": "source — Xi backs Seoul’s push for US-North Korea dialogue during summit with Lee",
+            "url": "https://www.nknews.org/2026/11/xi-backs-seouls-push-for-us-north-korea-dialogue-during-summit-with-lee/"
+          },
+          {
+            "label": "source — North Korea’s trade with China slumps despite new bridge opening",
+            "url": "https://www.nknews.org/2026/11/north-koreas-trade-with-china-slumps-despite-new-bridge-opening/"
+          }
+        ]
+      },
+      {
+        "text": "PUTIN FLIES TO BEIJING AS RUSSIAN JETS TEST TAIWAN'S AIRSPACE — Russian aircraft transited Taiwan's air defense zone — Taipei tracked nine PRC aircraft and eight ships that day — just ahead of Putin's arrival in China.",
+        "links": [
+          {
+            "label": "Taiwan News — Taiwan tracks 9 Chinese military aircraft and 8 ships",
+            "url": "https://www.taiwannews.com.tw/en/news/6477750"
+          },
+          {
+            "label": "巴士的報 — China vows countermeasures against U.S. restrictions on remote access to advanced semiconductors",
+            "url": "https://www.bastillepost.com/global/article/6371679-china-vows-countermeasures-against-u-s-restrictions-on-remote-access-to-advanced-semiconductors"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "Prediction 15 — Burkina's rating climb vs. France's reciprocal measures, administration not confrontation",
+      "Prediction 2 — Xi's 'dialogue' language vs. any return of 'denuclearization' to PRC statements",
+      "Whether Putin's Beijing visit produces anything beyond symbolic alignment amid the Taiwan ADIZ incidents",
+      "P36/P27/P34 Druzhkovka/Kostiantynivka — still no clash data confirming either side's claim",
+      "P37/P38 Western aid tracker and Patriot delivery confirmation, both still unresolved"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "items": [
       {
