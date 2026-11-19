@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-11-19",
+    "items": [
+      {
+        "text": "SHENZHEN HOSTS THE SUMMIT AMERICA USED TO CONVENE — Trump, Xi and Putin held an unprecedented three-way summit in Shenzhen, Yonhap reports, with North Korea likely on the agenda though a US-DPRK meeting stays uncertain.",
+        "links": [
+          {
+            "label": "source — (3rd LD) Trump, Xi, Putin hold unprecedented 3-way summit, with N. Korea likely on agenda",
+            "url": "https://en.yna.co.kr/view/AEN20261119001353315"
+          },
+          {
+            "label": "source — (2nd LD) Trump, Xi, Putin set to hold historic trilateral summit; U.S.-N. Korea meeting uncertain",
+            "url": "https://en.yna.co.kr/view/AEN20261119001352315"
+          }
+        ]
+      },
+      {
+        "text": "OUAGADOUGOU ARMS ITSELF WITH BEIJING'S HARDWARE — Traoré publicly displayed a new weapons system supplied by China, per AfrikMag — material proof of a Sahel-China security channel running alongside the rating upgrade, while Paris's 'reciprocal measures' (Prediction 15) have nothing to say about logistics flowing from…",
+        "links": [
+          {
+            "label": "AfrikMag — Burkina Faso : Ibrahim Traoré présente une nouvelle arme fournie par la Chine",
+            "url": "https://afrikmag.com/burkina-faso-ibrahim-traore-presente-une-nouvelle-arme-fournie-par-la-chine/"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG SPINS CENTRIFUGES WHILE WASHINGTON SPINS AWAY FROM THE UN — The IAEA reports North Korea is expanding its uranium enrichment facility, per Al Jazeera, the same week the US abstained — first time in 21 years — on the UN's annual North Korea rights resolution, per UPI.",
+        "links": [
+          {
+            "label": "Al Jazeera — North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+            "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says"
+          },
+          {
+            "label": "upi — U.N. panel adopts North Korea rights resolution as U.S. abstains",
+            "url": "https://www.upi.com/Top_News/World-News/2026/11/19/UN-human-rights-resolution-North-Korea-United-States-abstains/2961795075059/"
+          }
+        ]
+      },
+      {
+        "text": "NEW DELHI SIGNS, UNANIMOUSLY, WHAT WASHINGTON CAN'T — The 18th BRICS summit adopted the New Delhi Declaration by consensus, minister Goyal says, as over 500 investors and finance ministers convene alongside it for the inaugural iBRICS summit — the bloc building its own investment architecture while Washington…",
+        "links": [
+          {
+            "label": "DD News — Goyal hails unanimous adoption of New Delhi Declaration at BRICS Summit",
+            "url": "https://ddnews.gov.in/en/goyal-hails-unanimous-adoption-of-new-delhi-declaration-at-brics-summit/"
+          },
+          {
+            "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
+            "url": "https://newsonair.gov.in/over-500-investors-finance-ministers-and-business-leaders-to-attend-inaugural-ibrics-summit/"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P2 denuclearization — IAEA enrichment report and US UN abstention both omit the word, policy not slip",
+      "Whether Shenzhen trilateral yields DPRK contact beyond Yonhap's 'likely on agenda'",
+      "P15 Burkina reciprocal measures vs. Chinese weapons supply, administration deepens",
+      "P31 iBRICS investment architecture vs. CIPS bilateral corridors — still not the cross-system pilot",
+      "P36/P27/P34 Druzhkovka/Kostiantynivka — still no clash data confirming either side's claim"
+    ]
+  },
+  {
     "date": "2026-11-18",
     "items": [
       {

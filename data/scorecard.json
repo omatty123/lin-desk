@@ -1,45 +1,21 @@
 {
-  "updated": "2026-11-18",
-  "edition": 139,
+  "updated": "2026-11-19",
+  "edition": 140,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The 18th BRICS Summit convened in New Delhi with Xi and Putin both present and Modi chairing on four declared pillars, but the more durable story ran underneath the theater: China's CIPS system pushing into Somalia, Togo, and Tanzania, and Cambodia advancing de-dollarization — payments infrastructure spreading faster than the summit communiqués.",
-      "watching": "Whether a tracked Pix-UPI interoperability step (Prediction 31) materializes, or the CIPS corridors remain the real story while summits stay rhetoric",
+      "verdict": "The 18th BRICS summit adopted the New Delhi Declaration unanimously, and the bloc launched a parallel iBRICS investment summit with 500+ investors and finance ministers — institution-building, not just communiqué. Meanwhile Washington sits as one of three in Shenzhen, not convener.",
+      "watching": "Whether iBRICS produces capital commitments or stays declaratory; whether CIPS corridors (Prediction 31) ever link two national payment systems directly",
       "sources": [
         {
-          "label": "DD News — PM Modi holds bilateral meeting with Abu Dhabi Crown Prince on sidelines of 18th BRICS Summit",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmUyalRwb2I3OXlKOGQ4QlhRRmJKa1kzNXlVOE9xYUtJZERPRURrcG5nYjVJWkk0dDZoOWpZT2E1NkYzb01qREJYSGxXVEZNNl80T2ZwOG9Ia3N2enU1d2phZk1xOWJzUElYTEU2ZVV4MW9mX2gzWUNMWWoxSy1LTkx5aEs5UXRMeFJSYVNZUVc4VVZRSURlbVV5OXdCcE14cm5JeVM4cl9MLUNoazA2RXlqOUgxR0JVbE1N?oc=5"
+          "label": "DD News — Goyal hails unanimous adoption of New Delhi Declaration at BRICS Summit",
+          "url": "https://ddnews.gov.in/en/goyal-hails-unanimous-adoption-of-new-delhi-declaration-at-brics-summit/"
         },
         {
-          "label": "FTL Somalia — The Payment Problem: Can CIPS Shorten the Route Between Bakara Market and Guangzhou?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1CZE1QT3JnSXQ4RDd0MUxDdlpHeHk4ejhMRmg5ZmFzaURVVmNTdE4tQkx2Mno4TlVKWGw3eFRsU0RqUVc1OVNwRW01OE1zZ2pWd1pNTW5XSVZ2VE5JQk5Nal9OQ01sWHpBck9qekxSZVhoSEN2cGhkQ2FGWTBOQVdtQzRNc0dlb3NMdUExUXJVYm1JS0k2ZHl2bXg0NGRyLXRJd1F0eTVHNWZmcXdr?oc=5"
-        },
-        {
-          "label": "Shabelle Media Network — Wasiirka Ganacsiga Soomaaliya oo kulan la yeeshay Guddoomiyaha nidaamka CIPS ee Shiinaha",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0M5S1JzOEZPVkJlbWxqdWM1RGxfdnRhNXRzNndrUjZ5NlVEM2w1c1hOd19tSFFMUHNSa3NVSjJ2cll0R3dVT2dVUkVWTDV5Zlh4RENBQmllVjhiRFdXZnV6VUxNcGpYV2d6ajM5UEZVSmR5QUdrLUJ1OENyWXR5Sll4S25pR1FwQVoyR0E3NVJYM3pOWFhfRGdKTXpHbVFHYTlPMDUwN1paNmxhYTNDTktWaXVzZw?oc=5"
-        },
-        {
-          "label": "DD News — Chinese President Xi Jinping arrives in India to attend BRICS Summit",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUhueUNvS0hYb095TXVNVGV5azFvSWlPRS1TcDF6UDdRV1VNOHpnN09YMFJldTRaLTltZlJMdVhzaFAxT0xxSktQUExvNFhzWkM2UzlKUVg2amlMVmV4WVMzWC1YMXA2LUlvU2ZWTkNfOW9ZQVJxbTVzZ0NDOFlyWjZwRFl4YTFvc1VIRjBCYWhyVnFSRDBUdC1n?oc=5"
-        },
-        {
-          "label": "DD News — Putin Arrives in New Delhi for BRICS Summit; Bilateral Talks with PM Modi Today",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0o1VFE2T19CQkxjYk1MX2hvcEIteGpIdkNWUkoyMVFPSkZ3X2lwNzc2dGZZT0FnUFZiU2lxcDhpTUVtcXpqYWdNTGVQS255SW5MZFpRUEgxeDIwZnVMZnVZOVlLdnhZMmZ5Y01PWDlRcUswR1VzNkhHNXFIb3lidURQdXZBNDMxQjN5XzF5ejZ4VnFLX1hueGtTVTlrNGJCeEZwWkhERQ?oc=5"
-        },
-        {
-          "label": "Asset Publishing and Research — Cambodia steps up de-dollarization moves",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzZoOV96TDdtOXVhNEx2cm5MU1l6c0k3al9XZS1heXFHMWNFTnhCeDVqd3gzd0VmX2V4X3kxcVNHSlRkTmQzNGIxVjJzR3JjOEozb3Y4T1FDbHFleUNCZWY5dk5lUzUtMnRFdXN5T1ZTSGdlVk1VcEIzdndxZTdjNDREUENvdw?oc=5"
-        },
-        {
-          "label": "Daily News — NMB Bank secures 30m US dollars loan from China’s CDB for bolstering Tanzanian SMEs",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEpMYUowTGhjd29wUUFBakVVNFVkaHlVaXJnV3RwQnlkNENPSUpjdlpFeGxDdzAxNWhKWnBXVUx4enVFMXk4cVBxZnNRcUVNd0E3T19scGRCSlJMX1M1YlFmem4xcmgweVJ6UFB2Wk1KUUhSa0lEMFdLWE9VdkZDRzF3emtxaXcxUVRKVFh2ZmxjRm9LekxBdEJUY1p3NmxaZG5odE9nV0xjZjQ?oc=5"
-        },
-        {
-          "label": "Togo First — Estelle Komlan, Managing Director of Ecobank Togo: “With CIPS, We Want to Make Payments to China Faster and Cheaper”",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPellsWG5JSl9CZVJnNWtFN1RyaGNPcno4TU5HbXpjWGpWUkl4dmhQTjZaRHZ0QTB1X1VYbHp3c3o5QW5BMGVxWFZiOVlxN2dhS3ZoQ2p5RHU5ejNEd0p0MS1iZVpXVENXSk4wcVJ6Ni1iZG9vY0c1c0pwZWd1bUg0UDBsUXprd3F3SHBiOGE4WTZjbHNwUmdpdDJmdU1VMk14cENKbW8wTU9UTENmTE5McGZuZ0pXMUtUNFQzekZINXgyanlULUtUenVKWGhibS1GRVZnTTdXang4THNMZVVpb29CZE9tV05teHMyRmpZNlo?oc=5"
+          "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
+          "url": "https://newsonair.gov.in/over-500-investors-finance-ministers-and-business-leaders-to-attend-inaugural-ibrics-summit/"
         }
       ]
     },
