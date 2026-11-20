@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-20",
+    "items": [
+      {
+        "text": "OUAGADOUGOU REOPENS WHAT FRANCE LEFT BURIED — Ouagadougou reopens the Perkoa mine, shuttered since the 2022 flooding that killed 65 miners, and earmarks 324 billion FCFA for four new 500-bed university hospitals.",
+        "links": [
+          {
+            "label": "Bénin Web TV — Burkina Faso grants new permit for Perkoa mine, four years after the 2022 tragedy",
+            "url": "https://beninwebtv.bj/en/burkina-faso-grants-new-permit-for-perkoa-mine-four-years-after-the-2022-tragedy/"
+          },
+          {
+            "label": "Bénin Web TV — Burkina Faso: 324 billion FCFA for four 500-bed university hospitals",
+            "url": "https://beninwebtv.bj/en/burkina-faso-324-billion-fcfa-for-four-500-bed-university-hospitals/"
+          }
+        ]
+      },
+      {
+        "text": "GREAT POWERS DISCUSS PYONGYANG, WITHOUT PYONGYANG — Trump, Xi, and Putin held their first trilateral call Thursday, pledging cooperation on nuclear nonproliferation — and Trump flew home from Shenzhen without the Kim meeting he'd floated all week.",
+        "links": [
+          {
+            "label": "source — Trump, Xi and Putin discuss North Korea, nuclear risks at first trilateral talks",
+            "url": "https://www.nknews.org/2026/11/trump-xi-and-putin-discuss-north-korea-nuclear-risks-at-first-trilateral-talks/"
+          },
+          {
+            "label": "source — Trump wraps up Asia trip without meeting North Korean leader Kim Jong Un",
+            "url": "https://www.nknews.org/2026/11/trump-wraps-up-asia-trip-without-meeting-north-korean-leader-kim-jong-un/"
+          }
+        ]
+      },
+      {
+        "text": "WASHINGTON NEGOTIATES, BRUSSELS ESCALATES, MOSCOW WAITS — Kushner says Moscow is 'comfortable' with NATO-like security guarantees for Ukraine, the same day Brussels extends sanctions to nearly all major Russian banks.",
+        "links": [
+          {
+            "label": "thecanadianpressnews.ca — Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+            "url": "https://www.thecanadianpressnews.ca/world/kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine/article_f90ff5fc-1a33-5417-bc18-40dfba4c1509.html"
+          },
+          {
+            "label": "European External Action Service (EEAS) — The EU extends sanctions to nearly all major Russian banks",
+            "url": "https://www.eeas.europa.eu/eeas/eu-extends-sanctions-nearly-all-major-russian-banks_en"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P2 denuclearization — trilateral statement omits term, still policy not slip",
+      "Whether Perkoa reopening and hospital spend reach Eurobond pricing, Prediction 15",
+      "P37 Kiel tracker — EU/US sanctions divergence versus Washington's negotiated endgame",
+      "Whether Kim's Laos outreach signals a pivot from the Washington courtship",
+      "P36 Kostiantynivka — still no clash data confirming either side's claim"
+    ]
+  },
+  {
     "date": "2026-11-19",
     "items": [
       {
