@@ -1,21 +1,29 @@
 {
-  "updated": "2026-11-21",
-  "edition": 142,
+  "updated": "2026-11-22",
+  "edition": 143,
   "board": [
     {
       "name_zh": "多极化",
       "name_en": "Multipolarity",
       "trend": "up",
-      "verdict": "The 18th BRICS summit adopted the New Delhi Declaration unanimously, and the bloc launched a parallel iBRICS investment summit with 500+ investors and finance ministers — institution-building, not just communiqué. Meanwhile Washington sits as one of three in Shenzhen, not convener.",
-      "watching": "Whether iBRICS produces capital commitments or stays declaratory; whether CIPS corridors (Prediction 31) ever link two national payment systems directly",
+      "verdict": "iBRICS Summit convened with 500+ investors and finance ministers as planned — the institution-building case made itself. BRICS CCI business panels and Nigeria's move toward the Belém Declaration via CIPS procurement frameworks are incremental but real administrative accretion, not just communiqué language.",
+      "watching": "Whether iBRICS produces capital commitments, not just attendance; CIPS corridor linkage per Prediction 31",
       "sources": [
         {
-          "label": "DD News — Goyal hails unanimous adoption of New Delhi Declaration at BRICS Summit",
-          "url": "https://ddnews.gov.in/en/goyal-hails-unanimous-adoption-of-new-delhi-declaration-at-brics-summit/"
+          "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkYxYW52SGJSWmxLNmpnaUowbVdFZ3ZTYm9HeEtUQXRPRE1fbkFpMVpkWG5jeV92d1FCQmdSOWdyUV9vbElTcDRyRk16VjVmQUxFa3VKdllzdE11LXFjRFAyNGlXWDJyXzVYYWI0bVZZN0lYUmh6YWhPYm9JT1FYbm1JTDlCdDZRejZMYUZyeW0tbFJjb2N6ZjhWOW5lNHFnQXZxMVloeEtESi1CbXFnaGRPcUZoUlRH?oc=5"
         },
         {
-          "label": "News On AIR — Over 500 investors, finance ministers and business leaders to attend inaugural iBRICS Summit",
-          "url": "https://newsonair.gov.in/over-500-investors-finance-ministers-and-business-leaders-to-attend-inaugural-ibrics-summit/"
+          "label": "SMEStreet — BRICS CCI Panel Explores Global Growth Opportunities at Bengaluru Tech Summit 2026",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakNxT1NVbmxFek52bmxTeTdVUDVZeGE0RzkxbmFoTXh0cktHNW92dW5yRmV2ODVRTjFvUDVqd2hGdFQ3S0d4V2V0MTJpRzhzREIxZnNzTXJHUlYtX1VrTnRCVW5OeVBjdkNqMlpvNE8wS1dBOWRTbFltRDlEUXU2OXhFQ1RSeWNfZlNvdENmSVlLSHpPdm1sZWlTU3dFR0NBcGJBa0c1UkhiUFh1akRnUFlDTTB3QmhZUjlqbdIBvAFBVV95cUxNakNxT1NVbmxFek52bmxTeTdVUDVZeGE0RzkxbmFoTXh0cktHNW92dW5yRmV2ODVRTjFvUDVqd2hGdFQ3S0d4V2V0MTJpRzhzREIxZnNzTXJHUlYtX1VrTnRCVW5OeVBjdkNqMlpvNE8wS1dBOWRTbFltRDlEUXU2OXhFQ1RSeWNfZlNvdENmSVlLSHpPdm1sZWlTU3dFR0NBcGJBa0c1UkhiUFh1akRnUFlDTTB3QmhZUjlqbQ?oc=5"
+        },
+        {
+          "label": "News Agency of Nigeria — BPP, CIPS Champion Sustainable Procurement At COP31, Nigeria To Join Belém Declaration",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmdKUmlWZlVqZU9GczQwdGtFb1ViYVk3NkkzWURDaGluQTNNaEhZb3lBaUM0LUFNbFk5N2NCajRsZWc2bGg5Z0dTSzVtOENSTWhCT01qdzV6ckRRRFRwX3l0ZFQxRDlrb2ZBWlgyVjVsOVV3N092S0lHcFNacHJuc3J1cm9WeURHUW9WU0JzZ2RNNXllSjJwOElqbURSV0VDSjJxZmdVdw?oc=5"
+        },
+        {
+          "label": "Federal Ministry of Information and National Orientation — BPP, CIPS Champion Sustainable Public Procurement At COP31 As Nigeria Moves To Jo",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbV9DVmFkbGNRS24zUFpheUJ3Z1Q5Ni1jVk8zT3FvYlJ0Tkt5cVY5RW0tb1dJNUF5RHhWZEh3d1ZyM2J5dXBfZnNDXzNua043VWdJMWlBamt3a2l3YjVTZm40ZTBCUUpSSnBzcS0wQm5ORzhrbVBCOXU1bkRtVFNMZGNFek1aMk83V3pGMXFYT0pRMGV6cG5MTjRJOXNYMURNV3lEZlFqQmhBVk5Eb2dhNFhlc1pSZVN1Rm5ZMTM3NA?oc=5"
         }
       ]
     },
@@ -40,32 +48,36 @@
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
       "trend": "up",
-      "verdict": "FBI attributes the $6.36B Binance theft to Pyongyang's TraderTraitor unit, the largest crypto heist on record, while the KPA tests a cluster warhead for tactical ballistic missiles meant for deployment by year's end. Trump's offer to 'talk' if Pyongyang confirms the hack reads as an opening, not a condemnation — Washington wants the channel more than the denial.",
-      "watching": "Whether the cluster-warhead program maps onto deployed units rather than test footage; whether the Binance funds trace to weapons financing",
+      "verdict": "Trump wrapped his Asia trip without the Kim meeting he'd been angling for; Kim ignored his calls outright while the DPRK continues expanding its nuclear arsenal. The Shenzhen trilateral discussed nonproliferation with Washington, Beijing, and Moscow — Pyongyang wasn't in the room and didn't need to be. Leverage sits with Kim, not the man asking for the summit.",
+      "watching": "Whether the Trump-Xi-Putin nonproliferation language produces any actual DPRK-facing initiative; whether Pyongyang's silence is cost-free past year-end",
       "sources": [
         {
-          "label": " — (LEAD) Trump says U.S. will talk to N. Korea if it is behind Binance hack",
-          "url": "https://en.yna.co.kr/view/AEN20261101000351315"
+          "label": " — Trump wraps up Asia trip without meeting North Korean leader Kim Jong Un",
+          "url": "https://www.nknews.org/2026/11/trump-wraps-up-asia-trip-without-meeting-north-korean-leader-kim-jong-un/"
         },
         {
-          "label": "The Hacker News — FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5"
+          "label": " — Trump wraps up Asia trip without meeting N. Korean leader following widespread speculation",
+          "url": "https://en.yna.co.kr/view/AEN20261119010600315"
         },
         {
-          "label": " — (LEAD) N. Korea tests cluster bomb mountable on tactical ballistic missiles",
-          "url": "https://en.yna.co.kr/view/AEN20261101000451315"
+          "label": "The Times of India — ‘Trump can’t get his calls returned’: Kim Jong Un ignores US President as North Korea expands nuclear ars",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQY1Y0TkgyMUZzLTUyVHhKV0RPVlRhdkdZZTlOeFVPSERhNUZzTXVRYkJUZ0NBdDFVTTNpay1WYnVFXzBUOUpiY1dITDFxdklDQTdpX2pGMGJxdzBlNm9DX1NFSENncGp5alNrZ3ViNEh4djlncWUyem5rdGFQUFlHN1lhTGxEXzNiVlZZcVd4Mi1yTEtyU2JnLVhBcHVzV2YxNXlucXRDZDNSd2k4RktNWGFGWmxCWWFkMjU0dUtmYWQzdUFPMjk4bTBVUExOdXBzWXpiT2ZhWWxmVjNMelRrQ2VqWWhuRDRXS3l5TnRkUGxQY19mT0tYVU1tZmNXYjEwTkp2SUNzU05yUWQwbW1Qank4QzRORzAtRnE5RkFkYkMzRHNnd0NzTV8xTnk4aHfSAbQCQVVfeXFMUDRhS1QwV0NmNXFlWmM2ZTZpYWE0LW9GM3NXWTlaQ2x1MWw4eGJOcTdSZnBNR2ZIdDMzeU10NjFZZW45TzhyS3V0TnhaUUJobUktY3V2aFgyRjN2MVZobENiOEMxYy1Ldk5laDJPMlltOUNDU2FUdmM1RjAyVWVEeEVQLXQyX3R3Q3pFVmxIQ2s4ckZtaW1jcEdnTWhlbERWOEFXZm53VlZ6UXJieExIZEVHbGxYS2M2LVBfYXNVeVRZUkpwaHBSRmtCZVJEQklrbDk5NXNSTFg1WnA4Yy1ZcC12Q2NmSkNIV24zVG5QLTBXZV9RNWRLSG1TOWF0aFZBS1MybW5zVEFfMG1FRTlpakk1T1ZJeW5pUWtTcE1JcWo0ZlRnVTZjTlJWOFpNaWlEMFl4c1M?oc=5"
         },
         {
-          "label": " — North Korea tests cluster warhead, plans military use by end of 2026",
-          "url": "https://www.nknews.org/2026/11/north-korea-tests-cluster-warhead-plans-military-use-by-end-of-2026/"
+          "label": "i24NEWS — North Korea: Kim Jong-un Ignores Trump Despite His Attempts To Resume Dialogue",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHo1eHlDZ1pjelJUUGM3VzFTeXBKcGgzOS1UWjFDOGktZHRNb1R0Zk5sTkRBZ1l0QXhyRWZ2NjVWTzB2WG9iOC1FbHJBVXZxbU1US2lZbW9ZSW4tRVhabHEtbUFkVXVRQ212akNxUTNXNmJOWlFnZWhtUUl3NEM2STNEb1BZYWhJY1gwU1p0M3hja3ZNZFc5ckpDR0szZ1M2OTcxUmJ6czJvN0J6NW13SGt6c2hUbFlzbkNTVGRKZ0JiaEVsc3hXYXdVT2lBOXR3RGc?oc=5"
         },
         {
-          "label": " — FBI says N. Korea responsible for over US$6 bln crypto theft from Binance",
-          "url": "https://en.yna.co.kr/view/AEN20261101000300315"
+          "label": " — Trump, Xi and Putin discuss North Korea, nuclear risks at first trilateral talks",
+          "url": "https://www.nknews.org/2026/11/trump-xi-and-putin-discuss-north-korea-nuclear-risks-at-first-trilateral-talks/"
         },
         {
-          "label": " — N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
-          "url": "https://en.yna.co.kr/view/AEN20261031001300315"
+          "label": " — (3rd LD) Trump, Xi, Putin hold unprecedented 3-way summit, with N. Korea likely on agenda",
+          "url": "https://en.yna.co.kr/view/AEN20261119001353315"
+        },
+        {
+          "label": "WSJ — How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5"
         }
       ]
     },
@@ -107,36 +119,24 @@
       "name_zh": "大西洋秩序",
       "name_en": "Atlantic order",
       "trend": "down",
-      "verdict": "Washington's own Russia-diesel sanctions relief riled Brussels within days, even as tankers rerouted away from US shores and the diesel reportedly went unsold — Washington undercut its own exemption inside a single week, the clearest evidence yet that the three capitals share no sanctions discipline, not even with each other.",
-      "watching": "Whether the diesel-deal reversal forces a unified US-EU-Japan sanctions line or confirms permanent fragmentation",
+      "verdict": "The diesel-relief friction from last week persists into this one — Washington's own exemption still rankles Brussels, which answers with its own 150-entity shadow-fleet sanctions list rather than a joint line. Two capitals, two sanctions regimes, no coordination, confirmed again.",
+      "watching": "Whether EU's shadow-fleet list forces US alignment or simply runs parallel indefinitely",
       "sources": [
         {
           "label": "EnergyNow — TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
         },
         {
-          "label": "Al Jazeera — Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXQ0d0dpVEhkVm5NVjJNZ1I3dGRaUHZCOUZzRGtXelc4ZGVHTnNmX2tmcHdLTXpvbFF1X3FzYmc3a1dtMmVlQ3lIVHg0OHJxZXBGUHV2R05peGRiM3g4SHJRbGdHTmtuTGxnbzdkNVdjN0ROR0ZzVXBmcDRFWUdtbWk0MWxpcDNiRFRNUkN0d2NTT3FaUWxjMVpOSlpJNHRJNFlZWHplWlpUWjhGcThzWVp5ZnDSAboBQVVfeXFMUFYyNTVITzd1b19BQzhMZWhVbzViclBBcHI5a2JXdWEyZTZnUThWek5lcDdJQjZRUlhKdVo1b2M0Wk5MeVVNYjNZZkNXNlA5Uk95dU1YRUdkYm40UE1uOURxVnBYSXNiRnJaRHphd09NOWVLbWI2N29JRHEzT2JNbEoxMmEzWS1DazJQdkxzWGt2Z2JMOXloRTZlT0oxeEdNdGdhcG1PMjJRdVhqeGxpMzlISlRtRTR1Zjln?oc=5"
+          "label": "PubAffairs Bruxelles — Can the EU close Russia’s sanctions loopholes?",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJkLXFBOXBmQjNKS0oxUk8tNGFRb3g5Rlk4TS1sY2FLeVYyWExFVE5teTF4VlNmQUR4TEdvaVRjWkI0bFpWTGVlLVJQMG5iYjgxd1N1NDRIVHdnejI4RGlscEJHT3VNSTJxZUdBQ25HbnlJcXIwcVduMEFkYjNMa0p5NFNHcWlwb19oOFhBR1FqbWk0dHphcXpvMC0?oc=5"
         },
         {
-          "label": "Le Monde.fr — US-Russia diesel deal touted by Trump falters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjQyMXpSeFpEbmxGV294TUhGOU5NU0ktb1lWNjZtaVJFYkoyQmJNand4NUg0TkRUNHJXbi1xLWZxSWNSem1VOFFaX2xNT0s3eERQdHJ0X3ZmdVppZHplVW5waDRpbWFtaDZnUnAzZ3ktQlBmX2FwTlFmUUVCZFVnNm9pWVBERGtNdFBCMDZicGZtdXExNEZ4QlFidlkyYmtVemNmQlZYdkUzcVBkdWpqOTFsR3F0RjRJYlVV?oc=5"
+          "label": "صوت الإمارات — The European Union tightens its grip on Russia’s \"shadow fleet\" with sanctions targeting 150 entities and individuals",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMlNyS0wxcjRJdEFUSXhIZ0djc0VaamRmcG5Ea0g5VlBEcTR3SFdNTXYxUVZCQlpNRXljaWE1b1pRS2ZDSHZtd3ZuU1VBWl90aUtsbjdDUlhLc1ZIUV80akY5amtHLVdNei1MR1RsdHUxeVpRZ0VDUUt2c2NlTkk5dXh1NFkwOHUwQ0NYcDhEWXVoUWlBTGpGVzVWdFRBS3FwNW9MbDZZWnhmcHpyTDJmUE5sZUptVHc0SWNnQUlaMlVDNzkxVGpiUW8xLVlzblZ2TXBabk1NRWxRdUJnQ2FSeEhDQ3JyOW0zNjg4YWcxdlptaHJmNGZ0WkNR?oc=5"
         },
         {
-          "label": "DW.com — Tankers carrying Russian diesel to the US change course",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZy1MbElnMGQtN1A4NkpXODlVZVVOcXBnemFPYkFBRWFUc2hfelBQR21iR1J3RjBUNDRhZGJSaUdEZE5LT1RRV0pIQzA3TXRsc3J1aGtCazlRdkI2aTVFQVBlX2VYWE1qSHdpNllTNm1XRjdEUjN6a3NHLTgwRXlmbUFDOVRiQ3R1X1JUUjBudFdwUdIBkgFBVV95cUxNS0l4OTB2UXZsNzR2WXdxa2RsVTU3Qm1URXVNbDNXaS1ZakduUnFXYWFONWRnWVdNT05JT3dGTDhHcU1sYjdFbHlHczFsNjlhaGhZNUxtTFNEMDhQeThaMlM5MTg2NGpMNEhBV3g4dkRqb1dMZURqbkUzT0drUjVlZElwbS1ZWnIyZWwzR09ScVRnQQ?oc=5"
-        },
-        {
-          "label": "Al Jazeera — Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5"
-        },
-        {
-          "label": "Center for European Policy Analysis (CEPA) — Europe’s Sanctions on Russia: Riddled With Loopholes",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXhsSGhIWE1kVG82Y2ppT1I1MURBZ25hRnJOYUpJUjhobHh3WGVoNk13RUItSVFmVWFQRUFMelR4YVBTemNmQ0NvY2d3Sm16N0xQSmJ2eEhISEVCaUtLOXFQUFMzU25fSVlwdHNMRlZLMUF1eTBBYzJvOUMwbWhybXRR?oc=5"
-        },
-        {
-          "label": "France 24 — Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWJKX09US2FsbWtVd3didkVMRDl0dkhCeW5GOUlCRjYwZlAtSlVkWEx2YWNib2JraXNYNEhEQzRWT1FaUHdUNHR2MnY5M3c2aHQzOVRlVWZHZUl1QjdNblRySWhON3ZDdElSYkh2Qi1LaHF4b2R1OV9FWUZrbXJOYkJXVWJvZHNZaEtiVEY4eTBoaW1VRmFhRFdrVVRINmltcF9rbFhYNEFHNzhMTDJESWlmd2xpckdlZzM1d3Fnbm0?oc=5"
+          "label": "Euronews.com — Video. Can the EU close Russia's sanctions loopholes?",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHEtVXI1aEl6Z2JwOVB6cmZvWDZCVzRScldaNzdZeERDOGltY1ltaWRyVGVmdThOcXNPb1FMZ3ZoOGVNMnJiQ09lM1FkM3ZvZUcxckNBWXl1TlhSR2prdVZHTUMzcjZJbDR1bFJvekx2b0Rwelc5S25iNjN2RkJyT0w2cFFKSUd0MGw2cGpORWZjWkFZOGRMamtFU3R5VUp4NlpuMQ?oc=5"
         }
       ]
     }
