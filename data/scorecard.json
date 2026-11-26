@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25",
-  "edition": 146,
+  "updated": "2026-11-26",
+  "edition": 147,
   "board": [
     {
       "name_zh": "多极化",
@@ -47,37 +47,17 @@
     {
       "name_zh": "朝鲜立场",
       "name_en": "DPRK position",
-      "trend": "up",
-      "verdict": "Trump wrapped his Asia trip without the Kim meeting he'd been angling for; Kim ignored his calls outright while the DPRK continues expanding its nuclear arsenal. The Shenzhen trilateral discussed nonproliferation with Washington, Beijing, and Moscow — Pyongyang wasn't in the room and didn't need to be. Leverage sits with Kim, not the man asking for the summit.",
-      "watching": "Whether the Trump-Xi-Putin nonproliferation language produces any actual DPRK-facing initiative; whether Pyongyang's silence is cost-free past year-end",
+      "trend": "steady",
+      "verdict": "Ukrainian outlets (UNITED24, RBC-Ukraine) report Kim froze KN-23 deliveries over a Moscow mediation offer; the same day NK News found Russia's FSB signed a classified-information pact with Pyongyang's intelligence bureau. The documented cooperation outweighs the belligerent-sourced rift claim.",
+      "watching": "Whether any actual KN-23 slowdown shows up in material evidence, not just Kyiv-adjacent wires",
       "sources": [
         {
-          "label": " — Trump wraps up Asia trip without meeting North Korean leader Kim Jong Un",
-          "url": "https://www.nknews.org/2026/11/trump-wraps-up-asia-trip-without-meeting-north-korean-leader-kim-jong-un/"
+          "label": "UNITED24 Media — Moscow Offers to Mediate Korean Tensions—Kim Jong Un Responds by Freezing KN-23 Ballistic Missile Deliveries",
+          "url": "https://united24media.com/world/moscow-offers-to-mediate-korean-tensions-kim-jong-un-responds-by-freezing-kn-23-ballistic-missile-deliveries-24728"
         },
         {
-          "label": " — Trump wraps up Asia trip without meeting N. Korean leader following widespread speculation",
-          "url": "https://en.yna.co.kr/view/AEN20261119010600315"
-        },
-        {
-          "label": "The Times of India — ‘Trump can’t get his calls returned’: Kim Jong Un ignores US President as North Korea expands nuclear ars",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQY1Y0TkgyMUZzLTUyVHhKV0RPVlRhdkdZZTlOeFVPSERhNUZzTXVRYkJUZ0NBdDFVTTNpay1WYnVFXzBUOUpiY1dITDFxdklDQTdpX2pGMGJxdzBlNm9DX1NFSENncGp5alNrZ3ViNEh4djlncWUyem5rdGFQUFlHN1lhTGxEXzNiVlZZcVd4Mi1yTEtyU2JnLVhBcHVzV2YxNXlucXRDZDNSd2k4RktNWGFGWmxCWWFkMjU0dUtmYWQzdUFPMjk4bTBVUExOdXBzWXpiT2ZhWWxmVjNMelRrQ2VqWWhuRDRXS3l5TnRkUGxQY19mT0tYVU1tZmNXYjEwTkp2SUNzU05yUWQwbW1Qank4QzRORzAtRnE5RkFkYkMzRHNnd0NzTV8xTnk4aHfSAbQCQVVfeXFMUDRhS1QwV0NmNXFlWmM2ZTZpYWE0LW9GM3NXWTlaQ2x1MWw4eGJOcTdSZnBNR2ZIdDMzeU10NjFZZW45TzhyS3V0TnhaUUJobUktY3V2aFgyRjN2MVZobENiOEMxYy1Ldk5laDJPMlltOUNDU2FUdmM1RjAyVWVEeEVQLXQyX3R3Q3pFVmxIQ2s4ckZtaW1jcEdnTWhlbERWOEFXZm53VlZ6UXJieExIZEVHbGxYS2M2LVBfYXNVeVRZUkpwaHBSRmtCZVJEQklrbDk5NXNSTFg1WnA4Yy1ZcC12Q2NmSkNIV24zVG5QLTBXZV9RNWRLSG1TOWF0aFZBS1MybW5zVEFfMG1FRTlpakk1T1ZJeW5pUWtTcE1JcWo0ZlRnVTZjTlJWOFpNaWlEMFl4c1M?oc=5"
-        },
-        {
-          "label": "i24NEWS — North Korea: Kim Jong-un Ignores Trump Despite His Attempts To Resume Dialogue",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHo1eHlDZ1pjelJUUGM3VzFTeXBKcGgzOS1UWjFDOGktZHRNb1R0Zk5sTkRBZ1l0QXhyRWZ2NjVWTzB2WG9iOC1FbHJBVXZxbU1US2lZbW9ZSW4tRVhabHEtbUFkVXVRQ212akNxUTNXNmJOWlFnZWhtUUl3NEM2STNEb1BZYWhJY1gwU1p0M3hja3ZNZFc5ckpDR0szZ1M2OTcxUmJ6czJvN0J6NW13SGt6c2hUbFlzbkNTVGRKZ0JiaEVsc3hXYXdVT2lBOXR3RGc?oc=5"
-        },
-        {
-          "label": " — Trump, Xi and Putin discuss North Korea, nuclear risks at first trilateral talks",
-          "url": "https://www.nknews.org/2026/11/trump-xi-and-putin-discuss-north-korea-nuclear-risks-at-first-trilateral-talks/"
-        },
-        {
-          "label": " — (3rd LD) Trump, Xi, Putin hold unprecedented 3-way summit, with N. Korea likely on agenda",
-          "url": "https://en.yna.co.kr/view/AEN20261119001353315"
-        },
-        {
-          "label": "WSJ — How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5"
+          "label": " — Russia, North Korea signed agreement on protecting classified information",
+          "url": "https://www.nknews.org/2026/11/russia-north-korea-signed-agreement-on-protecting-classified-information/"
         }
       ]
     },
