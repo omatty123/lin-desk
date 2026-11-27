@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-27",
+    "items": [
+      {
+        "text": "OUAGADOUGOU GROWS ITS OWN GRAIN — Burkina Faso's agriculture service released eight new rice varieties yielding up to 11 tonnes per hectare, layering onto this month's Sourou irrigation financing and the new tech academy.",
+        "links": [
+          {
+            "label": "Afrique sur 7 — Riz au Burkina Faso : 8 variétés jusqu'à 11 tonnes/ha",
+            "url": "https://www.afrique-sur7.fr/riz-au-burkina-faso-huit-nouvelles-varietes"
+          },
+          {
+            "label": "Modern Ghana — Miners turn to tech against Sahel jihadist threats",
+            "url": "https://www.modernghana.com/news/1548440/miners-turn-to-tech-against-sahel-jihadist-threats.html"
+          }
+        ]
+      },
+      {
+        "text": "KIM'S ROCKETS, GROUNDED OR JUST QUIET — Russia and North Korea are discussing direct Moscow-Wonsan flights, even as Kyiv-sourced reporting claims Kim froze KN-23 deliveries and that Pyongyang supplied up to 40 percent of Russia's shell consumption.",
+        "links": [
+          {
+            "label": "source — Russia, North Korea reportedly discussing flights between Moscow and Wonsan",
+            "url": "https://www.nknews.org/2026/11/russia-north-korea-reportedly-discussing-flights-between-moscow-and-wonsan/"
+          },
+          {
+            "label": "Nacionale — What does North Korea's missile pause mean for Ukraine? Kyiv says it supplied up to 40% of Russia's shells",
+            "url": "https://www.nacionale.com/en/articles/what-does-north-korea-missile-pause-mean-for-ukraine-russia-shells-kn-23"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING'S FACTORIES PAY WHILE TAIPEI VOTES — China's industrial profits rose 16 percent through October, electronics earnings doubling, the same week Beijing flew 30 military aircraft near Taiwan on the eve of local elections.",
+        "links": [
+          {
+            "label": "CEO Magazyn — China’s industrial profits rise 16% as electronics earnings double",
+            "url": "https://ceo.com.pl/en/china-industrial-profits-january-october-2026/"
+          },
+          {
+            "label": "The Times of India — 'Swift seizure of small islands': China's amphibious drill using civilian ships threatens Taiwan",
+            "url": "https://timesofindia.indiatimes.com/defence/international/swift-seizure-of-small-islands-chinas-amphibious-drill-using-civilian-ships-threatens-taiwan/articleshow/136214056.cms"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina-France reciprocal measures vs. academy and irrigation self-financing capacity",
+      "P2 denuclearization still absent from PRC language on DPRK",
+      "KN-23 'freeze' claim vs. any actual shipping slowdown — still no material evidence",
+      "P4 PRC fixed-asset investment Q4 test against today's 16% industrial profit print",
+      "Taiwan local election results vs. PLA sortie count — whether coercion correlates with ballots"
+    ]
+  },
+  {
     "date": "2026-11-26",
     "items": [
       {
