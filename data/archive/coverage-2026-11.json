@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-28",
+    "items": [
+      {
+        "text": "OUAGADOUGOU TURNS THE ZINC MINE BACK ON — Perkoa zinc mine resumed output Nov 27 after four years idle since a 2022 flood; Ouagadougou plans a refinery by 2027, and Burkina, Mali and Niger agreed to interconnect their digital and postal networks.",
+        "links": [
+          {
+            "label": "leFaso.net - L'actualité au Burkina Faso — Mine de Perkoa : Le Burkina Faso relance l’exploitation après quatre années d’interruption",
+            "url": "https://lefaso.net/spip.php?article151096"
+          },
+          {
+            "label": "Bénin Web TV — AES: Burkina Faso, Mali and Niger want to interconnect their digital and postal networks",
+            "url": "https://beninwebtv.bj/en/aes-burkina-faso-mali-and-niger-want-to-interconnect-their-digital-and-postal-networks/"
+          }
+        ]
+      },
+      {
+        "text": "BEIJING'S FACTORIES KEEP RUNNING WHILE TAIPEI VOTES — China's industrial profits grew at their fastest pace in five months, the wire calling the recovery 'uneven' even as it reports the number.",
+        "links": [
+          {
+            "label": "AsiaOne.com — China's industrial profit growth fastest in 5 months as recovery remains uneven, China News",
+            "url": "https://www.asiaone.com/china/china-industrial-profit-growth-fastest-5-months-recovery-uneven"
+          },
+          {
+            "label": "Taiwan News — Taiwan tracks 33 Chinese military aircraft and 12 ships",
+            "url": "https://www.taiwannews.com.tw/en/news/6481971"
+          }
+        ]
+      },
+      {
+        "text": "PYONGYANG AND MOSCOW OPEN THE LEDGER — North Korea and Russia held an economic cooperation committee meeting Nov 28, agreeing to 'boost joint projects,' Yonhap reports; separately Seoul says it is watching for signs of a Kim visit to Beijing.",
+        "links": [
+          {
+            "label": "source — N. Korea, Russia hold economic cooperation meeting, agree to boost joint projects",
+            "url": "https://en.yna.co.kr/view/AEN20261128000500315"
+          },
+          {
+            "label": "Ratopati — North Korean Leader Kim Jong Un's Potential China Visit Under Surveillance",
+            "url": "https://english.ratopati.com/story/88671/south-korea-monitoring-kims-china-visit"
+          }
+        ]
+      }
+    ],
+    "watching": [
+      "P15 Burkina's mineral/logistics absorption vs. France's reciprocal measures",
+      "P2 denuclearization still absent even as DPRK-Russia ties go administrative",
+      "P4 PRC fixed-asset investment vs. today's industrial profit print into Q4",
+      "Taiwan election results vs. PLA sortie count — coercion and ballots",
+      "Perkoa refinery timeline (2027) as test of Burkina's mineral self-processing"
+    ]
+  },
+  {
     "date": "2026-11-27",
     "items": [
       {

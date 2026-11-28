@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "edition": 148,
+  "updated": "2026-11-28",
+  "edition": 149,
   "board": [
     {
       "name_zh": "多极化",
@@ -65,16 +65,16 @@
       "name_zh": "萨赫勒/非盟",
       "name_en": "AES / Sahel",
       "trend": "up",
-      "verdict": "The Mali-Burkina union moves from sealing to administration: national biometric registry launched Nov 16, and leFaso.net reports a sovereign-rating improvement — markets pricing Traoré's state as the operative fact, not the coup narrative. Faso SANU reorganizes artisanal mining as the ledger state deepens.",
-      "watching": "Guinea-AES diplomatic trajectory; whether the rating upgrade reaches Eurobond markets",
+      "verdict": "Perkoa zinc mine restarted Nov 27 after a four-year shutdown, with a domestic refinery planned for 2027 — processing, not just extraction. AES states also agreed to interconnect digital and postal networks, moving the union from treaty to infrastructure.",
+      "watching": "Whether the Perkoa refinery timeline holds; Guinea-AES diplomatic trajectory",
       "sources": [
         {
-          "label": "Afrique IT News — Le Burkina Faso lance son Registre national biométrique",
-          "url": "https://afriqueitnews.com/news/le-burkina-faso-lance-son-registre-national-biometrique/"
+          "label": "leFaso.net - L'actualité au Burkina Faso — Mine de Perkoa : Le Burkina Faso relance l’exploitation après quatre années d’interruption",
+          "url": "https://lefaso.net/spip.php?article151096"
         },
         {
-          "label": "leFaso.net - L'actualité au Burkina Faso — Économie : Le Burkina Faso enregistre une amélioration significative de sa notation souveraine",
-          "url": "https://lefaso.net/?page=impression&id_article=150812"
+          "label": "Bénin Web TV — AES: Burkina Faso, Mali and Niger want to interconnect their digital and postal networks",
+          "url": "https://beninwebtv.bj/en/aes-burkina-faso-mali-and-niger-want-to-interconnect-their-digital-and-postal-networks/"
         }
       ]
     },
